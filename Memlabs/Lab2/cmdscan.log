@@ -1,0 +1,17 @@
+**************************************************
+CommandProcess: conhost.exe Pid: 2068
+CommandHistory: 0x3deb10 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 1 LastAdded: 0 LastDisplayed: 0
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x60
+Cmd #0 @ 0x3db330: Nothing here kids :)
+Cmd #15 @ 0x3a0158: =
+Cmd #16 @ 0x3ddc80: >
+**************************************************
+CommandProcess: conhost.exe Pid: 3852
+CommandHistory: 0x16eba0 Application: DumpIt.exe Flags: Allocated
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x60
+Cmd #15 @ 0x130158: 
+Cmd #16 @ 0x16dd00: 

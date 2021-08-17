@@ -1,0 +1,101 @@
+Offset(P)          Proto    Local Address                  Foreign Address      State            Pid      Owner          Created
+0x3ea00b60         UDPv4    0.0.0.0:19                     *:*                                   1412     TCPSVCS.EXE    2019-12-14 10:35:54 UTC+0000
+0x3ea00b60         UDPv6    :::19                          *:*                                   1412     TCPSVCS.EXE    2019-12-14 10:35:54 UTC+0000
+0x3ea052e0         UDPv4    0.0.0.0:17                     *:*                                   1412     TCPSVCS.EXE    2019-12-14 10:35:54 UTC+0000
+0x3ea0abb0         UDPv4    0.0.0.0:17                     *:*                                   1412     TCPSVCS.EXE    2019-12-14 10:35:54 UTC+0000
+0x3ea0abb0         UDPv6    :::17                          *:*                                   1412     TCPSVCS.EXE    2019-12-14 10:35:54 UTC+0000
+0x3ea2e460         UDPv4    0.0.0.0:56908                  *:*                                   1368     svchost.exe    2019-12-14 10:35:56 UTC+0000
+0x3ea3b790         UDPv4    0.0.0.0:3702                   *:*                                   1368     svchost.exe    2019-12-14 10:36:01 UTC+0000
+0x3ea8fec0         UDPv4    0.0.0.0:5355                   *:*                                   1044     svchost.exe    2019-12-14 10:35:59 UTC+0000
+0x3eaa0c20         UDPv4    0.0.0.0:3702                   *:*                                   1368     svchost.exe    2019-12-14 10:36:01 UTC+0000
+0x3eaa0c20         UDPv6    :::3702                        *:*                                   1368     svchost.exe    2019-12-14 10:36:01 UTC+0000
+0x3eb693c0         UDPv4    0.0.0.0:5353                   *:*                                   2296     chrome.exe     2019-12-14 10:37:02 UTC+0000
+0x3eb693c0         UDPv6    :::5353                        *:*                                   2296     chrome.exe     2019-12-14 10:37:02 UTC+0000
+0x3ec71ec0         UDPv4    0.0.0.0:5355                   *:*                                   1044     svchost.exe    2019-12-14 10:35:59 UTC+0000
+0x3ec71ec0         UDPv6    :::5355                        *:*                                   1044     svchost.exe    2019-12-14 10:35:59 UTC+0000
+0x3ed83010         UDPv4    0.0.0.0:3702                   *:*                                   1368     svchost.exe    2019-12-14 10:36:01 UTC+0000
+0x3ed8c120         UDPv4    0.0.0.0:56909                  *:*                                   1368     svchost.exe    2019-12-14 10:35:56 UTC+0000
+0x3ed8c120         UDPv6    :::56909                       *:*                                   1368     svchost.exe    2019-12-14 10:35:56 UTC+0000
+0x3ed98dc0         UDPv4    0.0.0.0:0                      *:*                                   1412     TCPSVCS.EXE    2019-12-14 10:35:53 UTC+0000
+0x3edde9c0         UDPv4    0.0.0.0:7                      *:*                                   1412     TCPSVCS.EXE    2019-12-14 10:35:54 UTC+0000
+0x3edde9c0         UDPv6    :::7                           *:*                                   1412     TCPSVCS.EXE    2019-12-14 10:35:54 UTC+0000
+0x3eddeec0         UDPv4    0.0.0.0:7                      *:*                                   1412     TCPSVCS.EXE    2019-12-14 10:35:54 UTC+0000
+0x3edea4f0         UDPv4    0.0.0.0:9                      *:*                                   1412     TCPSVCS.EXE    2019-12-14 10:35:54 UTC+0000
+0x3edea4f0         UDPv6    :::9                           *:*                                   1412     TCPSVCS.EXE    2019-12-14 10:35:54 UTC+0000
+0x3edeabb0         UDPv4    0.0.0.0:9                      *:*                                   1412     TCPSVCS.EXE    2019-12-14 10:35:54 UTC+0000
+0x3edec970         UDPv4    10.0.2.15:138                  *:*                                   4        System         2019-12-14 10:35:55 UTC+0000
+0x3edee8c0         UDPv4    0.0.0.0:0                      *:*                                   1044     svchost.exe    2019-12-14 10:35:55 UTC+0000
+0x3edee8c0         UDPv6    :::0                           *:*                                   1044     svchost.exe    2019-12-14 10:35:55 UTC+0000
+0x3edf6010         UDPv4    0.0.0.0:13                     *:*                                   1412     TCPSVCS.EXE    2019-12-14 10:35:54 UTC+0000
+0x3edf6900         UDPv4    0.0.0.0:13                     *:*                                   1412     TCPSVCS.EXE    2019-12-14 10:35:54 UTC+0000
+0x3edf6900         UDPv6    :::13                          *:*                                   1412     TCPSVCS.EXE    2019-12-14 10:35:54 UTC+0000
+0x3edfb2e0         UDPv4    0.0.0.0:19                     *:*                                   1412     TCPSVCS.EXE    2019-12-14 10:35:54 UTC+0000
+0x3ef26010         UDPv4    10.0.2.15:137                  *:*                                   4        System         2019-12-14 10:35:55 UTC+0000
+0x3e83e010         TCPv4    0.0.0.0:10243                  0.0.0.0:0            LISTENING        4        System         
+0x3e83e010         TCPv6    :::10243                       :::0                 LISTENING        4        System         
+0x3ea05010         TCPv4    0.0.0.0:17                     0.0.0.0:0            LISTENING        1412     TCPSVCS.EXE    
+0x3ea05860         TCPv4    0.0.0.0:17                     0.0.0.0:0            LISTENING        1412     TCPSVCS.EXE    
+0x3ea05860         TCPv6    :::17                          :::0                 LISTENING        1412     TCPSVCS.EXE    
+0x3ea4fef0         TCPv4    0.0.0.0:49156                  0.0.0.0:0            LISTENING        484      services.exe   
+0x3ea50da0         TCPv4    0.0.0.0:49156                  0.0.0.0:0            LISTENING        484      services.exe   
+0x3ea50da0         TCPv6    :::49156                       :::0                 LISTENING        484      services.exe   
+0x3ea5b8a0         TCPv4    0.0.0.0:445                    0.0.0.0:0            LISTENING        4        System         
+0x3ea5b8a0         TCPv6    :::445                         :::0                 LISTENING        4        System         
+0x3ec38bc0         TCPv4    0.0.0.0:49154                  0.0.0.0:0            LISTENING        492      lsass.exe      
+0x3ec91470         TCPv4    0.0.0.0:49154                  0.0.0.0:0            LISTENING        492      lsass.exe      
+0x3ec91470         TCPv6    :::49154                       :::0                 LISTENING        492      lsass.exe      
+0x3eca2af0         TCPv4    0.0.0.0:5357                   0.0.0.0:0            LISTENING        4        System         
+0x3eca2af0         TCPv6    :::5357                        :::0                 LISTENING        4        System         
+0x3eca3ef0         TCPv4    0.0.0.0:49155                  0.0.0.0:0            LISTENING        876      svchost.exe    
+0x3eca5710         TCPv4    0.0.0.0:49155                  0.0.0.0:0            LISTENING        876      svchost.exe    
+0x3eca5710         TCPv6    :::49155                       :::0                 LISTENING        876      svchost.exe    
+0x3eddd190         TCPv4    0.0.0.0:7                      0.0.0.0:0            LISTENING        1412     TCPSVCS.EXE    
+0x3edddb10         TCPv4    0.0.0.0:7                      0.0.0.0:0            LISTENING        1412     TCPSVCS.EXE    
+0x3edddb10         TCPv6    :::7                           :::0                 LISTENING        1412     TCPSVCS.EXE    
+0x3ede51d0         TCPv4    0.0.0.0:13                     0.0.0.0:0            LISTENING        1412     TCPSVCS.EXE    
+0x3ede52f0         TCPv4    0.0.0.0:9                      0.0.0.0:0            LISTENING        1412     TCPSVCS.EXE    
+0x3ede52f0         TCPv6    :::9                           :::0                 LISTENING        1412     TCPSVCS.EXE    
+0x3ede5720         TCPv4    0.0.0.0:9                      0.0.0.0:0            LISTENING        1412     TCPSVCS.EXE    
+0x3edf1560         TCPv4    0.0.0.0:13                     0.0.0.0:0            LISTENING        1412     TCPSVCS.EXE    
+0x3edf1560         TCPv6    :::13                          :::0                 LISTENING        1412     TCPSVCS.EXE    
+0x3edf6190         TCPv4    0.0.0.0:19                     0.0.0.0:0            LISTENING        1412     TCPSVCS.EXE    
+0x3edfb860         TCPv4    0.0.0.0:19                     0.0.0.0:0            LISTENING        1412     TCPSVCS.EXE    
+0x3edfb860         TCPv6    :::19                          :::0                 LISTENING        1412     TCPSVCS.EXE    
+0x3ef113d0         TCPv4    10.0.2.15:139                  0.0.0.0:0            LISTENING        4        System         
+0x3ef552f0         TCPv4    0.0.0.0:135                    0.0.0.0:0            LISTENING        720      svchost.exe    
+0x3ef552f0         TCPv6    :::135                         :::0                 LISTENING        720      svchost.exe    
+0x3ef57470         TCPv4    0.0.0.0:135                    0.0.0.0:0            LISTENING        720      svchost.exe    
+0x3ef5e210         TCPv4    0.0.0.0:49152                  0.0.0.0:0            LISTENING        424      wininit.exe    
+0x3ef5e210         TCPv6    :::49152                       :::0                 LISTENING        424      wininit.exe    
+0x3ef60b50         TCPv4    0.0.0.0:49152                  0.0.0.0:0            LISTENING        424      wininit.exe    
+0x3efac510         TCPv4    0.0.0.0:49153                  0.0.0.0:0            LISTENING        812      svchost.exe    
+0x3efafc40         TCPv4    0.0.0.0:49153                  0.0.0.0:0            LISTENING        812      svchost.exe    
+0x3efafc40         TCPv6    :::49153                       :::0                 LISTENING        812      svchost.exe    
+0x3e90d520         TCPv4    127.0.0.1:2869                 127.0.0.1:49176      ESTABLISHED      4        System         
+0x3eac9ae0         TCPv6    -:0                            4800:ca00:80fa:ffff:4800:ca00:80fa:ffff:0 CLOSED           2964     chrome.exe     
+0x3f6b18e0         UDPv4    0.0.0.0:3702                   *:*                                   1368     svchost.exe    2019-12-14 10:36:01 UTC+0000
+0x3f6b18e0         UDPv6    :::3702                        *:*                                   1368     svchost.exe    2019-12-14 10:36:01 UTC+0000
+0x3fa07780         UDPv4    0.0.0.0:5005                   *:*                                   928      wmpnetwk.exe   2019-12-14 10:38:08 UTC+0000
+0x3fa65810         UDPv4    0.0.0.0:5353                   *:*                                   2296     chrome.exe     2019-12-14 10:37:02 UTC+0000
+0x3fafa8f0         UDPv6    ::1:50781                      *:*                                   1368     svchost.exe    2019-12-14 10:38:04 UTC+0000
+0x3faff380         UDPv4    127.0.0.1:50782                *:*                                   1368     svchost.exe    2019-12-14 10:38:04 UTC+0000
+0x3fb01390         UDPv6    fe80::b137:133f:8d0b:8cfe:1900 *:*                                   1368     svchost.exe    2019-12-14 10:38:04 UTC+0000
+0x3fb05010         UDPv6    ::1:1900                       *:*                                   1368     svchost.exe    2019-12-14 10:38:04 UTC+0000
+0x3fb05ad0         UDPv4    127.0.0.1:1900                 *:*                                   1368     svchost.exe    2019-12-14 10:38:04 UTC+0000
+0x3fb05d70         UDPv4    10.0.2.15:1900                 *:*                                   1368     svchost.exe    2019-12-14 10:38:04 UTC+0000
+0x3fb067b0         UDPv4    0.0.0.0:5005                   *:*                                   928      wmpnetwk.exe   2019-12-14 10:38:08 UTC+0000
+0x3fb067b0         UDPv6    :::5005                        *:*                                   928      wmpnetwk.exe   2019-12-14 10:38:08 UTC+0000
+0x3fb11d70         UDPv4    0.0.0.0:5004                   *:*                                   928      wmpnetwk.exe   2019-12-14 10:38:08 UTC+0000
+0x3fb22da0         TCPv4    0.0.0.0:554                    0.0.0.0:0            LISTENING        928      wmpnetwk.exe   
+0x3fb22da0         TCPv6    :::554                         :::0                 LISTENING        928      wmpnetwk.exe   
+0x3fb26ef0         TCPv4    0.0.0.0:554                    0.0.0.0:0            LISTENING        928      wmpnetwk.exe   
+0x3fb277e0         TCPv4    0.0.0.0:2869                   0.0.0.0:0            LISTENING        4        System         
+0x3fb277e0         TCPv6    :::2869                        :::0                 LISTENING        4        System         
+0x3fa2b010         TCPv6    -:0                            a844:f01:80fa:ffff:a844:f01:80fa:ffff:0 CLOSED           2964     chrome.exe     
+0x3fa2b560         TCPv6    -:0                            38cb:da01:80fa:ffff:38cb:da01:80fa:ffff:0 CLOSED           2964     chrome.exe     
+0x3fa2c240         TCPv6    -:0                            4800:ca00:80fa:ffff:4800:ca00:80fa:ffff:0 CLOSED           2964     chrome.exe     
+0x3fa3ecf0         TCPv4    -:0                            56.203.218.1:0       CLOSED           2964     chrome.exe     
+0x3fb7c010         TCPv4    -:49177                        172.217.166.110:443  CLOSED           2964     chrome.exe     
+0x3fc88190         UDPv4    0.0.0.0:5004                   *:*                                   928      wmpnetwk.exe   2019-12-14 10:38:08 UTC+0000
+0x3fc88190         UDPv6    :::5004                        *:*                                   928      wmpnetwk.exe   2019-12-14 10:38:08 UTC+0000
+0x3fcdb200         TCPv4    127.0.0.1:49176                127.0.0.1:2869       ESTABLISHED      928      wmpnetwk.exe   

@@ -1,0 +1,160 @@
+************************************************************************
+System pid:      4
+************************************************************************
+smss.exe pid:    248
+Command line : \SystemRoot\System32\smss.exe
+************************************************************************
+csrss.exe pid:    320
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+csrss.exe pid:    368
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+psxss.exe pid:    376
+Command line : %SystemRoot%\system32\psxss.exe
+************************************************************************
+winlogon.exe pid:    416
+Command line : winlogon.exe
+************************************************************************
+wininit.exe pid:    424
+Command line : wininit.exe
+************************************************************************
+services.exe pid:    484
+Command line : C:\Windows\system32\services.exe
+************************************************************************
+lsass.exe pid:    492
+Command line : C:\Windows\system32\lsass.exe
+************************************************************************
+lsm.exe pid:    500
+Command line : C:\Windows\system32\lsm.exe
+************************************************************************
+svchost.exe pid:    588
+Command line : C:\Windows\system32\svchost.exe -k DcomLaunch
+************************************************************************
+VBoxService.ex pid:    652
+Command line : C:\Windows\System32\VBoxService.exe
+************************************************************************
+svchost.exe pid:    720
+Command line : C:\Windows\system32\svchost.exe -k RPCSS
+************************************************************************
+svchost.exe pid:    812
+Command line : C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+************************************************************************
+svchost.exe pid:    852
+Command line : C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+************************************************************************
+svchost.exe pid:    876
+Command line : C:\Windows\system32\svchost.exe -k netsvcs
+************************************************************************
+audiodg.exe pid:    268
+Command line : C:\Windows\system32\AUDIODG.EXE 0x2a4
+************************************************************************
+svchost.exe pid:    472
+Command line : C:\Windows\system32\svchost.exe -k LocalService
+************************************************************************
+svchost.exe pid:   1044
+Command line : C:\Windows\system32\svchost.exe -k NetworkService
+************************************************************************
+spoolsv.exe pid:   1208
+Command line : C:\Windows\System32\spoolsv.exe
+************************************************************************
+svchost.exe pid:   1248
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+************************************************************************
+svchost.exe pid:   1368
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+************************************************************************
+TCPSVCS.EXE pid:   1412
+Command line : C:\Windows\System32\tcpsvcs.exe
+************************************************************************
+taskhost.exe pid:   1928
+Command line : "taskhost.exe"
+************************************************************************
+taskeng.exe pid:   1996
+Command line : taskeng.exe {5C750F66-3822-47A6-A873-1EB5DDC99795}
+************************************************************************
+dwm.exe pid:   2012
+Command line : "C:\Windows\system32\Dwm.exe"
+************************************************************************
+explorer.exe pid:   1064
+Command line : C:\Windows\Explorer.EXE
+************************************************************************
+SearchIndexer. pid:   1836
+Command line : C:\Windows\system32\SearchIndexer.exe /Embedding
+************************************************************************
+VBoxTray.exe pid:   1896
+Command line : "C:\Windows\System32\VBoxTray.exe" 
+************************************************************************
+csrss.exe pid:   2308
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+winlogon.exe pid:   2336
+Command line : winlogon.exe
+************************************************************************
+taskhost.exe pid:   2604
+Command line : "taskhost.exe"
+************************************************************************
+dwm.exe pid:   2652
+Command line : "C:\Windows\system32\Dwm.exe"
+************************************************************************
+explorer.exe pid:   2664
+Command line : C:\Windows\Explorer.EXE
+************************************************************************
+VBoxTray.exe pid:   2792
+Command line : "C:\Windows\System32\VBoxTray.exe" 
+************************************************************************
+cmd.exe pid:   2096
+Command line : "C:\Windows\system32\cmd.exe" 
+************************************************************************
+conhost.exe pid:   2068
+Command line : \??\C:\Windows\system32\conhost.exe
+************************************************************************
+chrome.exe pid:   2296
+Command line : "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" 
+************************************************************************
+chrome.exe pid:   2304
+Command line : 
+************************************************************************
+chrome.exe pid:   2476
+Command line : "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=watcher --main-thread-id=2312 --on-initialized-event-handle=12 --parent-handle=164 /prefetch:6
+************************************************************************
+chrome.exe pid:   2964
+Command line : "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=utility --field-trial-handle=920,18321715965689748971,11882971420757355211,131072 --lang=en-US --service-sandbox-type=network --enable-audio-service-sandbox --service-request-channel-token=7874901870054399126 --mojo-platform-channel-handle=1036 /prefetch:8
+************************************************************************
+chrome.exe pid:   2572
+Command line : 
+************************************************************************
+WmiPrvSE.exe pid:   2636
+Command line : C:\Windows\system32\wbem\wmiprvse.exe
+************************************************************************
+WmiApSrv.exe pid:   2004
+Command line : C:\Windows\system32\wbem\WmiApSrv.exe
+************************************************************************
+chrome.exe pid:   1632
+Command line : "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=920,18321715965689748971,11882971420757355211,131072 --disable-gpu-compositing --lang=en-US --disable-oor-cors --enable-auto-reload --device-scale-factor=1 --num-raster-threads=1 --service-request-channel-token=14321750869504108513 --renderer-client-id=11 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=2096 /prefetch:1
+************************************************************************
+dllhost.exe pid:   2376
+Command line : C:\Windows\system32\DllHost.exe /Processid:{76D0CB12-7604-4048-B83C-1005C7DDC503}
+************************************************************************
+KeePass.exe pid:   3008
+Command line : "C:\Program Files (x86)\KeePass Password Safe 2\KeePass.exe" "C:\Users\SmartNet\Secrets\Hidden.kdbx"
+************************************************************************
+sppsvc.exe pid:   2764
+Command line : C:\Windows\system32\sppsvc.exe
+************************************************************************
+svchost.exe pid:   1076
+Command line : C:\Windows\System32\svchost.exe -k secsvcs
+************************************************************************
+wmpnetwk.exe pid:    928
+Command line : "C:\Program Files\Windows Media Player\wmpnetwk.exe"
+************************************************************************
+notepad.exe pid:   3260
+Command line : "C:\Windows\system32\NOTEPAD.EXE" C:\Users\SmartNet\Secrets\Hidden.kdbx
+************************************************************************
+DumpIt.exe pid:   3844
+Command line : "C:\Users\SmartNet\Downloads\DumpIt\DumpIt.exe" 
+************************************************************************
+conhost.exe pid:   3852
+Command line : \??\C:\Windows\system32\conhost.exe
+************************************************************************
+WmiPrvSE.exe pid:   4004

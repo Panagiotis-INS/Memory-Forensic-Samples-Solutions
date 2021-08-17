@@ -1,0 +1,1704 @@
+Pid      Process              Block              Variable                       Value
+-------- -------------------- ------------------ ------------------------------ -----
+     248 smss.exe             0x00000000002d1320 Path                           C:\Windows\System32
+     248 smss.exe             0x00000000002d1320 SystemDrive                    C:
+     248 smss.exe             0x00000000002d1320 SystemRoot                     C:\Windows
+     320 csrss.exe            0x0000000000481320 ComSpec                        C:\Windows\system32\cmd.exe
+     320 csrss.exe            0x0000000000481320 FP_NO_HOST_CHECK               NO
+     320 csrss.exe            0x0000000000481320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+     320 csrss.exe            0x0000000000481320 NUMBER_OF_PROCESSORS           1
+     320 csrss.exe            0x0000000000481320 OS                             Windows_NT
+     320 csrss.exe            0x0000000000481320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     320 csrss.exe            0x0000000000481320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     320 csrss.exe            0x0000000000481320 PROCESSOR_ARCHITECTURE         AMD64
+     320 csrss.exe            0x0000000000481320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+     320 csrss.exe            0x0000000000481320 PROCESSOR_LEVEL                6
+     320 csrss.exe            0x0000000000481320 PROCESSOR_REVISION             8e09
+     320 csrss.exe            0x0000000000481320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     320 csrss.exe            0x0000000000481320 SystemDrive                    C:
+     320 csrss.exe            0x0000000000481320 SystemRoot                     C:\Windows
+     320 csrss.exe            0x0000000000481320 TEMP                           C:\Windows\TEMP
+     320 csrss.exe            0x0000000000481320 TMP                            C:\Windows\TEMP
+     320 csrss.exe            0x0000000000481320 USERNAME                       SYSTEM
+     320 csrss.exe            0x0000000000481320 windir                         C:\Windows
+     320 csrss.exe            0x0000000000481320 windows_tracing_flags          3
+     320 csrss.exe            0x0000000000481320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     368 csrss.exe            0x0000000000371320 ComSpec                        C:\Windows\system32\cmd.exe
+     368 csrss.exe            0x0000000000371320 FP_NO_HOST_CHECK               NO
+     368 csrss.exe            0x0000000000371320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+     368 csrss.exe            0x0000000000371320 NUMBER_OF_PROCESSORS           1
+     368 csrss.exe            0x0000000000371320 OS                             Windows_NT
+     368 csrss.exe            0x0000000000371320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     368 csrss.exe            0x0000000000371320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     368 csrss.exe            0x0000000000371320 PROCESSOR_ARCHITECTURE         AMD64
+     368 csrss.exe            0x0000000000371320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+     368 csrss.exe            0x0000000000371320 PROCESSOR_LEVEL                6
+     368 csrss.exe            0x0000000000371320 PROCESSOR_REVISION             8e09
+     368 csrss.exe            0x0000000000371320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     368 csrss.exe            0x0000000000371320 SystemDrive                    C:
+     368 csrss.exe            0x0000000000371320 SystemRoot                     C:\Windows
+     368 csrss.exe            0x0000000000371320 TEMP                           C:\Windows\TEMP
+     368 csrss.exe            0x0000000000371320 TMP                            C:\Windows\TEMP
+     368 csrss.exe            0x0000000000371320 USERNAME                       SYSTEM
+     368 csrss.exe            0x0000000000371320 windir                         C:\Windows
+     368 csrss.exe            0x0000000000371320 windows_tracing_flags          3
+     368 csrss.exe            0x0000000000371320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     376 psxss.exe            0x0000000000311320 ComSpec                        C:\Windows\system32\cmd.exe
+     376 psxss.exe            0x0000000000311320 FP_NO_HOST_CHECK               NO
+     376 psxss.exe            0x0000000000311320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+     376 psxss.exe            0x0000000000311320 NUMBER_OF_PROCESSORS           1
+     376 psxss.exe            0x0000000000311320 OS                             Windows_NT
+     376 psxss.exe            0x0000000000311320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     376 psxss.exe            0x0000000000311320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     376 psxss.exe            0x0000000000311320 PROCESSOR_ARCHITECTURE         AMD64
+     376 psxss.exe            0x0000000000311320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+     376 psxss.exe            0x0000000000311320 PROCESSOR_LEVEL                6
+     376 psxss.exe            0x0000000000311320 PROCESSOR_REVISION             8e09
+     376 psxss.exe            0x0000000000311320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     376 psxss.exe            0x0000000000311320 SystemDrive                    C:
+     376 psxss.exe            0x0000000000311320 SystemRoot                     C:\Windows
+     376 psxss.exe            0x0000000000311320 TEMP                           C:\Windows\TEMP
+     376 psxss.exe            0x0000000000311320 TMP                            C:\Windows\TEMP
+     376 psxss.exe            0x0000000000311320 USERNAME                       SYSTEM
+     376 psxss.exe            0x0000000000311320 windir                         C:\Windows
+     376 psxss.exe            0x0000000000311320 windows_tracing_flags          3
+     376 psxss.exe            0x0000000000311320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     416 winlogon.exe         0x000000000028d890 ALLUSERSPROFILE                C:\ProgramData
+     416 winlogon.exe         0x000000000028d890 CommonProgramFiles             C:\Program Files\Common Files
+     416 winlogon.exe         0x000000000028d890 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     416 winlogon.exe         0x000000000028d890 CommonProgramW6432             C:\Program Files\Common Files
+     416 winlogon.exe         0x000000000028d890 COMPUTERNAME                   SMARTNET-PC
+     416 winlogon.exe         0x000000000028d890 ComSpec                        C:\Windows\system32\cmd.exe
+     416 winlogon.exe         0x000000000028d890 FP_NO_HOST_CHECK               NO
+     416 winlogon.exe         0x000000000028d890 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+     416 winlogon.exe         0x000000000028d890 NUMBER_OF_PROCESSORS           1
+     416 winlogon.exe         0x000000000028d890 OS                             Windows_NT
+     416 winlogon.exe         0x000000000028d890 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     416 winlogon.exe         0x000000000028d890 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     416 winlogon.exe         0x000000000028d890 PROCESSOR_ARCHITECTURE         AMD64
+     416 winlogon.exe         0x000000000028d890 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+     416 winlogon.exe         0x000000000028d890 PROCESSOR_LEVEL                6
+     416 winlogon.exe         0x000000000028d890 PROCESSOR_REVISION             8e09
+     416 winlogon.exe         0x000000000028d890 ProgramData                    C:\ProgramData
+     416 winlogon.exe         0x000000000028d890 ProgramFiles                   C:\Program Files
+     416 winlogon.exe         0x000000000028d890 ProgramFiles(x86)              C:\Program Files (x86)
+     416 winlogon.exe         0x000000000028d890 ProgramW6432                   C:\Program Files
+     416 winlogon.exe         0x000000000028d890 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     416 winlogon.exe         0x000000000028d890 PUBLIC                         C:\Users\Public
+     416 winlogon.exe         0x000000000028d890 SystemDrive                    C:
+     416 winlogon.exe         0x000000000028d890 SystemRoot                     C:\Windows
+     416 winlogon.exe         0x000000000028d890 TEMP                           C:\Windows\TEMP
+     416 winlogon.exe         0x000000000028d890 TMP                            C:\Windows\TEMP
+     416 winlogon.exe         0x000000000028d890 USERNAME                       SYSTEM
+     416 winlogon.exe         0x000000000028d890 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     416 winlogon.exe         0x000000000028d890 windir                         C:\Windows
+     416 winlogon.exe         0x000000000028d890 windows_tracing_flags          3
+     416 winlogon.exe         0x000000000028d890 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     424 wininit.exe          0x000000000030a600 ALLUSERSPROFILE                C:\ProgramData
+     424 wininit.exe          0x000000000030a600 CommonProgramFiles             C:\Program Files\Common Files
+     424 wininit.exe          0x000000000030a600 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     424 wininit.exe          0x000000000030a600 CommonProgramW6432             C:\Program Files\Common Files
+     424 wininit.exe          0x000000000030a600 COMPUTERNAME                   SMARTNET-PC
+     424 wininit.exe          0x000000000030a600 ComSpec                        C:\Windows\system32\cmd.exe
+     424 wininit.exe          0x000000000030a600 FP_NO_HOST_CHECK               NO
+     424 wininit.exe          0x000000000030a600 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+     424 wininit.exe          0x000000000030a600 NUMBER_OF_PROCESSORS           1
+     424 wininit.exe          0x000000000030a600 OS                             Windows_NT
+     424 wininit.exe          0x000000000030a600 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     424 wininit.exe          0x000000000030a600 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     424 wininit.exe          0x000000000030a600 PROCESSOR_ARCHITECTURE         AMD64
+     424 wininit.exe          0x000000000030a600 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+     424 wininit.exe          0x000000000030a600 PROCESSOR_LEVEL                6
+     424 wininit.exe          0x000000000030a600 PROCESSOR_REVISION             8e09
+     424 wininit.exe          0x000000000030a600 ProgramData                    C:\ProgramData
+     424 wininit.exe          0x000000000030a600 ProgramFiles                   C:\Program Files
+     424 wininit.exe          0x000000000030a600 ProgramFiles(x86)              C:\Program Files (x86)
+     424 wininit.exe          0x000000000030a600 ProgramW6432                   C:\Program Files
+     424 wininit.exe          0x000000000030a600 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     424 wininit.exe          0x000000000030a600 PUBLIC                         C:\Users\Public
+     424 wininit.exe          0x000000000030a600 SystemDrive                    C:
+     424 wininit.exe          0x000000000030a600 SystemRoot                     C:\Windows
+     424 wininit.exe          0x000000000030a600 TEMP                           C:\Windows\TEMP
+     424 wininit.exe          0x000000000030a600 TMP                            C:\Windows\TEMP
+     424 wininit.exe          0x000000000030a600 USERNAME                       SYSTEM
+     424 wininit.exe          0x000000000030a600 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     424 wininit.exe          0x000000000030a600 windir                         C:\Windows
+     424 wininit.exe          0x000000000030a600 windows_tracing_flags          3
+     424 wininit.exe          0x000000000030a600 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     484 services.exe         0x00000000001a1320 ALLUSERSPROFILE                C:\ProgramData
+     484 services.exe         0x00000000001a1320 CommonProgramFiles             C:\Program Files\Common Files
+     484 services.exe         0x00000000001a1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     484 services.exe         0x00000000001a1320 CommonProgramW6432             C:\Program Files\Common Files
+     484 services.exe         0x00000000001a1320 COMPUTERNAME                   SMARTNET-PC
+     484 services.exe         0x00000000001a1320 ComSpec                        C:\Windows\system32\cmd.exe
+     484 services.exe         0x00000000001a1320 FP_NO_HOST_CHECK               NO
+     484 services.exe         0x00000000001a1320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+     484 services.exe         0x00000000001a1320 NUMBER_OF_PROCESSORS           1
+     484 services.exe         0x00000000001a1320 OS                             Windows_NT
+     484 services.exe         0x00000000001a1320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     484 services.exe         0x00000000001a1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     484 services.exe         0x00000000001a1320 PROCESSOR_ARCHITECTURE         AMD64
+     484 services.exe         0x00000000001a1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+     484 services.exe         0x00000000001a1320 PROCESSOR_LEVEL                6
+     484 services.exe         0x00000000001a1320 PROCESSOR_REVISION             8e09
+     484 services.exe         0x00000000001a1320 ProgramData                    C:\ProgramData
+     484 services.exe         0x00000000001a1320 ProgramFiles                   C:\Program Files
+     484 services.exe         0x00000000001a1320 ProgramFiles(x86)              C:\Program Files (x86)
+     484 services.exe         0x00000000001a1320 ProgramW6432                   C:\Program Files
+     484 services.exe         0x00000000001a1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     484 services.exe         0x00000000001a1320 PUBLIC                         C:\Users\Public
+     484 services.exe         0x00000000001a1320 SystemDrive                    C:
+     484 services.exe         0x00000000001a1320 SystemRoot                     C:\Windows
+     484 services.exe         0x00000000001a1320 TEMP                           C:\Windows\TEMP
+     484 services.exe         0x00000000001a1320 TMP                            C:\Windows\TEMP
+     484 services.exe         0x00000000001a1320 USERNAME                       SYSTEM
+     484 services.exe         0x00000000001a1320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     484 services.exe         0x00000000001a1320 windir                         C:\Windows
+     484 services.exe         0x00000000001a1320 windows_tracing_flags          3
+     484 services.exe         0x00000000001a1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     492 lsass.exe            0x00000000001a1320 ALLUSERSPROFILE                C:\ProgramData
+     492 lsass.exe            0x00000000001a1320 CommonProgramFiles             C:\Program Files\Common Files
+     492 lsass.exe            0x00000000001a1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     492 lsass.exe            0x00000000001a1320 CommonProgramW6432             C:\Program Files\Common Files
+     492 lsass.exe            0x00000000001a1320 COMPUTERNAME                   SMARTNET-PC
+     492 lsass.exe            0x00000000001a1320 ComSpec                        C:\Windows\system32\cmd.exe
+     492 lsass.exe            0x00000000001a1320 FP_NO_HOST_CHECK               NO
+     492 lsass.exe            0x00000000001a1320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+     492 lsass.exe            0x00000000001a1320 NUMBER_OF_PROCESSORS           1
+     492 lsass.exe            0x00000000001a1320 OS                             Windows_NT
+     492 lsass.exe            0x00000000001a1320 Path                           C:\Windows\System32
+     492 lsass.exe            0x00000000001a1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     492 lsass.exe            0x00000000001a1320 PROCESSOR_ARCHITECTURE         AMD64
+     492 lsass.exe            0x00000000001a1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+     492 lsass.exe            0x00000000001a1320 PROCESSOR_LEVEL                6
+     492 lsass.exe            0x00000000001a1320 PROCESSOR_REVISION             8e09
+     492 lsass.exe            0x00000000001a1320 ProgramData                    C:\ProgramData
+     492 lsass.exe            0x00000000001a1320 ProgramFiles                   C:\Program Files
+     492 lsass.exe            0x00000000001a1320 ProgramFiles(x86)              C:\Program Files (x86)
+     492 lsass.exe            0x00000000001a1320 ProgramW6432                   C:\Program Files
+     492 lsass.exe            0x00000000001a1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     492 lsass.exe            0x00000000001a1320 PUBLIC                         C:\Users\Public
+     492 lsass.exe            0x00000000001a1320 SystemDrive                    C:
+     492 lsass.exe            0x00000000001a1320 SystemRoot                     C:\Windows
+     492 lsass.exe            0x00000000001a1320 TEMP                           C:\Windows\TEMP
+     492 lsass.exe            0x00000000001a1320 TMP                            C:\Windows\TEMP
+     492 lsass.exe            0x00000000001a1320 USERNAME                       SYSTEM
+     492 lsass.exe            0x00000000001a1320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     492 lsass.exe            0x00000000001a1320 windir                         C:\Windows
+     492 lsass.exe            0x00000000001a1320 windows_tracing_flags          3
+     492 lsass.exe            0x00000000001a1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     500 lsm.exe              0x00000000003f1320 ALLUSERSPROFILE                C:\ProgramData
+     500 lsm.exe              0x00000000003f1320 CommonProgramFiles             C:\Program Files\Common Files
+     500 lsm.exe              0x00000000003f1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     500 lsm.exe              0x00000000003f1320 CommonProgramW6432             C:\Program Files\Common Files
+     500 lsm.exe              0x00000000003f1320 COMPUTERNAME                   SMARTNET-PC
+     500 lsm.exe              0x00000000003f1320 ComSpec                        C:\Windows\system32\cmd.exe
+     500 lsm.exe              0x00000000003f1320 FP_NO_HOST_CHECK               NO
+     500 lsm.exe              0x00000000003f1320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+     500 lsm.exe              0x00000000003f1320 NUMBER_OF_PROCESSORS           1
+     500 lsm.exe              0x00000000003f1320 OS                             Windows_NT
+     500 lsm.exe              0x00000000003f1320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     500 lsm.exe              0x00000000003f1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     500 lsm.exe              0x00000000003f1320 PROCESSOR_ARCHITECTURE         AMD64
+     500 lsm.exe              0x00000000003f1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+     500 lsm.exe              0x00000000003f1320 PROCESSOR_LEVEL                6
+     500 lsm.exe              0x00000000003f1320 PROCESSOR_REVISION             8e09
+     500 lsm.exe              0x00000000003f1320 ProgramData                    C:\ProgramData
+     500 lsm.exe              0x00000000003f1320 ProgramFiles                   C:\Program Files
+     500 lsm.exe              0x00000000003f1320 ProgramFiles(x86)              C:\Program Files (x86)
+     500 lsm.exe              0x00000000003f1320 ProgramW6432                   C:\Program Files
+     500 lsm.exe              0x00000000003f1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     500 lsm.exe              0x00000000003f1320 PUBLIC                         C:\Users\Public
+     500 lsm.exe              0x00000000003f1320 SystemDrive                    C:
+     500 lsm.exe              0x00000000003f1320 SystemRoot                     C:\Windows
+     500 lsm.exe              0x00000000003f1320 TEMP                           C:\Windows\TEMP
+     500 lsm.exe              0x00000000003f1320 TMP                            C:\Windows\TEMP
+     500 lsm.exe              0x00000000003f1320 USERNAME                       SYSTEM
+     500 lsm.exe              0x00000000003f1320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     500 lsm.exe              0x00000000003f1320 windir                         C:\Windows
+     500 lsm.exe              0x00000000003f1320 windows_tracing_flags          3
+     500 lsm.exe              0x00000000003f1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     588 svchost.exe          0x00000000002e1320 ALLUSERSPROFILE                C:\ProgramData
+     588 svchost.exe          0x00000000002e1320 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     588 svchost.exe          0x00000000002e1320 CommonProgramFiles             C:\Program Files\Common Files
+     588 svchost.exe          0x00000000002e1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     588 svchost.exe          0x00000000002e1320 CommonProgramW6432             C:\Program Files\Common Files
+     588 svchost.exe          0x00000000002e1320 COMPUTERNAME                   SMARTNET-PC
+     588 svchost.exe          0x00000000002e1320 ComSpec                        C:\Windows\system32\cmd.exe
+     588 svchost.exe          0x00000000002e1320 FP_NO_HOST_CHECK               NO
+     588 svchost.exe          0x00000000002e1320 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     588 svchost.exe          0x00000000002e1320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+     588 svchost.exe          0x00000000002e1320 NUMBER_OF_PROCESSORS           1
+     588 svchost.exe          0x00000000002e1320 OS                             Windows_NT
+     588 svchost.exe          0x00000000002e1320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     588 svchost.exe          0x00000000002e1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     588 svchost.exe          0x00000000002e1320 PROCESSOR_ARCHITECTURE         AMD64
+     588 svchost.exe          0x00000000002e1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+     588 svchost.exe          0x00000000002e1320 PROCESSOR_LEVEL                6
+     588 svchost.exe          0x00000000002e1320 PROCESSOR_REVISION             8e09
+     588 svchost.exe          0x00000000002e1320 ProgramData                    C:\ProgramData
+     588 svchost.exe          0x00000000002e1320 ProgramFiles                   C:\Program Files
+     588 svchost.exe          0x00000000002e1320 ProgramFiles(x86)              C:\Program Files (x86)
+     588 svchost.exe          0x00000000002e1320 ProgramW6432                   C:\Program Files
+     588 svchost.exe          0x00000000002e1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     588 svchost.exe          0x00000000002e1320 PUBLIC                         C:\Users\Public
+     588 svchost.exe          0x00000000002e1320 SystemDrive                    C:
+     588 svchost.exe          0x00000000002e1320 SystemRoot                     C:\Windows
+     588 svchost.exe          0x00000000002e1320 TEMP                           C:\Windows\TEMP
+     588 svchost.exe          0x00000000002e1320 TMP                            C:\Windows\TEMP
+     588 svchost.exe          0x00000000002e1320 USERDOMAIN                     WORKGROUP
+     588 svchost.exe          0x00000000002e1320 USERNAME                       SMARTNET-PC$
+     588 svchost.exe          0x00000000002e1320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     588 svchost.exe          0x00000000002e1320 windir                         C:\Windows
+     588 svchost.exe          0x00000000002e1320 windows_tracing_flags          3
+     588 svchost.exe          0x00000000002e1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     652 VBoxService.ex       0x00000000001d50f0 ALLUSERSPROFILE                C:\ProgramData
+     652 VBoxService.ex       0x00000000001d50f0 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     652 VBoxService.ex       0x00000000001d50f0 CommonProgramFiles             C:\Program Files\Common Files
+     652 VBoxService.ex       0x00000000001d50f0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     652 VBoxService.ex       0x00000000001d50f0 CommonProgramW6432             C:\Program Files\Common Files
+     652 VBoxService.ex       0x00000000001d50f0 COMPUTERNAME                   SMARTNET-PC
+     652 VBoxService.ex       0x00000000001d50f0 ComSpec                        C:\Windows\system32\cmd.exe
+     652 VBoxService.ex       0x00000000001d50f0 FP_NO_HOST_CHECK               NO
+     652 VBoxService.ex       0x00000000001d50f0 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     652 VBoxService.ex       0x00000000001d50f0 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+     652 VBoxService.ex       0x00000000001d50f0 NUMBER_OF_PROCESSORS           1
+     652 VBoxService.ex       0x00000000001d50f0 OS                             Windows_NT
+     652 VBoxService.ex       0x00000000001d50f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;
+     652 VBoxService.ex       0x00000000001d50f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     652 VBoxService.ex       0x00000000001d50f0 PROCESSOR_ARCHITECTURE         AMD64
+     652 VBoxService.ex       0x00000000001d50f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+     652 VBoxService.ex       0x00000000001d50f0 PROCESSOR_LEVEL                6
+     652 VBoxService.ex       0x00000000001d50f0 PROCESSOR_REVISION             8e09
+     652 VBoxService.ex       0x00000000001d50f0 ProgramData                    C:\ProgramData
+     652 VBoxService.ex       0x00000000001d50f0 ProgramFiles                   C:\Program Files
+     652 VBoxService.ex       0x00000000001d50f0 ProgramFiles(x86)              C:\Program Files (x86)
+     652 VBoxService.ex       0x00000000001d50f0 ProgramW6432                   C:\Program Files
+     652 VBoxService.ex       0x00000000001d50f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     652 VBoxService.ex       0x00000000001d50f0 PUBLIC                         C:\Users\Public
+     652 VBoxService.ex       0x00000000001d50f0 SystemDrive                    C:
+     652 VBoxService.ex       0x00000000001d50f0 SystemRoot                     C:\Windows
+     652 VBoxService.ex       0x00000000001d50f0 TEMP                           C:\Windows\TEMP
+     652 VBoxService.ex       0x00000000001d50f0 TMP                            C:\Windows\TEMP
+     652 VBoxService.ex       0x00000000001d50f0 USERDOMAIN                     WORKGROUP
+     652 VBoxService.ex       0x00000000001d50f0 USERNAME                       SMARTNET-PC$
+     652 VBoxService.ex       0x00000000001d50f0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     652 VBoxService.ex       0x00000000001d50f0 windir                         C:\Windows
+     652 VBoxService.ex       0x00000000001d50f0 windows_tracing_flags          3
+     652 VBoxService.ex       0x00000000001d50f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     720 svchost.exe          0x00000000002c1320 ALLUSERSPROFILE                C:\ProgramData
+     720 svchost.exe          0x00000000002c1320 APPDATA                        C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+     720 svchost.exe          0x00000000002c1320 CommonProgramFiles             C:\Program Files\Common Files
+     720 svchost.exe          0x00000000002c1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     720 svchost.exe          0x00000000002c1320 CommonProgramW6432             C:\Program Files\Common Files
+     720 svchost.exe          0x00000000002c1320 COMPUTERNAME                   SMARTNET-PC
+     720 svchost.exe          0x00000000002c1320 ComSpec                        C:\Windows\system32\cmd.exe
+     720 svchost.exe          0x00000000002c1320 FP_NO_HOST_CHECK               NO
+     720 svchost.exe          0x00000000002c1320 LOCALAPPDATA                   C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+     720 svchost.exe          0x00000000002c1320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+     720 svchost.exe          0x00000000002c1320 NUMBER_OF_PROCESSORS           1
+     720 svchost.exe          0x00000000002c1320 OS                             Windows_NT
+     720 svchost.exe          0x00000000002c1320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     720 svchost.exe          0x00000000002c1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     720 svchost.exe          0x00000000002c1320 PROCESSOR_ARCHITECTURE         AMD64
+     720 svchost.exe          0x00000000002c1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+     720 svchost.exe          0x00000000002c1320 PROCESSOR_LEVEL                6
+     720 svchost.exe          0x00000000002c1320 PROCESSOR_REVISION             8e09
+     720 svchost.exe          0x00000000002c1320 ProgramData                    C:\ProgramData
+     720 svchost.exe          0x00000000002c1320 ProgramFiles                   C:\Program Files
+     720 svchost.exe          0x00000000002c1320 ProgramFiles(x86)              C:\Program Files (x86)
+     720 svchost.exe          0x00000000002c1320 ProgramW6432                   C:\Program Files
+     720 svchost.exe          0x00000000002c1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     720 svchost.exe          0x00000000002c1320 PUBLIC                         C:\Users\Public
+     720 svchost.exe          0x00000000002c1320 SystemDrive                    C:
+     720 svchost.exe          0x00000000002c1320 SystemRoot                     C:\Windows
+     720 svchost.exe          0x00000000002c1320 TEMP                           C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+     720 svchost.exe          0x00000000002c1320 TMP                            C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+     720 svchost.exe          0x00000000002c1320 USERDOMAIN                     WORKGROUP
+     720 svchost.exe          0x00000000002c1320 USERNAME                       SMARTNET-PC$
+     720 svchost.exe          0x00000000002c1320 USERPROFILE                    C:\Windows\ServiceProfiles\NetworkService
+     720 svchost.exe          0x00000000002c1320 windir                         C:\Windows
+     720 svchost.exe          0x00000000002c1320 windows_tracing_flags          3
+     720 svchost.exe          0x00000000002c1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     812 svchost.exe          0x0000000000221320 ALLUSERSPROFILE                C:\ProgramData
+     812 svchost.exe          0x0000000000221320 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+     812 svchost.exe          0x0000000000221320 CommonProgramFiles             C:\Program Files\Common Files
+     812 svchost.exe          0x0000000000221320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     812 svchost.exe          0x0000000000221320 CommonProgramW6432             C:\Program Files\Common Files
+     812 svchost.exe          0x0000000000221320 COMPUTERNAME                   SMARTNET-PC
+     812 svchost.exe          0x0000000000221320 ComSpec                        C:\Windows\system32\cmd.exe
+     812 svchost.exe          0x0000000000221320 FP_NO_HOST_CHECK               NO
+     812 svchost.exe          0x0000000000221320 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+     812 svchost.exe          0x0000000000221320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+     812 svchost.exe          0x0000000000221320 NUMBER_OF_PROCESSORS           1
+     812 svchost.exe          0x0000000000221320 OS                             Windows_NT
+     812 svchost.exe          0x0000000000221320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     812 svchost.exe          0x0000000000221320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     812 svchost.exe          0x0000000000221320 PROCESSOR_ARCHITECTURE         AMD64
+     812 svchost.exe          0x0000000000221320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+     812 svchost.exe          0x0000000000221320 PROCESSOR_LEVEL                6
+     812 svchost.exe          0x0000000000221320 PROCESSOR_REVISION             8e09
+     812 svchost.exe          0x0000000000221320 ProgramData                    C:\ProgramData
+     812 svchost.exe          0x0000000000221320 ProgramFiles                   C:\Program Files
+     812 svchost.exe          0x0000000000221320 ProgramFiles(x86)              C:\Program Files (x86)
+     812 svchost.exe          0x0000000000221320 ProgramW6432                   C:\Program Files
+     812 svchost.exe          0x0000000000221320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     812 svchost.exe          0x0000000000221320 PUBLIC                         C:\Users\Public
+     812 svchost.exe          0x0000000000221320 SystemDrive                    C:
+     812 svchost.exe          0x0000000000221320 SystemRoot                     C:\Windows
+     812 svchost.exe          0x0000000000221320 TEMP                           C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+     812 svchost.exe          0x0000000000221320 TMP                            C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+     812 svchost.exe          0x0000000000221320 USERDOMAIN                     NT AUTHORITY
+     812 svchost.exe          0x0000000000221320 USERNAME                       LOCAL SERVICE
+     812 svchost.exe          0x0000000000221320 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+     812 svchost.exe          0x0000000000221320 windir                         C:\Windows
+     812 svchost.exe          0x0000000000221320 windows_tracing_flags          3
+     812 svchost.exe          0x0000000000221320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     852 svchost.exe          0x0000000000221320 ALLUSERSPROFILE                C:\ProgramData
+     852 svchost.exe          0x0000000000221320 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     852 svchost.exe          0x0000000000221320 CommonProgramFiles             C:\Program Files\Common Files
+     852 svchost.exe          0x0000000000221320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     852 svchost.exe          0x0000000000221320 CommonProgramW6432             C:\Program Files\Common Files
+     852 svchost.exe          0x0000000000221320 COMPUTERNAME                   SMARTNET-PC
+     852 svchost.exe          0x0000000000221320 ComSpec                        C:\Windows\system32\cmd.exe
+     852 svchost.exe          0x0000000000221320 FP_NO_HOST_CHECK               NO
+     852 svchost.exe          0x0000000000221320 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     852 svchost.exe          0x0000000000221320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+     852 svchost.exe          0x0000000000221320 NUMBER_OF_PROCESSORS           1
+     852 svchost.exe          0x0000000000221320 OS                             Windows_NT
+     852 svchost.exe          0x0000000000221320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     852 svchost.exe          0x0000000000221320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     852 svchost.exe          0x0000000000221320 PROCESSOR_ARCHITECTURE         AMD64
+     852 svchost.exe          0x0000000000221320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+     852 svchost.exe          0x0000000000221320 PROCESSOR_LEVEL                6
+     852 svchost.exe          0x0000000000221320 PROCESSOR_REVISION             8e09
+     852 svchost.exe          0x0000000000221320 ProgramData                    C:\ProgramData
+     852 svchost.exe          0x0000000000221320 ProgramFiles                   C:\Program Files
+     852 svchost.exe          0x0000000000221320 ProgramFiles(x86)              C:\Program Files (x86)
+     852 svchost.exe          0x0000000000221320 ProgramW6432                   C:\Program Files
+     852 svchost.exe          0x0000000000221320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     852 svchost.exe          0x0000000000221320 PUBLIC                         C:\Users\Public
+     852 svchost.exe          0x0000000000221320 SystemDrive                    C:
+     852 svchost.exe          0x0000000000221320 SystemRoot                     C:\Windows
+     852 svchost.exe          0x0000000000221320 TEMP                           C:\Windows\TEMP
+     852 svchost.exe          0x0000000000221320 TMP                            C:\Windows\TEMP
+     852 svchost.exe          0x0000000000221320 USERDOMAIN                     WORKGROUP
+     852 svchost.exe          0x0000000000221320 USERNAME                       SMARTNET-PC$
+     852 svchost.exe          0x0000000000221320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     852 svchost.exe          0x0000000000221320 windir                         C:\Windows
+     852 svchost.exe          0x0000000000221320 windows_tracing_flags          3
+     852 svchost.exe          0x0000000000221320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     876 svchost.exe          0x0000000000241320 ALLUSERSPROFILE                C:\ProgramData
+     876 svchost.exe          0x0000000000241320 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     876 svchost.exe          0x0000000000241320 CommonProgramFiles             C:\Program Files\Common Files
+     876 svchost.exe          0x0000000000241320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     876 svchost.exe          0x0000000000241320 CommonProgramW6432             C:\Program Files\Common Files
+     876 svchost.exe          0x0000000000241320 COMPUTERNAME                   SMARTNET-PC
+     876 svchost.exe          0x0000000000241320 ComSpec                        C:\Windows\system32\cmd.exe
+     876 svchost.exe          0x0000000000241320 FP_NO_HOST_CHECK               NO
+     876 svchost.exe          0x0000000000241320 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     876 svchost.exe          0x0000000000241320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+     876 svchost.exe          0x0000000000241320 NUMBER_OF_PROCESSORS           1
+     876 svchost.exe          0x0000000000241320 OS                             Windows_NT
+     876 svchost.exe          0x0000000000241320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     876 svchost.exe          0x0000000000241320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     876 svchost.exe          0x0000000000241320 PROCESSOR_ARCHITECTURE         AMD64
+     876 svchost.exe          0x0000000000241320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+     876 svchost.exe          0x0000000000241320 PROCESSOR_LEVEL                6
+     876 svchost.exe          0x0000000000241320 PROCESSOR_REVISION             8e09
+     876 svchost.exe          0x0000000000241320 ProgramData                    C:\ProgramData
+     876 svchost.exe          0x0000000000241320 ProgramFiles                   C:\Program Files
+     876 svchost.exe          0x0000000000241320 ProgramFiles(x86)              C:\Program Files (x86)
+     876 svchost.exe          0x0000000000241320 ProgramW6432                   C:\Program Files
+     876 svchost.exe          0x0000000000241320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     876 svchost.exe          0x0000000000241320 PUBLIC                         C:\Users\Public
+     876 svchost.exe          0x0000000000241320 SystemDrive                    C:
+     876 svchost.exe          0x0000000000241320 SystemRoot                     C:\Windows
+     876 svchost.exe          0x0000000000241320 TEMP                           C:\Windows\TEMP
+     876 svchost.exe          0x0000000000241320 TMP                            C:\Windows\TEMP
+     876 svchost.exe          0x0000000000241320 USERDOMAIN                     WORKGROUP
+     876 svchost.exe          0x0000000000241320 USERNAME                       SMARTNET-PC$
+     876 svchost.exe          0x0000000000241320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     876 svchost.exe          0x0000000000241320 windir                         C:\Windows
+     876 svchost.exe          0x0000000000241320 windows_tracing_flags          3
+     876 svchost.exe          0x0000000000241320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     268 audiodg.exe          0x0000000000461320 Path                           C:\Windows\System32
+     268 audiodg.exe          0x0000000000461320 SystemDrive                    C:
+     268 audiodg.exe          0x0000000000461320 SystemRoot                     C:\Windows
+     472 svchost.exe          0x0000000000171320 ALLUSERSPROFILE                C:\ProgramData
+     472 svchost.exe          0x0000000000171320 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+     472 svchost.exe          0x0000000000171320 CommonProgramFiles             C:\Program Files\Common Files
+     472 svchost.exe          0x0000000000171320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     472 svchost.exe          0x0000000000171320 CommonProgramW6432             C:\Program Files\Common Files
+     472 svchost.exe          0x0000000000171320 COMPUTERNAME                   SMARTNET-PC
+     472 svchost.exe          0x0000000000171320 ComSpec                        C:\Windows\system32\cmd.exe
+     472 svchost.exe          0x0000000000171320 FP_NO_HOST_CHECK               NO
+     472 svchost.exe          0x0000000000171320 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+     472 svchost.exe          0x0000000000171320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+     472 svchost.exe          0x0000000000171320 NUMBER_OF_PROCESSORS           1
+     472 svchost.exe          0x0000000000171320 OS                             Windows_NT
+     472 svchost.exe          0x0000000000171320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     472 svchost.exe          0x0000000000171320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     472 svchost.exe          0x0000000000171320 PROCESSOR_ARCHITECTURE         AMD64
+     472 svchost.exe          0x0000000000171320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+     472 svchost.exe          0x0000000000171320 PROCESSOR_LEVEL                6
+     472 svchost.exe          0x0000000000171320 PROCESSOR_REVISION             8e09
+     472 svchost.exe          0x0000000000171320 ProgramData                    C:\ProgramData
+     472 svchost.exe          0x0000000000171320 ProgramFiles                   C:\Program Files
+     472 svchost.exe          0x0000000000171320 ProgramFiles(x86)              C:\Program Files (x86)
+     472 svchost.exe          0x0000000000171320 ProgramW6432                   C:\Program Files
+     472 svchost.exe          0x0000000000171320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     472 svchost.exe          0x0000000000171320 PUBLIC                         C:\Users\Public
+     472 svchost.exe          0x0000000000171320 SystemDrive                    C:
+     472 svchost.exe          0x0000000000171320 SystemRoot                     C:\Windows
+     472 svchost.exe          0x0000000000171320 TEMP                           C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+     472 svchost.exe          0x0000000000171320 TMP                            C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+     472 svchost.exe          0x0000000000171320 USERDOMAIN                     NT AUTHORITY
+     472 svchost.exe          0x0000000000171320 USERNAME                       LOCAL SERVICE
+     472 svchost.exe          0x0000000000171320 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+     472 svchost.exe          0x0000000000171320 windir                         C:\Windows
+     472 svchost.exe          0x0000000000171320 windows_tracing_flags          3
+     472 svchost.exe          0x0000000000171320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1044 svchost.exe          0x00000000001d1320 ALLUSERSPROFILE                C:\ProgramData
+    1044 svchost.exe          0x00000000001d1320 APPDATA                        C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+    1044 svchost.exe          0x00000000001d1320 CommonProgramFiles             C:\Program Files\Common Files
+    1044 svchost.exe          0x00000000001d1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1044 svchost.exe          0x00000000001d1320 CommonProgramW6432             C:\Program Files\Common Files
+    1044 svchost.exe          0x00000000001d1320 COMPUTERNAME                   SMARTNET-PC
+    1044 svchost.exe          0x00000000001d1320 ComSpec                        C:\Windows\system32\cmd.exe
+    1044 svchost.exe          0x00000000001d1320 FP_NO_HOST_CHECK               NO
+    1044 svchost.exe          0x00000000001d1320 LOCALAPPDATA                   C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+    1044 svchost.exe          0x00000000001d1320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    1044 svchost.exe          0x00000000001d1320 NUMBER_OF_PROCESSORS           1
+    1044 svchost.exe          0x00000000001d1320 OS                             Windows_NT
+    1044 svchost.exe          0x00000000001d1320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1044 svchost.exe          0x00000000001d1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1044 svchost.exe          0x00000000001d1320 PROCESSOR_ARCHITECTURE         AMD64
+    1044 svchost.exe          0x00000000001d1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    1044 svchost.exe          0x00000000001d1320 PROCESSOR_LEVEL                6
+    1044 svchost.exe          0x00000000001d1320 PROCESSOR_REVISION             8e09
+    1044 svchost.exe          0x00000000001d1320 ProgramData                    C:\ProgramData
+    1044 svchost.exe          0x00000000001d1320 ProgramFiles                   C:\Program Files
+    1044 svchost.exe          0x00000000001d1320 ProgramFiles(x86)              C:\Program Files (x86)
+    1044 svchost.exe          0x00000000001d1320 ProgramW6432                   C:\Program Files
+    1044 svchost.exe          0x00000000001d1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1044 svchost.exe          0x00000000001d1320 PUBLIC                         C:\Users\Public
+    1044 svchost.exe          0x00000000001d1320 SystemDrive                    C:
+    1044 svchost.exe          0x00000000001d1320 SystemRoot                     C:\Windows
+    1044 svchost.exe          0x00000000001d1320 TEMP                           C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    1044 svchost.exe          0x00000000001d1320 TMP                            C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    1044 svchost.exe          0x00000000001d1320 USERDOMAIN                     WORKGROUP
+    1044 svchost.exe          0x00000000001d1320 USERNAME                       SMARTNET-PC$
+    1044 svchost.exe          0x00000000001d1320 USERPROFILE                    C:\Windows\ServiceProfiles\NetworkService
+    1044 svchost.exe          0x00000000001d1320 windir                         C:\Windows
+    1044 svchost.exe          0x00000000001d1320 windows_tracing_flags          3
+    1044 svchost.exe          0x00000000001d1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1208 spoolsv.exe          0x00000000001a1320 ALLUSERSPROFILE                C:\ProgramData
+    1208 spoolsv.exe          0x00000000001a1320 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    1208 spoolsv.exe          0x00000000001a1320 CommonProgramFiles             C:\Program Files\Common Files
+    1208 spoolsv.exe          0x00000000001a1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1208 spoolsv.exe          0x00000000001a1320 CommonProgramW6432             C:\Program Files\Common Files
+    1208 spoolsv.exe          0x00000000001a1320 COMPUTERNAME                   SMARTNET-PC
+    1208 spoolsv.exe          0x00000000001a1320 ComSpec                        C:\Windows\system32\cmd.exe
+    1208 spoolsv.exe          0x00000000001a1320 FP_NO_HOST_CHECK               NO
+    1208 spoolsv.exe          0x00000000001a1320 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    1208 spoolsv.exe          0x00000000001a1320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    1208 spoolsv.exe          0x00000000001a1320 NUMBER_OF_PROCESSORS           1
+    1208 spoolsv.exe          0x00000000001a1320 OS                             Windows_NT
+    1208 spoolsv.exe          0x00000000001a1320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1208 spoolsv.exe          0x00000000001a1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1208 spoolsv.exe          0x00000000001a1320 PROCESSOR_ARCHITECTURE         AMD64
+    1208 spoolsv.exe          0x00000000001a1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    1208 spoolsv.exe          0x00000000001a1320 PROCESSOR_LEVEL                6
+    1208 spoolsv.exe          0x00000000001a1320 PROCESSOR_REVISION             8e09
+    1208 spoolsv.exe          0x00000000001a1320 ProgramData                    C:\ProgramData
+    1208 spoolsv.exe          0x00000000001a1320 ProgramFiles                   C:\Program Files
+    1208 spoolsv.exe          0x00000000001a1320 ProgramFiles(x86)              C:\Program Files (x86)
+    1208 spoolsv.exe          0x00000000001a1320 ProgramW6432                   C:\Program Files
+    1208 spoolsv.exe          0x00000000001a1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1208 spoolsv.exe          0x00000000001a1320 PUBLIC                         C:\Users\Public
+    1208 spoolsv.exe          0x00000000001a1320 SystemDrive                    C:
+    1208 spoolsv.exe          0x00000000001a1320 SystemRoot                     C:\Windows
+    1208 spoolsv.exe          0x00000000001a1320 TEMP                           C:\Windows\TEMP
+    1208 spoolsv.exe          0x00000000001a1320 TMP                            C:\Windows\TEMP
+    1208 spoolsv.exe          0x00000000001a1320 USERDOMAIN                     WORKGROUP
+    1208 spoolsv.exe          0x00000000001a1320 USERNAME                       SMARTNET-PC$
+    1208 spoolsv.exe          0x00000000001a1320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    1208 spoolsv.exe          0x00000000001a1320 windir                         C:\Windows
+    1208 spoolsv.exe          0x00000000001a1320 windows_tracing_flags          3
+    1208 spoolsv.exe          0x00000000001a1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1248 svchost.exe          0x0000000000351320 ALLUSERSPROFILE                C:\ProgramData
+    1248 svchost.exe          0x0000000000351320 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+    1248 svchost.exe          0x0000000000351320 CommonProgramFiles             C:\Program Files\Common Files
+    1248 svchost.exe          0x0000000000351320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1248 svchost.exe          0x0000000000351320 CommonProgramW6432             C:\Program Files\Common Files
+    1248 svchost.exe          0x0000000000351320 COMPUTERNAME                   SMARTNET-PC
+    1248 svchost.exe          0x0000000000351320 ComSpec                        C:\Windows\system32\cmd.exe
+    1248 svchost.exe          0x0000000000351320 FP_NO_HOST_CHECK               NO
+    1248 svchost.exe          0x0000000000351320 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+    1248 svchost.exe          0x0000000000351320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    1248 svchost.exe          0x0000000000351320 NUMBER_OF_PROCESSORS           1
+    1248 svchost.exe          0x0000000000351320 OS                             Windows_NT
+    1248 svchost.exe          0x0000000000351320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1248 svchost.exe          0x0000000000351320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1248 svchost.exe          0x0000000000351320 PROCESSOR_ARCHITECTURE         AMD64
+    1248 svchost.exe          0x0000000000351320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    1248 svchost.exe          0x0000000000351320 PROCESSOR_LEVEL                6
+    1248 svchost.exe          0x0000000000351320 PROCESSOR_REVISION             8e09
+    1248 svchost.exe          0x0000000000351320 ProgramData                    C:\ProgramData
+    1248 svchost.exe          0x0000000000351320 ProgramFiles                   C:\Program Files
+    1248 svchost.exe          0x0000000000351320 ProgramFiles(x86)              C:\Program Files (x86)
+    1248 svchost.exe          0x0000000000351320 ProgramW6432                   C:\Program Files
+    1248 svchost.exe          0x0000000000351320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1248 svchost.exe          0x0000000000351320 PUBLIC                         C:\Users\Public
+    1248 svchost.exe          0x0000000000351320 SystemDrive                    C:
+    1248 svchost.exe          0x0000000000351320 SystemRoot                     C:\Windows
+    1248 svchost.exe          0x0000000000351320 TEMP                           C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1248 svchost.exe          0x0000000000351320 TMP                            C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1248 svchost.exe          0x0000000000351320 USERDOMAIN                     NT AUTHORITY
+    1248 svchost.exe          0x0000000000351320 USERNAME                       LOCAL SERVICE
+    1248 svchost.exe          0x0000000000351320 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+    1248 svchost.exe          0x0000000000351320 windir                         C:\Windows
+    1248 svchost.exe          0x0000000000351320 windows_tracing_flags          3
+    1248 svchost.exe          0x0000000000351320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1368 svchost.exe          0x0000000000361320 ALLUSERSPROFILE                C:\ProgramData
+    1368 svchost.exe          0x0000000000361320 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+    1368 svchost.exe          0x0000000000361320 CommonProgramFiles             C:\Program Files\Common Files
+    1368 svchost.exe          0x0000000000361320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1368 svchost.exe          0x0000000000361320 CommonProgramW6432             C:\Program Files\Common Files
+    1368 svchost.exe          0x0000000000361320 COMPUTERNAME                   SMARTNET-PC
+    1368 svchost.exe          0x0000000000361320 ComSpec                        C:\Windows\system32\cmd.exe
+    1368 svchost.exe          0x0000000000361320 FP_NO_HOST_CHECK               NO
+    1368 svchost.exe          0x0000000000361320 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+    1368 svchost.exe          0x0000000000361320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    1368 svchost.exe          0x0000000000361320 NUMBER_OF_PROCESSORS           1
+    1368 svchost.exe          0x0000000000361320 OS                             Windows_NT
+    1368 svchost.exe          0x0000000000361320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1368 svchost.exe          0x0000000000361320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1368 svchost.exe          0x0000000000361320 PROCESSOR_ARCHITECTURE         AMD64
+    1368 svchost.exe          0x0000000000361320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    1368 svchost.exe          0x0000000000361320 PROCESSOR_LEVEL                6
+    1368 svchost.exe          0x0000000000361320 PROCESSOR_REVISION             8e09
+    1368 svchost.exe          0x0000000000361320 ProgramData                    C:\ProgramData
+    1368 svchost.exe          0x0000000000361320 ProgramFiles                   C:\Program Files
+    1368 svchost.exe          0x0000000000361320 ProgramFiles(x86)              C:\Program Files (x86)
+    1368 svchost.exe          0x0000000000361320 ProgramW6432                   C:\Program Files
+    1368 svchost.exe          0x0000000000361320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1368 svchost.exe          0x0000000000361320 PUBLIC                         C:\Users\Public
+    1368 svchost.exe          0x0000000000361320 SystemDrive                    C:
+    1368 svchost.exe          0x0000000000361320 SystemRoot                     C:\Windows
+    1368 svchost.exe          0x0000000000361320 TEMP                           C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1368 svchost.exe          0x0000000000361320 TMP                            C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1368 svchost.exe          0x0000000000361320 USERDOMAIN                     NT AUTHORITY
+    1368 svchost.exe          0x0000000000361320 USERNAME                       LOCAL SERVICE
+    1368 svchost.exe          0x0000000000361320 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+    1368 svchost.exe          0x0000000000361320 windir                         C:\Windows
+    1368 svchost.exe          0x0000000000361320 windows_tracing_flags          3
+    1368 svchost.exe          0x0000000000361320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1412 TCPSVCS.EXE          0x00000000003b1320 ALLUSERSPROFILE                C:\ProgramData
+    1412 TCPSVCS.EXE          0x00000000003b1320 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+    1412 TCPSVCS.EXE          0x00000000003b1320 CommonProgramFiles             C:\Program Files\Common Files
+    1412 TCPSVCS.EXE          0x00000000003b1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1412 TCPSVCS.EXE          0x00000000003b1320 CommonProgramW6432             C:\Program Files\Common Files
+    1412 TCPSVCS.EXE          0x00000000003b1320 COMPUTERNAME                   SMARTNET-PC
+    1412 TCPSVCS.EXE          0x00000000003b1320 ComSpec                        C:\Windows\system32\cmd.exe
+    1412 TCPSVCS.EXE          0x00000000003b1320 FP_NO_HOST_CHECK               NO
+    1412 TCPSVCS.EXE          0x00000000003b1320 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+    1412 TCPSVCS.EXE          0x00000000003b1320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    1412 TCPSVCS.EXE          0x00000000003b1320 NUMBER_OF_PROCESSORS           1
+    1412 TCPSVCS.EXE          0x00000000003b1320 OS                             Windows_NT
+    1412 TCPSVCS.EXE          0x00000000003b1320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1412 TCPSVCS.EXE          0x00000000003b1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1412 TCPSVCS.EXE          0x00000000003b1320 PROCESSOR_ARCHITECTURE         AMD64
+    1412 TCPSVCS.EXE          0x00000000003b1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    1412 TCPSVCS.EXE          0x00000000003b1320 PROCESSOR_LEVEL                6
+    1412 TCPSVCS.EXE          0x00000000003b1320 PROCESSOR_REVISION             8e09
+    1412 TCPSVCS.EXE          0x00000000003b1320 ProgramData                    C:\ProgramData
+    1412 TCPSVCS.EXE          0x00000000003b1320 ProgramFiles                   C:\Program Files
+    1412 TCPSVCS.EXE          0x00000000003b1320 ProgramFiles(x86)              C:\Program Files (x86)
+    1412 TCPSVCS.EXE          0x00000000003b1320 ProgramW6432                   C:\Program Files
+    1412 TCPSVCS.EXE          0x00000000003b1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1412 TCPSVCS.EXE          0x00000000003b1320 PUBLIC                         C:\Users\Public
+    1412 TCPSVCS.EXE          0x00000000003b1320 SystemDrive                    C:
+    1412 TCPSVCS.EXE          0x00000000003b1320 SystemRoot                     C:\Windows
+    1412 TCPSVCS.EXE          0x00000000003b1320 TEMP                           C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1412 TCPSVCS.EXE          0x00000000003b1320 TMP                            C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1412 TCPSVCS.EXE          0x00000000003b1320 USERDOMAIN                     NT AUTHORITY
+    1412 TCPSVCS.EXE          0x00000000003b1320 USERNAME                       LOCAL SERVICE
+    1412 TCPSVCS.EXE          0x00000000003b1320 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+    1412 TCPSVCS.EXE          0x00000000003b1320 windir                         C:\Windows
+    1412 TCPSVCS.EXE          0x00000000003b1320 windows_tracing_flags          3
+    1412 TCPSVCS.EXE          0x00000000003b1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1928 taskhost.exe         0x00000000001f1320 ALLUSERSPROFILE                C:\ProgramData
+    1928 taskhost.exe         0x00000000001f1320 APPDATA                        C:\Users\Alissa Simpson\AppData\Roaming
+    1928 taskhost.exe         0x00000000001f1320 CommonProgramFiles             C:\Program Files\Common Files
+    1928 taskhost.exe         0x00000000001f1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1928 taskhost.exe         0x00000000001f1320 CommonProgramW6432             C:\Program Files\Common Files
+    1928 taskhost.exe         0x00000000001f1320 COMPUTERNAME                   SMARTNET-PC
+    1928 taskhost.exe         0x00000000001f1320 ComSpec                        C:\Windows\system32\cmd.exe
+    1928 taskhost.exe         0x00000000001f1320 FP_NO_HOST_CHECK               NO
+    1928 taskhost.exe         0x00000000001f1320 HOMEDRIVE                      C:
+    1928 taskhost.exe         0x00000000001f1320 HOMEPATH                       \Users\Alissa Simpson
+    1928 taskhost.exe         0x00000000001f1320 LOCALAPPDATA                   C:\Users\Alissa Simpson\AppData\Local
+    1928 taskhost.exe         0x00000000001f1320 LOGONSERVER                    \\SMARTNET-PC
+    1928 taskhost.exe         0x00000000001f1320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    1928 taskhost.exe         0x00000000001f1320 NUMBER_OF_PROCESSORS           1
+    1928 taskhost.exe         0x00000000001f1320 OS                             Windows_NT
+    1928 taskhost.exe         0x00000000001f1320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1928 taskhost.exe         0x00000000001f1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1928 taskhost.exe         0x00000000001f1320 PROCESSOR_ARCHITECTURE         AMD64
+    1928 taskhost.exe         0x00000000001f1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    1928 taskhost.exe         0x00000000001f1320 PROCESSOR_LEVEL                6
+    1928 taskhost.exe         0x00000000001f1320 PROCESSOR_REVISION             8e09
+    1928 taskhost.exe         0x00000000001f1320 ProgramData                    C:\ProgramData
+    1928 taskhost.exe         0x00000000001f1320 ProgramFiles                   C:\Program Files
+    1928 taskhost.exe         0x00000000001f1320 ProgramFiles(x86)              C:\Program Files (x86)
+    1928 taskhost.exe         0x00000000001f1320 ProgramW6432                   C:\Program Files
+    1928 taskhost.exe         0x00000000001f1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1928 taskhost.exe         0x00000000001f1320 PUBLIC                         C:\Users\Public
+    1928 taskhost.exe         0x00000000001f1320 SystemDrive                    C:
+    1928 taskhost.exe         0x00000000001f1320 SystemRoot                     C:\Windows
+    1928 taskhost.exe         0x00000000001f1320 TEMP                           C:\Users\ALISSA~1\AppData\Local\Temp
+    1928 taskhost.exe         0x00000000001f1320 TMP                            C:\Users\ALISSA~1\AppData\Local\Temp
+    1928 taskhost.exe         0x00000000001f1320 USERDOMAIN                     SmartNet-PC
+    1928 taskhost.exe         0x00000000001f1320 USERNAME                       Alissa Simpson
+    1928 taskhost.exe         0x00000000001f1320 USERPROFILE                    C:\Users\Alissa Simpson
+    1928 taskhost.exe         0x00000000001f1320 windir                         C:\Windows
+    1928 taskhost.exe         0x00000000001f1320 windows_tracing_flags          3
+    1928 taskhost.exe         0x00000000001f1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1996 taskeng.exe          0x0000000000251320 ALLUSERSPROFILE                C:\ProgramData
+    1996 taskeng.exe          0x0000000000251320 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    1996 taskeng.exe          0x0000000000251320 CommonProgramFiles             C:\Program Files\Common Files
+    1996 taskeng.exe          0x0000000000251320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1996 taskeng.exe          0x0000000000251320 CommonProgramW6432             C:\Program Files\Common Files
+    1996 taskeng.exe          0x0000000000251320 COMPUTERNAME                   SMARTNET-PC
+    1996 taskeng.exe          0x0000000000251320 ComSpec                        C:\Windows\system32\cmd.exe
+    1996 taskeng.exe          0x0000000000251320 FP_NO_HOST_CHECK               NO
+    1996 taskeng.exe          0x0000000000251320 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    1996 taskeng.exe          0x0000000000251320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    1996 taskeng.exe          0x0000000000251320 NUMBER_OF_PROCESSORS           1
+    1996 taskeng.exe          0x0000000000251320 OS                             Windows_NT
+    1996 taskeng.exe          0x0000000000251320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1996 taskeng.exe          0x0000000000251320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1996 taskeng.exe          0x0000000000251320 PROCESSOR_ARCHITECTURE         AMD64
+    1996 taskeng.exe          0x0000000000251320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    1996 taskeng.exe          0x0000000000251320 PROCESSOR_LEVEL                6
+    1996 taskeng.exe          0x0000000000251320 PROCESSOR_REVISION             8e09
+    1996 taskeng.exe          0x0000000000251320 ProgramData                    C:\ProgramData
+    1996 taskeng.exe          0x0000000000251320 ProgramFiles                   C:\Program Files
+    1996 taskeng.exe          0x0000000000251320 ProgramFiles(x86)              C:\Program Files (x86)
+    1996 taskeng.exe          0x0000000000251320 ProgramW6432                   C:\Program Files
+    1996 taskeng.exe          0x0000000000251320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1996 taskeng.exe          0x0000000000251320 PUBLIC                         C:\Users\Public
+    1996 taskeng.exe          0x0000000000251320 SystemDrive                    C:
+    1996 taskeng.exe          0x0000000000251320 SystemRoot                     C:\Windows
+    1996 taskeng.exe          0x0000000000251320 TEMP                           C:\Windows\TEMP
+    1996 taskeng.exe          0x0000000000251320 TMP                            C:\Windows\TEMP
+    1996 taskeng.exe          0x0000000000251320 USERDOMAIN                     WORKGROUP
+    1996 taskeng.exe          0x0000000000251320 USERNAME                       SMARTNET-PC$
+    1996 taskeng.exe          0x0000000000251320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    1996 taskeng.exe          0x0000000000251320 windir                         C:\Windows
+    1996 taskeng.exe          0x0000000000251320 windows_tracing_flags          3
+    1996 taskeng.exe          0x0000000000251320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2012 dwm.exe              0x00000000003c1320 ALLUSERSPROFILE                C:\ProgramData
+    2012 dwm.exe              0x00000000003c1320 APPDATA                        C:\Users\Alissa Simpson\AppData\Roaming
+    2012 dwm.exe              0x00000000003c1320 CommonProgramFiles             C:\Program Files\Common Files
+    2012 dwm.exe              0x00000000003c1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2012 dwm.exe              0x00000000003c1320 CommonProgramW6432             C:\Program Files\Common Files
+    2012 dwm.exe              0x00000000003c1320 COMPUTERNAME                   SMARTNET-PC
+    2012 dwm.exe              0x00000000003c1320 ComSpec                        C:\Windows\system32\cmd.exe
+    2012 dwm.exe              0x00000000003c1320 FP_NO_HOST_CHECK               NO
+    2012 dwm.exe              0x00000000003c1320 HOMEDRIVE                      C:
+    2012 dwm.exe              0x00000000003c1320 HOMEPATH                       \Users\Alissa Simpson
+    2012 dwm.exe              0x00000000003c1320 LOCALAPPDATA                   C:\Users\Alissa Simpson\AppData\Local
+    2012 dwm.exe              0x00000000003c1320 LOGONSERVER                    \\SMARTNET-PC
+    2012 dwm.exe              0x00000000003c1320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    2012 dwm.exe              0x00000000003c1320 NUMBER_OF_PROCESSORS           1
+    2012 dwm.exe              0x00000000003c1320 OS                             Windows_NT
+    2012 dwm.exe              0x00000000003c1320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2012 dwm.exe              0x00000000003c1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2012 dwm.exe              0x00000000003c1320 PROCESSOR_ARCHITECTURE         AMD64
+    2012 dwm.exe              0x00000000003c1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    2012 dwm.exe              0x00000000003c1320 PROCESSOR_LEVEL                6
+    2012 dwm.exe              0x00000000003c1320 PROCESSOR_REVISION             8e09
+    2012 dwm.exe              0x00000000003c1320 ProgramData                    C:\ProgramData
+    2012 dwm.exe              0x00000000003c1320 ProgramFiles                   C:\Program Files
+    2012 dwm.exe              0x00000000003c1320 ProgramFiles(x86)              C:\Program Files (x86)
+    2012 dwm.exe              0x00000000003c1320 ProgramW6432                   C:\Program Files
+    2012 dwm.exe              0x00000000003c1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2012 dwm.exe              0x00000000003c1320 PUBLIC                         C:\Users\Public
+    2012 dwm.exe              0x00000000003c1320 SystemDrive                    C:
+    2012 dwm.exe              0x00000000003c1320 SystemRoot                     C:\Windows
+    2012 dwm.exe              0x00000000003c1320 TEMP                           C:\Users\ALISSA~1\AppData\Local\Temp
+    2012 dwm.exe              0x00000000003c1320 TMP                            C:\Users\ALISSA~1\AppData\Local\Temp
+    2012 dwm.exe              0x00000000003c1320 USERDOMAIN                     SmartNet-PC
+    2012 dwm.exe              0x00000000003c1320 USERNAME                       Alissa Simpson
+    2012 dwm.exe              0x00000000003c1320 USERPROFILE                    C:\Users\Alissa Simpson
+    2012 dwm.exe              0x00000000003c1320 windir                         C:\Windows
+    2012 dwm.exe              0x00000000003c1320 windows_tracing_flags          3
+    2012 dwm.exe              0x00000000003c1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1064 explorer.exe         0x0000000004662620 ALLUSERSPROFILE                C:\ProgramData
+    1064 explorer.exe         0x0000000004662620 APPDATA                        C:\Users\Alissa Simpson\AppData\Roaming
+    1064 explorer.exe         0x0000000004662620 CommonProgramFiles             C:\Program Files\Common Files
+    1064 explorer.exe         0x0000000004662620 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1064 explorer.exe         0x0000000004662620 CommonProgramW6432             C:\Program Files\Common Files
+    1064 explorer.exe         0x0000000004662620 COMPUTERNAME                   SMARTNET-PC
+    1064 explorer.exe         0x0000000004662620 ComSpec                        C:\Windows\system32\cmd.exe
+    1064 explorer.exe         0x0000000004662620 FP_NO_HOST_CHECK               NO
+    1064 explorer.exe         0x0000000004662620 HOMEDRIVE                      C:
+    1064 explorer.exe         0x0000000004662620 HOMEPATH                       \Users\Alissa Simpson
+    1064 explorer.exe         0x0000000004662620 LOCALAPPDATA                   C:\Users\Alissa Simpson\AppData\Local
+    1064 explorer.exe         0x0000000004662620 LOGONSERVER                    \\SMARTNET-PC
+    1064 explorer.exe         0x0000000004662620 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    1064 explorer.exe         0x0000000004662620 NUMBER_OF_PROCESSORS           1
+    1064 explorer.exe         0x0000000004662620 OS                             Windows_NT
+    1064 explorer.exe         0x0000000004662620 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1064 explorer.exe         0x0000000004662620 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1064 explorer.exe         0x0000000004662620 PROCESSOR_ARCHITECTURE         AMD64
+    1064 explorer.exe         0x0000000004662620 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    1064 explorer.exe         0x0000000004662620 PROCESSOR_LEVEL                6
+    1064 explorer.exe         0x0000000004662620 PROCESSOR_REVISION             8e09
+    1064 explorer.exe         0x0000000004662620 ProgramData                    C:\ProgramData
+    1064 explorer.exe         0x0000000004662620 ProgramFiles                   C:\Program Files
+    1064 explorer.exe         0x0000000004662620 ProgramFiles(x86)              C:\Program Files (x86)
+    1064 explorer.exe         0x0000000004662620 ProgramW6432                   C:\Program Files
+    1064 explorer.exe         0x0000000004662620 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1064 explorer.exe         0x0000000004662620 PUBLIC                         C:\Users\Public
+    1064 explorer.exe         0x0000000004662620 SESSIONNAME                    Console
+    1064 explorer.exe         0x0000000004662620 SystemDrive                    C:
+    1064 explorer.exe         0x0000000004662620 SystemRoot                     C:\Windows
+    1064 explorer.exe         0x0000000004662620 TEMP                           C:\Users\ALISSA~1\AppData\Local\Temp
+    1064 explorer.exe         0x0000000004662620 TMP                            C:\Users\ALISSA~1\AppData\Local\Temp
+    1064 explorer.exe         0x0000000004662620 USERDOMAIN                     SmartNet-PC
+    1064 explorer.exe         0x0000000004662620 USERNAME                       Alissa Simpson
+    1064 explorer.exe         0x0000000004662620 USERPROFILE                    C:\Users\Alissa Simpson
+    1064 explorer.exe         0x0000000004662620 windir                         C:\Windows
+    1064 explorer.exe         0x0000000004662620 windows_tracing_flags          3
+    1064 explorer.exe         0x0000000004662620 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1836 SearchIndexer.       0x00000000003e9ae0 ALLUSERSPROFILE                C:\ProgramData
+    1836 SearchIndexer.       0x00000000003e9ae0 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    1836 SearchIndexer.       0x00000000003e9ae0 CommonProgramFiles             C:\Program Files\Common Files
+    1836 SearchIndexer.       0x00000000003e9ae0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1836 SearchIndexer.       0x00000000003e9ae0 CommonProgramW6432             C:\Program Files\Common Files
+    1836 SearchIndexer.       0x00000000003e9ae0 COMPUTERNAME                   SMARTNET-PC
+    1836 SearchIndexer.       0x00000000003e9ae0 ComSpec                        C:\Windows\system32\cmd.exe
+    1836 SearchIndexer.       0x00000000003e9ae0 FP_NO_HOST_CHECK               NO
+    1836 SearchIndexer.       0x00000000003e9ae0 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    1836 SearchIndexer.       0x00000000003e9ae0 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    1836 SearchIndexer.       0x00000000003e9ae0 NUMBER_OF_PROCESSORS           1
+    1836 SearchIndexer.       0x00000000003e9ae0 OS                             Windows_NT
+    1836 SearchIndexer.       0x00000000003e9ae0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\system32
+    1836 SearchIndexer.       0x00000000003e9ae0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1836 SearchIndexer.       0x00000000003e9ae0 PROCESSOR_ARCHITECTURE         AMD64
+    1836 SearchIndexer.       0x00000000003e9ae0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    1836 SearchIndexer.       0x00000000003e9ae0 PROCESSOR_LEVEL                6
+    1836 SearchIndexer.       0x00000000003e9ae0 PROCESSOR_REVISION             8e09
+    1836 SearchIndexer.       0x00000000003e9ae0 ProgramData                    C:\ProgramData
+    1836 SearchIndexer.       0x00000000003e9ae0 ProgramFiles                   C:\Program Files
+    1836 SearchIndexer.       0x00000000003e9ae0 ProgramFiles(x86)              C:\Program Files (x86)
+    1836 SearchIndexer.       0x00000000003e9ae0 ProgramW6432                   C:\Program Files
+    1836 SearchIndexer.       0x00000000003e9ae0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1836 SearchIndexer.       0x00000000003e9ae0 PUBLIC                         C:\Users\Public
+    1836 SearchIndexer.       0x00000000003e9ae0 SystemDrive                    C:
+    1836 SearchIndexer.       0x00000000003e9ae0 SystemRoot                     C:\Windows
+    1836 SearchIndexer.       0x00000000003e9ae0 TEMP                           C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc
+    1836 SearchIndexer.       0x00000000003e9ae0 TMP                            C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc
+    1836 SearchIndexer.       0x00000000003e9ae0 USERDOMAIN                     WORKGROUP
+    1836 SearchIndexer.       0x00000000003e9ae0 USERNAME                       SMARTNET-PC$
+    1836 SearchIndexer.       0x00000000003e9ae0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    1836 SearchIndexer.       0x00000000003e9ae0 windir                         C:\Windows
+    1836 SearchIndexer.       0x00000000003e9ae0 windows_tracing_flags          3
+    1836 SearchIndexer.       0x00000000003e9ae0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1896 VBoxTray.exe         0x0000000000201320 ALLUSERSPROFILE                C:\ProgramData
+    1896 VBoxTray.exe         0x0000000000201320 APPDATA                        C:\Users\Alissa Simpson\AppData\Roaming
+    1896 VBoxTray.exe         0x0000000000201320 CommonProgramFiles             C:\Program Files\Common Files
+    1896 VBoxTray.exe         0x0000000000201320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1896 VBoxTray.exe         0x0000000000201320 CommonProgramW6432             C:\Program Files\Common Files
+    1896 VBoxTray.exe         0x0000000000201320 COMPUTERNAME                   SMARTNET-PC
+    1896 VBoxTray.exe         0x0000000000201320 ComSpec                        C:\Windows\system32\cmd.exe
+    1896 VBoxTray.exe         0x0000000000201320 FP_NO_HOST_CHECK               NO
+    1896 VBoxTray.exe         0x0000000000201320 HOMEDRIVE                      C:
+    1896 VBoxTray.exe         0x0000000000201320 HOMEPATH                       \Users\Alissa Simpson
+    1896 VBoxTray.exe         0x0000000000201320 LOCALAPPDATA                   C:\Users\Alissa Simpson\AppData\Local
+    1896 VBoxTray.exe         0x0000000000201320 LOGONSERVER                    \\SMARTNET-PC
+    1896 VBoxTray.exe         0x0000000000201320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    1896 VBoxTray.exe         0x0000000000201320 NUMBER_OF_PROCESSORS           1
+    1896 VBoxTray.exe         0x0000000000201320 OS                             Windows_NT
+    1896 VBoxTray.exe         0x0000000000201320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1896 VBoxTray.exe         0x0000000000201320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1896 VBoxTray.exe         0x0000000000201320 PROCESSOR_ARCHITECTURE         AMD64
+    1896 VBoxTray.exe         0x0000000000201320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    1896 VBoxTray.exe         0x0000000000201320 PROCESSOR_LEVEL                6
+    1896 VBoxTray.exe         0x0000000000201320 PROCESSOR_REVISION             8e09
+    1896 VBoxTray.exe         0x0000000000201320 ProgramData                    C:\ProgramData
+    1896 VBoxTray.exe         0x0000000000201320 ProgramFiles                   C:\Program Files
+    1896 VBoxTray.exe         0x0000000000201320 ProgramFiles(x86)              C:\Program Files (x86)
+    1896 VBoxTray.exe         0x0000000000201320 ProgramW6432                   C:\Program Files
+    1896 VBoxTray.exe         0x0000000000201320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1896 VBoxTray.exe         0x0000000000201320 PUBLIC                         C:\Users\Public
+    1896 VBoxTray.exe         0x0000000000201320 SESSIONNAME                    Console
+    1896 VBoxTray.exe         0x0000000000201320 SystemDrive                    C:
+    1896 VBoxTray.exe         0x0000000000201320 SystemRoot                     C:\Windows
+    1896 VBoxTray.exe         0x0000000000201320 TEMP                           C:\Users\ALISSA~1\AppData\Local\Temp
+    1896 VBoxTray.exe         0x0000000000201320 TMP                            C:\Users\ALISSA~1\AppData\Local\Temp
+    1896 VBoxTray.exe         0x0000000000201320 USERDOMAIN                     SmartNet-PC
+    1896 VBoxTray.exe         0x0000000000201320 USERNAME                       Alissa Simpson
+    1896 VBoxTray.exe         0x0000000000201320 USERPROFILE                    C:\Users\Alissa Simpson
+    1896 VBoxTray.exe         0x0000000000201320 windir                         C:\Windows
+    1896 VBoxTray.exe         0x0000000000201320 windows_tracing_flags          3
+    1896 VBoxTray.exe         0x0000000000201320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2308 csrss.exe            0x00000000003a1320 ComSpec                        C:\Windows\system32\cmd.exe
+    2308 csrss.exe            0x00000000003a1320 FP_NO_HOST_CHECK               NO
+    2308 csrss.exe            0x00000000003a1320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    2308 csrss.exe            0x00000000003a1320 NUMBER_OF_PROCESSORS           1
+    2308 csrss.exe            0x00000000003a1320 OS                             Windows_NT
+    2308 csrss.exe            0x00000000003a1320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2308 csrss.exe            0x00000000003a1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2308 csrss.exe            0x00000000003a1320 PROCESSOR_ARCHITECTURE         AMD64
+    2308 csrss.exe            0x00000000003a1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    2308 csrss.exe            0x00000000003a1320 PROCESSOR_LEVEL                6
+    2308 csrss.exe            0x00000000003a1320 PROCESSOR_REVISION             8e09
+    2308 csrss.exe            0x00000000003a1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2308 csrss.exe            0x00000000003a1320 SystemDrive                    C:
+    2308 csrss.exe            0x00000000003a1320 SystemRoot                     C:\Windows
+    2308 csrss.exe            0x00000000003a1320 TEMP                           C:\Windows\TEMP
+    2308 csrss.exe            0x00000000003a1320 TMP                            C:\Windows\TEMP
+    2308 csrss.exe            0x00000000003a1320 USERNAME                       SYSTEM
+    2308 csrss.exe            0x00000000003a1320 windir                         C:\Windows
+    2308 csrss.exe            0x00000000003a1320 windows_tracing_flags          3
+    2308 csrss.exe            0x00000000003a1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2336 winlogon.exe         0x000000000018cd00 ALLUSERSPROFILE                C:\ProgramData
+    2336 winlogon.exe         0x000000000018cd00 CommonProgramFiles             C:\Program Files\Common Files
+    2336 winlogon.exe         0x000000000018cd00 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2336 winlogon.exe         0x000000000018cd00 CommonProgramW6432             C:\Program Files\Common Files
+    2336 winlogon.exe         0x000000000018cd00 COMPUTERNAME                   SMARTNET-PC
+    2336 winlogon.exe         0x000000000018cd00 ComSpec                        C:\Windows\system32\cmd.exe
+    2336 winlogon.exe         0x000000000018cd00 FP_NO_HOST_CHECK               NO
+    2336 winlogon.exe         0x000000000018cd00 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    2336 winlogon.exe         0x000000000018cd00 NUMBER_OF_PROCESSORS           1
+    2336 winlogon.exe         0x000000000018cd00 OS                             Windows_NT
+    2336 winlogon.exe         0x000000000018cd00 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2336 winlogon.exe         0x000000000018cd00 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2336 winlogon.exe         0x000000000018cd00 PROCESSOR_ARCHITECTURE         AMD64
+    2336 winlogon.exe         0x000000000018cd00 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    2336 winlogon.exe         0x000000000018cd00 PROCESSOR_LEVEL                6
+    2336 winlogon.exe         0x000000000018cd00 PROCESSOR_REVISION             8e09
+    2336 winlogon.exe         0x000000000018cd00 ProgramData                    C:\ProgramData
+    2336 winlogon.exe         0x000000000018cd00 ProgramFiles                   C:\Program Files
+    2336 winlogon.exe         0x000000000018cd00 ProgramFiles(x86)              C:\Program Files (x86)
+    2336 winlogon.exe         0x000000000018cd00 ProgramW6432                   C:\Program Files
+    2336 winlogon.exe         0x000000000018cd00 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2336 winlogon.exe         0x000000000018cd00 PUBLIC                         C:\Users\Public
+    2336 winlogon.exe         0x000000000018cd00 SystemDrive                    C:
+    2336 winlogon.exe         0x000000000018cd00 SystemRoot                     C:\Windows
+    2336 winlogon.exe         0x000000000018cd00 TEMP                           C:\Windows\TEMP
+    2336 winlogon.exe         0x000000000018cd00 TMP                            C:\Windows\TEMP
+    2336 winlogon.exe         0x000000000018cd00 USERNAME                       SYSTEM
+    2336 winlogon.exe         0x000000000018cd00 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    2336 winlogon.exe         0x000000000018cd00 windir                         C:\Windows
+    2336 winlogon.exe         0x000000000018cd00 windows_tracing_flags          3
+    2336 winlogon.exe         0x000000000018cd00 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2604 taskhost.exe         0x0000000000231320 ALLUSERSPROFILE                C:\ProgramData
+    2604 taskhost.exe         0x0000000000231320 APPDATA                        C:\Users\SmartNet\AppData\Roaming
+    2604 taskhost.exe         0x0000000000231320 CommonProgramFiles             C:\Program Files\Common Files
+    2604 taskhost.exe         0x0000000000231320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2604 taskhost.exe         0x0000000000231320 CommonProgramW6432             C:\Program Files\Common Files
+    2604 taskhost.exe         0x0000000000231320 COMPUTERNAME                   SMARTNET-PC
+    2604 taskhost.exe         0x0000000000231320 ComSpec                        C:\Windows\system32\cmd.exe
+    2604 taskhost.exe         0x0000000000231320 FP_NO_HOST_CHECK               NO
+    2604 taskhost.exe         0x0000000000231320 HOMEDRIVE                      C:
+    2604 taskhost.exe         0x0000000000231320 HOMEPATH                       \Users\SmartNet
+    2604 taskhost.exe         0x0000000000231320 LOCALAPPDATA                   C:\Users\SmartNet\AppData\Local
+    2604 taskhost.exe         0x0000000000231320 LOGONSERVER                    \\SMARTNET-PC
+    2604 taskhost.exe         0x0000000000231320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    2604 taskhost.exe         0x0000000000231320 NUMBER_OF_PROCESSORS           1
+    2604 taskhost.exe         0x0000000000231320 OS                             Windows_NT
+    2604 taskhost.exe         0x0000000000231320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2604 taskhost.exe         0x0000000000231320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2604 taskhost.exe         0x0000000000231320 PROCESSOR_ARCHITECTURE         AMD64
+    2604 taskhost.exe         0x0000000000231320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    2604 taskhost.exe         0x0000000000231320 PROCESSOR_LEVEL                6
+    2604 taskhost.exe         0x0000000000231320 PROCESSOR_REVISION             8e09
+    2604 taskhost.exe         0x0000000000231320 ProgramData                    C:\ProgramData
+    2604 taskhost.exe         0x0000000000231320 ProgramFiles                   C:\Program Files
+    2604 taskhost.exe         0x0000000000231320 ProgramFiles(x86)              C:\Program Files (x86)
+    2604 taskhost.exe         0x0000000000231320 ProgramW6432                   C:\Program Files
+    2604 taskhost.exe         0x0000000000231320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2604 taskhost.exe         0x0000000000231320 PUBLIC                         C:\Users\Public
+    2604 taskhost.exe         0x0000000000231320 SystemDrive                    C:
+    2604 taskhost.exe         0x0000000000231320 SystemRoot                     C:\Windows
+    2604 taskhost.exe         0x0000000000231320 TEMP                           C:\Users\SmartNet\AppData\Local\Temp
+    2604 taskhost.exe         0x0000000000231320 TMP                            C:\Users\SmartNet\AppData\Local\Temp
+    2604 taskhost.exe         0x0000000000231320 USERDOMAIN                     SmartNet-PC
+    2604 taskhost.exe         0x0000000000231320 USERNAME                       SmartNet
+    2604 taskhost.exe         0x0000000000231320 USERPROFILE                    C:\Users\SmartNet
+    2604 taskhost.exe         0x0000000000231320 windir                         C:\Windows
+    2604 taskhost.exe         0x0000000000231320 windows_tracing_flags          3
+    2604 taskhost.exe         0x0000000000231320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2652 dwm.exe              0x0000000000201320 ALLUSERSPROFILE                C:\ProgramData
+    2652 dwm.exe              0x0000000000201320 APPDATA                        C:\Users\SmartNet\AppData\Roaming
+    2652 dwm.exe              0x0000000000201320 CommonProgramFiles             C:\Program Files\Common Files
+    2652 dwm.exe              0x0000000000201320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2652 dwm.exe              0x0000000000201320 CommonProgramW6432             C:\Program Files\Common Files
+    2652 dwm.exe              0x0000000000201320 COMPUTERNAME                   SMARTNET-PC
+    2652 dwm.exe              0x0000000000201320 ComSpec                        C:\Windows\system32\cmd.exe
+    2652 dwm.exe              0x0000000000201320 FP_NO_HOST_CHECK               NO
+    2652 dwm.exe              0x0000000000201320 HOMEDRIVE                      C:
+    2652 dwm.exe              0x0000000000201320 HOMEPATH                       \Users\SmartNet
+    2652 dwm.exe              0x0000000000201320 LOCALAPPDATA                   C:\Users\SmartNet\AppData\Local
+    2652 dwm.exe              0x0000000000201320 LOGONSERVER                    \\SMARTNET-PC
+    2652 dwm.exe              0x0000000000201320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    2652 dwm.exe              0x0000000000201320 NUMBER_OF_PROCESSORS           1
+    2652 dwm.exe              0x0000000000201320 OS                             Windows_NT
+    2652 dwm.exe              0x0000000000201320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2652 dwm.exe              0x0000000000201320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2652 dwm.exe              0x0000000000201320 PROCESSOR_ARCHITECTURE         AMD64
+    2652 dwm.exe              0x0000000000201320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    2652 dwm.exe              0x0000000000201320 PROCESSOR_LEVEL                6
+    2652 dwm.exe              0x0000000000201320 PROCESSOR_REVISION             8e09
+    2652 dwm.exe              0x0000000000201320 ProgramData                    C:\ProgramData
+    2652 dwm.exe              0x0000000000201320 ProgramFiles                   C:\Program Files
+    2652 dwm.exe              0x0000000000201320 ProgramFiles(x86)              C:\Program Files (x86)
+    2652 dwm.exe              0x0000000000201320 ProgramW6432                   C:\Program Files
+    2652 dwm.exe              0x0000000000201320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2652 dwm.exe              0x0000000000201320 PUBLIC                         C:\Users\Public
+    2652 dwm.exe              0x0000000000201320 SystemDrive                    C:
+    2652 dwm.exe              0x0000000000201320 SystemRoot                     C:\Windows
+    2652 dwm.exe              0x0000000000201320 TEMP                           C:\Users\SmartNet\AppData\Local\Temp
+    2652 dwm.exe              0x0000000000201320 TMP                            C:\Users\SmartNet\AppData\Local\Temp
+    2652 dwm.exe              0x0000000000201320 USERDOMAIN                     SmartNet-PC
+    2652 dwm.exe              0x0000000000201320 USERNAME                       SmartNet
+    2652 dwm.exe              0x0000000000201320 USERPROFILE                    C:\Users\SmartNet
+    2652 dwm.exe              0x0000000000201320 windir                         C:\Windows
+    2652 dwm.exe              0x0000000000201320 windows_tracing_flags          3
+    2652 dwm.exe              0x0000000000201320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2664 explorer.exe         0x00000000040daac0 ALLUSERSPROFILE                C:\ProgramData
+    2664 explorer.exe         0x00000000040daac0 APPDATA                        C:\Users\SmartNet\AppData\Roaming
+    2664 explorer.exe         0x00000000040daac0 CommonProgramFiles             C:\Program Files\Common Files
+    2664 explorer.exe         0x00000000040daac0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2664 explorer.exe         0x00000000040daac0 CommonProgramW6432             C:\Program Files\Common Files
+    2664 explorer.exe         0x00000000040daac0 COMPUTERNAME                   SMARTNET-PC
+    2664 explorer.exe         0x00000000040daac0 ComSpec                        C:\Windows\system32\cmd.exe
+    2664 explorer.exe         0x00000000040daac0 FP_NO_HOST_CHECK               NO
+    2664 explorer.exe         0x00000000040daac0 HOMEDRIVE                      C:
+    2664 explorer.exe         0x00000000040daac0 HOMEPATH                       \Users\SmartNet
+    2664 explorer.exe         0x00000000040daac0 LOCALAPPDATA                   C:\Users\SmartNet\AppData\Local
+    2664 explorer.exe         0x00000000040daac0 LOGONSERVER                    \\SMARTNET-PC
+    2664 explorer.exe         0x00000000040daac0 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    2664 explorer.exe         0x00000000040daac0 NUMBER_OF_PROCESSORS           1
+    2664 explorer.exe         0x00000000040daac0 OS                             Windows_NT
+    2664 explorer.exe         0x00000000040daac0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2664 explorer.exe         0x00000000040daac0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2664 explorer.exe         0x00000000040daac0 PROCESSOR_ARCHITECTURE         AMD64
+    2664 explorer.exe         0x00000000040daac0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    2664 explorer.exe         0x00000000040daac0 PROCESSOR_LEVEL                6
+    2664 explorer.exe         0x00000000040daac0 PROCESSOR_REVISION             8e09
+    2664 explorer.exe         0x00000000040daac0 ProgramData                    C:\ProgramData
+    2664 explorer.exe         0x00000000040daac0 ProgramFiles                   C:\Program Files
+    2664 explorer.exe         0x00000000040daac0 ProgramFiles(x86)              C:\Program Files (x86)
+    2664 explorer.exe         0x00000000040daac0 ProgramW6432                   C:\Program Files
+    2664 explorer.exe         0x00000000040daac0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2664 explorer.exe         0x00000000040daac0 PUBLIC                         C:\Users\Public
+    2664 explorer.exe         0x00000000040daac0 SESSIONNAME                    Console
+    2664 explorer.exe         0x00000000040daac0 SystemDrive                    C:
+    2664 explorer.exe         0x00000000040daac0 SystemRoot                     C:\Windows
+    2664 explorer.exe         0x00000000040daac0 TEMP                           C:\Users\SmartNet\AppData\Local\Temp
+    2664 explorer.exe         0x00000000040daac0 TMP                            C:\Users\SmartNet\AppData\Local\Temp
+    2664 explorer.exe         0x00000000040daac0 USERDOMAIN                     SmartNet-PC
+    2664 explorer.exe         0x00000000040daac0 USERNAME                       SmartNet
+    2664 explorer.exe         0x00000000040daac0 USERPROFILE                    C:\Users\SmartNet
+    2664 explorer.exe         0x00000000040daac0 windir                         C:\Windows
+    2664 explorer.exe         0x00000000040daac0 windows_tracing_flags          3
+    2664 explorer.exe         0x00000000040daac0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2792 VBoxTray.exe         0x00000000004c1320 ALLUSERSPROFILE                C:\ProgramData
+    2792 VBoxTray.exe         0x00000000004c1320 APPDATA                        C:\Users\SmartNet\AppData\Roaming
+    2792 VBoxTray.exe         0x00000000004c1320 CommonProgramFiles             C:\Program Files\Common Files
+    2792 VBoxTray.exe         0x00000000004c1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2792 VBoxTray.exe         0x00000000004c1320 CommonProgramW6432             C:\Program Files\Common Files
+    2792 VBoxTray.exe         0x00000000004c1320 COMPUTERNAME                   SMARTNET-PC
+    2792 VBoxTray.exe         0x00000000004c1320 ComSpec                        C:\Windows\system32\cmd.exe
+    2792 VBoxTray.exe         0x00000000004c1320 FP_NO_HOST_CHECK               NO
+    2792 VBoxTray.exe         0x00000000004c1320 HOMEDRIVE                      C:
+    2792 VBoxTray.exe         0x00000000004c1320 HOMEPATH                       \Users\SmartNet
+    2792 VBoxTray.exe         0x00000000004c1320 LOCALAPPDATA                   C:\Users\SmartNet\AppData\Local
+    2792 VBoxTray.exe         0x00000000004c1320 LOGONSERVER                    \\SMARTNET-PC
+    2792 VBoxTray.exe         0x00000000004c1320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    2792 VBoxTray.exe         0x00000000004c1320 NUMBER_OF_PROCESSORS           1
+    2792 VBoxTray.exe         0x00000000004c1320 OS                             Windows_NT
+    2792 VBoxTray.exe         0x00000000004c1320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2792 VBoxTray.exe         0x00000000004c1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2792 VBoxTray.exe         0x00000000004c1320 PROCESSOR_ARCHITECTURE         AMD64
+    2792 VBoxTray.exe         0x00000000004c1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    2792 VBoxTray.exe         0x00000000004c1320 PROCESSOR_LEVEL                6
+    2792 VBoxTray.exe         0x00000000004c1320 PROCESSOR_REVISION             8e09
+    2792 VBoxTray.exe         0x00000000004c1320 ProgramData                    C:\ProgramData
+    2792 VBoxTray.exe         0x00000000004c1320 ProgramFiles                   C:\Program Files
+    2792 VBoxTray.exe         0x00000000004c1320 ProgramFiles(x86)              C:\Program Files (x86)
+    2792 VBoxTray.exe         0x00000000004c1320 ProgramW6432                   C:\Program Files
+    2792 VBoxTray.exe         0x00000000004c1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2792 VBoxTray.exe         0x00000000004c1320 PUBLIC                         C:\Users\Public
+    2792 VBoxTray.exe         0x00000000004c1320 SESSIONNAME                    Console
+    2792 VBoxTray.exe         0x00000000004c1320 SystemDrive                    C:
+    2792 VBoxTray.exe         0x00000000004c1320 SystemRoot                     C:\Windows
+    2792 VBoxTray.exe         0x00000000004c1320 TEMP                           C:\Users\SmartNet\AppData\Local\Temp
+    2792 VBoxTray.exe         0x00000000004c1320 TMP                            C:\Users\SmartNet\AppData\Local\Temp
+    2792 VBoxTray.exe         0x00000000004c1320 USERDOMAIN                     SmartNet-PC
+    2792 VBoxTray.exe         0x00000000004c1320 USERNAME                       SmartNet
+    2792 VBoxTray.exe         0x00000000004c1320 USERPROFILE                    C:\Users\SmartNet
+    2792 VBoxTray.exe         0x00000000004c1320 windir                         C:\Windows
+    2792 VBoxTray.exe         0x00000000004c1320 windows_tracing_flags          3
+    2792 VBoxTray.exe         0x00000000004c1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2096 cmd.exe              0x00000000000ec300 ALLUSERSPROFILE                C:\ProgramData
+    2096 cmd.exe              0x00000000000ec300 APPDATA                        C:\Users\SmartNet\AppData\Roaming
+    2096 cmd.exe              0x00000000000ec300 CommonProgramFiles             C:\Program Files\Common Files
+    2096 cmd.exe              0x00000000000ec300 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2096 cmd.exe              0x00000000000ec300 CommonProgramW6432             C:\Program Files\Common Files
+    2096 cmd.exe              0x00000000000ec300 COMPUTERNAME                   SMARTNET-PC
+    2096 cmd.exe              0x00000000000ec300 ComSpec                        C:\Windows\system32\cmd.exe
+    2096 cmd.exe              0x00000000000ec300 FP_NO_HOST_CHECK               NO
+    2096 cmd.exe              0x00000000000ec300 HOMEDRIVE                      C:
+    2096 cmd.exe              0x00000000000ec300 HOMEPATH                       \Users\SmartNet
+    2096 cmd.exe              0x00000000000ec300 LOCALAPPDATA                   C:\Users\SmartNet\AppData\Local
+    2096 cmd.exe              0x00000000000ec300 LOGONSERVER                    \\SMARTNET-PC
+    2096 cmd.exe              0x00000000000ec300 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    2096 cmd.exe              0x00000000000ec300 NUMBER_OF_PROCESSORS           1
+    2096 cmd.exe              0x00000000000ec300 OS                             Windows_NT
+    2096 cmd.exe              0x00000000000ec300 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2096 cmd.exe              0x00000000000ec300 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2096 cmd.exe              0x00000000000ec300 PROCESSOR_ARCHITECTURE         AMD64
+    2096 cmd.exe              0x00000000000ec300 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    2096 cmd.exe              0x00000000000ec300 PROCESSOR_LEVEL                6
+    2096 cmd.exe              0x00000000000ec300 PROCESSOR_REVISION             8e09
+    2096 cmd.exe              0x00000000000ec300 ProgramData                    C:\ProgramData
+    2096 cmd.exe              0x00000000000ec300 ProgramFiles                   C:\Program Files
+    2096 cmd.exe              0x00000000000ec300 ProgramFiles(x86)              C:\Program Files (x86)
+    2096 cmd.exe              0x00000000000ec300 ProgramW6432                   C:\Program Files
+    2096 cmd.exe              0x00000000000ec300 PROMPT                         $P$G
+    2096 cmd.exe              0x00000000000ec300 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2096 cmd.exe              0x00000000000ec300 PUBLIC                         C:\Users\Public
+    2096 cmd.exe              0x00000000000ec300 SESSIONNAME                    Console
+    2096 cmd.exe              0x00000000000ec300 SystemDrive                    C:
+    2096 cmd.exe              0x00000000000ec300 SystemRoot                     C:\Windows
+    2096 cmd.exe              0x00000000000ec300 TEMP                           C:\Users\SmartNet\AppData\Local\Temp
+    2096 cmd.exe              0x00000000000ec300 TMP                            C:\Users\SmartNet\AppData\Local\Temp
+    2096 cmd.exe              0x00000000000ec300 USERDOMAIN                     SmartNet-PC
+    2096 cmd.exe              0x00000000000ec300 USERNAME                       SmartNet
+    2096 cmd.exe              0x00000000000ec300 USERPROFILE                    C:\Users\SmartNet
+    2096 cmd.exe              0x00000000000ec300 windir                         C:\Windows
+    2096 cmd.exe              0x00000000000ec300 windows_tracing_flags          3
+    2096 cmd.exe              0x00000000000ec300 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2068 conhost.exe          0x00000000003bd810 CommonProgramFiles             C:\Program Files\Common Files
+    2068 conhost.exe          0x00000000003bd810 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2068 conhost.exe          0x00000000003bd810 CommonProgramW6432             C:\Program Files\Common Files
+    2068 conhost.exe          0x00000000003bd810 ComSpec                        C:\Windows\system32\cmd.exe
+    2068 conhost.exe          0x00000000003bd810 FP_NO_HOST_CHECK               NO
+    2068 conhost.exe          0x00000000003bd810 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    2068 conhost.exe          0x00000000003bd810 NUMBER_OF_PROCESSORS           1
+    2068 conhost.exe          0x00000000003bd810 OS                             Windows_NT
+    2068 conhost.exe          0x00000000003bd810 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2068 conhost.exe          0x00000000003bd810 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2068 conhost.exe          0x00000000003bd810 PROCESSOR_ARCHITECTURE         AMD64
+    2068 conhost.exe          0x00000000003bd810 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    2068 conhost.exe          0x00000000003bd810 PROCESSOR_LEVEL                6
+    2068 conhost.exe          0x00000000003bd810 PROCESSOR_REVISION             8e09
+    2068 conhost.exe          0x00000000003bd810 ProgramFiles                   C:\Program Files
+    2068 conhost.exe          0x00000000003bd810 ProgramFiles(x86)              C:\Program Files (x86)
+    2068 conhost.exe          0x00000000003bd810 ProgramW6432                   C:\Program Files
+    2068 conhost.exe          0x00000000003bd810 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2068 conhost.exe          0x00000000003bd810 SystemDrive                    C:
+    2068 conhost.exe          0x00000000003bd810 SystemRoot                     C:\Windows
+    2068 conhost.exe          0x00000000003bd810 TEMP                           C:\Windows\TEMP
+    2068 conhost.exe          0x00000000003bd810 TMP                            C:\Windows\TEMP
+    2068 conhost.exe          0x00000000003bd810 USERNAME                       SYSTEM
+    2068 conhost.exe          0x00000000003bd810 windir                         C:\Windows
+    2068 conhost.exe          0x00000000003bd810 windows_tracing_flags          3
+    2068 conhost.exe          0x00000000003bd810 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2296 chrome.exe           0x0000000000a56d70 ALLUSERSPROFILE                C:\ProgramData
+    2296 chrome.exe           0x0000000000a56d70 APPDATA                        C:\Users\SmartNet\AppData\Roaming
+    2296 chrome.exe           0x0000000000a56d70 CHROME_CRASHPAD_PIPE_NAME      \\.\pipe\crashpad_2296_MSSSOTVMSMVDHOUV
+    2296 chrome.exe           0x0000000000a56d70 CHROME_RESTART                 Google Chrome|Whoa! Google Chrome has crashed. Relaunch now?|LEFT_TO_RIGHT
+    2296 chrome.exe           0x0000000000a56d70 CommonProgramFiles             C:\Program Files\Common Files
+    2296 chrome.exe           0x0000000000a56d70 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2296 chrome.exe           0x0000000000a56d70 CommonProgramW6432             C:\Program Files\Common Files
+    2296 chrome.exe           0x0000000000a56d70 COMPUTERNAME                   SMARTNET-PC
+    2296 chrome.exe           0x0000000000a56d70 ComSpec                        C:\Windows\system32\cmd.exe
+    2296 chrome.exe           0x0000000000a56d70 FP_NO_HOST_CHECK               NO
+    2296 chrome.exe           0x0000000000a56d70 HOMEDRIVE                      C:
+    2296 chrome.exe           0x0000000000a56d70 HOMEPATH                       \Users\SmartNet
+    2296 chrome.exe           0x0000000000a56d70 LOCALAPPDATA                   C:\Users\SmartNet\AppData\Local
+    2296 chrome.exe           0x0000000000a56d70 LOGONSERVER                    \\SMARTNET-PC
+    2296 chrome.exe           0x0000000000a56d70 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    2296 chrome.exe           0x0000000000a56d70 NUMBER_OF_PROCESSORS           1
+    2296 chrome.exe           0x0000000000a56d70 OS                             Windows_NT
+    2296 chrome.exe           0x0000000000a56d70 Path                           C:\Program Files (x86)\Google\Chrome\Application;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2296 chrome.exe           0x0000000000a56d70 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2296 chrome.exe           0x0000000000a56d70 PROCESSOR_ARCHITECTURE         AMD64
+    2296 chrome.exe           0x0000000000a56d70 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    2296 chrome.exe           0x0000000000a56d70 PROCESSOR_LEVEL                6
+    2296 chrome.exe           0x0000000000a56d70 PROCESSOR_REVISION             8e09
+    2296 chrome.exe           0x0000000000a56d70 ProgramData                    C:\ProgramData
+    2296 chrome.exe           0x0000000000a56d70 ProgramFiles                   C:\Program Files
+    2296 chrome.exe           0x0000000000a56d70 ProgramFiles(x86)              C:\Program Files (x86)
+    2296 chrome.exe           0x0000000000a56d70 ProgramW6432                   C:\Program Files
+    2296 chrome.exe           0x0000000000a56d70 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2296 chrome.exe           0x0000000000a56d70 PUBLIC                         C:\Users\Public
+    2296 chrome.exe           0x0000000000a56d70 SESSIONNAME                    Console
+    2296 chrome.exe           0x0000000000a56d70 SystemDrive                    C:
+    2296 chrome.exe           0x0000000000a56d70 SystemRoot                     C:\Windows
+    2296 chrome.exe           0x0000000000a56d70 TEMP                           C:\Users\SmartNet\AppData\Local\Temp
+    2296 chrome.exe           0x0000000000a56d70 TMP                            C:\Users\SmartNet\AppData\Local\Temp
+    2296 chrome.exe           0x0000000000a56d70 USERDOMAIN                     SmartNet-PC
+    2296 chrome.exe           0x0000000000a56d70 USERNAME                       SmartNet
+    2296 chrome.exe           0x0000000000a56d70 USERPROFILE                    C:\Users\SmartNet
+    2296 chrome.exe           0x0000000000a56d70 windir                         C:\Windows
+    2296 chrome.exe           0x0000000000a56d70 windows_tracing_flags          3
+    2296 chrome.exe           0x0000000000a56d70 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2304 chrome.exe           0x0000000000a81320 ALLUSERSPROFILE                C:\ProgramData
+    2304 chrome.exe           0x0000000000a81320 APPDATA                        C:\Users\SmartNet\AppData\Roaming
+    2304 chrome.exe           0x0000000000a81320 CommonProgramFiles             C:\Program Files\Common Files
+    2304 chrome.exe           0x0000000000a81320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2304 chrome.exe           0x0000000000a81320 CommonProgramW6432             C:\Program Files\Common Files
+    2304 chrome.exe           0x0000000000a81320 COMPUTERNAME                   SMARTNET-PC
+    2304 chrome.exe           0x0000000000a81320 ComSpec                        C:\Windows\system32\cmd.exe
+    2304 chrome.exe           0x0000000000a81320 FP_NO_HOST_CHECK               NO
+    2304 chrome.exe           0x0000000000a81320 HOMEDRIVE                      C:
+    2304 chrome.exe           0x0000000000a81320 HOMEPATH                       \Users\SmartNet
+    2304 chrome.exe           0x0000000000a81320 LOCALAPPDATA                   C:\Users\SmartNet\AppData\Local
+    2304 chrome.exe           0x0000000000a81320 LOGONSERVER                    \\SMARTNET-PC
+    2304 chrome.exe           0x0000000000a81320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    2304 chrome.exe           0x0000000000a81320 NUMBER_OF_PROCESSORS           1
+    2304 chrome.exe           0x0000000000a81320 OS                             Windows_NT
+    2304 chrome.exe           0x0000000000a81320 Path                           C:\Program Files (x86)\Google\Chrome\Application;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2304 chrome.exe           0x0000000000a81320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2304 chrome.exe           0x0000000000a81320 PROCESSOR_ARCHITECTURE         AMD64
+    2304 chrome.exe           0x0000000000a81320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    2304 chrome.exe           0x0000000000a81320 PROCESSOR_LEVEL                6
+    2304 chrome.exe           0x0000000000a81320 PROCESSOR_REVISION             8e09
+    2304 chrome.exe           0x0000000000a81320 ProgramData                    C:\ProgramData
+    2304 chrome.exe           0x0000000000a81320 ProgramFiles                   C:\Program Files
+    2304 chrome.exe           0x0000000000a81320 ProgramFiles(x86)              C:\Program Files (x86)
+    2304 chrome.exe           0x0000000000a81320 ProgramW6432                   C:\Program Files
+    2304 chrome.exe           0x0000000000a81320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2304 chrome.exe           0x0000000000a81320 PUBLIC                         C:\Users\Public
+    2304 chrome.exe           0x0000000000a81320 SESSIONNAME                    Console
+    2304 chrome.exe           0x0000000000a81320 SystemDrive                    C:
+    2304 chrome.exe           0x0000000000a81320 SystemRoot                     C:\Windows
+    2304 chrome.exe           0x0000000000a81320 TEMP                           C:\Users\SmartNet\AppData\Local\Temp
+    2304 chrome.exe           0x0000000000a81320 TMP                            C:\Users\SmartNet\AppData\Local\Temp
+    2304 chrome.exe           0x0000000000a81320 USERDOMAIN                     SmartNet-PC
+    2304 chrome.exe           0x0000000000a81320 USERNAME                       SmartNet
+    2304 chrome.exe           0x0000000000a81320 USERPROFILE                    C:\Users\SmartNet
+    2304 chrome.exe           0x0000000000a81320 windir                         C:\Windows
+    2304 chrome.exe           0x0000000000a81320 windows_tracing_flags          3
+    2304 chrome.exe           0x0000000000a81320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2476 chrome.exe           0x0000000000b21320 ALLUSERSPROFILE                C:\ProgramData
+    2476 chrome.exe           0x0000000000b21320 APPDATA                        C:\Users\SmartNet\AppData\Roaming
+    2476 chrome.exe           0x0000000000b21320 CHROME_CRASHPAD_PIPE_NAME      \\.\pipe\crashpad_2296_MSSSOTVMSMVDHOUV
+    2476 chrome.exe           0x0000000000b21320 CommonProgramFiles             C:\Program Files\Common Files
+    2476 chrome.exe           0x0000000000b21320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2476 chrome.exe           0x0000000000b21320 CommonProgramW6432             C:\Program Files\Common Files
+    2476 chrome.exe           0x0000000000b21320 COMPUTERNAME                   SMARTNET-PC
+    2476 chrome.exe           0x0000000000b21320 ComSpec                        C:\Windows\system32\cmd.exe
+    2476 chrome.exe           0x0000000000b21320 FP_NO_HOST_CHECK               NO
+    2476 chrome.exe           0x0000000000b21320 HOMEDRIVE                      C:
+    2476 chrome.exe           0x0000000000b21320 HOMEPATH                       \Users\SmartNet
+    2476 chrome.exe           0x0000000000b21320 LOCALAPPDATA                   C:\Users\SmartNet\AppData\Local
+    2476 chrome.exe           0x0000000000b21320 LOGONSERVER                    \\SMARTNET-PC
+    2476 chrome.exe           0x0000000000b21320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    2476 chrome.exe           0x0000000000b21320 NUMBER_OF_PROCESSORS           1
+    2476 chrome.exe           0x0000000000b21320 OS                             Windows_NT
+    2476 chrome.exe           0x0000000000b21320 Path                           C:\Program Files (x86)\Google\Chrome\Application;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2476 chrome.exe           0x0000000000b21320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2476 chrome.exe           0x0000000000b21320 PROCESSOR_ARCHITECTURE         AMD64
+    2476 chrome.exe           0x0000000000b21320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    2476 chrome.exe           0x0000000000b21320 PROCESSOR_LEVEL                6
+    2476 chrome.exe           0x0000000000b21320 PROCESSOR_REVISION             8e09
+    2476 chrome.exe           0x0000000000b21320 ProgramData                    C:\ProgramData
+    2476 chrome.exe           0x0000000000b21320 ProgramFiles                   C:\Program Files
+    2476 chrome.exe           0x0000000000b21320 ProgramFiles(x86)              C:\Program Files (x86)
+    2476 chrome.exe           0x0000000000b21320 ProgramW6432                   C:\Program Files
+    2476 chrome.exe           0x0000000000b21320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2476 chrome.exe           0x0000000000b21320 PUBLIC                         C:\Users\Public
+    2476 chrome.exe           0x0000000000b21320 SESSIONNAME                    Console
+    2476 chrome.exe           0x0000000000b21320 SystemDrive                    C:
+    2476 chrome.exe           0x0000000000b21320 SystemRoot                     C:\Windows
+    2476 chrome.exe           0x0000000000b21320 TEMP                           C:\Users\SmartNet\AppData\Local\Temp
+    2476 chrome.exe           0x0000000000b21320 TMP                            C:\Users\SmartNet\AppData\Local\Temp
+    2476 chrome.exe           0x0000000000b21320 USERDOMAIN                     SmartNet-PC
+    2476 chrome.exe           0x0000000000b21320 USERNAME                       SmartNet
+    2476 chrome.exe           0x0000000000b21320 USERPROFILE                    C:\Users\SmartNet
+    2476 chrome.exe           0x0000000000b21320 windir                         C:\Windows
+    2476 chrome.exe           0x0000000000b21320 windows_tracing_flags          3
+    2476 chrome.exe           0x0000000000b21320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2964 chrome.exe           0x00000000000e1320 ALLUSERSPROFILE                C:\ProgramData
+    2964 chrome.exe           0x00000000000e1320 APPDATA                        C:\Users\SmartNet\AppData\Roaming
+    2964 chrome.exe           0x00000000000e1320 CHROME_CRASHPAD_PIPE_NAME      \\.\pipe\crashpad_2296_MSSSOTVMSMVDHOUV
+    2964 chrome.exe           0x00000000000e1320 CommonProgramFiles             C:\Program Files\Common Files
+    2964 chrome.exe           0x00000000000e1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2964 chrome.exe           0x00000000000e1320 CommonProgramW6432             C:\Program Files\Common Files
+    2964 chrome.exe           0x00000000000e1320 COMPUTERNAME                   SMARTNET-PC
+    2964 chrome.exe           0x00000000000e1320 ComSpec                        C:\Windows\system32\cmd.exe
+    2964 chrome.exe           0x00000000000e1320 FP_NO_HOST_CHECK               NO
+    2964 chrome.exe           0x00000000000e1320 HOMEDRIVE                      C:
+    2964 chrome.exe           0x00000000000e1320 HOMEPATH                       \Users\SmartNet
+    2964 chrome.exe           0x00000000000e1320 LOCALAPPDATA                   C:\Users\SmartNet\AppData\Local
+    2964 chrome.exe           0x00000000000e1320 LOGONSERVER                    \\SMARTNET-PC
+    2964 chrome.exe           0x00000000000e1320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    2964 chrome.exe           0x00000000000e1320 NUMBER_OF_PROCESSORS           1
+    2964 chrome.exe           0x00000000000e1320 OS                             Windows_NT
+    2964 chrome.exe           0x00000000000e1320 Path                           C:\Program Files (x86)\Google\Chrome\Application;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2964 chrome.exe           0x00000000000e1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2964 chrome.exe           0x00000000000e1320 PROCESSOR_ARCHITECTURE         AMD64
+    2964 chrome.exe           0x00000000000e1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    2964 chrome.exe           0x00000000000e1320 PROCESSOR_LEVEL                6
+    2964 chrome.exe           0x00000000000e1320 PROCESSOR_REVISION             8e09
+    2964 chrome.exe           0x00000000000e1320 ProgramData                    C:\ProgramData
+    2964 chrome.exe           0x00000000000e1320 ProgramFiles                   C:\Program Files
+    2964 chrome.exe           0x00000000000e1320 ProgramFiles(x86)              C:\Program Files (x86)
+    2964 chrome.exe           0x00000000000e1320 ProgramW6432                   C:\Program Files
+    2964 chrome.exe           0x00000000000e1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2964 chrome.exe           0x00000000000e1320 PUBLIC                         C:\Users\Public
+    2964 chrome.exe           0x00000000000e1320 SESSIONNAME                    Console
+    2964 chrome.exe           0x00000000000e1320 SystemDrive                    C:
+    2964 chrome.exe           0x00000000000e1320 SystemRoot                     C:\Windows
+    2964 chrome.exe           0x00000000000e1320 TEMP                           C:\Users\SmartNet\AppData\Local\Temp
+    2964 chrome.exe           0x00000000000e1320 TMP                            C:\Users\SmartNet\AppData\Local\Temp
+    2964 chrome.exe           0x00000000000e1320 USERDOMAIN                     SmartNet-PC
+    2964 chrome.exe           0x00000000000e1320 USERNAME                       SmartNet
+    2964 chrome.exe           0x00000000000e1320 USERPROFILE                    C:\Users\SmartNet
+    2964 chrome.exe           0x00000000000e1320 windir                         C:\Windows
+    2964 chrome.exe           0x00000000000e1320 windows_tracing_flags          3
+    2964 chrome.exe           0x00000000000e1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2572 chrome.exe           0x00000000008b1320 ALLUSERSPROFILE                C:\ProgramData
+    2572 chrome.exe           0x00000000008b1320 APPDATA                        C:\Users\SmartNet\AppData\Roaming
+    2572 chrome.exe           0x00000000008b1320 CHROME_CRASHPAD_PIPE_NAME      \\.\pipe\crashpad_2296_MSSSOTVMSMVDHOUV
+    2572 chrome.exe           0x00000000008b1320 CHROME_RESTART                 Google Chrome|Whoa! Google Chrome has crashed. Relaunch now?|LEFT_TO_RIGHT
+    2572 chrome.exe           0x00000000008b1320 CommonProgramFiles             C:\Program Files\Common Files
+    2572 chrome.exe           0x00000000008b1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2572 chrome.exe           0x00000000008b1320 CommonProgramW6432             C:\Program Files\Common Files
+    2572 chrome.exe           0x00000000008b1320 COMPUTERNAME                   SMARTNET-PC
+    2572 chrome.exe           0x00000000008b1320 ComSpec                        C:\Windows\system32\cmd.exe
+    2572 chrome.exe           0x00000000008b1320 FP_NO_HOST_CHECK               NO
+    2572 chrome.exe           0x00000000008b1320 HOMEDRIVE                      C:
+    2572 chrome.exe           0x00000000008b1320 HOMEPATH                       \Users\SmartNet
+    2572 chrome.exe           0x00000000008b1320 LOCALAPPDATA                   C:\Users\SmartNet\AppData\Local
+    2572 chrome.exe           0x00000000008b1320 LOGONSERVER                    \\SMARTNET-PC
+    2572 chrome.exe           0x00000000008b1320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    2572 chrome.exe           0x00000000008b1320 NUMBER_OF_PROCESSORS           1
+    2572 chrome.exe           0x00000000008b1320 OS                             Windows_NT
+    2572 chrome.exe           0x00000000008b1320 Path                           C:\Program Files (x86)\Google\Chrome\Application;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2572 chrome.exe           0x00000000008b1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2572 chrome.exe           0x00000000008b1320 PROCESSOR_ARCHITECTURE         AMD64
+    2572 chrome.exe           0x00000000008b1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    2572 chrome.exe           0x00000000008b1320 PROCESSOR_LEVEL                6
+    2572 chrome.exe           0x00000000008b1320 PROCESSOR_REVISION             8e09
+    2572 chrome.exe           0x00000000008b1320 ProgramData                    C:\ProgramData
+    2572 chrome.exe           0x00000000008b1320 ProgramFiles                   C:\Program Files
+    2572 chrome.exe           0x00000000008b1320 ProgramFiles(x86)              C:\Program Files (x86)
+    2572 chrome.exe           0x00000000008b1320 ProgramW6432                   C:\Program Files
+    2572 chrome.exe           0x00000000008b1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2572 chrome.exe           0x00000000008b1320 PUBLIC                         C:\Users\Public
+    2572 chrome.exe           0x00000000008b1320 SESSIONNAME                    Console
+    2572 chrome.exe           0x00000000008b1320 SystemDrive                    C:
+    2572 chrome.exe           0x00000000008b1320 SystemRoot                     C:\Windows
+    2572 chrome.exe           0x00000000008b1320 TEMP                           C:\Users\SmartNet\AppData\Local\Temp
+    2572 chrome.exe           0x00000000008b1320 TMP                            C:\Users\SmartNet\AppData\Local\Temp
+    2572 chrome.exe           0x00000000008b1320 USERDOMAIN                     SmartNet-PC
+    2572 chrome.exe           0x00000000008b1320 USERNAME                       SmartNet
+    2572 chrome.exe           0x00000000008b1320 USERPROFILE                    C:\Users\SmartNet
+    2572 chrome.exe           0x00000000008b1320 windir                         C:\Windows
+    2572 chrome.exe           0x00000000008b1320 windows_tracing_flags          3
+    2572 chrome.exe           0x00000000008b1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2636 WmiPrvSE.exe         0x0000000000221320 ALLUSERSPROFILE                C:\ProgramData
+    2636 WmiPrvSE.exe         0x0000000000221320 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    2636 WmiPrvSE.exe         0x0000000000221320 CommonProgramFiles             C:\Program Files\Common Files
+    2636 WmiPrvSE.exe         0x0000000000221320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2636 WmiPrvSE.exe         0x0000000000221320 CommonProgramW6432             C:\Program Files\Common Files
+    2636 WmiPrvSE.exe         0x0000000000221320 COMPUTERNAME                   SMARTNET-PC
+    2636 WmiPrvSE.exe         0x0000000000221320 ComSpec                        C:\Windows\system32\cmd.exe
+    2636 WmiPrvSE.exe         0x0000000000221320 FP_NO_HOST_CHECK               NO
+    2636 WmiPrvSE.exe         0x0000000000221320 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    2636 WmiPrvSE.exe         0x0000000000221320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    2636 WmiPrvSE.exe         0x0000000000221320 NUMBER_OF_PROCESSORS           1
+    2636 WmiPrvSE.exe         0x0000000000221320 OS                             Windows_NT
+    2636 WmiPrvSE.exe         0x0000000000221320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2636 WmiPrvSE.exe         0x0000000000221320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2636 WmiPrvSE.exe         0x0000000000221320 PROCESSOR_ARCHITECTURE         AMD64
+    2636 WmiPrvSE.exe         0x0000000000221320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    2636 WmiPrvSE.exe         0x0000000000221320 PROCESSOR_LEVEL                6
+    2636 WmiPrvSE.exe         0x0000000000221320 PROCESSOR_REVISION             8e09
+    2636 WmiPrvSE.exe         0x0000000000221320 ProgramData                    C:\ProgramData
+    2636 WmiPrvSE.exe         0x0000000000221320 ProgramFiles                   C:\Program Files
+    2636 WmiPrvSE.exe         0x0000000000221320 ProgramFiles(x86)              C:\Program Files (x86)
+    2636 WmiPrvSE.exe         0x0000000000221320 ProgramW6432                   C:\Program Files
+    2636 WmiPrvSE.exe         0x0000000000221320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2636 WmiPrvSE.exe         0x0000000000221320 PUBLIC                         C:\Users\Public
+    2636 WmiPrvSE.exe         0x0000000000221320 SystemDrive                    C:
+    2636 WmiPrvSE.exe         0x0000000000221320 SystemRoot                     C:\Windows
+    2636 WmiPrvSE.exe         0x0000000000221320 TEMP                           C:\Windows\TEMP
+    2636 WmiPrvSE.exe         0x0000000000221320 TMP                            C:\Windows\TEMP
+    2636 WmiPrvSE.exe         0x0000000000221320 USERDOMAIN                     WORKGROUP
+    2636 WmiPrvSE.exe         0x0000000000221320 USERNAME                       SMARTNET-PC$
+    2636 WmiPrvSE.exe         0x0000000000221320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    2636 WmiPrvSE.exe         0x0000000000221320 windir                         C:\Windows
+    2636 WmiPrvSE.exe         0x0000000000221320 windows_tracing_flags          3
+    2636 WmiPrvSE.exe         0x0000000000221320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2004 WmiApSrv.exe         0x0000000000351320 ALLUSERSPROFILE                C:\ProgramData
+    2004 WmiApSrv.exe         0x0000000000351320 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    2004 WmiApSrv.exe         0x0000000000351320 CommonProgramFiles             C:\Program Files\Common Files
+    2004 WmiApSrv.exe         0x0000000000351320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2004 WmiApSrv.exe         0x0000000000351320 CommonProgramW6432             C:\Program Files\Common Files
+    2004 WmiApSrv.exe         0x0000000000351320 COMPUTERNAME                   SMARTNET-PC
+    2004 WmiApSrv.exe         0x0000000000351320 ComSpec                        C:\Windows\system32\cmd.exe
+    2004 WmiApSrv.exe         0x0000000000351320 FP_NO_HOST_CHECK               NO
+    2004 WmiApSrv.exe         0x0000000000351320 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    2004 WmiApSrv.exe         0x0000000000351320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    2004 WmiApSrv.exe         0x0000000000351320 NUMBER_OF_PROCESSORS           1
+    2004 WmiApSrv.exe         0x0000000000351320 OS                             Windows_NT
+    2004 WmiApSrv.exe         0x0000000000351320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2004 WmiApSrv.exe         0x0000000000351320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2004 WmiApSrv.exe         0x0000000000351320 PROCESSOR_ARCHITECTURE         AMD64
+    2004 WmiApSrv.exe         0x0000000000351320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    2004 WmiApSrv.exe         0x0000000000351320 PROCESSOR_LEVEL                6
+    2004 WmiApSrv.exe         0x0000000000351320 PROCESSOR_REVISION             8e09
+    2004 WmiApSrv.exe         0x0000000000351320 ProgramData                    C:\ProgramData
+    2004 WmiApSrv.exe         0x0000000000351320 ProgramFiles                   C:\Program Files
+    2004 WmiApSrv.exe         0x0000000000351320 ProgramFiles(x86)              C:\Program Files (x86)
+    2004 WmiApSrv.exe         0x0000000000351320 ProgramW6432                   C:\Program Files
+    2004 WmiApSrv.exe         0x0000000000351320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2004 WmiApSrv.exe         0x0000000000351320 PUBLIC                         C:\Users\Public
+    2004 WmiApSrv.exe         0x0000000000351320 SystemDrive                    C:
+    2004 WmiApSrv.exe         0x0000000000351320 SystemRoot                     C:\Windows
+    2004 WmiApSrv.exe         0x0000000000351320 TEMP                           C:\Windows\TEMP
+    2004 WmiApSrv.exe         0x0000000000351320 TMP                            C:\Windows\TEMP
+    2004 WmiApSrv.exe         0x0000000000351320 USERDOMAIN                     WORKGROUP
+    2004 WmiApSrv.exe         0x0000000000351320 USERNAME                       SMARTNET-PC$
+    2004 WmiApSrv.exe         0x0000000000351320 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    2004 WmiApSrv.exe         0x0000000000351320 windir                         C:\Windows
+    2004 WmiApSrv.exe         0x0000000000351320 windows_tracing_flags          3
+    2004 WmiApSrv.exe         0x0000000000351320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1632 chrome.exe           0x0000000000941320 ALLUSERSPROFILE                C:\ProgramData
+    1632 chrome.exe           0x0000000000941320 APPDATA                        C:\Users\SmartNet\AppData\Roaming
+    1632 chrome.exe           0x0000000000941320 CHROME_CRASHPAD_PIPE_NAME      \\.\pipe\crashpad_2296_MSSSOTVMSMVDHOUV
+    1632 chrome.exe           0x0000000000941320 CHROME_RESTART                 Google Chrome|Whoa! Google Chrome has crashed. Relaunch now?|LEFT_TO_RIGHT
+    1632 chrome.exe           0x0000000000941320 CommonProgramFiles             C:\Program Files\Common Files
+    1632 chrome.exe           0x0000000000941320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1632 chrome.exe           0x0000000000941320 CommonProgramW6432             C:\Program Files\Common Files
+    1632 chrome.exe           0x0000000000941320 COMPUTERNAME                   SMARTNET-PC
+    1632 chrome.exe           0x0000000000941320 ComSpec                        C:\Windows\system32\cmd.exe
+    1632 chrome.exe           0x0000000000941320 FP_NO_HOST_CHECK               NO
+    1632 chrome.exe           0x0000000000941320 HOMEDRIVE                      C:
+    1632 chrome.exe           0x0000000000941320 HOMEPATH                       \Users\SmartNet
+    1632 chrome.exe           0x0000000000941320 LOCALAPPDATA                   C:\Users\SmartNet\AppData\Local
+    1632 chrome.exe           0x0000000000941320 LOGONSERVER                    \\SMARTNET-PC
+    1632 chrome.exe           0x0000000000941320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    1632 chrome.exe           0x0000000000941320 NUMBER_OF_PROCESSORS           1
+    1632 chrome.exe           0x0000000000941320 OS                             Windows_NT
+    1632 chrome.exe           0x0000000000941320 Path                           C:\Program Files (x86)\Google\Chrome\Application;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1632 chrome.exe           0x0000000000941320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1632 chrome.exe           0x0000000000941320 PROCESSOR_ARCHITECTURE         AMD64
+    1632 chrome.exe           0x0000000000941320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    1632 chrome.exe           0x0000000000941320 PROCESSOR_LEVEL                6
+    1632 chrome.exe           0x0000000000941320 PROCESSOR_REVISION             8e09
+    1632 chrome.exe           0x0000000000941320 ProgramData                    C:\ProgramData
+    1632 chrome.exe           0x0000000000941320 ProgramFiles                   C:\Program Files
+    1632 chrome.exe           0x0000000000941320 ProgramFiles(x86)              C:\Program Files (x86)
+    1632 chrome.exe           0x0000000000941320 ProgramW6432                   C:\Program Files
+    1632 chrome.exe           0x0000000000941320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1632 chrome.exe           0x0000000000941320 PUBLIC                         C:\Users\Public
+    1632 chrome.exe           0x0000000000941320 SESSIONNAME                    Console
+    1632 chrome.exe           0x0000000000941320 SystemDrive                    C:
+    1632 chrome.exe           0x0000000000941320 SystemRoot                     C:\Windows
+    1632 chrome.exe           0x0000000000941320 TEMP                           C:\Users\SmartNet\AppData\Local\Temp
+    1632 chrome.exe           0x0000000000941320 TMP                            C:\Users\SmartNet\AppData\Local\Temp
+    1632 chrome.exe           0x0000000000941320 USERDOMAIN                     SmartNet-PC
+    1632 chrome.exe           0x0000000000941320 USERNAME                       SmartNet
+    1632 chrome.exe           0x0000000000941320 USERPROFILE                    C:\Users\SmartNet
+    1632 chrome.exe           0x0000000000941320 windir                         C:\Windows
+    1632 chrome.exe           0x0000000000941320 windows_tracing_flags          3
+    1632 chrome.exe           0x0000000000941320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2376 dllhost.exe          0x0000000000221320 ALLUSERSPROFILE                C:\ProgramData
+    2376 dllhost.exe          0x0000000000221320 APPDATA                        C:\Users\Alissa Simpson\AppData\Roaming
+    2376 dllhost.exe          0x0000000000221320 CommonProgramFiles             C:\Program Files\Common Files
+    2376 dllhost.exe          0x0000000000221320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2376 dllhost.exe          0x0000000000221320 CommonProgramW6432             C:\Program Files\Common Files
+    2376 dllhost.exe          0x0000000000221320 COMPUTERNAME                   SMARTNET-PC
+    2376 dllhost.exe          0x0000000000221320 ComSpec                        C:\Windows\system32\cmd.exe
+    2376 dllhost.exe          0x0000000000221320 FP_NO_HOST_CHECK               NO
+    2376 dllhost.exe          0x0000000000221320 HOMEDRIVE                      C:
+    2376 dllhost.exe          0x0000000000221320 HOMEPATH                       \Users\Alissa Simpson
+    2376 dllhost.exe          0x0000000000221320 LOCALAPPDATA                   C:\Users\Alissa Simpson\AppData\Local
+    2376 dllhost.exe          0x0000000000221320 LOGONSERVER                    \\SMARTNET-PC
+    2376 dllhost.exe          0x0000000000221320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    2376 dllhost.exe          0x0000000000221320 NUMBER_OF_PROCESSORS           1
+    2376 dllhost.exe          0x0000000000221320 OS                             Windows_NT
+    2376 dllhost.exe          0x0000000000221320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2376 dllhost.exe          0x0000000000221320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2376 dllhost.exe          0x0000000000221320 PROCESSOR_ARCHITECTURE         AMD64
+    2376 dllhost.exe          0x0000000000221320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    2376 dllhost.exe          0x0000000000221320 PROCESSOR_LEVEL                6
+    2376 dllhost.exe          0x0000000000221320 PROCESSOR_REVISION             8e09
+    2376 dllhost.exe          0x0000000000221320 ProgramData                    C:\ProgramData
+    2376 dllhost.exe          0x0000000000221320 ProgramFiles                   C:\Program Files
+    2376 dllhost.exe          0x0000000000221320 ProgramFiles(x86)              C:\Program Files (x86)
+    2376 dllhost.exe          0x0000000000221320 ProgramW6432                   C:\Program Files
+    2376 dllhost.exe          0x0000000000221320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2376 dllhost.exe          0x0000000000221320 PUBLIC                         C:\Users\Public
+    2376 dllhost.exe          0x0000000000221320 SESSIONNAME                    Console
+    2376 dllhost.exe          0x0000000000221320 SystemDrive                    C:
+    2376 dllhost.exe          0x0000000000221320 SystemRoot                     C:\Windows
+    2376 dllhost.exe          0x0000000000221320 TEMP                           C:\Users\ALISSA~1\AppData\Local\Temp
+    2376 dllhost.exe          0x0000000000221320 TMP                            C:\Users\ALISSA~1\AppData\Local\Temp
+    2376 dllhost.exe          0x0000000000221320 USERDOMAIN                     SmartNet-PC
+    2376 dllhost.exe          0x0000000000221320 USERNAME                       Alissa Simpson
+    2376 dllhost.exe          0x0000000000221320 USERPROFILE                    C:\Users\Alissa Simpson
+    2376 dllhost.exe          0x0000000000221320 windir                         C:\Windows
+    2376 dllhost.exe          0x0000000000221320 windows_tracing_flags          3
+    2376 dllhost.exe          0x0000000000221320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    3008 KeePass.exe          0x0000000000161320 ALLUSERSPROFILE                C:\ProgramData
+    3008 KeePass.exe          0x0000000000161320 APPDATA                        C:\Users\Alissa Simpson\AppData\Roaming
+    3008 KeePass.exe          0x0000000000161320 CommonProgramFiles             C:\Program Files\Common Files
+    3008 KeePass.exe          0x0000000000161320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    3008 KeePass.exe          0x0000000000161320 CommonProgramW6432             C:\Program Files\Common Files
+    3008 KeePass.exe          0x0000000000161320 COMPUTERNAME                   SMARTNET-PC
+    3008 KeePass.exe          0x0000000000161320 ComSpec                        C:\Windows\system32\cmd.exe
+    3008 KeePass.exe          0x0000000000161320 FP_NO_HOST_CHECK               NO
+    3008 KeePass.exe          0x0000000000161320 HOMEDRIVE                      C:
+    3008 KeePass.exe          0x0000000000161320 HOMEPATH                       \Users\Alissa Simpson
+    3008 KeePass.exe          0x0000000000161320 LOCALAPPDATA                   C:\Users\Alissa Simpson\AppData\Local
+    3008 KeePass.exe          0x0000000000161320 LOGONSERVER                    \\SMARTNET-PC
+    3008 KeePass.exe          0x0000000000161320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    3008 KeePass.exe          0x0000000000161320 NUMBER_OF_PROCESSORS           1
+    3008 KeePass.exe          0x0000000000161320 OS                             Windows_NT
+    3008 KeePass.exe          0x0000000000161320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    3008 KeePass.exe          0x0000000000161320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    3008 KeePass.exe          0x0000000000161320 PROCESSOR_ARCHITECTURE         AMD64
+    3008 KeePass.exe          0x0000000000161320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    3008 KeePass.exe          0x0000000000161320 PROCESSOR_LEVEL                6
+    3008 KeePass.exe          0x0000000000161320 PROCESSOR_REVISION             8e09
+    3008 KeePass.exe          0x0000000000161320 ProgramData                    C:\ProgramData
+    3008 KeePass.exe          0x0000000000161320 ProgramFiles                   C:\Program Files
+    3008 KeePass.exe          0x0000000000161320 ProgramFiles(x86)              C:\Program Files (x86)
+    3008 KeePass.exe          0x0000000000161320 ProgramW6432                   C:\Program Files
+    3008 KeePass.exe          0x0000000000161320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    3008 KeePass.exe          0x0000000000161320 PUBLIC                         C:\Users\Public
+    3008 KeePass.exe          0x0000000000161320 SESSIONNAME                    Console
+    3008 KeePass.exe          0x0000000000161320 SystemDrive                    C:
+    3008 KeePass.exe          0x0000000000161320 SystemRoot                     C:\Windows
+    3008 KeePass.exe          0x0000000000161320 TEMP                           C:\Users\ALISSA~1\AppData\Local\Temp
+    3008 KeePass.exe          0x0000000000161320 TMP                            C:\Users\ALISSA~1\AppData\Local\Temp
+    3008 KeePass.exe          0x0000000000161320 USERDOMAIN                     SmartNet-PC
+    3008 KeePass.exe          0x0000000000161320 USERNAME                       Alissa Simpson
+    3008 KeePass.exe          0x0000000000161320 USERPROFILE                    C:\Users\Alissa Simpson
+    3008 KeePass.exe          0x0000000000161320 windir                         C:\Windows
+    3008 KeePass.exe          0x0000000000161320 windows_tracing_flags          3
+    3008 KeePass.exe          0x0000000000161320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2764 sppsvc.exe           0x0000000000251320 ALLUSERSPROFILE                C:\ProgramData
+    2764 sppsvc.exe           0x0000000000251320 APPDATA                        C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+    2764 sppsvc.exe           0x0000000000251320 CommonProgramFiles             C:\Program Files\Common Files
+    2764 sppsvc.exe           0x0000000000251320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2764 sppsvc.exe           0x0000000000251320 CommonProgramW6432             C:\Program Files\Common Files
+    2764 sppsvc.exe           0x0000000000251320 COMPUTERNAME                   SMARTNET-PC
+    2764 sppsvc.exe           0x0000000000251320 ComSpec                        C:\Windows\system32\cmd.exe
+    2764 sppsvc.exe           0x0000000000251320 FP_NO_HOST_CHECK               NO
+    2764 sppsvc.exe           0x0000000000251320 LOCALAPPDATA                   C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+    2764 sppsvc.exe           0x0000000000251320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    2764 sppsvc.exe           0x0000000000251320 NUMBER_OF_PROCESSORS           1
+    2764 sppsvc.exe           0x0000000000251320 OS                             Windows_NT
+    2764 sppsvc.exe           0x0000000000251320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2764 sppsvc.exe           0x0000000000251320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2764 sppsvc.exe           0x0000000000251320 PROCESSOR_ARCHITECTURE         AMD64
+    2764 sppsvc.exe           0x0000000000251320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    2764 sppsvc.exe           0x0000000000251320 PROCESSOR_LEVEL                6
+    2764 sppsvc.exe           0x0000000000251320 PROCESSOR_REVISION             8e09
+    2764 sppsvc.exe           0x0000000000251320 ProgramData                    C:\ProgramData
+    2764 sppsvc.exe           0x0000000000251320 ProgramFiles                   C:\Program Files
+    2764 sppsvc.exe           0x0000000000251320 ProgramFiles(x86)              C:\Program Files (x86)
+    2764 sppsvc.exe           0x0000000000251320 ProgramW6432                   C:\Program Files
+    2764 sppsvc.exe           0x0000000000251320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2764 sppsvc.exe           0x0000000000251320 PUBLIC                         C:\Users\Public
+    2764 sppsvc.exe           0x0000000000251320 SystemDrive                    C:
+    2764 sppsvc.exe           0x0000000000251320 SystemRoot                     C:\Windows
+    2764 sppsvc.exe           0x0000000000251320 TEMP                           C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    2764 sppsvc.exe           0x0000000000251320 TMP                            C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    2764 sppsvc.exe           0x0000000000251320 USERDOMAIN                     WORKGROUP
+    2764 sppsvc.exe           0x0000000000251320 USERNAME                       SMARTNET-PC$
+    2764 sppsvc.exe           0x0000000000251320 USERPROFILE                    C:\Windows\ServiceProfiles\NetworkService
+    2764 sppsvc.exe           0x0000000000251320 windir                         C:\Windows
+    2764 sppsvc.exe           0x0000000000251320 windows_tracing_flags          3
+    2764 sppsvc.exe           0x0000000000251320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1076 svchost.exe          0x00000000002ed130 ALLUSERSPROFILE                C:\ProgramData
+    1076 svchost.exe          0x00000000002ed130 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    1076 svchost.exe          0x00000000002ed130 CommonProgramFiles             C:\Program Files\Common Files
+    1076 svchost.exe          0x00000000002ed130 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1076 svchost.exe          0x00000000002ed130 CommonProgramW6432             C:\Program Files\Common Files
+    1076 svchost.exe          0x00000000002ed130 COMPUTERNAME                   SMARTNET-PC
+    1076 svchost.exe          0x00000000002ed130 ComSpec                        C:\Windows\system32\cmd.exe
+    1076 svchost.exe          0x00000000002ed130 FP_NO_HOST_CHECK               NO
+    1076 svchost.exe          0x00000000002ed130 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    1076 svchost.exe          0x00000000002ed130 MpConfig_ProductAppDataPath    C:\ProgramData\Microsoft\Windows Defender
+    1076 svchost.exe          0x00000000002ed130 MpConfig_ProductCodeName       AntiSpyware
+    1076 svchost.exe          0x00000000002ed130 MpConfig_ProductPath           c:\program files\windows defender
+    1076 svchost.exe          0x00000000002ed130 MpConfig_Produ...erAppDataPath C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\Windows Defender
+    1076 svchost.exe          0x00000000002ed130 MpConfig_ReportingGUID         3A7440FF-0620-4DCB-8EF9-4B9E2DF0D4C1
+    1076 svchost.exe          0x00000000002ed130 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    1076 svchost.exe          0x00000000002ed130 NUMBER_OF_PROCESSORS           1
+    1076 svchost.exe          0x00000000002ed130 OS                             Windows_NT
+    1076 svchost.exe          0x00000000002ed130 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1076 svchost.exe          0x00000000002ed130 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1076 svchost.exe          0x00000000002ed130 PROCESSOR_ARCHITECTURE         AMD64
+    1076 svchost.exe          0x00000000002ed130 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    1076 svchost.exe          0x00000000002ed130 PROCESSOR_LEVEL                6
+    1076 svchost.exe          0x00000000002ed130 PROCESSOR_REVISION             8e09
+    1076 svchost.exe          0x00000000002ed130 ProgramData                    C:\ProgramData
+    1076 svchost.exe          0x00000000002ed130 ProgramFiles                   C:\Program Files
+    1076 svchost.exe          0x00000000002ed130 ProgramFiles(x86)              C:\Program Files (x86)
+    1076 svchost.exe          0x00000000002ed130 ProgramW6432                   C:\Program Files
+    1076 svchost.exe          0x00000000002ed130 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1076 svchost.exe          0x00000000002ed130 PUBLIC                         C:\Users\Public
+    1076 svchost.exe          0x00000000002ed130 SystemDrive                    C:
+    1076 svchost.exe          0x00000000002ed130 SystemRoot                     C:\Windows
+    1076 svchost.exe          0x00000000002ed130 TEMP                           C:\Windows\TEMP
+    1076 svchost.exe          0x00000000002ed130 TMP                            C:\Windows\TEMP
+    1076 svchost.exe          0x00000000002ed130 USERDOMAIN                     WORKGROUP
+    1076 svchost.exe          0x00000000002ed130 USERNAME                       SMARTNET-PC$
+    1076 svchost.exe          0x00000000002ed130 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    1076 svchost.exe          0x00000000002ed130 windir                         C:\Windows
+    1076 svchost.exe          0x00000000002ed130 windows_tracing_flags          3
+    1076 svchost.exe          0x00000000002ed130 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     928 wmpnetwk.exe         0x00000000002e3860 ALLUSERSPROFILE                C:\ProgramData
+     928 wmpnetwk.exe         0x00000000002e3860 APPDATA                        C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+     928 wmpnetwk.exe         0x00000000002e3860 CommonProgramFiles             C:\Program Files\Common Files
+     928 wmpnetwk.exe         0x00000000002e3860 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     928 wmpnetwk.exe         0x00000000002e3860 CommonProgramW6432             C:\Program Files\Common Files
+     928 wmpnetwk.exe         0x00000000002e3860 COMPUTERNAME                   SMARTNET-PC
+     928 wmpnetwk.exe         0x00000000002e3860 ComSpec                        C:\Windows\system32\cmd.exe
+     928 wmpnetwk.exe         0x00000000002e3860 FP_NO_HOST_CHECK               NO
+     928 wmpnetwk.exe         0x00000000002e3860 LOCALAPPDATA                   C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+     928 wmpnetwk.exe         0x00000000002e3860 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+     928 wmpnetwk.exe         0x00000000002e3860 NUMBER_OF_PROCESSORS           1
+     928 wmpnetwk.exe         0x00000000002e3860 OANOCACHE                      1
+     928 wmpnetwk.exe         0x00000000002e3860 OS                             Windows_NT
+     928 wmpnetwk.exe         0x00000000002e3860 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     928 wmpnetwk.exe         0x00000000002e3860 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     928 wmpnetwk.exe         0x00000000002e3860 PROCESSOR_ARCHITECTURE         AMD64
+     928 wmpnetwk.exe         0x00000000002e3860 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+     928 wmpnetwk.exe         0x00000000002e3860 PROCESSOR_LEVEL                6
+     928 wmpnetwk.exe         0x00000000002e3860 PROCESSOR_REVISION             8e09
+     928 wmpnetwk.exe         0x00000000002e3860 ProgramData                    C:\ProgramData
+     928 wmpnetwk.exe         0x00000000002e3860 ProgramFiles                   C:\Program Files
+     928 wmpnetwk.exe         0x00000000002e3860 ProgramFiles(x86)              C:\Program Files (x86)
+     928 wmpnetwk.exe         0x00000000002e3860 ProgramW6432                   C:\Program Files
+     928 wmpnetwk.exe         0x00000000002e3860 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     928 wmpnetwk.exe         0x00000000002e3860 PUBLIC                         C:\Users\Public
+     928 wmpnetwk.exe         0x00000000002e3860 SystemDrive                    C:
+     928 wmpnetwk.exe         0x00000000002e3860 SystemRoot                     C:\Windows
+     928 wmpnetwk.exe         0x00000000002e3860 TEMP                           C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+     928 wmpnetwk.exe         0x00000000002e3860 TMP                            C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+     928 wmpnetwk.exe         0x00000000002e3860 USERDOMAIN                     WORKGROUP
+     928 wmpnetwk.exe         0x00000000002e3860 USERNAME                       SMARTNET-PC$
+     928 wmpnetwk.exe         0x00000000002e3860 USERPROFILE                    C:\Windows\ServiceProfiles\NetworkService
+     928 wmpnetwk.exe         0x00000000002e3860 windir                         C:\Windows
+     928 wmpnetwk.exe         0x00000000002e3860 windows_tracing_flags          3
+     928 wmpnetwk.exe         0x00000000002e3860 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    3260 notepad.exe          0x0000000000251320 ALLUSERSPROFILE                C:\ProgramData
+    3260 notepad.exe          0x0000000000251320 APPDATA                        C:\Users\Alissa Simpson\AppData\Roaming
+    3260 notepad.exe          0x0000000000251320 CommonProgramFiles             C:\Program Files\Common Files
+    3260 notepad.exe          0x0000000000251320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    3260 notepad.exe          0x0000000000251320 CommonProgramW6432             C:\Program Files\Common Files
+    3260 notepad.exe          0x0000000000251320 COMPUTERNAME                   SMARTNET-PC
+    3260 notepad.exe          0x0000000000251320 ComSpec                        C:\Windows\system32\cmd.exe
+    3260 notepad.exe          0x0000000000251320 FP_NO_HOST_CHECK               NO
+    3260 notepad.exe          0x0000000000251320 HOMEDRIVE                      C:
+    3260 notepad.exe          0x0000000000251320 HOMEPATH                       \Users\Alissa Simpson
+    3260 notepad.exe          0x0000000000251320 LOCALAPPDATA                   C:\Users\Alissa Simpson\AppData\Local
+    3260 notepad.exe          0x0000000000251320 LOGONSERVER                    \\SMARTNET-PC
+    3260 notepad.exe          0x0000000000251320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    3260 notepad.exe          0x0000000000251320 NUMBER_OF_PROCESSORS           1
+    3260 notepad.exe          0x0000000000251320 OS                             Windows_NT
+    3260 notepad.exe          0x0000000000251320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    3260 notepad.exe          0x0000000000251320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    3260 notepad.exe          0x0000000000251320 PROCESSOR_ARCHITECTURE         AMD64
+    3260 notepad.exe          0x0000000000251320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    3260 notepad.exe          0x0000000000251320 PROCESSOR_LEVEL                6
+    3260 notepad.exe          0x0000000000251320 PROCESSOR_REVISION             8e09
+    3260 notepad.exe          0x0000000000251320 ProgramData                    C:\ProgramData
+    3260 notepad.exe          0x0000000000251320 ProgramFiles                   C:\Program Files
+    3260 notepad.exe          0x0000000000251320 ProgramFiles(x86)              C:\Program Files (x86)
+    3260 notepad.exe          0x0000000000251320 ProgramW6432                   C:\Program Files
+    3260 notepad.exe          0x0000000000251320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    3260 notepad.exe          0x0000000000251320 PUBLIC                         C:\Users\Public
+    3260 notepad.exe          0x0000000000251320 SESSIONNAME                    Console
+    3260 notepad.exe          0x0000000000251320 SystemDrive                    C:
+    3260 notepad.exe          0x0000000000251320 SystemRoot                     C:\Windows
+    3260 notepad.exe          0x0000000000251320 TEMP                           C:\Users\ALISSA~1\AppData\Local\Temp
+    3260 notepad.exe          0x0000000000251320 TMP                            C:\Users\ALISSA~1\AppData\Local\Temp
+    3260 notepad.exe          0x0000000000251320 USERDOMAIN                     SmartNet-PC
+    3260 notepad.exe          0x0000000000251320 USERNAME                       Alissa Simpson
+    3260 notepad.exe          0x0000000000251320 USERPROFILE                    C:\Users\Alissa Simpson
+    3260 notepad.exe          0x0000000000251320 windir                         C:\Windows
+    3260 notepad.exe          0x0000000000251320 windows_tracing_flags          3
+    3260 notepad.exe          0x0000000000251320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    3844 DumpIt.exe           0x00000000004a1320 ALLUSERSPROFILE                C:\ProgramData
+    3844 DumpIt.exe           0x00000000004a1320 APPDATA                        C:\Users\SmartNet\AppData\Roaming
+    3844 DumpIt.exe           0x00000000004a1320 CommonProgramFiles             C:\Program Files\Common Files
+    3844 DumpIt.exe           0x00000000004a1320 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    3844 DumpIt.exe           0x00000000004a1320 CommonProgramW6432             C:\Program Files\Common Files
+    3844 DumpIt.exe           0x00000000004a1320 COMPUTERNAME                   SMARTNET-PC
+    3844 DumpIt.exe           0x00000000004a1320 ComSpec                        C:\Windows\system32\cmd.exe
+    3844 DumpIt.exe           0x00000000004a1320 FP_NO_HOST_CHECK               NO
+    3844 DumpIt.exe           0x00000000004a1320 HOMEDRIVE                      C:
+    3844 DumpIt.exe           0x00000000004a1320 HOMEPATH                       \Users\SmartNet
+    3844 DumpIt.exe           0x00000000004a1320 LOCALAPPDATA                   C:\Users\SmartNet\AppData\Local
+    3844 DumpIt.exe           0x00000000004a1320 LOGONSERVER                    \\SMARTNET-PC
+    3844 DumpIt.exe           0x00000000004a1320 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    3844 DumpIt.exe           0x00000000004a1320 NUMBER_OF_PROCESSORS           1
+    3844 DumpIt.exe           0x00000000004a1320 OS                             Windows_NT
+    3844 DumpIt.exe           0x00000000004a1320 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    3844 DumpIt.exe           0x00000000004a1320 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    3844 DumpIt.exe           0x00000000004a1320 PROCESSOR_ARCHITECTURE         AMD64
+    3844 DumpIt.exe           0x00000000004a1320 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    3844 DumpIt.exe           0x00000000004a1320 PROCESSOR_LEVEL                6
+    3844 DumpIt.exe           0x00000000004a1320 PROCESSOR_REVISION             8e09
+    3844 DumpIt.exe           0x00000000004a1320 ProgramData                    C:\ProgramData
+    3844 DumpIt.exe           0x00000000004a1320 ProgramFiles                   C:\Program Files
+    3844 DumpIt.exe           0x00000000004a1320 ProgramFiles(x86)              C:\Program Files (x86)
+    3844 DumpIt.exe           0x00000000004a1320 ProgramW6432                   C:\Program Files
+    3844 DumpIt.exe           0x00000000004a1320 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    3844 DumpIt.exe           0x00000000004a1320 PUBLIC                         C:\Users\Public
+    3844 DumpIt.exe           0x00000000004a1320 SystemDrive                    C:
+    3844 DumpIt.exe           0x00000000004a1320 SystemRoot                     C:\Windows
+    3844 DumpIt.exe           0x00000000004a1320 TEMP                           C:\Users\SmartNet\AppData\Local\Temp
+    3844 DumpIt.exe           0x00000000004a1320 TMP                            C:\Users\SmartNet\AppData\Local\Temp
+    3844 DumpIt.exe           0x00000000004a1320 USERDOMAIN                     SmartNet-PC
+    3844 DumpIt.exe           0x00000000004a1320 USERNAME                       SmartNet
+    3844 DumpIt.exe           0x00000000004a1320 USERPROFILE                    C:\Users\SmartNet
+    3844 DumpIt.exe           0x00000000004a1320 windir                         C:\Windows
+    3844 DumpIt.exe           0x00000000004a1320 windows_tracing_flags          3
+    3844 DumpIt.exe           0x00000000004a1320 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    3852 conhost.exe          0x000000000014d880 CommonProgramFiles             C:\Program Files\Common Files
+    3852 conhost.exe          0x000000000014d880 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    3852 conhost.exe          0x000000000014d880 CommonProgramW6432             C:\Program Files\Common Files
+    3852 conhost.exe          0x000000000014d880 ComSpec                        C:\Windows\system32\cmd.exe
+    3852 conhost.exe          0x000000000014d880 FP_NO_HOST_CHECK               NO
+    3852 conhost.exe          0x000000000014d880 NEW_TMP                        C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9
+    3852 conhost.exe          0x000000000014d880 NUMBER_OF_PROCESSORS           1
+    3852 conhost.exe          0x000000000014d880 OS                             Windows_NT
+    3852 conhost.exe          0x000000000014d880 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    3852 conhost.exe          0x000000000014d880 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    3852 conhost.exe          0x000000000014d880 PROCESSOR_ARCHITECTURE         AMD64
+    3852 conhost.exe          0x000000000014d880 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+    3852 conhost.exe          0x000000000014d880 PROCESSOR_LEVEL                6
+    3852 conhost.exe          0x000000000014d880 PROCESSOR_REVISION             8e09
+    3852 conhost.exe          0x000000000014d880 ProgramFiles                   C:\Program Files
+    3852 conhost.exe          0x000000000014d880 ProgramFiles(x86)              C:\Program Files (x86)
+    3852 conhost.exe          0x000000000014d880 ProgramW6432                   C:\Program Files
+    3852 conhost.exe          0x000000000014d880 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    3852 conhost.exe          0x000000000014d880 SystemDrive                    C:
+    3852 conhost.exe          0x000000000014d880 SystemRoot                     C:\Windows
+    3852 conhost.exe          0x000000000014d880 TEMP                           C:\Windows\TEMP
+    3852 conhost.exe          0x000000000014d880 TMP                            C:\Windows\TEMP
+    3852 conhost.exe          0x000000000014d880 USERNAME                       SYSTEM
+    3852 conhost.exe          0x000000000014d880 windir                         C:\Windows
+    3852 conhost.exe          0x000000000014d880 windows_tracing_flags          3
+    3852 conhost.exe          0x000000000014d880 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
