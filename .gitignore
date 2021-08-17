@@ -2,3 +2,5 @@
 *.vmem
 *.mem
 *.tar
+*.7z
+*.dmp
