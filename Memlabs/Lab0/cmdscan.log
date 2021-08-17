@@ -1,0 +1,23 @@
+**************************************************
+CommandProcess: conhost.exe Pid: 2104
+CommandHistory: 0x300498 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 1 LastAdded: 0 LastDisplayed: 0
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x5c
+Cmd #0 @ 0x2f43c0: C:\Python27\python.exe C:\Users\hello\Desktop\demon.py.txt
+Cmd #12 @ 0x2d0039: ???
+Cmd #19 @ 0x300030: ???
+Cmd #22 @ 0xff818488: ?
+Cmd #25 @ 0xff818488: ?
+Cmd #36 @ 0x2d00c4: /?0?-???-
+Cmd #37 @ 0x2fd058: 0?-????
+**************************************************
+CommandProcess: conhost.exe Pid: 2424
+CommandHistory: 0x2b04c8 Application: DumpIt.exe Flags: Allocated
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x5c
+Cmd #22 @ 0xff818488: ?
+Cmd #25 @ 0xff818488: ?
+Cmd #36 @ 0x2800c4: *?+?(???(
+Cmd #37 @ 0x2ad070: +?(????

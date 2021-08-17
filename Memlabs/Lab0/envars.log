@@ -1,0 +1,911 @@
+Pid      Process              Block      Variable                       Value
+-------- -------------------- ---------- ------------------------------ -----
+     260 smss.exe             0x001707f0 Path                           C:\Windows\System32
+     260 smss.exe             0x001707f0 SystemDrive                    C:
+     260 smss.exe             0x001707f0 SystemRoot                     C:\Windows
+     340 csrss.exe            0x003807f0 ComSpec                        C:\Windows\system32\cmd.exe
+     340 csrss.exe            0x003807f0 FP_NO_HOST_CHECK               NO
+     340 csrss.exe            0x003807f0 NUMBER_OF_PROCESSORS           1
+     340 csrss.exe            0x003807f0 OS                             Windows_NT
+     340 csrss.exe            0x003807f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     340 csrss.exe            0x003807f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     340 csrss.exe            0x003807f0 PROCESSOR_ARCHITECTURE         x86
+     340 csrss.exe            0x003807f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+     340 csrss.exe            0x003807f0 PROCESSOR_LEVEL                6
+     340 csrss.exe            0x003807f0 PROCESSOR_REVISION             8e09
+     340 csrss.exe            0x003807f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     340 csrss.exe            0x003807f0 SystemDrive                    C:
+     340 csrss.exe            0x003807f0 SystemRoot                     C:\Windows
+     340 csrss.exe            0x003807f0 TEMP                           C:\Windows\TEMP
+     340 csrss.exe            0x003807f0 Thanos                         xor and password
+     340 csrss.exe            0x003807f0 TMP                            C:\Windows\TEMP
+     340 csrss.exe            0x003807f0 USERNAME                       SYSTEM
+     340 csrss.exe            0x003807f0 windir                         C:\Windows
+     340 csrss.exe            0x003807f0 windows_tracing_flags          3
+     340 csrss.exe            0x003807f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     380 csrss.exe            0x002307f0 ComSpec                        C:\Windows\system32\cmd.exe
+     380 csrss.exe            0x002307f0 FP_NO_HOST_CHECK               NO
+     380 csrss.exe            0x002307f0 NUMBER_OF_PROCESSORS           1
+     380 csrss.exe            0x002307f0 OS                             Windows_NT
+     380 csrss.exe            0x002307f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     380 csrss.exe            0x002307f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     380 csrss.exe            0x002307f0 PROCESSOR_ARCHITECTURE         x86
+     380 csrss.exe            0x002307f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+     380 csrss.exe            0x002307f0 PROCESSOR_LEVEL                6
+     380 csrss.exe            0x002307f0 PROCESSOR_REVISION             8e09
+     380 csrss.exe            0x002307f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     380 csrss.exe            0x002307f0 SystemDrive                    C:
+     380 csrss.exe            0x002307f0 SystemRoot                     C:\Windows
+     380 csrss.exe            0x002307f0 TEMP                           C:\Windows\TEMP
+     380 csrss.exe            0x002307f0 Thanos                         xor and password
+     380 csrss.exe            0x002307f0 TMP                            C:\Windows\TEMP
+     380 csrss.exe            0x002307f0 USERNAME                       SYSTEM
+     380 csrss.exe            0x002307f0 windir                         C:\Windows
+     380 csrss.exe            0x002307f0 windows_tracing_flags          3
+     380 csrss.exe            0x002307f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     388 wininit.exe          0x0042edc0 ALLUSERSPROFILE                C:\ProgramData
+     388 wininit.exe          0x0042edc0 CommonProgramFiles             C:\Program Files\Common Files
+     388 wininit.exe          0x0042edc0 COMPUTERNAME                   HELLO-PC
+     388 wininit.exe          0x0042edc0 ComSpec                        C:\Windows\system32\cmd.exe
+     388 wininit.exe          0x0042edc0 FP_NO_HOST_CHECK               NO
+     388 wininit.exe          0x0042edc0 NUMBER_OF_PROCESSORS           1
+     388 wininit.exe          0x0042edc0 OS                             Windows_NT
+     388 wininit.exe          0x0042edc0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     388 wininit.exe          0x0042edc0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     388 wininit.exe          0x0042edc0 PROCESSOR_ARCHITECTURE         x86
+     388 wininit.exe          0x0042edc0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+     388 wininit.exe          0x0042edc0 PROCESSOR_LEVEL                6
+     388 wininit.exe          0x0042edc0 PROCESSOR_REVISION             8e09
+     388 wininit.exe          0x0042edc0 ProgramData                    C:\ProgramData
+     388 wininit.exe          0x0042edc0 ProgramFiles                   C:\Program Files
+     388 wininit.exe          0x0042edc0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     388 wininit.exe          0x0042edc0 PUBLIC                         C:\Users\Public
+     388 wininit.exe          0x0042edc0 SystemDrive                    C:
+     388 wininit.exe          0x0042edc0 SystemRoot                     C:\Windows
+     388 wininit.exe          0x0042edc0 TEMP                           C:\Windows\TEMP
+     388 wininit.exe          0x0042edc0 Thanos                         xor and password
+     388 wininit.exe          0x0042edc0 TMP                            C:\Windows\TEMP
+     388 wininit.exe          0x0042edc0 USERNAME                       SYSTEM
+     388 wininit.exe          0x0042edc0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     388 wininit.exe          0x0042edc0 windir                         C:\Windows
+     388 wininit.exe          0x0042edc0 windows_tracing_flags          3
+     388 wininit.exe          0x0042edc0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     424 winlogon.exe         0x00242cc0 ALLUSERSPROFILE                C:\ProgramData
+     424 winlogon.exe         0x00242cc0 CommonProgramFiles             C:\Program Files\Common Files
+     424 winlogon.exe         0x00242cc0 COMPUTERNAME                   HELLO-PC
+     424 winlogon.exe         0x00242cc0 ComSpec                        C:\Windows\system32\cmd.exe
+     424 winlogon.exe         0x00242cc0 FP_NO_HOST_CHECK               NO
+     424 winlogon.exe         0x00242cc0 NUMBER_OF_PROCESSORS           1
+     424 winlogon.exe         0x00242cc0 OS                             Windows_NT
+     424 winlogon.exe         0x00242cc0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     424 winlogon.exe         0x00242cc0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     424 winlogon.exe         0x00242cc0 PROCESSOR_ARCHITECTURE         x86
+     424 winlogon.exe         0x00242cc0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+     424 winlogon.exe         0x00242cc0 PROCESSOR_LEVEL                6
+     424 winlogon.exe         0x00242cc0 PROCESSOR_REVISION             8e09
+     424 winlogon.exe         0x00242cc0 ProgramData                    C:\ProgramData
+     424 winlogon.exe         0x00242cc0 ProgramFiles                   C:\Program Files
+     424 winlogon.exe         0x00242cc0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     424 winlogon.exe         0x00242cc0 PUBLIC                         C:\Users\Public
+     424 winlogon.exe         0x00242cc0 SystemDrive                    C:
+     424 winlogon.exe         0x00242cc0 SystemRoot                     C:\Windows
+     424 winlogon.exe         0x00242cc0 TEMP                           C:\Windows\TEMP
+     424 winlogon.exe         0x00242cc0 Thanos                         xor and password
+     424 winlogon.exe         0x00242cc0 TMP                            C:\Windows\TEMP
+     424 winlogon.exe         0x00242cc0 USERNAME                       SYSTEM
+     424 winlogon.exe         0x00242cc0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     424 winlogon.exe         0x00242cc0 windir                         C:\Windows
+     424 winlogon.exe         0x00242cc0 windows_tracing_flags          3
+     424 winlogon.exe         0x00242cc0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     484 services.exe         0x001007f0 ALLUSERSPROFILE                C:\ProgramData
+     484 services.exe         0x001007f0 CommonProgramFiles             C:\Program Files\Common Files
+     484 services.exe         0x001007f0 COMPUTERNAME                   HELLO-PC
+     484 services.exe         0x001007f0 ComSpec                        C:\Windows\system32\cmd.exe
+     484 services.exe         0x001007f0 FP_NO_HOST_CHECK               NO
+     484 services.exe         0x001007f0 NUMBER_OF_PROCESSORS           1
+     484 services.exe         0x001007f0 OS                             Windows_NT
+     484 services.exe         0x001007f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     484 services.exe         0x001007f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     484 services.exe         0x001007f0 PROCESSOR_ARCHITECTURE         x86
+     484 services.exe         0x001007f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+     484 services.exe         0x001007f0 PROCESSOR_LEVEL                6
+     484 services.exe         0x001007f0 PROCESSOR_REVISION             8e09
+     484 services.exe         0x001007f0 ProgramData                    C:\ProgramData
+     484 services.exe         0x001007f0 ProgramFiles                   C:\Program Files
+     484 services.exe         0x001007f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     484 services.exe         0x001007f0 PUBLIC                         C:\Users\Public
+     484 services.exe         0x001007f0 SystemDrive                    C:
+     484 services.exe         0x001007f0 SystemRoot                     C:\Windows
+     484 services.exe         0x001007f0 TEMP                           C:\Windows\TEMP
+     484 services.exe         0x001007f0 Thanos                         xor and password
+     484 services.exe         0x001007f0 TMP                            C:\Windows\TEMP
+     484 services.exe         0x001007f0 USERNAME                       SYSTEM
+     484 services.exe         0x001007f0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     484 services.exe         0x001007f0 windir                         C:\Windows
+     484 services.exe         0x001007f0 windows_tracing_flags          3
+     484 services.exe         0x001007f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     492 lsass.exe            0x003607f0 ALLUSERSPROFILE                C:\ProgramData
+     492 lsass.exe            0x003607f0 CommonProgramFiles             C:\Program Files\Common Files
+     492 lsass.exe            0x003607f0 COMPUTERNAME                   HELLO-PC
+     492 lsass.exe            0x003607f0 ComSpec                        C:\Windows\system32\cmd.exe
+     492 lsass.exe            0x003607f0 FP_NO_HOST_CHECK               NO
+     492 lsass.exe            0x003607f0 NUMBER_OF_PROCESSORS           1
+     492 lsass.exe            0x003607f0 OS                             Windows_NT
+     492 lsass.exe            0x003607f0 Path                           C:\Windows\System32
+     492 lsass.exe            0x003607f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     492 lsass.exe            0x003607f0 PROCESSOR_ARCHITECTURE         x86
+     492 lsass.exe            0x003607f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+     492 lsass.exe            0x003607f0 PROCESSOR_LEVEL                6
+     492 lsass.exe            0x003607f0 PROCESSOR_REVISION             8e09
+     492 lsass.exe            0x003607f0 ProgramData                    C:\ProgramData
+     492 lsass.exe            0x003607f0 ProgramFiles                   C:\Program Files
+     492 lsass.exe            0x003607f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     492 lsass.exe            0x003607f0 PUBLIC                         C:\Users\Public
+     492 lsass.exe            0x003607f0 SystemDrive                    C:
+     492 lsass.exe            0x003607f0 SystemRoot                     C:\Windows
+     492 lsass.exe            0x003607f0 TEMP                           C:\Windows\TEMP
+     492 lsass.exe            0x003607f0 Thanos                         xor and password
+     492 lsass.exe            0x003607f0 TMP                            C:\Windows\TEMP
+     492 lsass.exe            0x003607f0 USERNAME                       SYSTEM
+     492 lsass.exe            0x003607f0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     492 lsass.exe            0x003607f0 windir                         C:\Windows
+     492 lsass.exe            0x003607f0 windows_tracing_flags          3
+     492 lsass.exe            0x003607f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     500 lsm.exe              0x000807f0 ALLUSERSPROFILE                C:\ProgramData
+     500 lsm.exe              0x000807f0 CommonProgramFiles             C:\Program Files\Common Files
+     500 lsm.exe              0x000807f0 COMPUTERNAME                   HELLO-PC
+     500 lsm.exe              0x000807f0 ComSpec                        C:\Windows\system32\cmd.exe
+     500 lsm.exe              0x000807f0 FP_NO_HOST_CHECK               NO
+     500 lsm.exe              0x000807f0 NUMBER_OF_PROCESSORS           1
+     500 lsm.exe              0x000807f0 OS                             Windows_NT
+     500 lsm.exe              0x000807f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     500 lsm.exe              0x000807f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     500 lsm.exe              0x000807f0 PROCESSOR_ARCHITECTURE         x86
+     500 lsm.exe              0x000807f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+     500 lsm.exe              0x000807f0 PROCESSOR_LEVEL                6
+     500 lsm.exe              0x000807f0 PROCESSOR_REVISION             8e09
+     500 lsm.exe              0x000807f0 ProgramData                    C:\ProgramData
+     500 lsm.exe              0x000807f0 ProgramFiles                   C:\Program Files
+     500 lsm.exe              0x000807f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     500 lsm.exe              0x000807f0 PUBLIC                         C:\Users\Public
+     500 lsm.exe              0x000807f0 SystemDrive                    C:
+     500 lsm.exe              0x000807f0 SystemRoot                     C:\Windows
+     500 lsm.exe              0x000807f0 TEMP                           C:\Windows\TEMP
+     500 lsm.exe              0x000807f0 Thanos                         xor and password
+     500 lsm.exe              0x000807f0 TMP                            C:\Windows\TEMP
+     500 lsm.exe              0x000807f0 USERNAME                       SYSTEM
+     500 lsm.exe              0x000807f0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     500 lsm.exe              0x000807f0 windir                         C:\Windows
+     500 lsm.exe              0x000807f0 windows_tracing_flags          3
+     500 lsm.exe              0x000807f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     592 svchost.exe          0x000607f0 ALLUSERSPROFILE                C:\ProgramData
+     592 svchost.exe          0x000607f0 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     592 svchost.exe          0x000607f0 CommonProgramFiles             C:\Program Files\Common Files
+     592 svchost.exe          0x000607f0 COMPUTERNAME                   HELLO-PC
+     592 svchost.exe          0x000607f0 ComSpec                        C:\Windows\system32\cmd.exe
+     592 svchost.exe          0x000607f0 FP_NO_HOST_CHECK               NO
+     592 svchost.exe          0x000607f0 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     592 svchost.exe          0x000607f0 NUMBER_OF_PROCESSORS           1
+     592 svchost.exe          0x000607f0 OS                             Windows_NT
+     592 svchost.exe          0x000607f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     592 svchost.exe          0x000607f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     592 svchost.exe          0x000607f0 PROCESSOR_ARCHITECTURE         x86
+     592 svchost.exe          0x000607f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+     592 svchost.exe          0x000607f0 PROCESSOR_LEVEL                6
+     592 svchost.exe          0x000607f0 PROCESSOR_REVISION             8e09
+     592 svchost.exe          0x000607f0 ProgramData                    C:\ProgramData
+     592 svchost.exe          0x000607f0 ProgramFiles                   C:\Program Files
+     592 svchost.exe          0x000607f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     592 svchost.exe          0x000607f0 PUBLIC                         C:\Users\Public
+     592 svchost.exe          0x000607f0 SystemDrive                    C:
+     592 svchost.exe          0x000607f0 SystemRoot                     C:\Windows
+     592 svchost.exe          0x000607f0 TEMP                           C:\Windows\TEMP
+     592 svchost.exe          0x000607f0 Thanos                         xor and password
+     592 svchost.exe          0x000607f0 TMP                            C:\Windows\TEMP
+     592 svchost.exe          0x000607f0 USERDOMAIN                     WORKGROUP
+     592 svchost.exe          0x000607f0 USERNAME                       HELLO-PC$
+     592 svchost.exe          0x000607f0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     592 svchost.exe          0x000607f0 windir                         C:\Windows
+     592 svchost.exe          0x000607f0 windows_tracing_flags          3
+     592 svchost.exe          0x000607f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     652 VBoxService.ex       0x004c07f0 ALLUSERSPROFILE                C:\ProgramData
+     652 VBoxService.ex       0x004c07f0 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     652 VBoxService.ex       0x004c07f0 CommonProgramFiles             C:\Program Files\Common Files
+     652 VBoxService.ex       0x004c07f0 COMPUTERNAME                   HELLO-PC
+     652 VBoxService.ex       0x004c07f0 ComSpec                        C:\Windows\system32\cmd.exe
+     652 VBoxService.ex       0x004c07f0 FP_NO_HOST_CHECK               NO
+     652 VBoxService.ex       0x004c07f0 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     652 VBoxService.ex       0x004c07f0 NUMBER_OF_PROCESSORS           1
+     652 VBoxService.ex       0x004c07f0 OS                             Windows_NT
+     652 VBoxService.ex       0x004c07f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;
+     652 VBoxService.ex       0x004c07f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     652 VBoxService.ex       0x004c07f0 PROCESSOR_ARCHITECTURE         x86
+     652 VBoxService.ex       0x004c07f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+     652 VBoxService.ex       0x004c07f0 PROCESSOR_LEVEL                6
+     652 VBoxService.ex       0x004c07f0 PROCESSOR_REVISION             8e09
+     652 VBoxService.ex       0x004c07f0 ProgramData                    C:\ProgramData
+     652 VBoxService.ex       0x004c07f0 ProgramFiles                   C:\Program Files
+     652 VBoxService.ex       0x004c07f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     652 VBoxService.ex       0x004c07f0 PUBLIC                         C:\Users\Public
+     652 VBoxService.ex       0x004c07f0 SystemDrive                    C:
+     652 VBoxService.ex       0x004c07f0 SystemRoot                     C:\Windows
+     652 VBoxService.ex       0x004c07f0 TEMP                           C:\Windows\TEMP
+     652 VBoxService.ex       0x004c07f0 Thanos                         xor and password
+     652 VBoxService.ex       0x004c07f0 TMP                            C:\Windows\TEMP
+     652 VBoxService.ex       0x004c07f0 USERDOMAIN                     WORKGROUP
+     652 VBoxService.ex       0x004c07f0 USERNAME                       HELLO-PC$
+     652 VBoxService.ex       0x004c07f0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     652 VBoxService.ex       0x004c07f0 windir                         C:\Windows
+     652 VBoxService.ex       0x004c07f0 windows_tracing_flags          3
+     652 VBoxService.ex       0x004c07f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     716 svchost.exe          0x001007f0 ALLUSERSPROFILE                C:\ProgramData
+     716 svchost.exe          0x001007f0 APPDATA                        C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+     716 svchost.exe          0x001007f0 CommonProgramFiles             C:\Program Files\Common Files
+     716 svchost.exe          0x001007f0 COMPUTERNAME                   HELLO-PC
+     716 svchost.exe          0x001007f0 ComSpec                        C:\Windows\system32\cmd.exe
+     716 svchost.exe          0x001007f0 FP_NO_HOST_CHECK               NO
+     716 svchost.exe          0x001007f0 LOCALAPPDATA                   C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+     716 svchost.exe          0x001007f0 NUMBER_OF_PROCESSORS           1
+     716 svchost.exe          0x001007f0 OS                             Windows_NT
+     716 svchost.exe          0x001007f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     716 svchost.exe          0x001007f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     716 svchost.exe          0x001007f0 PROCESSOR_ARCHITECTURE         x86
+     716 svchost.exe          0x001007f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+     716 svchost.exe          0x001007f0 PROCESSOR_LEVEL                6
+     716 svchost.exe          0x001007f0 PROCESSOR_REVISION             8e09
+     716 svchost.exe          0x001007f0 ProgramData                    C:\ProgramData
+     716 svchost.exe          0x001007f0 ProgramFiles                   C:\Program Files
+     716 svchost.exe          0x001007f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     716 svchost.exe          0x001007f0 PUBLIC                         C:\Users\Public
+     716 svchost.exe          0x001007f0 SystemDrive                    C:
+     716 svchost.exe          0x001007f0 SystemRoot                     C:\Windows
+     716 svchost.exe          0x001007f0 TEMP                           C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+     716 svchost.exe          0x001007f0 Thanos                         xor and password
+     716 svchost.exe          0x001007f0 TMP                            C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+     716 svchost.exe          0x001007f0 USERDOMAIN                     WORKGROUP
+     716 svchost.exe          0x001007f0 USERNAME                       HELLO-PC$
+     716 svchost.exe          0x001007f0 USERPROFILE                    C:\Windows\ServiceProfiles\NetworkService
+     716 svchost.exe          0x001007f0 windir                         C:\Windows
+     716 svchost.exe          0x001007f0 windows_tracing_flags          3
+     716 svchost.exe          0x001007f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     804 svchost.exe          0x002707f0 ALLUSERSPROFILE                C:\ProgramData
+     804 svchost.exe          0x002707f0 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+     804 svchost.exe          0x002707f0 CommonProgramFiles             C:\Program Files\Common Files
+     804 svchost.exe          0x002707f0 COMPUTERNAME                   HELLO-PC
+     804 svchost.exe          0x002707f0 ComSpec                        C:\Windows\system32\cmd.exe
+     804 svchost.exe          0x002707f0 FP_NO_HOST_CHECK               NO
+     804 svchost.exe          0x002707f0 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+     804 svchost.exe          0x002707f0 NUMBER_OF_PROCESSORS           1
+     804 svchost.exe          0x002707f0 OS                             Windows_NT
+     804 svchost.exe          0x002707f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     804 svchost.exe          0x002707f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     804 svchost.exe          0x002707f0 PROCESSOR_ARCHITECTURE         x86
+     804 svchost.exe          0x002707f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+     804 svchost.exe          0x002707f0 PROCESSOR_LEVEL                6
+     804 svchost.exe          0x002707f0 PROCESSOR_REVISION             8e09
+     804 svchost.exe          0x002707f0 ProgramData                    C:\ProgramData
+     804 svchost.exe          0x002707f0 ProgramFiles                   C:\Program Files
+     804 svchost.exe          0x002707f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     804 svchost.exe          0x002707f0 PUBLIC                         C:\Users\Public
+     804 svchost.exe          0x002707f0 SystemDrive                    C:
+     804 svchost.exe          0x002707f0 SystemRoot                     C:\Windows
+     804 svchost.exe          0x002707f0 TEMP                           C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+     804 svchost.exe          0x002707f0 Thanos                         xor and password
+     804 svchost.exe          0x002707f0 TMP                            C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+     804 svchost.exe          0x002707f0 USERDOMAIN                     NT AUTHORITY
+     804 svchost.exe          0x002707f0 USERNAME                       LOCAL SERVICE
+     804 svchost.exe          0x002707f0 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+     804 svchost.exe          0x002707f0 windir                         C:\Windows
+     804 svchost.exe          0x002707f0 windows_tracing_flags          3
+     804 svchost.exe          0x002707f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     848 svchost.exe          0x001d07f0 ALLUSERSPROFILE                C:\ProgramData
+     848 svchost.exe          0x001d07f0 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     848 svchost.exe          0x001d07f0 CommonProgramFiles             C:\Program Files\Common Files
+     848 svchost.exe          0x001d07f0 COMPUTERNAME                   HELLO-PC
+     848 svchost.exe          0x001d07f0 ComSpec                        C:\Windows\system32\cmd.exe
+     848 svchost.exe          0x001d07f0 FP_NO_HOST_CHECK               NO
+     848 svchost.exe          0x001d07f0 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     848 svchost.exe          0x001d07f0 NUMBER_OF_PROCESSORS           1
+     848 svchost.exe          0x001d07f0 OS                             Windows_NT
+     848 svchost.exe          0x001d07f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     848 svchost.exe          0x001d07f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     848 svchost.exe          0x001d07f0 PROCESSOR_ARCHITECTURE         x86
+     848 svchost.exe          0x001d07f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+     848 svchost.exe          0x001d07f0 PROCESSOR_LEVEL                6
+     848 svchost.exe          0x001d07f0 PROCESSOR_REVISION             8e09
+     848 svchost.exe          0x001d07f0 ProgramData                    C:\ProgramData
+     848 svchost.exe          0x001d07f0 ProgramFiles                   C:\Program Files
+     848 svchost.exe          0x001d07f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     848 svchost.exe          0x001d07f0 PUBLIC                         C:\Users\Public
+     848 svchost.exe          0x001d07f0 SystemDrive                    C:
+     848 svchost.exe          0x001d07f0 SystemRoot                     C:\Windows
+     848 svchost.exe          0x001d07f0 TEMP                           C:\Windows\TEMP
+     848 svchost.exe          0x001d07f0 Thanos                         xor and password
+     848 svchost.exe          0x001d07f0 TMP                            C:\Windows\TEMP
+     848 svchost.exe          0x001d07f0 USERDOMAIN                     WORKGROUP
+     848 svchost.exe          0x001d07f0 USERNAME                       HELLO-PC$
+     848 svchost.exe          0x001d07f0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     848 svchost.exe          0x001d07f0 windir                         C:\Windows
+     848 svchost.exe          0x001d07f0 windows_tracing_flags          3
+     848 svchost.exe          0x001d07f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     872 svchost.exe          0x003607f0 ALLUSERSPROFILE                C:\ProgramData
+     872 svchost.exe          0x003607f0 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+     872 svchost.exe          0x003607f0 CommonProgramFiles             C:\Program Files\Common Files
+     872 svchost.exe          0x003607f0 COMPUTERNAME                   HELLO-PC
+     872 svchost.exe          0x003607f0 ComSpec                        C:\Windows\system32\cmd.exe
+     872 svchost.exe          0x003607f0 FP_NO_HOST_CHECK               NO
+     872 svchost.exe          0x003607f0 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+     872 svchost.exe          0x003607f0 NUMBER_OF_PROCESSORS           1
+     872 svchost.exe          0x003607f0 OS                             Windows_NT
+     872 svchost.exe          0x003607f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     872 svchost.exe          0x003607f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     872 svchost.exe          0x003607f0 PROCESSOR_ARCHITECTURE         x86
+     872 svchost.exe          0x003607f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+     872 svchost.exe          0x003607f0 PROCESSOR_LEVEL                6
+     872 svchost.exe          0x003607f0 PROCESSOR_REVISION             8e09
+     872 svchost.exe          0x003607f0 ProgramData                    C:\ProgramData
+     872 svchost.exe          0x003607f0 ProgramFiles                   C:\Program Files
+     872 svchost.exe          0x003607f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     872 svchost.exe          0x003607f0 PUBLIC                         C:\Users\Public
+     872 svchost.exe          0x003607f0 SystemDrive                    C:
+     872 svchost.exe          0x003607f0 SystemRoot                     C:\Windows
+     872 svchost.exe          0x003607f0 TEMP                           C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+     872 svchost.exe          0x003607f0 Thanos                         xor and password
+     872 svchost.exe          0x003607f0 TMP                            C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+     872 svchost.exe          0x003607f0 USERDOMAIN                     NT AUTHORITY
+     872 svchost.exe          0x003607f0 USERNAME                       LOCAL SERVICE
+     872 svchost.exe          0x003607f0 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+     872 svchost.exe          0x003607f0 windir                         C:\Windows
+     872 svchost.exe          0x003607f0 windows_tracing_flags          3
+     872 svchost.exe          0x003607f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     896 svchost.exe          0x001b07f0 ALLUSERSPROFILE                C:\ProgramData
+     896 svchost.exe          0x001b07f0 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     896 svchost.exe          0x001b07f0 CommonProgramFiles             C:\Program Files\Common Files
+     896 svchost.exe          0x001b07f0 COMPUTERNAME                   HELLO-PC
+     896 svchost.exe          0x001b07f0 ComSpec                        C:\Windows\system32\cmd.exe
+     896 svchost.exe          0x001b07f0 FP_NO_HOST_CHECK               NO
+     896 svchost.exe          0x001b07f0 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     896 svchost.exe          0x001b07f0 NUMBER_OF_PROCESSORS           1
+     896 svchost.exe          0x001b07f0 OS                             Windows_NT
+     896 svchost.exe          0x001b07f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     896 svchost.exe          0x001b07f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     896 svchost.exe          0x001b07f0 PROCESSOR_ARCHITECTURE         x86
+     896 svchost.exe          0x001b07f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+     896 svchost.exe          0x001b07f0 PROCESSOR_LEVEL                6
+     896 svchost.exe          0x001b07f0 PROCESSOR_REVISION             8e09
+     896 svchost.exe          0x001b07f0 ProgramData                    C:\ProgramData
+     896 svchost.exe          0x001b07f0 ProgramFiles                   C:\Program Files
+     896 svchost.exe          0x001b07f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     896 svchost.exe          0x001b07f0 PUBLIC                         C:\Users\Public
+     896 svchost.exe          0x001b07f0 SystemDrive                    C:
+     896 svchost.exe          0x001b07f0 SystemRoot                     C:\Windows
+     896 svchost.exe          0x001b07f0 TEMP                           C:\Windows\TEMP
+     896 svchost.exe          0x001b07f0 Thanos                         xor and password
+     896 svchost.exe          0x001b07f0 TMP                            C:\Windows\TEMP
+     896 svchost.exe          0x001b07f0 USERDOMAIN                     WORKGROUP
+     896 svchost.exe          0x001b07f0 USERNAME                       HELLO-PC$
+     896 svchost.exe          0x001b07f0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     896 svchost.exe          0x001b07f0 windir                         C:\Windows
+     896 svchost.exe          0x001b07f0 windows_tracing_flags          3
+     896 svchost.exe          0x001b07f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     988 audiodg.exe          0x002d07f0 Path                           C:\Windows\System32
+     988 audiodg.exe          0x002d07f0 SystemDrive                    C:
+     988 audiodg.exe          0x002d07f0 SystemRoot                     C:\Windows
+    1192 svchost.exe          0x002107f0 ALLUSERSPROFILE                C:\ProgramData
+    1192 svchost.exe          0x002107f0 APPDATA                        C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+    1192 svchost.exe          0x002107f0 CommonProgramFiles             C:\Program Files\Common Files
+    1192 svchost.exe          0x002107f0 COMPUTERNAME                   HELLO-PC
+    1192 svchost.exe          0x002107f0 ComSpec                        C:\Windows\system32\cmd.exe
+    1192 svchost.exe          0x002107f0 FP_NO_HOST_CHECK               NO
+    1192 svchost.exe          0x002107f0 LOCALAPPDATA                   C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+    1192 svchost.exe          0x002107f0 NUMBER_OF_PROCESSORS           1
+    1192 svchost.exe          0x002107f0 OS                             Windows_NT
+    1192 svchost.exe          0x002107f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1192 svchost.exe          0x002107f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1192 svchost.exe          0x002107f0 PROCESSOR_ARCHITECTURE         x86
+    1192 svchost.exe          0x002107f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+    1192 svchost.exe          0x002107f0 PROCESSOR_LEVEL                6
+    1192 svchost.exe          0x002107f0 PROCESSOR_REVISION             8e09
+    1192 svchost.exe          0x002107f0 ProgramData                    C:\ProgramData
+    1192 svchost.exe          0x002107f0 ProgramFiles                   C:\Program Files
+    1192 svchost.exe          0x002107f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1192 svchost.exe          0x002107f0 PUBLIC                         C:\Users\Public
+    1192 svchost.exe          0x002107f0 SystemDrive                    C:
+    1192 svchost.exe          0x002107f0 SystemRoot                     C:\Windows
+    1192 svchost.exe          0x002107f0 TEMP                           C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    1192 svchost.exe          0x002107f0 Thanos                         xor and password
+    1192 svchost.exe          0x002107f0 TMP                            C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    1192 svchost.exe          0x002107f0 USERDOMAIN                     WORKGROUP
+    1192 svchost.exe          0x002107f0 USERNAME                       HELLO-PC$
+    1192 svchost.exe          0x002107f0 USERPROFILE                    C:\Windows\ServiceProfiles\NetworkService
+    1192 svchost.exe          0x002107f0 windir                         C:\Windows
+    1192 svchost.exe          0x002107f0 windows_tracing_flags          3
+    1192 svchost.exe          0x002107f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1336 spoolsv.exe          0x003807f0 ALLUSERSPROFILE                C:\ProgramData
+    1336 spoolsv.exe          0x003807f0 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    1336 spoolsv.exe          0x003807f0 CommonProgramFiles             C:\Program Files\Common Files
+    1336 spoolsv.exe          0x003807f0 COMPUTERNAME                   HELLO-PC
+    1336 spoolsv.exe          0x003807f0 ComSpec                        C:\Windows\system32\cmd.exe
+    1336 spoolsv.exe          0x003807f0 FP_NO_HOST_CHECK               NO
+    1336 spoolsv.exe          0x003807f0 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    1336 spoolsv.exe          0x003807f0 NUMBER_OF_PROCESSORS           1
+    1336 spoolsv.exe          0x003807f0 OS                             Windows_NT
+    1336 spoolsv.exe          0x003807f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1336 spoolsv.exe          0x003807f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1336 spoolsv.exe          0x003807f0 PROCESSOR_ARCHITECTURE         x86
+    1336 spoolsv.exe          0x003807f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+    1336 spoolsv.exe          0x003807f0 PROCESSOR_LEVEL                6
+    1336 spoolsv.exe          0x003807f0 PROCESSOR_REVISION             8e09
+    1336 spoolsv.exe          0x003807f0 ProgramData                    C:\ProgramData
+    1336 spoolsv.exe          0x003807f0 ProgramFiles                   C:\Program Files
+    1336 spoolsv.exe          0x003807f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1336 spoolsv.exe          0x003807f0 PUBLIC                         C:\Users\Public
+    1336 spoolsv.exe          0x003807f0 SystemDrive                    C:
+    1336 spoolsv.exe          0x003807f0 SystemRoot                     C:\Windows
+    1336 spoolsv.exe          0x003807f0 TEMP                           C:\Windows\TEMP
+    1336 spoolsv.exe          0x003807f0 Thanos                         xor and password
+    1336 spoolsv.exe          0x003807f0 TMP                            C:\Windows\TEMP
+    1336 spoolsv.exe          0x003807f0 USERDOMAIN                     WORKGROUP
+    1336 spoolsv.exe          0x003807f0 USERNAME                       HELLO-PC$
+    1336 spoolsv.exe          0x003807f0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    1336 spoolsv.exe          0x003807f0 windir                         C:\Windows
+    1336 spoolsv.exe          0x003807f0 windows_tracing_flags          3
+    1336 spoolsv.exe          0x003807f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1364 svchost.exe          0x000d07f0 ALLUSERSPROFILE                C:\ProgramData
+    1364 svchost.exe          0x000d07f0 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+    1364 svchost.exe          0x000d07f0 CommonProgramFiles             C:\Program Files\Common Files
+    1364 svchost.exe          0x000d07f0 COMPUTERNAME                   HELLO-PC
+    1364 svchost.exe          0x000d07f0 ComSpec                        C:\Windows\system32\cmd.exe
+    1364 svchost.exe          0x000d07f0 FP_NO_HOST_CHECK               NO
+    1364 svchost.exe          0x000d07f0 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+    1364 svchost.exe          0x000d07f0 NUMBER_OF_PROCESSORS           1
+    1364 svchost.exe          0x000d07f0 OS                             Windows_NT
+    1364 svchost.exe          0x000d07f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1364 svchost.exe          0x000d07f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1364 svchost.exe          0x000d07f0 PROCESSOR_ARCHITECTURE         x86
+    1364 svchost.exe          0x000d07f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+    1364 svchost.exe          0x000d07f0 PROCESSOR_LEVEL                6
+    1364 svchost.exe          0x000d07f0 PROCESSOR_REVISION             8e09
+    1364 svchost.exe          0x000d07f0 ProgramData                    C:\ProgramData
+    1364 svchost.exe          0x000d07f0 ProgramFiles                   C:\Program Files
+    1364 svchost.exe          0x000d07f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1364 svchost.exe          0x000d07f0 PUBLIC                         C:\Users\Public
+    1364 svchost.exe          0x000d07f0 SystemDrive                    C:
+    1364 svchost.exe          0x000d07f0 SystemRoot                     C:\Windows
+    1364 svchost.exe          0x000d07f0 TEMP                           C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1364 svchost.exe          0x000d07f0 Thanos                         xor and password
+    1364 svchost.exe          0x000d07f0 TMP                            C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1364 svchost.exe          0x000d07f0 USERDOMAIN                     NT AUTHORITY
+    1364 svchost.exe          0x000d07f0 USERNAME                       LOCAL SERVICE
+    1364 svchost.exe          0x000d07f0 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+    1364 svchost.exe          0x000d07f0 windir                         C:\Windows
+    1364 svchost.exe          0x000d07f0 windows_tracing_flags          3
+    1364 svchost.exe          0x000d07f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1460 svchost.exe          0x0035af50 ALLUSERSPROFILE                C:\ProgramData
+    1460 svchost.exe          0x0035af50 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    1460 svchost.exe          0x0035af50 CommonProgramFiles             C:\Program Files\Common Files
+    1460 svchost.exe          0x0035af50 COMPUTERNAME                   HELLO-PC
+    1460 svchost.exe          0x0035af50 ComSpec                        C:\Windows\system32\cmd.exe
+    1460 svchost.exe          0x0035af50 DiagtrackRegistryRoot          SOFTWARE\Microsoft\Windows\CurrentVersion\Diagnostics\DiagTrack
+    1460 svchost.exe          0x0035af50 DiagtrackStorageRoot           C:\ProgramData\Microsoft\Diagnosis
+    1460 svchost.exe          0x0035af50 FP_NO_HOST_CHECK               NO
+    1460 svchost.exe          0x0035af50 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    1460 svchost.exe          0x0035af50 NUMBER_OF_PROCESSORS           1
+    1460 svchost.exe          0x0035af50 OS                             Windows_NT
+    1460 svchost.exe          0x0035af50 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1460 svchost.exe          0x0035af50 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1460 svchost.exe          0x0035af50 PROCESSOR_ARCHITECTURE         x86
+    1460 svchost.exe          0x0035af50 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+    1460 svchost.exe          0x0035af50 PROCESSOR_LEVEL                6
+    1460 svchost.exe          0x0035af50 PROCESSOR_REVISION             8e09
+    1460 svchost.exe          0x0035af50 ProgramData                    C:\ProgramData
+    1460 svchost.exe          0x0035af50 ProgramFiles                   C:\Program Files
+    1460 svchost.exe          0x0035af50 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1460 svchost.exe          0x0035af50 PUBLIC                         C:\Users\Public
+    1460 svchost.exe          0x0035af50 SystemDrive                    C:
+    1460 svchost.exe          0x0035af50 SystemRoot                     C:\Windows
+    1460 svchost.exe          0x0035af50 TEMP                           C:\Windows\TEMP
+    1460 svchost.exe          0x0035af50 Thanos                         xor and password
+    1460 svchost.exe          0x0035af50 TMP                            C:\Windows\TEMP
+    1460 svchost.exe          0x0035af50 USERDOMAIN                     WORKGROUP
+    1460 svchost.exe          0x0035af50 USERNAME                       HELLO-PC$
+    1460 svchost.exe          0x0035af50 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    1460 svchost.exe          0x0035af50 windir                         C:\Windows
+    1460 svchost.exe          0x0035af50 windows_tracing_flags          3
+    1460 svchost.exe          0x0035af50 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1488 svchost.exe          0x001a07f0 ALLUSERSPROFILE                C:\ProgramData
+    1488 svchost.exe          0x001a07f0 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+    1488 svchost.exe          0x001a07f0 CommonProgramFiles             C:\Program Files\Common Files
+    1488 svchost.exe          0x001a07f0 COMPUTERNAME                   HELLO-PC
+    1488 svchost.exe          0x001a07f0 ComSpec                        C:\Windows\system32\cmd.exe
+    1488 svchost.exe          0x001a07f0 FP_NO_HOST_CHECK               NO
+    1488 svchost.exe          0x001a07f0 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+    1488 svchost.exe          0x001a07f0 NUMBER_OF_PROCESSORS           1
+    1488 svchost.exe          0x001a07f0 OS                             Windows_NT
+    1488 svchost.exe          0x001a07f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1488 svchost.exe          0x001a07f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1488 svchost.exe          0x001a07f0 PROCESSOR_ARCHITECTURE         x86
+    1488 svchost.exe          0x001a07f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+    1488 svchost.exe          0x001a07f0 PROCESSOR_LEVEL                6
+    1488 svchost.exe          0x001a07f0 PROCESSOR_REVISION             8e09
+    1488 svchost.exe          0x001a07f0 ProgramData                    C:\ProgramData
+    1488 svchost.exe          0x001a07f0 ProgramFiles                   C:\Program Files
+    1488 svchost.exe          0x001a07f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1488 svchost.exe          0x001a07f0 PUBLIC                         C:\Users\Public
+    1488 svchost.exe          0x001a07f0 SystemDrive                    C:
+    1488 svchost.exe          0x001a07f0 SystemRoot                     C:\Windows
+    1488 svchost.exe          0x001a07f0 TEMP                           C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1488 svchost.exe          0x001a07f0 Thanos                         xor and password
+    1488 svchost.exe          0x001a07f0 TMP                            C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1488 svchost.exe          0x001a07f0 USERDOMAIN                     NT AUTHORITY
+    1488 svchost.exe          0x001a07f0 USERNAME                       LOCAL SERVICE
+    1488 svchost.exe          0x001a07f0 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+    1488 svchost.exe          0x001a07f0 windir                         C:\Windows
+    1488 svchost.exe          0x001a07f0 windows_tracing_flags          3
+    1488 svchost.exe          0x001a07f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     308 taskhost.exe         0x003307f0 ALLUSERSPROFILE                C:\ProgramData
+     308 taskhost.exe         0x003307f0 APPDATA                        C:\Users\hello\AppData\Roaming
+     308 taskhost.exe         0x003307f0 CommonProgramFiles             C:\Program Files\Common Files
+     308 taskhost.exe         0x003307f0 COMPUTERNAME                   HELLO-PC
+     308 taskhost.exe         0x003307f0 ComSpec                        C:\Windows\system32\cmd.exe
+     308 taskhost.exe         0x003307f0 FP_NO_HOST_CHECK               NO
+     308 taskhost.exe         0x003307f0 HOMEDRIVE                      C:
+     308 taskhost.exe         0x003307f0 HOMEPATH                       \Users\hello
+     308 taskhost.exe         0x003307f0 LOCALAPPDATA                   C:\Users\hello\AppData\Local
+     308 taskhost.exe         0x003307f0 LOGONSERVER                    \\HELLO-PC
+     308 taskhost.exe         0x003307f0 NUMBER_OF_PROCESSORS           1
+     308 taskhost.exe         0x003307f0 OS                             Windows_NT
+     308 taskhost.exe         0x003307f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     308 taskhost.exe         0x003307f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     308 taskhost.exe         0x003307f0 PROCESSOR_ARCHITECTURE         x86
+     308 taskhost.exe         0x003307f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+     308 taskhost.exe         0x003307f0 PROCESSOR_LEVEL                6
+     308 taskhost.exe         0x003307f0 PROCESSOR_REVISION             8e09
+     308 taskhost.exe         0x003307f0 ProgramData                    C:\ProgramData
+     308 taskhost.exe         0x003307f0 ProgramFiles                   C:\Program Files
+     308 taskhost.exe         0x003307f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     308 taskhost.exe         0x003307f0 PUBLIC                         C:\Users\Public
+     308 taskhost.exe         0x003307f0 SystemDrive                    C:
+     308 taskhost.exe         0x003307f0 SystemRoot                     C:\Windows
+     308 taskhost.exe         0x003307f0 TEMP                           C:\Users\hello\AppData\Local\Temp
+     308 taskhost.exe         0x003307f0 Thanos                         xor and password
+     308 taskhost.exe         0x003307f0 TMP                            C:\Users\hello\AppData\Local\Temp
+     308 taskhost.exe         0x003307f0 USERDOMAIN                     hello-PC
+     308 taskhost.exe         0x003307f0 USERNAME                       hello
+     308 taskhost.exe         0x003307f0 USERPROFILE                    C:\Users\hello
+     308 taskhost.exe         0x003307f0 windir                         C:\Windows
+     308 taskhost.exe         0x003307f0 windows_tracing_flags          3
+     308 taskhost.exe         0x003307f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1164 sppsvc.exe           0x001607f0 ALLUSERSPROFILE                C:\ProgramData
+    1164 sppsvc.exe           0x001607f0 APPDATA                        C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+    1164 sppsvc.exe           0x001607f0 CommonProgramFiles             C:\Program Files\Common Files
+    1164 sppsvc.exe           0x001607f0 COMPUTERNAME                   HELLO-PC
+    1164 sppsvc.exe           0x001607f0 ComSpec                        C:\Windows\system32\cmd.exe
+    1164 sppsvc.exe           0x001607f0 FP_NO_HOST_CHECK               NO
+    1164 sppsvc.exe           0x001607f0 LOCALAPPDATA                   C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+    1164 sppsvc.exe           0x001607f0 NUMBER_OF_PROCESSORS           1
+    1164 sppsvc.exe           0x001607f0 OS                             Windows_NT
+    1164 sppsvc.exe           0x001607f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1164 sppsvc.exe           0x001607f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1164 sppsvc.exe           0x001607f0 PROCESSOR_ARCHITECTURE         x86
+    1164 sppsvc.exe           0x001607f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+    1164 sppsvc.exe           0x001607f0 PROCESSOR_LEVEL                6
+    1164 sppsvc.exe           0x001607f0 PROCESSOR_REVISION             8e09
+    1164 sppsvc.exe           0x001607f0 ProgramData                    C:\ProgramData
+    1164 sppsvc.exe           0x001607f0 ProgramFiles                   C:\Program Files
+    1164 sppsvc.exe           0x001607f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1164 sppsvc.exe           0x001607f0 PUBLIC                         C:\Users\Public
+    1164 sppsvc.exe           0x001607f0 SystemDrive                    C:
+    1164 sppsvc.exe           0x001607f0 SystemRoot                     C:\Windows
+    1164 sppsvc.exe           0x001607f0 TEMP                           C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    1164 sppsvc.exe           0x001607f0 Thanos                         xor and password
+    1164 sppsvc.exe           0x001607f0 TMP                            C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    1164 sppsvc.exe           0x001607f0 USERDOMAIN                     WORKGROUP
+    1164 sppsvc.exe           0x001607f0 USERNAME                       HELLO-PC$
+    1164 sppsvc.exe           0x001607f0 USERPROFILE                    C:\Windows\ServiceProfiles\NetworkService
+    1164 sppsvc.exe           0x001607f0 windir                         C:\Windows
+    1164 sppsvc.exe           0x001607f0 windows_tracing_flags          3
+    1164 sppsvc.exe           0x001607f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1992 dwm.exe              0x005607f0 ALLUSERSPROFILE                C:\ProgramData
+    1992 dwm.exe              0x005607f0 APPDATA                        C:\Users\hello\AppData\Roaming
+    1992 dwm.exe              0x005607f0 CommonProgramFiles             C:\Program Files\Common Files
+    1992 dwm.exe              0x005607f0 COMPUTERNAME                   HELLO-PC
+    1992 dwm.exe              0x005607f0 ComSpec                        C:\Windows\system32\cmd.exe
+    1992 dwm.exe              0x005607f0 FP_NO_HOST_CHECK               NO
+    1992 dwm.exe              0x005607f0 HOMEDRIVE                      C:
+    1992 dwm.exe              0x005607f0 HOMEPATH                       \Users\hello
+    1992 dwm.exe              0x005607f0 LOCALAPPDATA                   C:\Users\hello\AppData\Local
+    1992 dwm.exe              0x005607f0 LOGONSERVER                    \\HELLO-PC
+    1992 dwm.exe              0x005607f0 NUMBER_OF_PROCESSORS           1
+    1992 dwm.exe              0x005607f0 OS                             Windows_NT
+    1992 dwm.exe              0x005607f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1992 dwm.exe              0x005607f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1992 dwm.exe              0x005607f0 PROCESSOR_ARCHITECTURE         x86
+    1992 dwm.exe              0x005607f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+    1992 dwm.exe              0x005607f0 PROCESSOR_LEVEL                6
+    1992 dwm.exe              0x005607f0 PROCESSOR_REVISION             8e09
+    1992 dwm.exe              0x005607f0 ProgramData                    C:\ProgramData
+    1992 dwm.exe              0x005607f0 ProgramFiles                   C:\Program Files
+    1992 dwm.exe              0x005607f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1992 dwm.exe              0x005607f0 PUBLIC                         C:\Users\Public
+    1992 dwm.exe              0x005607f0 SystemDrive                    C:
+    1992 dwm.exe              0x005607f0 SystemRoot                     C:\Windows
+    1992 dwm.exe              0x005607f0 TEMP                           C:\Users\hello\AppData\Local\Temp
+    1992 dwm.exe              0x005607f0 Thanos                         xor and password
+    1992 dwm.exe              0x005607f0 TMP                            C:\Users\hello\AppData\Local\Temp
+    1992 dwm.exe              0x005607f0 USERDOMAIN                     hello-PC
+    1992 dwm.exe              0x005607f0 USERNAME                       hello
+    1992 dwm.exe              0x005607f0 USERPROFILE                    C:\Users\hello
+    1992 dwm.exe              0x005607f0 windir                         C:\Windows
+    1992 dwm.exe              0x005607f0 windows_tracing_flags          3
+    1992 dwm.exe              0x005607f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     324 explorer.exe         0x02bf0b88 ALLUSERSPROFILE                C:\ProgramData
+     324 explorer.exe         0x02bf0b88 APPDATA                        C:\Users\hello\AppData\Roaming
+     324 explorer.exe         0x02bf0b88 CommonProgramFiles             C:\Program Files\Common Files
+     324 explorer.exe         0x02bf0b88 COMPUTERNAME                   HELLO-PC
+     324 explorer.exe         0x02bf0b88 ComSpec                        C:\Windows\system32\cmd.exe
+     324 explorer.exe         0x02bf0b88 FP_NO_HOST_CHECK               NO
+     324 explorer.exe         0x02bf0b88 HOMEDRIVE                      C:
+     324 explorer.exe         0x02bf0b88 HOMEPATH                       \Users\hello
+     324 explorer.exe         0x02bf0b88 LOCALAPPDATA                   C:\Users\hello\AppData\Local
+     324 explorer.exe         0x02bf0b88 LOGONSERVER                    \\HELLO-PC
+     324 explorer.exe         0x02bf0b88 NUMBER_OF_PROCESSORS           1
+     324 explorer.exe         0x02bf0b88 OS                             Windows_NT
+     324 explorer.exe         0x02bf0b88 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+     324 explorer.exe         0x02bf0b88 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     324 explorer.exe         0x02bf0b88 PROCESSOR_ARCHITECTURE         x86
+     324 explorer.exe         0x02bf0b88 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+     324 explorer.exe         0x02bf0b88 PROCESSOR_LEVEL                6
+     324 explorer.exe         0x02bf0b88 PROCESSOR_REVISION             8e09
+     324 explorer.exe         0x02bf0b88 ProgramData                    C:\ProgramData
+     324 explorer.exe         0x02bf0b88 ProgramFiles                   C:\Program Files
+     324 explorer.exe         0x02bf0b88 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     324 explorer.exe         0x02bf0b88 PUBLIC                         C:\Users\Public
+     324 explorer.exe         0x02bf0b88 SESSIONNAME                    Console
+     324 explorer.exe         0x02bf0b88 SystemDrive                    C:
+     324 explorer.exe         0x02bf0b88 SystemRoot                     C:\Windows
+     324 explorer.exe         0x02bf0b88 TEMP                           C:\Users\hello\AppData\Local\Temp
+     324 explorer.exe         0x02bf0b88 Thanos                         xor and password
+     324 explorer.exe         0x02bf0b88 TMP                            C:\Users\hello\AppData\Local\Temp
+     324 explorer.exe         0x02bf0b88 USERDOMAIN                     hello-PC
+     324 explorer.exe         0x02bf0b88 USERNAME                       hello
+     324 explorer.exe         0x02bf0b88 USERPROFILE                    C:\Users\hello
+     324 explorer.exe         0x02bf0b88 windir                         C:\Windows
+     324 explorer.exe         0x02bf0b88 windows_tracing_flags          3
+     324 explorer.exe         0x02bf0b88 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1000 VBoxTray.exe         0x003007f0 ALLUSERSPROFILE                C:\ProgramData
+    1000 VBoxTray.exe         0x003007f0 APPDATA                        C:\Users\hello\AppData\Roaming
+    1000 VBoxTray.exe         0x003007f0 CommonProgramFiles             C:\Program Files\Common Files
+    1000 VBoxTray.exe         0x003007f0 COMPUTERNAME                   HELLO-PC
+    1000 VBoxTray.exe         0x003007f0 ComSpec                        C:\Windows\system32\cmd.exe
+    1000 VBoxTray.exe         0x003007f0 FP_NO_HOST_CHECK               NO
+    1000 VBoxTray.exe         0x003007f0 HOMEDRIVE                      C:
+    1000 VBoxTray.exe         0x003007f0 HOMEPATH                       \Users\hello
+    1000 VBoxTray.exe         0x003007f0 LOCALAPPDATA                   C:\Users\hello\AppData\Local
+    1000 VBoxTray.exe         0x003007f0 LOGONSERVER                    \\HELLO-PC
+    1000 VBoxTray.exe         0x003007f0 NUMBER_OF_PROCESSORS           1
+    1000 VBoxTray.exe         0x003007f0 OS                             Windows_NT
+    1000 VBoxTray.exe         0x003007f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    1000 VBoxTray.exe         0x003007f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1000 VBoxTray.exe         0x003007f0 PROCESSOR_ARCHITECTURE         x86
+    1000 VBoxTray.exe         0x003007f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+    1000 VBoxTray.exe         0x003007f0 PROCESSOR_LEVEL                6
+    1000 VBoxTray.exe         0x003007f0 PROCESSOR_REVISION             8e09
+    1000 VBoxTray.exe         0x003007f0 ProgramData                    C:\ProgramData
+    1000 VBoxTray.exe         0x003007f0 ProgramFiles                   C:\Program Files
+    1000 VBoxTray.exe         0x003007f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1000 VBoxTray.exe         0x003007f0 PUBLIC                         C:\Users\Public
+    1000 VBoxTray.exe         0x003007f0 SESSIONNAME                    Console
+    1000 VBoxTray.exe         0x003007f0 SystemDrive                    C:
+    1000 VBoxTray.exe         0x003007f0 SystemRoot                     C:\Windows
+    1000 VBoxTray.exe         0x003007f0 TEMP                           C:\Users\hello\AppData\Local\Temp
+    1000 VBoxTray.exe         0x003007f0 Thanos                         xor and password
+    1000 VBoxTray.exe         0x003007f0 TMP                            C:\Users\hello\AppData\Local\Temp
+    1000 VBoxTray.exe         0x003007f0 USERDOMAIN                     hello-PC
+    1000 VBoxTray.exe         0x003007f0 USERNAME                       hello
+    1000 VBoxTray.exe         0x003007f0 USERPROFILE                    C:\Users\hello
+    1000 VBoxTray.exe         0x003007f0 windir                         C:\Windows
+    1000 VBoxTray.exe         0x003007f0 windows_tracing_flags          3
+    1000 VBoxTray.exe         0x003007f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2032 SearchIndexer.       0x0039e828 ALLUSERSPROFILE                C:\ProgramData
+    2032 SearchIndexer.       0x0039e828 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    2032 SearchIndexer.       0x0039e828 CommonProgramFiles             C:\Program Files\Common Files
+    2032 SearchIndexer.       0x0039e828 COMPUTERNAME                   HELLO-PC
+    2032 SearchIndexer.       0x0039e828 ComSpec                        C:\Windows\system32\cmd.exe
+    2032 SearchIndexer.       0x0039e828 FP_NO_HOST_CHECK               NO
+    2032 SearchIndexer.       0x0039e828 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    2032 SearchIndexer.       0x0039e828 NUMBER_OF_PROCESSORS           1
+    2032 SearchIndexer.       0x0039e828 OS                             Windows_NT
+    2032 SearchIndexer.       0x0039e828 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\system32
+    2032 SearchIndexer.       0x0039e828 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2032 SearchIndexer.       0x0039e828 PROCESSOR_ARCHITECTURE         x86
+    2032 SearchIndexer.       0x0039e828 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+    2032 SearchIndexer.       0x0039e828 PROCESSOR_LEVEL                6
+    2032 SearchIndexer.       0x0039e828 PROCESSOR_REVISION             8e09
+    2032 SearchIndexer.       0x0039e828 ProgramData                    C:\ProgramData
+    2032 SearchIndexer.       0x0039e828 ProgramFiles                   C:\Program Files
+    2032 SearchIndexer.       0x0039e828 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2032 SearchIndexer.       0x0039e828 PUBLIC                         C:\Users\Public
+    2032 SearchIndexer.       0x0039e828 SystemDrive                    C:
+    2032 SearchIndexer.       0x0039e828 SystemRoot                     C:\Windows
+    2032 SearchIndexer.       0x0039e828 TEMP                           C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc
+    2032 SearchIndexer.       0x0039e828 Thanos                         xor and password
+    2032 SearchIndexer.       0x0039e828 TMP                            C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc
+    2032 SearchIndexer.       0x0039e828 USERDOMAIN                     WORKGROUP
+    2032 SearchIndexer.       0x0039e828 USERNAME                       HELLO-PC$
+    2032 SearchIndexer.       0x0039e828 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    2032 SearchIndexer.       0x0039e828 windir                         C:\Windows
+    2032 SearchIndexer.       0x0039e828 windows_tracing_flags          3
+    2032 SearchIndexer.       0x0039e828 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+     284 SearchProtocol       0x001907f0 ALLUSERSPROFILE                C:\ProgramData
+     284 SearchProtocol       0x001907f0 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     284 SearchProtocol       0x001907f0 CommonProgramFiles             C:\Program Files\Common Files
+     284 SearchProtocol       0x001907f0 COMPUTERNAME                   HELLO-PC
+     284 SearchProtocol       0x001907f0 ComSpec                        C:\Windows\system32\cmd.exe
+     284 SearchProtocol       0x001907f0 FP_NO_HOST_CHECK               NO
+     284 SearchProtocol       0x001907f0 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     284 SearchProtocol       0x001907f0 NUMBER_OF_PROCESSORS           1
+     284 SearchProtocol       0x001907f0 OS                             Windows_NT
+     284 SearchProtocol       0x001907f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\system32
+     284 SearchProtocol       0x001907f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     284 SearchProtocol       0x001907f0 PROCESSOR_ARCHITECTURE         x86
+     284 SearchProtocol       0x001907f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+     284 SearchProtocol       0x001907f0 PROCESSOR_LEVEL                6
+     284 SearchProtocol       0x001907f0 PROCESSOR_REVISION             8e09
+     284 SearchProtocol       0x001907f0 ProgramData                    C:\ProgramData
+     284 SearchProtocol       0x001907f0 ProgramFiles                   C:\Program Files
+     284 SearchProtocol       0x001907f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+     284 SearchProtocol       0x001907f0 PUBLIC                         C:\Users\Public
+     284 SearchProtocol       0x001907f0 SystemDrive                    C:
+     284 SearchProtocol       0x001907f0 SystemRoot                     C:\Windows
+     284 SearchProtocol       0x001907f0 TEMP                           C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc
+     284 SearchProtocol       0x001907f0 Thanos                         xor and password
+     284 SearchProtocol       0x001907f0 TMP                            C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc
+     284 SearchProtocol       0x001907f0 USERDOMAIN                     WORKGROUP
+     284 SearchProtocol       0x001907f0 USERNAME                       HELLO-PC$
+     284 SearchProtocol       0x001907f0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     284 SearchProtocol       0x001907f0 windir                         C:\Windows
+     284 SearchProtocol       0x001907f0 windows_tracing_flags          3
+     284 SearchProtocol       0x001907f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    1292 SearchFilterHo       0x002407f0 ALLUSERSPROFILE                C:\ProgramData
+    1292 SearchFilterHo       0x002407f0 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    1292 SearchFilterHo       0x002407f0 CommonProgramFiles             C:\Program Files\Common Files
+    1292 SearchFilterHo       0x002407f0 COMPUTERNAME                   HELLO-PC
+    1292 SearchFilterHo       0x002407f0 ComSpec                        C:\Windows\system32\cmd.exe
+    1292 SearchFilterHo       0x002407f0 FP_NO_HOST_CHECK               NO
+    1292 SearchFilterHo       0x002407f0 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    1292 SearchFilterHo       0x002407f0 NUMBER_OF_PROCESSORS           1
+    1292 SearchFilterHo       0x002407f0 OS                             Windows_NT
+    1292 SearchFilterHo       0x002407f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\system32
+    1292 SearchFilterHo       0x002407f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1292 SearchFilterHo       0x002407f0 PROCESSOR_ARCHITECTURE         x86
+    1292 SearchFilterHo       0x002407f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+    1292 SearchFilterHo       0x002407f0 PROCESSOR_LEVEL                6
+    1292 SearchFilterHo       0x002407f0 PROCESSOR_REVISION             8e09
+    1292 SearchFilterHo       0x002407f0 ProgramData                    C:\ProgramData
+    1292 SearchFilterHo       0x002407f0 ProgramFiles                   C:\Program Files
+    1292 SearchFilterHo       0x002407f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    1292 SearchFilterHo       0x002407f0 PUBLIC                         C:\Users\Public
+    1292 SearchFilterHo       0x002407f0 SystemDrive                    C:
+    1292 SearchFilterHo       0x002407f0 SystemRoot                     C:\Windows
+    1292 SearchFilterHo       0x002407f0 TEMP                           C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc
+    1292 SearchFilterHo       0x002407f0 Thanos                         xor and password
+    1292 SearchFilterHo       0x002407f0 TMP                            C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc
+    1292 SearchFilterHo       0x002407f0 USERDOMAIN                     WORKGROUP
+    1292 SearchFilterHo       0x002407f0 USERNAME                       HELLO-PC$
+    1292 SearchFilterHo       0x002407f0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    1292 SearchFilterHo       0x002407f0 windir                         C:\Windows
+    1292 SearchFilterHo       0x002407f0 windows_tracing_flags          3
+    1292 SearchFilterHo       0x002407f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2096 cmd.exe              0x00384be0 ALLUSERSPROFILE                C:\ProgramData
+    2096 cmd.exe              0x00384be0 APPDATA                        C:\Users\hello\AppData\Roaming
+    2096 cmd.exe              0x00384be0 CommonProgramFiles             C:\Program Files\Common Files
+    2096 cmd.exe              0x00384be0 COMPUTERNAME                   HELLO-PC
+    2096 cmd.exe              0x00384be0 ComSpec                        C:\Windows\system32\cmd.exe
+    2096 cmd.exe              0x00384be0 FP_NO_HOST_CHECK               NO
+    2096 cmd.exe              0x00384be0 HOMEDRIVE                      C:
+    2096 cmd.exe              0x00384be0 HOMEPATH                       \Users\hello
+    2096 cmd.exe              0x00384be0 LOCALAPPDATA                   C:\Users\hello\AppData\Local
+    2096 cmd.exe              0x00384be0 LOGONSERVER                    \\HELLO-PC
+    2096 cmd.exe              0x00384be0 NUMBER_OF_PROCESSORS           1
+    2096 cmd.exe              0x00384be0 OS                             Windows_NT
+    2096 cmd.exe              0x00384be0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2096 cmd.exe              0x00384be0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2096 cmd.exe              0x00384be0 PROCESSOR_ARCHITECTURE         x86
+    2096 cmd.exe              0x00384be0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+    2096 cmd.exe              0x00384be0 PROCESSOR_LEVEL                6
+    2096 cmd.exe              0x00384be0 PROCESSOR_REVISION             8e09
+    2096 cmd.exe              0x00384be0 ProgramData                    C:\ProgramData
+    2096 cmd.exe              0x00384be0 ProgramFiles                   C:\Program Files
+    2096 cmd.exe              0x00384be0 PROMPT                         $P$G
+    2096 cmd.exe              0x00384be0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2096 cmd.exe              0x00384be0 PUBLIC                         C:\Users\Public
+    2096 cmd.exe              0x00384be0 SESSIONNAME                    Console
+    2096 cmd.exe              0x00384be0 SystemDrive                    C:
+    2096 cmd.exe              0x00384be0 SystemRoot                     C:\Windows
+    2096 cmd.exe              0x00384be0 TEMP                           C:\Users\hello\AppData\Local\Temp
+    2096 cmd.exe              0x00384be0 Thanos                         xor and password
+    2096 cmd.exe              0x00384be0 TMP                            C:\Users\hello\AppData\Local\Temp
+    2096 cmd.exe              0x00384be0 USERDOMAIN                     hello-PC
+    2096 cmd.exe              0x00384be0 USERNAME                       hello
+    2096 cmd.exe              0x00384be0 USERPROFILE                    C:\Users\hello
+    2096 cmd.exe              0x00384be0 windir                         C:\Windows
+    2096 cmd.exe              0x00384be0 windows_tracing_flags          3
+    2096 cmd.exe              0x00384be0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2104 conhost.exe          0x002e34b0 CommonProgramFiles             C:\Program Files\Common Files
+    2104 conhost.exe          0x002e34b0 ComSpec                        C:\Windows\system32\cmd.exe
+    2104 conhost.exe          0x002e34b0 FP_NO_HOST_CHECK               NO
+    2104 conhost.exe          0x002e34b0 NUMBER_OF_PROCESSORS           1
+    2104 conhost.exe          0x002e34b0 OS                             Windows_NT
+    2104 conhost.exe          0x002e34b0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2104 conhost.exe          0x002e34b0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2104 conhost.exe          0x002e34b0 PROCESSOR_ARCHITECTURE         x86
+    2104 conhost.exe          0x002e34b0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+    2104 conhost.exe          0x002e34b0 PROCESSOR_LEVEL                6
+    2104 conhost.exe          0x002e34b0 PROCESSOR_REVISION             8e09
+    2104 conhost.exe          0x002e34b0 ProgramFiles                   C:\Program Files
+    2104 conhost.exe          0x002e34b0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2104 conhost.exe          0x002e34b0 SystemDrive                    C:
+    2104 conhost.exe          0x002e34b0 SystemRoot                     C:\Windows
+    2104 conhost.exe          0x002e34b0 TEMP                           C:\Windows\TEMP
+    2104 conhost.exe          0x002e34b0 Thanos                         xor and password
+    2104 conhost.exe          0x002e34b0 TMP                            C:\Windows\TEMP
+    2104 conhost.exe          0x002e34b0 USERNAME                       SYSTEM
+    2104 conhost.exe          0x002e34b0 windir                         C:\Windows
+    2104 conhost.exe          0x002e34b0 windows_tracing_flags          3
+    2104 conhost.exe          0x002e34b0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2412 DumpIt.exe           0x003607f0 ALLUSERSPROFILE                C:\ProgramData
+    2412 DumpIt.exe           0x003607f0 APPDATA                        C:\Users\hello\AppData\Roaming
+    2412 DumpIt.exe           0x003607f0 CommonProgramFiles             C:\Program Files\Common Files
+    2412 DumpIt.exe           0x003607f0 COMPUTERNAME                   HELLO-PC
+    2412 DumpIt.exe           0x003607f0 ComSpec                        C:\Windows\system32\cmd.exe
+    2412 DumpIt.exe           0x003607f0 FP_NO_HOST_CHECK               NO
+    2412 DumpIt.exe           0x003607f0 HOMEDRIVE                      C:
+    2412 DumpIt.exe           0x003607f0 HOMEPATH                       \Users\hello
+    2412 DumpIt.exe           0x003607f0 LOCALAPPDATA                   C:\Users\hello\AppData\Local
+    2412 DumpIt.exe           0x003607f0 LOGONSERVER                    \\HELLO-PC
+    2412 DumpIt.exe           0x003607f0 NUMBER_OF_PROCESSORS           1
+    2412 DumpIt.exe           0x003607f0 OS                             Windows_NT
+    2412 DumpIt.exe           0x003607f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2412 DumpIt.exe           0x003607f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2412 DumpIt.exe           0x003607f0 PROCESSOR_ARCHITECTURE         x86
+    2412 DumpIt.exe           0x003607f0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+    2412 DumpIt.exe           0x003607f0 PROCESSOR_LEVEL                6
+    2412 DumpIt.exe           0x003607f0 PROCESSOR_REVISION             8e09
+    2412 DumpIt.exe           0x003607f0 ProgramData                    C:\ProgramData
+    2412 DumpIt.exe           0x003607f0 ProgramFiles                   C:\Program Files
+    2412 DumpIt.exe           0x003607f0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2412 DumpIt.exe           0x003607f0 PUBLIC                         C:\Users\Public
+    2412 DumpIt.exe           0x003607f0 SystemDrive                    C:
+    2412 DumpIt.exe           0x003607f0 SystemRoot                     C:\Windows
+    2412 DumpIt.exe           0x003607f0 TEMP                           C:\Users\hello\AppData\Local\Temp
+    2412 DumpIt.exe           0x003607f0 Thanos                         xor and password
+    2412 DumpIt.exe           0x003607f0 TMP                            C:\Users\hello\AppData\Local\Temp
+    2412 DumpIt.exe           0x003607f0 USERDOMAIN                     hello-PC
+    2412 DumpIt.exe           0x003607f0 USERNAME                       hello
+    2412 DumpIt.exe           0x003607f0 USERPROFILE                    C:\Users\hello
+    2412 DumpIt.exe           0x003607f0 windir                         C:\Windows
+    2412 DumpIt.exe           0x003607f0 windows_tracing_flags          3
+    2412 DumpIt.exe           0x003607f0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log
+    2424 conhost.exe          0x002934b0 CommonProgramFiles             C:\Program Files\Common Files
+    2424 conhost.exe          0x002934b0 ComSpec                        C:\Windows\system32\cmd.exe
+    2424 conhost.exe          0x002934b0 FP_NO_HOST_CHECK               NO
+    2424 conhost.exe          0x002934b0 NUMBER_OF_PROCESSORS           1
+    2424 conhost.exe          0x002934b0 OS                             Windows_NT
+    2424 conhost.exe          0x002934b0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+    2424 conhost.exe          0x002934b0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2424 conhost.exe          0x002934b0 PROCESSOR_ARCHITECTURE         x86
+    2424 conhost.exe          0x002934b0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 142 Stepping 9, GenuineIntel
+    2424 conhost.exe          0x002934b0 PROCESSOR_LEVEL                6
+    2424 conhost.exe          0x002934b0 PROCESSOR_REVISION             8e09
+    2424 conhost.exe          0x002934b0 ProgramFiles                   C:\Program Files
+    2424 conhost.exe          0x002934b0 PSModulePath                   C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+    2424 conhost.exe          0x002934b0 SystemDrive                    C:
+    2424 conhost.exe          0x002934b0 SystemRoot                     C:\Windows
+    2424 conhost.exe          0x002934b0 TEMP                           C:\Windows\TEMP
+    2424 conhost.exe          0x002934b0 Thanos                         xor and password
+    2424 conhost.exe          0x002934b0 TMP                            C:\Windows\TEMP
+    2424 conhost.exe          0x002934b0 USERNAME                       SYSTEM
+    2424 conhost.exe          0x002934b0 windir                         C:\Windows
+    2424 conhost.exe          0x002934b0 windows_tracing_flags          3
+    2424 conhost.exe          0x002934b0 windows_tracing_logfile        C:\BVTBin\Tests\installpackage\csilogfile.log

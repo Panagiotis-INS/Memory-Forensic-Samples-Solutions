@@ -1,0 +1,56 @@
+**************************************************
+ConsoleProcess: conhost.exe Pid: 2104
+Console: 0xe981c0 CommandHistorySize: 50
+HistoryBufferCount: 2 HistoryBufferMax: 4
+OriginalTitle: %SystemRoot%\system32\cmd.exe
+Title: C:\Windows\system32\cmd.exe
+AttachedProcess: cmd.exe Pid: 2096 Handle: 0x5c
+----
+CommandHistory: 0x300690 Application: python.exe Flags: 
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x0
+----
+CommandHistory: 0x300498 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 1 LastAdded: 0 LastDisplayed: 0
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x5c
+Cmd #0 at 0x2f43c0: C:\Python27\python.exe C:\Users\hello\Desktop\demon.py.txt
+----
+Screen 0x2e6368 X:80 Y:300
+Dump:
+Microsoft Windows [Version 6.1.7601]                                            
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.                 
+                                                                                
+C:\Users\hello>C:\Python27\python.exe C:\Users\hello\Desktop\demon.py.txt       
+335d366f5d6031767631707f                                                        
+                                                                                
+C:\Users\hello>                                                                 
+**************************************************
+ConsoleProcess: conhost.exe Pid: 2424
+Console: 0xe981c0 CommandHistorySize: 50
+HistoryBufferCount: 1 HistoryBufferMax: 4
+OriginalTitle: C:\Users\hello\Desktop\DumpIt\DumpIt.exe
+Title: C:\Users\hello\Desktop\DumpIt\DumpIt.exe
+AttachedProcess: DumpIt.exe Pid: 2412 Handle: 0x5c
+----
+CommandHistory: 0x2b04c8 Application: DumpIt.exe Flags: Allocated
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x5c
+----
+Screen 0x2963a0 X:80 Y:300
+Dump:
+  DumpIt - v1.3.2.20110401 - One click memory memory dumper                     
+  Copyright (c) 2007 - 2011, Matthieu Suiche <http://www.msuiche.net>           
+  Copyright (c) 2010 - 2011, MoonSols <http://www.moonsols.com>                 
+                                                                                
+                                                                                
+    Address space size:        1048510464 bytes (    999 Mb)                    
+    Free space size:          20896800768 bytes (  19928 Mb)                    
+                                                                                
+    * Destination = \??\C:\Users\hello\Desktop\DumpIt\HELLO-PC-20181023-083048.r
+aw                                                                              
+                                                                                
+    --> Are you sure you want to continue? [y/n] y                              
+    + Processing...                                                             
