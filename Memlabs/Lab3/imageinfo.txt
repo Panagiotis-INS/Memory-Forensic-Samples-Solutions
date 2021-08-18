@@ -1,0 +1,12 @@
+          Suggested Profile(s) : Win7SP1x86_23418, Win7SP0x86, Win7SP1x86_24000, Win7SP1x86
+                     AS Layer1 : IA32PagedMemoryPae (Kernel AS)
+                     AS Layer2 : FileAddressSpace (/home/neuro/challenges/Memory-Forensic-Samples-Solutions/Memlabs/Lab3/MemoryDump_Lab3.raw)
+                      PAE type : PAE
+                           DTB : 0x185000L
+                          KDBG : 0x82742c68L
+          Number of Processors : 1
+     Image Type (Service Pack) : 1
+                KPCR for CPU 0 : 0x82743d00L
+             KUSER_SHARED_DATA : 0xffdf0000L
+           Image date and time : 2018-09-30 09:47:54 UTC+0000
+     Image local date and time : 2018-09-30 15:17:54 +0530

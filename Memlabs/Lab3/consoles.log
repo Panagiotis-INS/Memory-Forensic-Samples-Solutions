@@ -1,0 +1,28 @@
+**************************************************
+ConsoleProcess: conhost.exe Pid: 3176
+Console: 0xb81c0 CommandHistorySize: 50
+HistoryBufferCount: 1 HistoryBufferMax: 4
+OriginalTitle: C:\Users\hello\Desktop\DumpIt\DumpIt.exe
+Title: C:\Users\hello\Desktop\DumpIt\DumpIt.exe
+AttachedProcess: DumpIt.exe Pid: 4116 Handle: 0x5c
+----
+CommandHistory: 0x2e0488 Application: DumpIt.exe Flags: Allocated
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x5c
+----
+Screen 0x2c6370 X:80 Y:300
+Dump:
+  DumpIt - v1.3.2.20110401 - One click memory memory dumper                     
+  Copyright (c) 2007 - 2011, Matthieu Suiche <http://www.msuiche.net>           
+  Copyright (c) 2010 - 2011, MoonSols <http://www.moonsols.com>                 
+                                                                                
+                                                                                
+    Address space size:        1048510464 bytes (    999 Mb)                    
+    Free space size:          20254162944 bytes (  19315 Mb)                    
+                                                                                
+    * Destination = \??\C:\Users\hello\Desktop\DumpIt\HELLO-PC-20180930-094543.r
+aw                                                                              
+                                                                                
+    --> Are you sure you want to continue? [y/n] y                              
+    + Processing...                                                             
