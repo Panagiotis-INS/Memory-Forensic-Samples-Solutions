@@ -1,0 +1,8 @@
+**************************************************
+CommandProcess: conhost.exe Pid: 2636
+CommandHistory: 0x24eb70 Application: DumpIt.exe Flags: Allocated
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x60
+Cmd #15 @ 0x210158: $
+Cmd #16 @ 0x24d500: $

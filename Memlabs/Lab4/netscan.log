@@ -1,0 +1,51 @@
+Offset(P)          Proto    Local Address                  Foreign Address      State            Pid      Owner          Created
+0x3e84a6e0         UDPv4    0.0.0.0:3702                   *:*                                   1276     svchost.exe    2019-06-29 07:29:01 UTC+0000
+0x3e8e4ec0         UDPv6    ::1:60401                      *:*                                   1276     svchost.exe    2019-06-29 07:29:10 UTC+0000
+0x3e8e9b70         UDPv6    fe80::58de:c6b2:c635:fbc7:1900 *:*                                   1276     svchost.exe    2019-06-29 07:29:10 UTC+0000
+0x3e900bb0         UDPv4    0.0.0.0:0                      *:*                                   640      VBoxService.ex 2019-06-29 07:30:23 UTC+0000
+0x3e903010         UDPv6    ::1:1900                       *:*                                   1276     svchost.exe    2019-06-29 07:29:10 UTC+0000
+0x3e904550         UDPv4    127.0.0.1:60402                *:*                                   1276     svchost.exe    2019-06-29 07:29:10 UTC+0000
+0x3e9076f0         UDPv4    10.0.2.15:1900                 *:*                                   1276     svchost.exe    2019-06-29 07:29:10 UTC+0000
+0x3e90cd00         UDPv4    127.0.0.1:1900                 *:*                                   1276     svchost.exe    2019-06-29 07:29:10 UTC+0000
+0x3eac5b20         UDPv4    0.0.0.0:0                      *:*                                   484      svchost.exe    2019-06-29 07:28:42 UTC+0000
+0x3eac5b20         UDPv6    :::0                           *:*                                   484      svchost.exe    2019-06-29 07:28:42 UTC+0000
+0x3eb1c350         UDPv4    10.0.2.15:138                  *:*                                   4        System         2019-06-29 07:28:45 UTC+0000
+0x3eb3a220         UDPv4    0.0.0.0:5355                   *:*                                   484      svchost.exe    2019-06-29 07:28:46 UTC+0000
+0x3eb3b790         UDPv4    10.0.2.15:137                  *:*                                   4        System         2019-06-29 07:28:45 UTC+0000
+0x3ebcfec0         UDPv4    0.0.0.0:3702                   *:*                                   1276     svchost.exe    2019-06-29 07:29:01 UTC+0000
+0x3ebdb010         UDPv4    0.0.0.0:3702                   *:*                                   1276     svchost.exe    2019-06-29 07:29:01 UTC+0000
+0x3ebdb010         UDPv6    :::3702                        *:*                                   1276     svchost.exe    2019-06-29 07:29:01 UTC+0000
+0x3ec735b0         UDPv6    fe80::58de:c6b2:c635:fbc7:546  *:*                                   804      svchost.exe    2019-06-29 07:28:29 UTC+0000
+0x3ed60b50         UDPv4    0.0.0.0:3702                   *:*                                   1276     svchost.exe    2019-06-29 07:29:01 UTC+0000
+0x3ed60b50         UDPv6    :::3702                        *:*                                   1276     svchost.exe    2019-06-29 07:29:01 UTC+0000
+0x3edb5010         UDPv4    0.0.0.0:5355                   *:*                                   484      svchost.exe    2019-06-29 07:28:46 UTC+0000
+0x3edb5010         UDPv6    :::5355                        *:*                                   484      svchost.exe    2019-06-29 07:28:46 UTC+0000
+0x3edf7010         UDPv4    0.0.0.0:49951                  *:*                                   1276     svchost.exe    2019-06-29 07:28:38 UTC+0000
+0x3edf77b0         UDPv4    0.0.0.0:49952                  *:*                                   1276     svchost.exe    2019-06-29 07:28:38 UTC+0000
+0x3edf77b0         UDPv6    :::49952                       *:*                                   1276     svchost.exe    2019-06-29 07:28:38 UTC+0000
+0x3ea4b210         TCPv4    0.0.0.0:49156                  0.0.0.0:0            LISTENING        472      services.exe   
+0x3ea4b210         TCPv6    :::49156                       :::0                 LISTENING        472      services.exe   
+0x3ea4d010         TCPv4    0.0.0.0:49156                  0.0.0.0:0            LISTENING        472      services.exe   
+0x3ea4d140         TCPv4    0.0.0.0:445                    0.0.0.0:0            LISTENING        4        System         
+0x3ea4d140         TCPv6    :::445                         :::0                 LISTENING        4        System         
+0x3ec9e220         TCPv4    0.0.0.0:49154                  0.0.0.0:0            LISTENING        480      lsass.exe      
+0x3eca1170         TCPv4    0.0.0.0:49154                  0.0.0.0:0            LISTENING        480      lsass.exe      
+0x3eca1170         TCPv6    :::49154                       :::0                 LISTENING        480      lsass.exe      
+0x3ecb49a0         TCPv4    0.0.0.0:49155                  0.0.0.0:0            LISTENING        864      svchost.exe    
+0x3ecb49a0         TCPv6    :::49155                       :::0                 LISTENING        864      svchost.exe    
+0x3ecb4df0         TCPv4    0.0.0.0:49155                  0.0.0.0:0            LISTENING        864      svchost.exe    
+0x3edbc8b0         TCPv4    0.0.0.0:5357                   0.0.0.0:0            LISTENING        4        System         
+0x3edbc8b0         TCPv6    :::5357                        :::0                 LISTENING        4        System         
+0x3ef580e0         TCPv4    0.0.0.0:135                    0.0.0.0:0            LISTENING        708      svchost.exe    
+0x3ef5b440         TCPv4    0.0.0.0:135                    0.0.0.0:0            LISTENING        708      svchost.exe    
+0x3ef5b440         TCPv6    :::135                         :::0                 LISTENING        708      svchost.exe    
+0x3ef65a00         TCPv4    0.0.0.0:49152                  0.0.0.0:0            LISTENING        384      wininit.exe    
+0x3ef67010         TCPv4    0.0.0.0:49152                  0.0.0.0:0            LISTENING        384      wininit.exe    
+0x3ef67010         TCPv6    :::49152                       :::0                 LISTENING        384      wininit.exe    
+0x3ef87010         TCPv4    10.0.2.15:139                  0.0.0.0:0            LISTENING        4        System         
+0x3efc90c0         TCPv4    0.0.0.0:49153                  0.0.0.0:0            LISTENING        804      svchost.exe    
+0x3efca5e0         TCPv4    0.0.0.0:49153                  0.0.0.0:0            LISTENING        804      svchost.exe    
+0x3efca5e0         TCPv6    :::49153                       :::0                 LISTENING        804      svchost.exe    
+0x3ef60720         TCPv6    -:0                            68f7:c601:80fa:ffff:68f7:c601:80fa:ffff:0 CLOSED           2        ??4????       
+0x3ef75cf0         TCPv6    -:0                            38cb:da01:80fa:ffff:981c:df01:80fa:ffff:0 CLOSED           2        ??4????       
+0x3fd322c0         UDPv4    0.0.0.0:0                      *:*                                   640      VBoxService.ex 2019-06-29 07:30:29 UTC+0000

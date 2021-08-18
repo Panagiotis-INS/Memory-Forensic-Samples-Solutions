@@ -1,0 +1,27 @@
+**************************************************
+ConsoleProcess: conhost.exe Pid: 2636
+Console: 0xffcb6200 CommandHistorySize: 50
+HistoryBufferCount: 1 HistoryBufferMax: 4
+OriginalTitle: C:\Users\eminem\Desktop\DumpIt\DumpIt.exe
+Title: C:\Users\eminem\Desktop\DumpIt\DumpIt.exe
+AttachedProcess: DumpIt.exe Pid: 2624 Handle: 0x60
+----
+CommandHistory: 0x24eb70 Application: DumpIt.exe Flags: Allocated
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x60
+----
+Screen 0x230fe0 X:80 Y:300
+Dump:
+  DumpIt - v1.3.2.20110401 - One click memory memory dumper                     
+  Copyright (c) 2007 - 2011, Matthieu Suiche <http://www.msuiche.net>           
+  Copyright (c) 2010 - 2011, MoonSols <http://www.moonsols.com>                 
+                                                                                
+                                                                                
+    Address space size:        1073676288 bytes (   1023 Mb)                    
+    Free space size:          32680615936 bytes (  31166 Mb)                    
+                                                                                
+    * Destination = \??\C:\Users\eminem\Desktop\DumpIt\2PAC-20190629-072925.raw 
+                                                                                
+    --> Are you sure you want to continue? [y/n] y                              
+    + Processing...                                                             
