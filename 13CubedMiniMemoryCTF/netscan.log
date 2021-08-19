@@ -1,0 +1,74 @@
+Offset(P)          Proto    Local Address                  Foreign Address      State            Pid      Owner          Created
+0xa780001eddf0     UDPv6    ::1:1900                       *:*                                   4040     svchost.exe    2018-08-06 18:11:55 UTC+0000
+0xc20c69c71570     UDPv6    fe80::19bd:cb63:80a8:8c7:546   *:*                                   1472     svchost.exe    2018-08-06 18:11:47 UTC+0000
+0xc20c6a4b0350     TCPv4    10.0.2.143:51431               13.107.255.168:443   ESTABLISHED      -1                      
+0xc20c6a7f9cc0     TCPv4    10.0.2.143:51435               13.107.21.200:443    CLOSED           -1                      -
+0xc20c6a84b7c0     TCPv4    10.0.2.143:51452               13.107.4.50:80       ESTABLISHED      -1                      
+0xc20c6b22d9f0     UDPv4    10.0.2.143:137                 *:*                                   4        System         2018-08-06 18:11:52 UTC+0000
+0xc20c6b31aa60     UDPv4    0.0.0.0:5353                   *:*                                   1692     svchost.exe    2018-08-06 18:11:52 UTC+0000
+0xc20c6b4dddf0     UDPv6    ::1:1900                       *:*                                   4040     svchost.exe    2018-08-06 18:11:55 UTC+0000
+0xc20c6b4fb260     UDPv6    fe80::19bd:cb63:80a8:8c7:1900  *:*                                   4040     svchost.exe    2018-08-06 18:11:55 UTC+0000
+0xc20c6b500eb0     UDPv4    0.0.0.0:5050                   *:*                                   5048     svchost.exe    2018-08-01 19:21:01 UTC+0000
+0xc20c6b5b4eb0     UDPv4    10.0.2.143:1900                *:*                                   4040     svchost.exe    2018-08-06 18:11:55 UTC+0000
+0xc20c6b269010     TCPv4    10.0.2.143:139                 0.0.0.0:0            LISTENING        4        System         2018-08-06 18:11:52 UTC+0000
+0xc20c6b5128b0     TCPv4    10.0.2.143:51381               204.79.197.200:443   CLOSED           -1                      8265-11-12 01:33:54 UTC+0000
+0xc20c6b607c90     UDPv4    0.0.0.0:5355                   *:*                                   1692     svchost.exe    2018-08-06 18:12:00 UTC+0000
+0xc20c6b607c90     UDPv6    :::5355                        *:*                                   1692     svchost.exe    2018-08-06 18:12:00 UTC+0000
+0xc20c6b91dbc0     UDPv4    0.0.0.0:5355                   *:*                                   1692     svchost.exe    2018-08-06 18:12:00 UTC+0000
+0xc20c6bd6eeb0     UDPv6    fe80::19bd:cb63:80a8:8c7:64855 *:*                                   4040     svchost.exe    2018-08-06 18:11:55 UTC+0000
+0xc20c6bdbd010     UDPv4    127.0.0.1:52442                *:*                                   2892     svchost.exe    2018-08-01 19:20:36 UTC+0000
+0xc20c6ba198a0     TCPv4    0.0.0.0:49664                  0.0.0.0:0            LISTENING        696      wininit.exe    2018-08-01 19:20:28 UTC+0000
+0xc20c6ba198a0     TCPv6    :::49664                       :::0                 LISTENING        696      wininit.exe    2018-08-01 19:20:28 UTC+0000
+0xc20c6ba19ec0     TCPv4    0.0.0.0:49664                  0.0.0.0:0            LISTENING        696      wininit.exe    2018-08-01 19:20:28 UTC+0000
+0xc20c6ba2f9a0     TCPv4    0.0.0.0:135                    0.0.0.0:0            LISTENING        1020     svchost.exe    2018-08-01 19:20:28 UTC+0000
+0xc20c6ba2f9a0     TCPv6    :::135                         :::0                 LISTENING        1020     svchost.exe    2018-08-01 19:20:28 UTC+0000
+0xc20c6ba41ec0     TCPv4    0.0.0.0:135                    0.0.0.0:0            LISTENING        1020     svchost.exe    2018-08-01 19:20:28 UTC+0000
+0xc20c6bb6bba0     TCPv4    0.0.0.0:49665                  0.0.0.0:0            LISTENING        1296     svchost.exe    2018-08-01 19:20:30 UTC+0000
+0xc20c6bbb8ec0     TCPv4    0.0.0.0:49665                  0.0.0.0:0            LISTENING        1296     svchost.exe    2018-08-01 19:20:30 UTC+0000
+0xc20c6bbb8ec0     TCPv6    :::49665                       :::0                 LISTENING        1296     svchost.exe    2018-08-01 19:20:30 UTC+0000
+0xc20c6bd93b30     TCPv4    0.0.0.0:5040                   0.0.0.0:0            LISTENING        5048     svchost.exe    2018-08-01 19:21:04 UTC+0000
+0xc20c6be50010     TCPv4    0.0.0.0:49666                  0.0.0.0:0            LISTENING        1768     svchost.exe    2018-08-01 19:20:31 UTC+0000
+0xc20c6be50010     TCPv6    :::49666                       :::0                 LISTENING        1768     svchost.exe    2018-08-01 19:20:31 UTC+0000
+0xc20c6be52bf0     TCPv4    0.0.0.0:49666                  0.0.0.0:0            LISTENING        1768     svchost.exe    2018-08-01 19:20:31 UTC+0000
+0xc20c6bf39440     TCPv4    0.0.0.0:49667                  0.0.0.0:0            LISTENING        2332     spoolsv.exe    2018-08-01 19:20:33 UTC+0000
+0xc20c6b60bc20     TCPv4    10.0.2.143:51448               72.21.91.29:80       CLOSED           -1                      4193-06-04 12:13:06 UTC+0000
+0xc20c6bc65850     TCPv4    10.0.2.143:51454               184.26.143.122:80    CLOSED           -1                      4501-05-10 21:49:52 UTC+0000
+0xc20c6c439180     UDPv4    10.0.2.143:138                 *:*                                   4        System         2018-08-06 18:11:52 UTC+0000
+0xc20c6c0359f0     TCPv4    0.0.0.0:49667                  0.0.0.0:0            LISTENING        2332     spoolsv.exe    2018-08-01 19:20:33 UTC+0000
+0xc20c6c0359f0     TCPv6    :::49667                       :::0                 LISTENING        2332     spoolsv.exe    2018-08-01 19:20:33 UTC+0000
+0xc20c6c219820     TCPv4    0.0.0.0:49672                  0.0.0.0:0            LISTENING        804      services.exe   2018-08-01 19:20:35 UTC+0000
+0xc20c6c28eec0     TCPv4    0.0.0.0:49674                  0.0.0.0:0            LISTENING        816      lsass.exe      2018-08-01 19:20:38 UTC+0000
+0xc20c6c290ec0     TCPv4    0.0.0.0:445                    0.0.0.0:0            LISTENING        4        System         2018-08-01 19:20:36 UTC+0000
+0xc20c6c290ec0     TCPv6    :::445                         :::0                 LISTENING        4        System         2018-08-01 19:20:36 UTC+0000
+0xc20c6c29d400     TCPv4    0.0.0.0:49672                  0.0.0.0:0            LISTENING        804      services.exe   2018-08-01 19:20:35 UTC+0000
+0xc20c6c29d400     TCPv6    :::49672                       :::0                 LISTENING        804      services.exe   2018-08-01 19:20:35 UTC+0000
+0xc20c6c371c70     TCPv4    0.0.0.0:49674                  0.0.0.0:0            LISTENING        816      lsass.exe      2018-08-01 19:20:39 UTC+0000
+0xc20c6c371c70     TCPv6    :::49674                       :::0                 LISTENING        816      lsass.exe      2018-08-01 19:20:39 UTC+0000
+0xc20c6c856500     TCPv4    10.0.2.143:51385               51.5.150.212:443     CLOSED           -1                      
+0xc20c6c863a70     UDPv4    127.0.0.1:1900                 *:*                                   4040     svchost.exe    2018-08-06 18:11:55 UTC+0000
+0xc20c6c86aa70     UDPv4    0.0.0.0:0                      *:*                                   1692     svchost.exe    2018-08-06 18:11:52 UTC+0000
+0xc20c6c86aa70     UDPv6    :::0                           *:*                                   1692     svchost.exe    2018-08-06 18:11:52 UTC+0000
+0xc20c6c8db4a0     TCPv4    10.0.2.143:51344               52.109.12.19:443     CLOSED           -1                      
+0xc20c6ca93780     TCPv4    10.0.2.143:51403               205.185.216.10:80    CLOSED           -1                      
+0xc20c6cdf5870     UDPv4    0.0.0.0:5353                   *:*                                   1692     svchost.exe    2018-08-06 18:11:52 UTC+0000
+0xc20c6cdf5870     UDPv6    :::5353                        *:*                                   1692     svchost.exe    2018-08-06 18:11:52 UTC+0000
+0xc20c6cd7bc20     TCPv4    10.0.2.143:51430               51.5.150.212:443     CLOSED           -1                      2952-05-31 08:09:49 UTC+0000
+0xc20c6cf8a2f0     TCPv4    10.0.2.143:51384               13.107.136.254:443   CLOSED           -1                      -
+0xc20c6cfda840     UDPv6    ::1:64856                      *:*                                   4040     svchost.exe    2018-08-06 18:11:55 UTC+0000
+0xc20c6d3abcc0     TCPv4    10.0.2.143:51446               72.21.91.29:80       ESTABLISHED      -1                      -
+0xc20c6d416280     UDPv4    127.0.0.1:64858                *:*                                   4040     svchost.exe    2018-08-06 18:11:55 UTC+0000
+0xc20c6d416570     UDPv4    10.0.2.143:64857               *:*                                   4040     svchost.exe    2018-08-06 18:11:55 UTC+0000
+0xc20c6d4495f0     TCPv4    10.0.2.143:51455               72.21.91.29:80       CLOSED           -1                      
+0xc20c6d4dd010     TCPv4    10.0.2.143:51451               52.160.42.250:443    ESTABLISHED      -1                      
+0xc20c6d666610     TCPv4    10.0.2.143:51427               205.185.216.42:80    CLOSED           -1                      
+0xc20c6d88b280     TCPv4    10.0.2.143:51456               184.26.143.122:80    CLOSED           -1                      -
+0xc20c6d98b010     TCPv4    10.0.2.143:51447               184.26.143.122:80    CLOSED           -1                      
+0xc20c6d98d350     TCPv4    10.0.2.143:51394               23.43.241.224:443    CLOSED           -1                      
+0xc20c6d9ca180     TCPv4    10.0.2.143:51453               13.107.4.50:80       ESTABLISHED      -1                      -
+0xc20c6dc61b30     TCPv4    10.0.2.143:51460               52.179.129.229:443   CLOSED           -1                      -
+0xc20c6ddca630     TCPv4    10.0.2.143:51436               13.107.21.200:443    ESTABLISHED      -1                      
+0xc20c6e3bc5b0     TCPv4    10.0.2.143:51343               52.109.6.5:443       CLOSED           -1                      
+0xc20c6e3c47e0     TCPv4    10.0.2.143:51391               131.253.61.86:443    ESTABLISHED      -1                      
+0xc20c6e4af700     TCPv4    10.0.2.143:51458               184.26.143.122:80    CLOSED           -1                      -
+0xc20c6e7f4820     TCPv4    10.0.2.143:51358               52.173.24.17:443     ESTABLISHED      -1                      9664-07-31 18:08:01 UTC+0000
+0xf800caf54350     TCPv4    10.0.2.143:51431               13.107.255.168:443   ESTABLISHED      -1                      

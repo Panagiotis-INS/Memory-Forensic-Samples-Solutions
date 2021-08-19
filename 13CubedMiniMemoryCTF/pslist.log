@@ -1,0 +1,159 @@
+Offset(V)          Name                    PID   PPID   Thds     Hnds   Sess  Wow64 Start                          Exit                          
+------------------ -------------------- ------ ------ ------ -------- ------ ------ ------------------------------ ------------------------------
+0xffffc20c69c74280 System                    4      0    103        0 ------      0 2018-08-01 19:20:20 UTC+0000                                 
+0xffffc20c69d52040 Registry                 68      4      3        0 ------      0 2018-08-01 19:20:10 UTC+0000                                 
+0xffffc20c6a212040 smss.exe                500      4      2        0 ------      0 2018-08-01 19:20:20 UTC+0000                                 
+0xffffc20c6adac580 csrss.exe               612    604     10        0      0      0 2018-08-01 19:20:24 UTC+0000                                 
+0xffffc20c6b8ed580 csrss.exe               680    672     14        0      1      0 2018-08-01 19:20:25 UTC+0000                                 
+0xffffc20c6b913080 wininit.exe             696    604      1        0      0      0 2018-08-01 19:20:25 UTC+0000                                 
+0xffffc20c6b910080 winlogon.exe            732    672      6        0      1      0 2018-08-01 19:20:25 UTC+0000                                 
+0xffffc20c6b93e080 services.exe            804    696     16        0      0      0 2018-08-01 19:20:26 UTC+0000                                 
+0xffffc20c6b98e080 lsass.exe               816    696      9        0      0      0 2018-08-01 19:20:26 UTC+0000                                 
+0xffffc20c6b8df580 svchost.exe             904    804      2        0      0      0 2018-08-01 19:20:28 UTC+0000                                 
+0xffffc20c6b8dd580 svchost.exe             924    804     41        0      0      0 2018-08-01 19:20:28 UTC+0000                                 
+0xffffc20c6b8db580 fontdrvhost.ex          940    696      5        0      0      0 2018-08-01 19:20:28 UTC+0000                                 
+0xffffc20c6b8d9580 fontdrvhost.ex          948    732      5        0      1      0 2018-08-01 19:20:28 UTC+0000                                 
+0xffffc20c6ba39580 svchost.exe            1020    804     19        0      0      0 2018-08-01 19:20:28 UTC+0000                                 
+0xffffc20c6ba17580 svchost.exe             628    804      7        0      0      0 2018-08-01 19:20:28 UTC+0000                                 
+0xffffc20c6bae9580 svchost.exe             800    804      0 --------      0      0 2018-08-01 19:20:29 UTC+0000   2018-08-06 18:11:48 UTC+0000  
+0xffffc20c6ba9f080 svchost.exe             476    804      7        0      0      0 2018-08-01 19:20:29 UTC+0000                                 
+0xffffc20c6bae5580 svchost.exe            1040    804      4        0      0      0 2018-08-01 19:20:29 UTC+0000                                 
+0xffffc20c6bae3580 svchost.exe            1056    804      5        0      0      0 2018-08-01 19:20:29 UTC+0000                                 
+0xffffc20c6bae1580 svchost.exe            1072    804      5        0      0      0 2018-08-01 19:20:29 UTC+0000                                 
+0xffffc20c6bb0b080 dwm.exe                1144    732     10        0      1      0 2018-08-01 19:20:29 UTC+0000                                 
+0xffffc20c6bad9580 svchost.exe            1196    804      3        0      0      0 2018-08-01 19:20:29 UTC+0000                                 
+0xffffc20c6bb8e580 svchost.exe            1296    804      9        0      0      0 2018-08-01 19:20:30 UTC+0000                                 
+0xffffc20c6bbd5380 vmacthlp.exe           1336    804      1        0      0      0 2018-08-01 19:20:30 UTC+0000                                 
+0xffffc20c6bb9c580 svchost.exe            1384    804      4        0      0      0 2018-08-01 19:20:30 UTC+0000                                 
+0xffffc20c6bb9a580 svchost.exe            1392    804      5        0      0      0 2018-08-01 19:20:30 UTC+0000                                 
+0xffffc20c6bbf4580 svchost.exe            1472    804     11        0      0      0 2018-08-01 19:20:30 UTC+0000                                 
+0xffffc20c6bbf2580 svchost.exe            1480    804      6        0      0      0 2018-08-01 19:20:30 UTC+0000                                 
+0xffffc20c6bc41580 svchost.exe            1568    804      4        0      0      0 2018-08-01 19:20:30 UTC+0000                                 
+0xffffc20c6bc3f580 svchost.exe            1576    804      6        0      0      0 2018-08-01 19:20:30 UTC+0000                                 
+0xffffc20c6bc3d580 svchost.exe            1592    804      8        0      0      0 2018-08-01 19:20:30 UTC+0000                                 
+0xffffc20c6bc3b580 svchost.exe            1600    804     15        0      0      0 2018-08-01 19:20:30 UTC+0000                                 
+0xffffc20c6bca52c0 svchost.exe            1608    804      7        0      0      0 2018-08-01 19:20:30 UTC+0000                                 
+0xffffc20c6bc35580 svchost.exe            1632    804      3        0      0      0 2018-08-01 19:20:30 UTC+0000                                 
+0xffffc20c6bcc9580 svchost.exe            1692    804     12        0      0      0 2018-08-01 19:20:31 UTC+0000                                 
+0xffffc20c6bd28580 svchost.exe            1768    804     18        0      0      0 2018-08-01 19:20:31 UTC+0000                                 
+0xffffc20c6bcfa580 svchost.exe            1856    804      4        0      0      0 2018-08-01 19:20:31 UTC+0000                                 
+0xffffc20c6bcf6580 svchost.exe            1884    804     11        0      0      0 2018-08-01 19:20:31 UTC+0000                                 
+0xffffc20c6bddc340 svchost.exe            1936    804      4        0      0      0 2018-08-01 19:20:31 UTC+0000                                 
+0xffffc20c6bcee580 svchost.exe            1944    804      5        0      0      0 2018-08-01 19:20:31 UTC+0000                                 
+0xffffc20c6be01580 svchost.exe            1964    804     16        0      0      0 2018-08-01 19:20:31 UTC+0000                                 
+0xffffc20c6be63040 MemCompression         1096      4     34        0 ------      0 2018-08-01 19:20:31 UTC+0000                                 
+0xffffc20c6be13580 svchost.exe            2128    804     13        0      0      0 2018-08-01 19:20:32 UTC+0000                                 
+0xffffc20c6bfb2580 svchost.exe            2164    804     13        0      0      0 2018-08-01 19:20:32 UTC+0000                                 
+0xffffc20c6bfdb080 svchost.exe            2224    804      7        0      0      0 2018-08-01 19:20:33 UTC+0000                                 
+0xffffc20c6bfae580 svchost.exe            2232    804     11        0      0      0 2018-08-01 19:20:33 UTC+0000                                 
+0xffffc20c6bfa6580 svchost.exe            2276    804      7        0      0      0 2018-08-01 19:20:33 UTC+0000                                 
+0xffffc20c6c14b580 spoolsv.exe            2332    804     11        0      0      0 2018-08-01 19:20:33 UTC+0000                                 
+0xffffc20c6c026580 svchost.exe            2400    804     19        0      0      0 2018-08-01 19:20:33 UTC+0000                                 
+0xffffc20c6c032580 svchost.exe            2420    804      5        0      0      0 2018-08-01 19:20:34 UTC+0000                                 
+0xffffc20c6c082580 svchost.exe            2476    804      9        0      0      0 2018-08-01 19:20:34 UTC+0000                                 
+0xffffc20c6c133580 svchost.exe            2620    804     15        0      0      0 2018-08-01 19:20:34 UTC+0000                                 
+0xffffc20c6c131580 svchost.exe            2628    804     12        0      0      0 2018-08-01 19:20:34 UTC+0000                                 
+0xffffc20c6c12f580 svchost.exe            2636    804      9        0      0      0 2018-08-01 19:20:34 UTC+0000                                 
+0xffffc20c6c12b580 svchost.exe            2644    804     22        0      0      0 2018-08-01 19:20:34 UTC+0000                                 
+0xffffc20c6c125580 SecurityHealth         2680    804     10        0      0      0 2018-08-01 19:20:35 UTC+0000                                 
+0xffffc20c6c123580 svchost.exe            2692    804      3        0      0      0 2018-08-01 19:20:35 UTC+0000                                 
+0xffffc20c6c121580 VGAuthService.         2704    804      2        0      0      0 2018-08-01 19:20:35 UTC+0000                                 
+0xffffc20c6c11f580 vmtoolsd.exe           2712    804      9        0      0      0 2018-08-01 19:20:35 UTC+0000                                 
+0xffffc20c6c19f580 svchost.exe            2724    804      6        0      0      0 2018-08-01 19:20:35 UTC+0000                                 
+0xffffc20c6c1e1580 svchost.exe            2736    804     12        0      0      0 2018-08-01 19:20:35 UTC+0000                                 
+0xffffc20c6c1db580 MsMpEng.exe            2756    804     31        0      0      0 2018-08-01 19:20:35 UTC+0000                                 
+0xffffc20c6c1a7580 svchost.exe            2892    804     21        0      0      0 2018-08-01 19:20:35 UTC+0000                                 
+0xffffc20c6c1a5580 svchost.exe            2908    804      3        0      0      0 2018-08-01 19:20:35 UTC+0000                                 
+0xffffc20c6c501580 TPAutoConnSvc.         3452    804      7        0      0      0 2018-08-01 19:20:41 UTC+0000                                 
+0xffffc20c69e87580 WmiPrvSE.exe           3460    924     10        0      0      0 2018-08-01 19:20:41 UTC+0000                                 
+0xffffc20c6c50f080 dllhost.exe            3472    804     12        0      0      0 2018-08-01 19:20:41 UTC+0000                                 
+0xffffc20c6c6be580 msdtc.exe              3796    804      9        0      0      0 2018-08-01 19:20:48 UTC+0000                                 
+0xffffc20c69cf6580 sihost.exe             2060   1884     17        0      1      0 2018-08-01 19:20:54 UTC+0000                                 
+0xffffc20c6b6a5580 svchost.exe            2020    804      9        0      1      0 2018-08-01 19:20:54 UTC+0000                                 
+0xffffc20c6b6c3580 svchost.exe            4132    804     11        0      1      0 2018-08-01 19:20:54 UTC+0000                                 
+0xffffc20c6b6ef080 taskhostw.exe          4260   1768     11        0      1      0 2018-08-01 19:20:54 UTC+0000                                 
+0xffffc20c6b6b5580 svchost.exe            4304    804     10        0      0      0 2018-08-01 19:20:55 UTC+0000                                 
+0xffffc20c6c766080 svchost.exe            4400    804      4        0      0      0 2018-08-01 19:20:56 UTC+0000                                 
+0xffffc20c6c7a2580 ctfmon.exe             4488   4400      8        0      1      0 2018-08-01 19:20:56 UTC+0000                                 
+0xffffc20c6b427580 NisSrv.exe             4668    804      6        0      0      0 2018-08-01 19:20:57 UTC+0000                                 
+0xffffc20c69d00580 userinit.exe           4756    732      0 --------      1      0 2018-08-01 19:20:57 UTC+0000   2018-08-01 19:21:13 UTC+0000  
+0xffffc20c69cfe580 explorer.exe           4824   4756    125        0      1      0 2018-08-01 19:20:58 UTC+0000                                 
+0xffffc20c6b67e580 TPAutoConnect.         4960   3452      4        0      1      0 2018-08-01 19:20:59 UTC+0000                                 
+0xffffc20c6b475580 conhost.exe            4976   4960      2        0      1      0 2018-08-01 19:20:59 UTC+0000                                 
+0xffffc20c6b4c6080 svchost.exe            5048    804     12        0      0      0 2018-08-01 19:21:00 UTC+0000                                 
+0xffffc20c6b5b6580 svchost.exe            4040    804      9        0      0      0 2018-08-01 19:21:04 UTC+0000                                 
+0xffffc20c6c8b4580 svchost.exe            3648    804     10        0      0      0 2018-08-01 19:21:05 UTC+0000                                 
+0xffffc20c6b513580 svchost.exe            5264    804      9        0      0      0 2018-08-01 19:21:11 UTC+0000                                 
+0xffffc20c6c6cb080 svchost.exe            5304    804     30        0      0      0 2018-08-01 19:21:11 UTC+0000                                 
+0xffffc20c6b588580 ie4uinit.exe           5716   4824      0 --------      1      0 2018-08-01 19:21:30 UTC+0000   2018-08-01 19:21:31 UTC+0000  
+0xffffc20c6cb23580 dllhost.exe            5872    924      7        0      1      0 2018-08-01 19:21:32 UTC+0000                                 
+0xffffc20c6cb8b580 SearchIndexer.         6028    804     21        0      0      0 2018-08-01 19:21:33 UTC+0000                                 
+0xffffc20c6cbb6080 ShellExperienc         6108    924     31        0      1      0 2018-08-01 19:21:33 UTC+0000                                 
+0xffffc20c6cca2580 RuntimeBroker.         4768    924     13        0      1      0 2018-08-01 19:21:34 UTC+0000                                 
+0xffffc20c6ccd5580 SearchUI.exe           5420    924     38        0      1      0 2018-08-01 19:21:34 UTC+0000                                 
+0xffffc20c6cd4b580 RuntimeBroker.         1116    924     12        0      1      0 2018-08-01 19:21:35 UTC+0000                                 
+0xffffc20c6cf5e580 ApplicationFra         6236    924      3        0      1      0 2018-08-01 19:21:41 UTC+0000                                 
+0xffffc20c6d03d580 RuntimeBroker.         6488    924      9        0      1      0 2018-08-01 19:21:42 UTC+0000                                 
+0xffffc20c6d04c080 MicrosoftEdge.         6524    924      0 --------      1      0 2018-08-01 19:21:42 UTC+0000   2018-08-01 19:36:02 UTC+0000  
+0xffffc20c6d0e3580 RuntimeBroker.         6640    924      0 --------      1      0 2018-08-01 19:21:43 UTC+0000   2018-08-01 19:40:40 UTC+0000  
+0xffffc20c6c095580 MSASCuiL.exe           6268   4824      3        0      1      0 2018-08-01 19:21:56 UTC+0000                                 
+0xffffc20c6cfc2580 vmtoolsd.exe           3372   4824      9        0      1      0 2018-08-01 19:21:56 UTC+0000                                 
+0xffffc20c6cfb1580 OneDrive.exe           2200   4824     18        0      1      1 2018-08-01 19:22:10 UTC+0000                                 
+0xffffc20c6d270080 svchost.exe            5024    804     22        0      0      0 2018-08-01 19:22:35 UTC+0000                                 
+0xffffc20c6b023080 SgrmBroker.exe         4244    804      2        0      0      0 2018-08-01 19:22:36 UTC+0000                                 
+0xffffc20c6d314580 svchost.exe            5940    804      6        0      0      0 2018-08-01 19:22:36 UTC+0000                                 
+0xffffc20c6d303580 svchost.exe            6744    804     11        0      1      0 2018-08-01 19:22:36 UTC+0000                                 
+0xffffc20c6bcd1400 svchost.exe            2888    804      0 --------      0      0 2018-08-01 19:24:32 UTC+0000   2018-08-01 19:24:38 UTC+0000  
+0xffffc20c6a9d4080 SystemSettings         2660    924      3        0      1      0 2018-08-01 19:28:29 UTC+0000                                 
+0xffffc20c6d6b8580 dllhost.exe            7384    924      9        0      1      0 2018-08-01 19:28:50 UTC+0000                                 
+0xffffc20c6d242580 svchost.exe            7328    804      6        0      0      0 2018-08-01 19:29:59 UTC+0000                                 
+0xffffc20c6ddb1580 svchost.exe           10024    804      3        0      0      0 2018-08-01 19:30:26 UTC+0000                                 
+0xffffc20c6a97b580 taskhostw.exe          9408   1768      6        0      1      0 2018-08-01 19:36:00 UTC+0000                                 
+0xffffc20c6debd400 MicrosoftEdge.         6552    924      0 --------      1      0 2018-08-01 19:36:12 UTC+0000   2018-08-01 19:40:09 UTC+0000  
+0xffffc20c6d86b080 cmd.exe                3884   4824      1        0      1      0 2018-08-01 19:37:47 UTC+0000                                 
+0xffffc20c6cec3080 conhost.exe            9912   3884      4        0      1      0 2018-08-01 19:37:47 UTC+0000                                 
+0xffffc20c6e495080 cmd.exe                8868   4824      0 --------      1      0 2018-08-01 19:40:14 UTC+0000   2018-08-01 19:49:18 UTC+0000  
+0xffffc20c6e0ea580 svchost.exe            7136    804      3        0      0      0 2018-08-01 19:43:01 UTC+0000                                 
+0xffffc20c6d561080 dllhost.exe            6884    924      5        0      1      0 2018-08-01 19:43:12 UTC+0000                                 
+0xffffc20c6b585580 svchost.exe            3224    804      4        0      0      0 2018-08-01 19:43:30 UTC+0000                                 
+0xffffc20c6d6fc580 svchost.exe           10012   4824      0 --------      1      0 2018-08-01 19:49:19 UTC+0000   2018-08-01 19:49:19 UTC+0000  
+0xffffc20c6dbc5340 svchost.exe            7852   4824      0 --------      1      0 2018-08-01 19:49:21 UTC+0000   2018-08-01 19:49:22 UTC+0000  
+0xffffc20c6d789580 Bubbles.scr            6948   4824      0 --------      1      0 2018-08-01 19:50:30 UTC+0000   2018-08-01 19:50:31 UTC+0000  
+0xffffc20c6d0d2080 Bubbles.scr           10204   4824      0 --------      1      0 2018-08-01 19:50:33 UTC+0000   2018-08-01 19:50:38 UTC+0000  
+0xffffc20c6ab92580 ByteCodeGenera         6532   4824      0 --------      1      0 2018-08-01 19:50:42 UTC+0000   2018-08-01 19:50:42 UTC+0000  
+0xffffc20c6d4d2080 dxdiag.exe             6324   4824      0 --------      1      0 2018-08-01 19:51:18 UTC+0000   2018-08-01 19:51:28 UTC+0000  
+0xffffc20c6e24f580 xwizard.exe             252   4824      0 --------      1      0 2018-08-01 19:51:52 UTC+0000   2018-08-01 19:51:55 UTC+0000  
+0xffffc20c6d99b580 svchost.exe.ex         8140   4824      0 --------      1      0 2018-08-01 19:52:16 UTC+0000   2018-08-01 19:52:16 UTC+0000  
+0xffffc20c6ab2b580 svchost.exe.ex         6176   4824      0 --------      1      0 2018-08-01 19:52:19 UTC+0000   2018-08-01 19:52:19 UTC+0000  
+0xffffc20c6d5ac340 svchost.exe.ex         5528   4824      0 --------      1      0 2018-08-01 19:52:20 UTC+0000   2018-08-01 19:52:20 UTC+0000  
+0xffffc20c6e0bf580 scvhost.exe.ex         3016   4824      0 --------      1      0 2018-08-01 19:52:29 UTC+0000   2018-08-01 19:52:29 UTC+0000  
+0xffffc20c6d36c080 scvhost.exe.ex          336   4824      0 --------      1      0 2018-08-01 19:52:31 UTC+0000   2018-08-01 19:52:31 UTC+0000  
+0xffffc20c6d82e080 svchost.exe            1404   4824      0 --------      1      1 2018-08-01 19:54:55 UTC+0000   2018-08-01 19:56:35 UTC+0000  
+0xffffc20c6cdf4580 scvhost.exe             360   4824      0 --------      1      1 2018-08-01 19:56:45 UTC+0000   2018-08-06 18:12:03 UTC+0000  
+0xffffc20c6daf9580 notepad.exe            7968   4824      0 --------      1      0 2018-08-01 19:57:10 UTC+0000   2018-08-01 19:57:10 UTC+0000  
+0xffffc20c6ab70080 svchost.exe            8852   4824      0 --------      1      1 2018-08-01 19:59:49 UTC+0000   2018-08-01 20:00:08 UTC+0000  
+0xffffc20c6d482080 OfficeHubTaskH          400    924     10        0      1      0 2018-08-01 20:03:52 UTC+0000                                 
+0xffffc20c6db7c200 RuntimeBroker.         2744    924      9        0      1      0 2018-08-01 20:03:52 UTC+0000                                 
+0xffffc20c6d732080 notepad.exe            9128   4824      0 --------      1      0 2018-08-01 20:05:10 UTC+0000   2018-08-01 20:05:12 UTC+0000  
+0xffffc20c6d6c3080 smartscreen.ex         7624    924     13        0      1      0 2018-08-01 20:10:19 UTC+0000                                 
+0xffffc20c6e5ca200 notepad.exe            8800   4824      0 --------      1      0 2018-08-01 20:10:19 UTC+0000   2018-08-01 20:10:21 UTC+0000  
+0xffffc20c6d510080 notepad - Copy         6372   4824      0 --------      1      0 2018-08-01 20:10:32 UTC+0000   2018-08-01 20:10:32 UTC+0000  
+0xffffc20c6a963580 audiodg.exe            2356   2164      7        0      0      0 2018-08-01 20:10:35 UTC+0000                                 
+0xffffc20c6d694080 notepad - Copy         3504   4824      0 --------      1      0 2018-08-01 20:10:37 UTC+0000   2018-08-01 20:10:37 UTC+0000  
+0xffffc20c6d617580 SkypeHost.exe          2296    924      5        0      1      0 2018-08-01 20:12:14 UTC+0000                                 
+0xffffc20c6db28080 RuntimeBroker.         3948    924      5        0      1      0 2018-08-01 20:12:15 UTC+0000                                 
+0xffffc20c6ce694c0 svchost.exe            7260    804      4        0      0      0 2018-08-01 20:12:44 UTC+0000                                 
+0xffffc20c6ddad580 svchost.exe            8560   4824     10        0      1      0 2018-08-01 20:13:10 UTC+0000                                 
+0xffffc20c6c894580 svchost.exe            5028    804      8        0      0      0 2018-08-06 18:11:47 UTC+0000                                 
+0xffffc20c6d63e080 svchost.exe            9388    804      5        0      0      0 2018-08-06 18:11:49 UTC+0000                                 
+0xffffc20c6d4f3080 svchost.exe            8108    804      9        0      0      0 2018-08-06 18:11:55 UTC+0000                                 
+0xffffc20c6cec7080 svchost.exe            6848    804      5        0      0      0 2018-08-06 18:12:01 UTC+0000                                 
+0xffffc20c6daa5080 WmiPrvSE.exe           5632    924      8        0      0      0 2018-08-06 18:12:01 UTC+0000                                 
+0xffffc20c6aaf9080 svchost.exe            1992    804      8        0      0      0 2018-08-06 18:12:01 UTC+0000                                 
+0xffffc20c6d4cc080 svchost.exe            8708    804      4        0      0      0 2018-08-06 18:12:04 UTC+0000                                 
+0xffffc20c6a5514c0 svchost.exe            8808    804     40        0      0      0 2018-08-06 18:12:05 UTC+0000                                 
+0xffffc20c6dc01080 svchost.exe            5712    804     19        0      0      0 2018-08-06 18:12:07 UTC+0000                                 
+0xffffc20c6abeb580 notepad.exe            1412   4824      0 --------      1      0 2018-08-06 18:12:15 UTC+0000   2018-08-06 18:12:17 UTC+0000  
+0xffffc20c6d687580 SearchProtocol         6376   6028      6        0      1      0 2018-08-06 18:12:16 UTC+0000                                 
+0xffffc20c6c82a580 SearchFilterHo         3316   6028      5        0      0      0 2018-08-06 18:12:26 UTC+0000                                 
+0xffffc20c6d756580                        2416   4096 11...0 -------- ------      1 2018-08-06 18:12:13 UTC+0000                                 
