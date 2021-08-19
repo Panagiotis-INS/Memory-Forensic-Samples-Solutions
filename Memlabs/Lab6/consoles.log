@@ -1,0 +1,60 @@
+**************************************************
+ConsoleProcess: conhost.exe Pid: 916
+Console: 0xff086200 CommandHistorySize: 50
+HistoryBufferCount: 2 HistoryBufferMax: 4
+OriginalTitle: %SystemRoot%\system32\cmd.exe
+Title: C:\Windows\system32\cmd.exe
+AttachedProcess: cmd.exe Pid: 880 Handle: 0x60
+----
+CommandHistory: 0x1fedc0 Application: whoami.exe Flags: 
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x0
+----
+CommandHistory: 0x1feab0 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 2 LastAdded: 1 LastDisplayed: 1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x60
+Cmd #0 at 0x1fd530: whoami
+Cmd #1 at 0x1fdde0: env
+----
+Screen 0x1e0f80 X:80 Y:300
+Dump:
+Microsoft Windows [Version 6.1.7601]                                            
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.                 
+                                                                                
+C:\Users\Jaffa>whoami                                                           
+virus-pc\jaffa                                                                  
+                                                                                
+C:\Users\Jaffa>env                                                              
+'env' is not recognized as an internal or external command,                     
+operable program or batch file.                                                 
+                                                                                
+C:\Users\Jaffa>                                                                 
+**************************************************
+ConsoleProcess: conhost.exe Pid: 4092
+Console: 0xff086200 CommandHistorySize: 50
+HistoryBufferCount: 1 HistoryBufferMax: 4
+OriginalTitle: C:\Users\Jaffa\Desktop\DumpIt.exe
+Title: C:\Users\Jaffa\Desktop\DumpIt.exe
+AttachedProcess: DumpIt.exe Pid: 4084 Handle: 0x60
+----
+CommandHistory: 0x30eab0 Application: DumpIt.exe Flags: Allocated
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x60
+----
+Screen 0x2f0f80 X:80 Y:300
+Dump:
+  DumpIt - v1.3.2.20110401 - One click memory memory dumper                     
+  Copyright (c) 2007 - 2011, Matthieu Suiche <http://www.msuiche.net>           
+  Copyright (c) 2010 - 2011, MoonSols <http://www.moonsols.com>                 
+                                                                                
+                                                                                
+    Address space size:        1610547200 bytes (   1535 Mb)                    
+    Free space size:           9889345536 bytes (   9431 Mb)                    
+                                                                                
+    * Destination = \??\C:\Users\Jaffa\Desktop\VIRUS-PC-20190819-144155.raw     
+                                                                                
+    --> Are you sure you want to continue? [y/n] y                              
+    + Processing...                                                             

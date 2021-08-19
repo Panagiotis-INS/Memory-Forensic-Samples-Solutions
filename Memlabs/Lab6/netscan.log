@@ -1,0 +1,99 @@
+Offset(P)          Proto    Local Address                  Foreign Address      State            Pid      Owner          Created
+0x53f2010          TCPv4    127.0.0.1:49171                127.0.0.1:49170      ESTABLISHED      2968     firefox.exe    
+0x53f2a90          TCPv4    127.0.0.1:49170                127.0.0.1:49171      ESTABLISHED      2968     firefox.exe    
+0x5d80d9f0         UDPv4    127.0.0.1:58500                *:*                                   1308     svchost.exe    2019-08-19 14:42:39 UTC+0000
+0x5d8c3360         UDPv4    0.0.0.0:5353                   *:*                                   2124     chrome.exe     2019-08-19 14:40:55 UTC+0000
+0x5d8c3360         UDPv6    :::5353                        *:*                                   2124     chrome.exe     2019-08-19 14:40:55 UTC+0000
+0x5d8c3ec0         UDPv4    0.0.0.0:5353                   *:*                                   2124     chrome.exe     2019-08-19 14:40:55 UTC+0000
+0x5d8d8500         TCPv4    10.0.2.15:49232                172.217.160.131:80   ESTABLISHED      2080     firefox.exe    
+0x5d8e7b90         TCPv4    127.0.0.1:49166                127.0.0.1:49165      ESTABLISHED      2080     firefox.exe    
+0x5d8e9010         TCPv4    10.0.2.15:49235                172.217.194.189:443  ESTABLISHED      2080     firefox.exe    
+0x5d9705f0         TCPv4    10.0.2.15:49196                172.217.160.133:443  ESTABLISHED      2080     firefox.exe    
+0x5dadd860         TCPv4    10.0.2.15:49198                216.58.197.67:443    ESTABLISHED      2080     firefox.exe    
+0x5daeb850         TCPv4    127.0.0.1:49165                127.0.0.1:49166      ESTABLISHED      2080     firefox.exe    
+0x5dafccf0         TCPv4    10.0.2.15:49224                172.217.163.205:443  ESTABLISHED      2080     firefox.exe    
+0x5e06b010         UDPv4    0.0.0.0:64930                  *:*                                   1308     svchost.exe    2019-08-19 14:40:13 UTC+0000
+0x5e06b620         UDPv4    0.0.0.0:64931                  *:*                                   1308     svchost.exe    2019-08-19 14:40:13 UTC+0000
+0x5e06b620         UDPv6    :::64931                       *:*                                   1308     svchost.exe    2019-08-19 14:40:13 UTC+0000
+0x5e07c670         UDPv4    0.0.0.0:3702                   *:*                                   1308     svchost.exe    2019-08-19 14:40:17 UTC+0000
+0x5e07c670         UDPv6    :::3702                        *:*                                   1308     svchost.exe    2019-08-19 14:40:17 UTC+0000
+0x5e0dbcb0         UDPv4    127.0.0.1:56645                *:*                                   1052     svchost.exe    2019-08-19 14:40:17 UTC+0000
+0x5e10ab80         UDPv4    10.0.2.15:137                  *:*                                   4        System         2019-08-19 14:40:17 UTC+0000
+0x5e10baa0         UDPv4    10.0.2.15:138                  *:*                                   4        System         2019-08-19 14:40:17 UTC+0000
+0x5e114010         UDPv4    0.0.0.0:3702                   *:*                                   1308     svchost.exe    2019-08-19 14:40:17 UTC+0000
+0x5e12c5d0         UDPv4    0.0.0.0:0                      *:*                                   1052     svchost.exe    2019-08-19 14:40:17 UTC+0000
+0x5e12c5d0         UDPv6    :::0                           *:*                                   1052     svchost.exe    2019-08-19 14:40:17 UTC+0000
+0x5e135c40         UDPv4    0.0.0.0:3702                   *:*                                   1308     svchost.exe    2019-08-19 14:40:17 UTC+0000
+0x5e135c40         UDPv6    :::3702                        *:*                                   1308     svchost.exe    2019-08-19 14:40:17 UTC+0000
+0x5e135dc0         UDPv4    0.0.0.0:3702                   *:*                                   1308     svchost.exe    2019-08-19 14:40:17 UTC+0000
+0x5e1379c0         UDPv4    0.0.0.0:5355                   *:*                                   1052     svchost.exe    2019-08-19 14:40:20 UTC+0000
+0x5e1379c0         UDPv6    :::5355                        *:*                                   1052     svchost.exe    2019-08-19 14:40:20 UTC+0000
+0x5e2be2e0         UDPv4    0.0.0.0:5355                   *:*                                   1052     svchost.exe    2019-08-19 14:40:20 UTC+0000
+0x5de48b50         TCPv4    0.0.0.0:49156                  0.0.0.0:0            LISTENING        496      lsass.exe      
+0x5e0663e0         TCPv4    0.0.0.0:5357                   0.0.0.0:0            LISTENING        4        System         
+0x5e0663e0         TCPv6    :::5357                        :::0                 LISTENING        4        System         
+0x5e08e2d0         TCPv4    0.0.0.0:445                    0.0.0.0:0            LISTENING        4        System         
+0x5e08e2d0         TCPv6    :::445                         :::0                 LISTENING        4        System         
+0x5e0a85d0         TCPv4    0.0.0.0:49155                  0.0.0.0:0            LISTENING        480      services.exe   
+0x5e0a85d0         TCPv6    :::49155                       :::0                 LISTENING        480      services.exe   
+0x5e109890         TCPv4    10.0.2.15:139                  0.0.0.0:0            LISTENING        4        System         
+0x5e2beb30         TCPv4    0.0.0.0:49154                  0.0.0.0:0            LISTENING        948      svchost.exe    
+0x5e3037b0         TCPv4    0.0.0.0:49154                  0.0.0.0:0            LISTENING        948      svchost.exe    
+0x5e3037b0         TCPv6    :::49154                       :::0                 LISTENING        948      svchost.exe    
+0x5e31f900         TCPv4    0.0.0.0:49155                  0.0.0.0:0            LISTENING        480      services.exe   
+0x5e51fd20         TCPv4    0.0.0.0:49152                  0.0.0.0:0            LISTENING        384      wininit.exe    
+0x5e559ef0         TCPv4    0.0.0.0:135                    0.0.0.0:0            LISTENING        724      svchost.exe    
+0x5e55cef0         TCPv4    0.0.0.0:135                    0.0.0.0:0            LISTENING        724      svchost.exe    
+0x5e55cef0         TCPv6    :::135                         :::0                 LISTENING        724      svchost.exe    
+0x5e56a3c0         TCPv4    0.0.0.0:49152                  0.0.0.0:0            LISTENING        384      wininit.exe    
+0x5e56a3c0         TCPv6    :::49152                       :::0                 LISTENING        384      wininit.exe    
+0x5e5add20         TCPv4    0.0.0.0:49156                  0.0.0.0:0            LISTENING        496      lsass.exe      
+0x5e5add20         TCPv6    :::49156                       :::0                 LISTENING        496      lsass.exe      
+0x5e5d2e30         TCPv4    0.0.0.0:49153                  0.0.0.0:0            LISTENING        780      svchost.exe    
+0x5e5d3950         TCPv4    0.0.0.0:49153                  0.0.0.0:0            LISTENING        780      svchost.exe    
+0x5e5d3950         TCPv6    :::49153                       :::0                 LISTENING        780      svchost.exe    
+0x5dde8680         TCPv4    10.0.2.15:49234                172.217.163.106:443  ESTABLISHED      2080     firefox.exe    
+0x5ddf9010         TCPv4    10.0.2.15:49202                216.58.196.163:443   ESTABLISHED      2080     firefox.exe    
+0x5e2fc550         TCPv4    10.0.2.15:49231                172.217.160.131:80   ESTABLISHED      2080     firefox.exe    
+0x5e575ba0         TCPv6    -:0                            38bb:d402:80fa:ffff:38bb:d402:80fa:ffff:0 CLOSED           6        ?????       
+0x5ee7fcf0         TCPv4    10.0.2.15:49240                172.217.167.138:443  ESTABLISHED      2080     firefox.exe    
+0x5fcf6010         UDPv6    fe80::6dfd:18d9:71ed:3522:1900 *:*                                   1308     svchost.exe    2019-08-19 14:42:39 UTC+0000
+0x5fd0eec0         UDPv4    0.0.0.0:0                      *:*                                   668      VBoxService.ex 2019-08-19 14:42:51 UTC+0000
+0x5fd6a010         UDPv4    0.0.0.0:0                      *:*                                   668      VBoxService.ex 2019-08-19 14:42:43 UTC+0000
+0x5fe17550         UDPv4    127.0.0.1:1900                 *:*                                   1308     svchost.exe    2019-08-19 14:42:39 UTC+0000
+0x5fe18270         UDPv4    10.0.2.15:1900                 *:*                                   1308     svchost.exe    2019-08-19 14:42:39 UTC+0000
+0x5fe4f490         UDPv6    ::1:58499                      *:*                                   1308     svchost.exe    2019-08-19 14:42:39 UTC+0000
+0x5ff6b6d0         UDPv6    ::1:1900                       *:*                                   1308     svchost.exe    2019-08-19 14:42:39 UTC+0000
+0x5fc0dcf0         TCPv4    10.0.2.15:49172                54.149.112.164:443   ESTABLISHED      2080     firefox.exe    
+0x5fc13010         TCPv4    10.0.2.15:49182                117.18.237.29:80     ESTABLISHED      2080     firefox.exe    
+0x5fc13cf0         TCPv4    10.0.2.15:49241                52.24.89.101:443     ESTABLISHED      2080     firefox.exe    
+0x5fc24010         TCPv4    10.0.2.15:49200                172.217.163.33:443   ESTABLISHED      2080     firefox.exe    
+0x5fc2e300         TCPv4    127.0.0.1:49167                127.0.0.1:49168      ESTABLISHED      3016     firefox.exe    
+0x5fc303d0         TCPv4    127.0.0.1:49168                127.0.0.1:49167      ESTABLISHED      3016     firefox.exe    
+0x5fc3a010         TCPv4    10.0.2.15:49169                23.195.74.19:80      ESTABLISHED      2080     firefox.exe    
+0x5fc43640         TCPv6    -:0                            381b:de02:80fa:ffff:381b:de02:80fa:ffff:0 CLOSED           2080     firefox.exe    
+0x5fc49700         TCPv4    -:0                            56.27.222.2:0        CLOSED           2080     firefox.exe    
+0x5fc4e810         TCPv4    10.0.2.15:49178                117.18.237.29:80     ESTABLISHED      2080     firefox.exe    
+0x5fc52940         TCPv4    10.0.2.15:49179                117.18.237.29:80     ESTABLISHED      2080     firefox.exe    
+0x5fc81810         TCPv4    127.0.0.1:49186                127.0.0.1:49185      ESTABLISHED      3316     firefox.exe    
+0x5fc869e0         TCPv4    127.0.0.1:49185                127.0.0.1:49186      ESTABLISHED      3316     firefox.exe    
+0x5fc94770         TCPv4    10.0.2.15:49195                172.217.160.131:80   ESTABLISHED      2080     firefox.exe    
+0x5fc989d0         TCPv4    10.0.2.15:49193                172.217.160.131:80   ESTABLISHED      2080     firefox.exe    
+0x5fca7cf0         TCPv4    10.0.2.15:49191                172.217.163.100:443  ESTABLISHED      2080     firefox.exe    
+0x5fcbe5b0         TCPv4    10.0.2.15:49214                172.217.160.131:80   FIN_WAIT2        2080     firefox.exe    
+0x5fcbeb30         TCPv4    10.0.2.15:49228                172.217.163.106:443  ESTABLISHED      2080     firefox.exe    
+0x5fccd010         TCPv4    10.0.2.15:49203                172.217.160.131:80   ESTABLISHED      2080     firefox.exe    
+0x5fccd5e0         TCPv4    10.0.2.15:49225                172.217.163.110:443  ESTABLISHED      2080     firefox.exe    
+0x5fcceb30         TCPv4    10.0.2.15:49239                172.217.167.138:443  ESTABLISHED      2080     firefox.exe    
+0x5fcdb460         TCPv4    10.0.2.15:49216                172.217.167.142:443  ESTABLISHED      2080     firefox.exe    
+0x5fcebcf0         TCPv4    10.0.2.15:49218                216.58.200.142:443   ESTABLISHED      2080     firefox.exe    
+0x5fcf5cf0         TCPv4    10.0.2.15:49217                216.58.200.142:443   ESTABLISHED      2080     firefox.exe    
+0x5fcf8010         TCPv4    10.0.2.15:49226                172.217.163.170:443  ESTABLISHED      2080     firefox.exe    
+0x5fcfe010         TCPv4    10.0.2.15:49209                172.217.163.67:443   ESTABLISHED      2080     firefox.exe    
+0x5fd03010         TCPv4    10.0.2.15:49219                172.217.163.110:443  ESTABLISHED      2080     firefox.exe    
+0x5fd039d0         TCPv4    10.0.2.15:49213                172.217.160.131:80   FIN_WAIT2        2080     firefox.exe    
+0x5fd03cf0         TCPv4    10.0.2.15:49227                172.217.163.170:443  ESTABLISHED      2080     firefox.exe    
+0x5fd058d0         TCPv4    10.0.2.15:49222                172.217.31.206:443   ESTABLISHED      2080     firefox.exe    
+0x5fe4fcf0         TCPv4    10.0.2.15:49177                13.224.25.60:443     ESTABLISHED      2080     firefox.exe    
+0x5fe61010         TCPv4    10.0.2.15:49174                35.167.81.14:443     CLOSED           2080     firefox.exe    
+0x5fe67cf0         TCPv4    10.0.2.15:49181                117.18.237.29:80     ESTABLISHED      2080     firefox.exe    

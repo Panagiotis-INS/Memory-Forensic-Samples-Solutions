@@ -1,0 +1,154 @@
+************************************************************************
+System pid:      4
+************************************************************************
+smss.exe pid:    264
+Command line : \SystemRoot\System32\smss.exe
+************************************************************************
+csrss.exe pid:    336
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+wininit.exe pid:    384
+Command line : wininit.exe
+************************************************************************
+csrss.exe pid:    396
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+winlogon.exe pid:    436
+Command line : winlogon.exe
+************************************************************************
+services.exe pid:    480
+Command line : C:\Windows\system32\services.exe
+************************************************************************
+lsass.exe pid:    496
+Command line : C:\Windows\system32\lsass.exe
+************************************************************************
+lsm.exe pid:    504
+Command line : C:\Windows\system32\lsm.exe
+************************************************************************
+svchost.exe pid:    608
+Command line : C:\Windows\system32\svchost.exe -k DcomLaunch
+************************************************************************
+VBoxService.ex pid:    668
+Command line : C:\Windows\System32\VBoxService.exe
+************************************************************************
+svchost.exe pid:    724
+Command line : C:\Windows\system32\svchost.exe -k RPCSS
+************************************************************************
+svchost.exe pid:    780
+Command line : C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+************************************************************************
+svchost.exe pid:    896
+Command line : C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+************************************************************************
+svchost.exe pid:    948
+Command line : C:\Windows\system32\svchost.exe -k netsvcs
+************************************************************************
+audiodg.exe pid:   1008
+Command line : C:\Windows\system32\AUDIODG.EXE 0x2ac
+************************************************************************
+svchost.exe pid:    400
+Command line : C:\Windows\system32\svchost.exe -k LocalService
+************************************************************************
+svchost.exe pid:   1052
+Command line : C:\Windows\system32\svchost.exe -k NetworkService
+************************************************************************
+spoolsv.exe pid:   1176
+Command line : C:\Windows\System32\spoolsv.exe
+************************************************************************
+svchost.exe pid:   1212
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+************************************************************************
+svchost.exe pid:   1308
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+************************************************************************
+taskhost.exe pid:   1812
+Command line : "taskhost.exe"
+************************************************************************
+dwm.exe pid:   1868
+Command line : "C:\Windows\system32\Dwm.exe"
+************************************************************************
+taskeng.exe pid:   1876
+Command line : taskeng.exe {54DBC692-AE6C-4620-B58A-A05704950172}
+************************************************************************
+explorer.exe pid:   1944
+Command line : C:\Windows\Explorer.EXE
+************************************************************************
+GoogleCrashHan pid:   1292
+Command line : "C:\Program Files (x86)\Google\Update\1.3.34.11\GoogleCrashHandler.exe"
+************************************************************************
+GoogleCrashHan pid:    924
+Command line : "C:\Program Files (x86)\Google\Update\1.3.34.11\GoogleCrashHandler64.exe"
+************************************************************************
+VBoxTray.exe pid:   1108
+Command line : "C:\Windows\System32\VBoxTray.exe" 
+************************************************************************
+cmd.exe pid:    880
+Command line : "C:\Windows\system32\cmd.exe" 
+************************************************************************
+conhost.exe pid:    916
+Command line : \??\C:\Windows\system32\conhost.exe
+************************************************************************
+SearchIndexer. pid:    856
+Command line : C:\Windows\system32\SearchIndexer.exe /Embedding
+************************************************************************
+chrome.exe pid:   2124
+Command line : "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" 
+************************************************************************
+chrome.exe pid:   2132
+Command line : 
+************************************************************************
+chrome.exe pid:   2168
+Command line : "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=watcher --main-thread-id=2128 --on-initialized-event-handle=12 --parent-handle=164 /prefetch:6
+************************************************************************
+WmiPrvSE.exe pid:   2292
+Command line : C:\Windows\system32\wbem\wmiprvse.exe
+************************************************************************
+chrome.exe pid:   2340
+Command line : "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=utility --field-trial-handle=912,6904440883533218926,14009848578096020689,131072 --lang=en-US --service-sandbox-type=network --service-request-channel-token=7087325372642059998 --mojo-platform-channel-handle=1404 /prefetch:8
+************************************************************************
+chrome.exe pid:   2440
+Command line : "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=912,6904440883533218926,14009848578096020689,131072 --lang=en-US --instant-process --enable-auto-reload --device-scale-factor=1 --num-raster-threads=1 --service-request-channel-token=30920957510107878 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=1956 /prefetch:1
+************************************************************************
+chrome.exe pid:   2452
+Command line : "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=912,6904440883533218926,14009848578096020689,131072 --lang=en-US --enable-auto-reload --device-scale-factor=1 --num-raster-threads=1 --service-request-channel-token=8732891429699623721 --renderer-client-id=7 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=2148 /prefetch:1
+************************************************************************
+WmiApSrv.exe pid:   2800
+Command line : C:\Windows\system32\wbem\WmiApSrv.exe
+************************************************************************
+WmiPrvSE.exe pid:   2896
+Command line : C:\Windows\system32\wbem\wmiprvse.exe
+************************************************************************
+chrome.exe pid:   2940
+Command line : 
+************************************************************************
+firefox.exe pid:   2080
+Command line : "C:\Program Files (x86)\Mozilla Firefox\firefox.exe"
+************************************************************************
+firefox.exe pid:   2860
+Command line : "C:\Program Files (x86)\Mozilla Firefox\firefox.exe" -contentproc --channel="2080.0.1430399655\1507561340" -parentBuildID 20190813150448 -greomni "C:\Program Files (x86)\Mozilla Firefox\omni.ja" -appomni "C:\Program Files (x86)\Mozilla Firefox\browser\omni.ja" -appdir "C:\Program Files (x86)\Mozilla Firefox\browser" - 2080 "\\.\pipe\gecko-crash-server-pipe.2080" 1096 gpu
+************************************************************************
+firefox.exe pid:   3016
+Command line : "C:\Program Files (x86)\Mozilla Firefox\firefox.exe" -contentproc --channel="2080.3.1961766982\1524136179" -childID 1 -isForBrowser -prefsHandle 1596 -prefMapHandle 1652 -prefsLen 1 -prefMapSize 190550 -parentBuildID 20190813150448 -greomni "C:\Program Files (x86)\Mozilla Firefox\omni.ja" -appomni "C:\Program Files (x86)\Mozilla Firefox\browser\omni.ja" -appdir "C:\Program Files (x86)\Mozilla Firefox\browser" - 2080 "\\.\pipe\gecko-crash-server-pipe.2080" 764 tab
+************************************************************************
+firefox.exe pid:   2968
+Command line : "C:\Program Files (x86)\Mozilla Firefox\firefox.exe" -contentproc --channel="2080.13.820371489\1898621292" -childID 2 -isForBrowser -prefsHandle 2684 -prefMapHandle 2688 -prefsLen 5982 -prefMapSize 190550 -parentBuildID 20190813150448 -greomni "C:\Program Files (x86)\Mozilla Firefox\omni.ja" -appomni "C:\Program Files (x86)\Mozilla Firefox\browser\omni.ja" -appdir "C:\Program Files (x86)\Mozilla Firefox\browser" - 2080 "\\.\pipe\gecko-crash-server-pipe.2080" 2700 tab
+************************************************************************
+firefox.exe pid:   3316
+Command line : "C:\Program Files (x86)\Mozilla Firefox\firefox.exe" -contentproc --channel="2080.20.122820616\259359170" -childID 3 -isForBrowser -prefsHandle 3252 -prefMapHandle 3728 -prefsLen 6704 -prefMapSize 190550 -parentBuildID 20190813150448 -greomni "C:\Program Files (x86)\Mozilla Firefox\omni.ja" -appomni "C:\Program Files (x86)\Mozilla Firefox\browser\omni.ja" -appdir "C:\Program Files (x86)\Mozilla Firefox\browser" - 2080 "\\.\pipe\gecko-crash-server-pipe.2080" 3740 tab
+************************************************************************
+WinRAR.exe pid:   3716
+Command line : "C:\Program Files\WinRAR\WinRAR.exe" "C:\Users\Jaffa\Desktop\pr0t3ct3d\flag.rar"
+************************************************************************
+DumpIt.exe pid:   4084
+Command line : "C:\Users\Jaffa\Desktop\DumpIt.exe" 
+************************************************************************
+conhost.exe pid:   4092
+Command line : \??\C:\Windows\system32\conhost.exe
+************************************************************************
+sppsvc.exe pid:   1224
+************************************************************************
+GoogleUpdate.e pid:   2256
+************************************************************************
+GoogleCrashHan pid:   1192
+************************************************************************
+GoogleCrashHan pid:    864
