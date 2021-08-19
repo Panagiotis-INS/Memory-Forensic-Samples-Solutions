@@ -117,12 +117,3 @@ AboutDFIR
 	
   Original Link: https://aboutdfir.com/education/challenges-ctfs/
 ####################################################################
- 
-
-CyberDefenders
-
-  Sample: Analyst must determine the profile 
-	
-  Original Link: https://cyberdefenders.org/labs/65
-####################################################################
- 
