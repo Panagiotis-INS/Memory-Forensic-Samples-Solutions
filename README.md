@@ -21,15 +21,6 @@ InCTF Internationals 2019
   Link to Mega download: https://mega.nz/#!kypmTaLJ!cWChsh8CdTMTWt7Ae0oNiCFfrSXwK8vqEMGn0SO22JQ 
 	####################################################################
 
-Samsclass.info Analyzing a RAM image with Volatility 
-
-  Sample: Windows Server 2008 SP1 x86
-	
-  Original Link: https://samsclass.info/121/proj/p5-Vol.htm
-	
-  Mega Link: https://mega.nz/file/Y5QlCKyK#3aWNR7PFuk5IboILKg0v1eaX3jJ6oKfAcu5iBH2ViJE 
-####################################################################
-
 13Cubed Memory Forensics CTF
 
   Sample: Windows 10 build 17134 x64
