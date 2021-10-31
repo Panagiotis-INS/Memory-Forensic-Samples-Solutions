@@ -10,7 +10,8 @@ Memlabs
   Sample: Various
   
   Original Link: https://github.com/stuxnet999/MemLabs
-####################################################################
+
+---
 
 InCTF Internationals 2019 
 
@@ -19,7 +20,8 @@ InCTF Internationals 2019
   Original Link: https://blog.bi0s.in/2019/09/24/Forensics/InCTFi19-NotchItUp/ 
 	
   Link to Mega download: https://mega.nz/#!kypmTaLJ!cWChsh8CdTMTWt7Ae0oNiCFfrSXwK8vqEMGn0SO22JQ 
-	####################################################################
+	
+	---
 
 13Cubed Memory Forensics CTF
 
