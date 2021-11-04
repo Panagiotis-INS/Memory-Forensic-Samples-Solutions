@@ -1,0 +1,68 @@
+Offset(P)          Name                    PID pslist psscan thrdproc pspcid csrss session deskthrd ExitTime
+------------------ -------------------- ------ ------ ------ -------- ------ ----- ------- -------- --------
+0x000000007dde7800 svchost.exe            1948 True   True   True     True   True  True    True     
+0x000000007e4c2700 mscorsvw.exe           3124 True   True   True     True   True  True    True     
+0x000000007d6c9b30 bittorrentie.e         2624 True   True   True     True   True  True    True     
+0x000000007ded37e0 svchost.exe             620 True   True   True     True   True  True    True     
+0x000000007e702b30 chrome.exe              576 True   True   True     True   True  True    True     
+0x000000007df718a0 svchost.exe            1164 True   True   True     True   True  True    True     
+0x000000007e4e4b30 svchost.exe            3196 True   True   True     True   True  True    True     
+0x000000007dc92920 vmtoolsd.exe           1428 True   True   True     True   True  True    True     
+0x000000007fc3c890 svchost.exe             604 True   True   True     True   True  True    True     
+0x000000007dbfd960 notepad.exe            3304 True   True   True     True   True  True    True     
+0x000000007e6c5b30 vmware-tray.ex         3720 True   True   True     True   True  True    True     
+0x000000007de2e9e0 svchost.exe             808 True   True   True     True   True  True    True     
+0x000000007d686b30 Rick And Morty         3820 True   True   True     True   True  True    True     
+0x000000007e435240 chrome.exe             3648 True   True   True     True   True  True    True     
+0x000000007d6a7b30 bittorrentie.e         2308 True   True   True     True   True  True    True     
+0x000000007e6eab30 chrome.exe             4084 True   True   True     True   True  True    True     
+0x000000007de753a0 audiodg.exe             960 True   True   True     True   True  True    True     
+0x000000007de4db30 svchost.exe             868 True   True   True     True   True  True    True     
+0x000000007dbe9b30 taskhost.exe           2344 True   True   True     True   True  True    True     
+0x000000007d9aab30 SearchIndexer.         3064 True   True   True     True   True  True    True     
+0x000000007e1ebb30 svchost.exe             712 True   True   True     True   True  True    True     
+0x000000007fb24b30 WmiPrvSE.exe           1800 True   True   True     True   True  True    True     
+0x000000007de31b30 svchost.exe             844 True   True   True     True   True  True    True     
+0x000000007dc7f630 dllhost.exe            1324 True   True   True     True   True  True    True     
+0x000000007e0d1060 Lavasoft.WCAss         3496 True   True   True     True   True  True    True     
+0x000000007e7ef1f0 chrome.exe             1796 True   True   True     True   True  True    True     
+0x000000007db12060 WmiPrvSE.exe           2136 True   True   True     True   True  True    True     
+0x000000007e000a90 chrome.exe             3924 True   True   True     True   True  True    True     
+0x000000007e0f4060 winlogon.exe            432 True   True   True     True   True  True    True     
+0x000000007e1377c0 services.exe            492 True   True   True     True   True  True    False    
+0x000000007de97060 svchost.exe            1012 True   True   True     True   True  True    True     
+0x000000007d832060 sppsvc.exe             2500 True   True   True     True   True  True    True     
+0x000000007db8f060 WebCompanionIn         3880 True   True   True     True   True  True    True     
+0x000000007d890b30 BitTorrent.exe         2836 True   True   True     True   True  True    True     
+0x000000007e13f060 lsass.exe               500 True   True   True     True   True  True    False    
+0x000000007ddf3b30 msdtc.exe              1436 True   True   True     True   True  True    True     
+0x000000007e4643d0 conhost.exe            2420 True   True   False    True   True  True    False    2018-08-04 19:34:22 UTC+0000
+0x000000007e1461a0 lsm.exe                 508 True   True   True     True   True  True    False    
+0x000000007dc0f630 VGAuthService.         1356 True   True   True     True   True  True    True     
+0x000000007e6f7b30 chrome.exe             1808 True   True   True     True   True  True    True     
+0x000000007e8ed060 wininit.exe             396 True   True   True     True   True  True    True     
+0x000000007d403610 mscorsvw.exe            412 True   True   True     True   True  True    True     
+0x000000007d87e060 explorer.exe           2728 True   True   True     True   True  True    True     
+0x000000007e6e3870 chrome.exe             4076 True   True   True     True   True  True    True     
+0x000000007e4268b0 WebCompanion.e         3856 True   True   True     True   True  True    True     
+0x000000007e5f98f0 chrome.exe             2748 True   True   True     True   True  True    True     
+0x000000007d7cb740 LunarMS.exe             708 True   True   True     True   True  True    True     
+0x000000007e4af9f0 svchost.exe             164 True   True   True     True   True  True    True     
+0x000000007e1bdb30 vmacthlp.exe            668 True   True   True     True   True  True    True     
+0x000000007dbcdb30 vmtoolsd.exe           2804 True   True   True     True   True  True    True     
+0x000000007f28c2d0 PresentationFo          724 True   True   True     True   True  True    True     
+0x000000007dbfab30 dwm.exe                2704 True   True   True     True   True  True    True     
+0x000000007df5ab30 spoolsv.exe            1120 True   True   True     True   True  True    True     
+0x000000007eac8380 csrss.exe               348 True   True   True     True   False True    True     
+0x000000007e072b30 sc.exe                 3504 True   True   False    True   False True    False    2018-08-04 19:33:48 UTC+0000
+0x000000007da8f060 sc.exe                 3208 True   True   False    True   False True    False    2018-08-04 19:33:48 UTC+0000
+0x000000007fe83740 System                    4 True   True   True     True   False False   False    
+0x000000007f2d3b30 csrss.exe               388 True   True   True     True   False True    True     
+0x000000007e772b30 cmd.exe                3916 True   True   False    True   False True    False    2018-08-04 19:34:22 UTC+0000
+0x000000007f67e4d0 smss.exe                260 True   True   True     True   False False   False    
+0x000000007d8f02e0 WebCompanion.e         2844 True   True   False    True   False True    False    2018-08-04 19:33:33 UTC+0000
+0x000000007dcb6890 sc.exe                  452 True   True   False    True   False True    False    2018-08-04 19:33:48 UTC+0000
+0x000000007de01060 sc.exe                 2028 True   True   False    True   False True    False    2018-08-04 19:34:03 UTC+0000
+0x000000007dce7b30 SearchFilterHo         2740 False  True   False    False  False False   False    2018-08-04 19:34:22 UTC+0000
+0x000000007e7fe210 SearchProtocol         3428 False  True   False    False  False False   False    2018-08-04 19:34:22 UTC+0000
+0x000000007e5bfb30 ipconfig.exe           3788 False  True   False    False  False False   False    2018-08-04 19:34:22 UTC+0000

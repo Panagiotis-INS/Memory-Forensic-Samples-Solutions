@@ -1,0 +1,182 @@
+************************************************************************
+System pid:      4
+************************************************************************
+smss.exe pid:    260
+Command line : \SystemRoot\System32\smss.exe
+************************************************************************
+csrss.exe pid:    348
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+csrss.exe pid:    388
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+wininit.exe pid:    396
+Command line : wininit.exe
+************************************************************************
+winlogon.exe pid:    432
+Command line : winlogon.exe
+************************************************************************
+services.exe pid:    492
+Command line : C:\Windows\system32\services.exe
+************************************************************************
+lsass.exe pid:    500
+Command line : C:\Windows\system32\lsass.exe
+************************************************************************
+lsm.exe pid:    508
+Command line : C:\Windows\system32\lsm.exe
+************************************************************************
+svchost.exe pid:    604
+Command line : C:\Windows\system32\svchost.exe -k DcomLaunch
+************************************************************************
+vmacthlp.exe pid:    668
+Command line : "C:\Program Files\VMware\VMware Tools\vmacthlp.exe"
+************************************************************************
+svchost.exe pid:    712
+Command line : C:\Windows\system32\svchost.exe -k RPCSS
+************************************************************************
+svchost.exe pid:    808
+Command line : C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+************************************************************************
+svchost.exe pid:    844
+Command line : C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+************************************************************************
+svchost.exe pid:    868
+Command line : C:\Windows\system32\svchost.exe -k netsvcs
+************************************************************************
+audiodg.exe pid:    960
+Command line : C:\Windows\system32\AUDIODG.EXE 0x2fc
+************************************************************************
+svchost.exe pid:   1012
+Command line : C:\Windows\system32\svchost.exe -k LocalService
+************************************************************************
+svchost.exe pid:    620
+Command line : C:\Windows\system32\svchost.exe -k NetworkService
+************************************************************************
+spoolsv.exe pid:   1120
+Command line : C:\Windows\System32\spoolsv.exe
+************************************************************************
+svchost.exe pid:   1164
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+************************************************************************
+VGAuthService. pid:   1356
+Command line : "C:\Program Files\VMware\VMware Tools\VMware VGAuth\VGAuthService.exe"
+************************************************************************
+vmtoolsd.exe pid:   1428
+Command line : "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe"
+************************************************************************
+WmiPrvSE.exe pid:   1800
+Command line : C:\Windows\system32\wbem\wmiprvse.exe
+************************************************************************
+svchost.exe pid:   1948
+Command line : C:\Windows\system32\svchost.exe -k bthsvcs
+************************************************************************
+dllhost.exe pid:   1324
+Command line : C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235}
+************************************************************************
+msdtc.exe pid:   1436
+Command line : C:\Windows\System32\msdtc.exe
+************************************************************************
+WmiPrvSE.exe pid:   2136
+Command line : C:\Windows\system32\wbem\wmiprvse.exe
+************************************************************************
+taskhost.exe pid:   2344
+Command line : "taskhost.exe"
+************************************************************************
+sppsvc.exe pid:   2500
+Command line : C:\Windows\system32\sppsvc.exe
+************************************************************************
+dwm.exe pid:   2704
+Command line : "C:\Windows\system32\Dwm.exe"
+************************************************************************
+explorer.exe pid:   2728
+Command line : C:\Windows\Explorer.EXE
+************************************************************************
+vmtoolsd.exe pid:   2804
+Command line : "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe" -n vmusr
+************************************************************************
+BitTorrent.exe pid:   2836
+Command line : "C:\Users\Rick\AppData\Roaming\BitTorrent\BitTorrent.exe"  /MINIMIZED
+************************************************************************
+WebCompanion.e pid:   2844
+************************************************************************
+SearchIndexer. pid:   3064
+Command line : C:\Windows\system32\SearchIndexer.exe /Embedding
+************************************************************************
+bittorrentie.e pid:   2308
+Command line : "C:\Users\Rick\AppData\Roaming\BitTorrent\updates\7.10.3_44495\bittorrentie.exe" BitTorrent_2836_00313D08_590648902 BT4823DF041B09 BitTorrent
+************************************************************************
+bittorrentie.e pid:   2624
+Command line : "C:\Users\Rick\AppData\Roaming\BitTorrent\updates\7.10.3_44495\bittorrentie.exe" BitTorrent_2836_00313978_1933444659 BT4823DF041B09 BitTorrent
+************************************************************************
+LunarMS.exe pid:    708
+Command line : "C:\Nexon\MapleStory\LunarMS.exe" 
+************************************************************************
+PresentationFo pid:    724
+Command line : C:\Windows\Microsoft.Net\Framework64\v3.0\WPF\PresentationFontCache.exe
+************************************************************************
+mscorsvw.exe pid:    412
+Command line : C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+************************************************************************
+svchost.exe pid:    164
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+************************************************************************
+mscorsvw.exe pid:   3124
+Command line : C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorsvw.exe
+************************************************************************
+svchost.exe pid:   3196
+Command line : C:\Windows\System32\svchost.exe -k secsvcs
+************************************************************************
+chrome.exe pid:   4076
+Command line : "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" 
+************************************************************************
+chrome.exe pid:   4084
+Command line : 
+************************************************************************
+chrome.exe pid:    576
+Command line : "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=watcher --main-thread-id=4080 --on-initialized-event-handle=304 --parent-handle=308 /prefetch:6
+************************************************************************
+chrome.exe pid:   1808
+Command line : "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=gpu-process --field-trial-handle=984,15358569600588498425,3475374789430647391,131072 --gpu-preferences=KAAAAAAAAACAAwBAAQAAAAAAAAAAAGAAEAAAAAAAAAAAAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --service-request-channel-token=4939AD179421E7F7FF934CA7C25FCD34 --mojo-platform-channel-handle=1004 --ignored=" --type=renderer " /prefetch:2
+************************************************************************
+chrome.exe pid:   3924
+Command line : "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=984,15358569600588498425,3475374789430647391,131072 --service-pipe-token=BB216EAECD5332095D1836CB17604E02 --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --device-scale-factor=1 --num-raster-threads=1 --service-request-channel-token=BB216EAECD5332095D1836CB17604E02 --renderer-client-id=9 --mojo-platform-channel-handle=2440 /prefetch:1
+************************************************************************
+chrome.exe pid:   2748
+Command line : "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=984,15358569600588498425,3475374789430647391,131072 --service-pipe-token=5B96B12CED256E93CD66ABC8626426FB --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --device-scale-factor=1 --num-raster-threads=1 --service-request-channel-token=5B96B12CED256E93CD66ABC8626426FB --renderer-client-id=22 --mojo-platform-channel-handle=2104 /prefetch:1
+************************************************************************
+Rick And Morty pid:   3820
+Command line : "C:\Torrents\Rick And Morty season 1 download.exe" 
+************************************************************************
+vmware-tray.ex pid:   3720
+Command line : "C:\Users\Rick\AppData\Local\Temp\RarSFX0\vmware-tray.exe" 
+************************************************************************
+WebCompanionIn pid:   3880
+Command line : "C:\Program Files (x86)\Lavasoft\Web Companion\Application\WebCompanionInstaller.exe" --update --prod --partner=BT170701 --version=4.3.1908.3686
+************************************************************************
+chrome.exe pid:   3648
+Command line : "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=984,15358569600588498425,3475374789430647391,131072 --service-pipe-token=66BB0CC3FE10242BC701AB87A5940738 --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --device-scale-factor=1 --num-raster-threads=1 --service-request-channel-token=66BB0CC3FE10242BC701AB87A5940738 --renderer-client-id=30 --mojo-platform-channel-handle=4516 /prefetch:1
+************************************************************************
+chrome.exe pid:   1796
+Command line : "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=984,15358569600588498425,3475374789430647391,131072 --service-pipe-token=86C637812F74263DD98834CC0FE01CE7 --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --device-scale-factor=1 --num-raster-threads=1 --service-request-channel-token=86C637812F74263DD98834CC0FE01CE7 --renderer-client-id=31 --mojo-platform-channel-handle=4412 /prefetch:1
+************************************************************************
+sc.exe pid:   3208
+************************************************************************
+sc.exe pid:    452
+************************************************************************
+sc.exe pid:   3504
+************************************************************************
+sc.exe pid:   2028
+************************************************************************
+Lavasoft.WCAss pid:   3496
+Command line : "C:\Program Files (x86)\Lavasoft\Web Companion\Application\Lavasoft.WCAssistant.WinService.exe"
+************************************************************************
+WebCompanion.e pid:   3856
+Command line : "C:\Program Files (x86)\Lavasoft\Web Companion\Application\WebCompanion.exe" --silent --update 
+************************************************************************
+notepad.exe pid:   3304
+Command line : "C:\Windows\system32\NOTEPAD.EXE" C:\Users\Rick\Desktop\Flag.txt.WINDOWS
+************************************************************************
+cmd.exe pid:   3916
+************************************************************************
+conhost.exe pid:   2420
+Command line : \??\C:\Windows\system32\conhost.exe
