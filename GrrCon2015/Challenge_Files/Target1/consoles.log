@@ -1,0 +1,276 @@
+**************************************************
+ConsoleProcess: conhost.exe Pid: 916
+Console: 0x1381c0 CommandHistorySize: 50
+HistoryBufferCount: 2 HistoryBufferMax: 4
+OriginalTitle: cmd
+Title: Administrator: cmd
+AttachedProcess: cmd.exe Pid: 2496 Handle: 0x5c
+----
+CommandHistory: 0x2fa238 Application: wce.exe Flags: 
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x0
+----
+CommandHistory: 0x2f9098 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 5 LastAdded: 4 LastDisplayed: 4
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x5c
+Cmd #0 at 0x2efe98: cd ..
+Cmd #1 at 0x2efeb0: cd Temp
+Cmd #2 at 0x2f58a0: dir
+Cmd #3 at 0x2f6bb8: wce.exe -w
+Cmd #4 at 0x2fe400: wce.exe -w > w.tmp
+----
+Screen 0x2dfeb0 X:80 Y:300
+Dump:
+Microsoft Windows [Version 6.1.7600]                                            
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.                 
+                                                                                
+C:\Windows\system32>cd ..                                                       
+                                                                                
+C:\Windows>cd Temp                                                              
+                                                                                
+C:\Windows\Temp>dir                                                             
+ Volume in drive C has no label.                                                
+ Volume Serial Number is FE0F-F423                                              
+                                                                                
+ Directory of C:\Windows\Temp                                                   
+                                                                                
+10/09/2015  07:29 AM    <DIR>          .                                        
+10/09/2015  07:29 AM    <DIR>          ..                                       
+10/09/2015  01:27 AM                 0 DMIE58D.tmp                              
+10/09/2015  06:57 AM            50,176 getlsasrvaddr.exe                        
+10/09/2015  02:02 AM             7,572 MpCmdRun.log                             
+10/09/2015  12:07 AM             4,636 MpSigStub.log                            
+10/09/2015  03:37 AM    <DIR>          MPTelemetrySubmit                        
+10/09/2015  06:45 AM            36,864 nbtscan.exe                              
+10/09/2015  06:44 AM           503,800 Rar.exe                                  
+10/09/2015  01:28 AM           180,224 TS_A16D.tmp                              
+10/09/2015  01:28 AM           196,608 TS_A3BF.tmp                              
+10/09/2015  01:28 AM           376,832 TS_A42D.tmp                              
+10/09/2015  01:28 AM           114,688 TS_A528.tmp                              
+10/09/2015  01:28 AM           425,984 TS_A5C5.tmp                              
+10/09/2015  01:28 AM           131,072 TS_A807.tmp                              
+10/09/2015  01:28 AM           655,360 TS_A911.tmp                              
+10/09/2015  01:28 AM           114,688 TS_AA79.tmp                              
+10/09/2015  01:28 AM           180,224 TS_AF79.tmp                              
+10/08/2015  11:43 PM    <DIR>          vmware-SYSTEM                            
+10/09/2015  07:16 AM                 0 w.tmp                                    
+10/09/2015  06:45 AM           199,168 wce.exe                                  
+              17 File(s)      3,177,896 bytes                                   
+               4 Dir(s)  22,602,948,608 bytes free                              
+                                                                                
+C:\Windows\Temp>wce.exe -w                                                      
+WCE v1.42beta (Windows Credentials Editor) - (c) 2010-2013 Amplia Security - by 
+Hernan Ochoa (hernan@ampliasecurity.com)                                        
+Use -h for help.                                                                
+                                                                                
+                                                                                
+frontdesk\ALLSAFECYBERSEC:THzV7mpz                                              
+FRONT-DESK-PC$\ALLSAFECYBERSEC:o0&77qj:^zctL2T]ljn3<niK2Kbqi`(:LeBoO7zE>'d8<>J"P
+K;\*5IS@Oxg:rC:P:z Y!%fUiIX0y_J& uNUTJ?%:Y;qJY,xq/:)%5^f&zDK.)F%H;V?.^Z         
+                                                                                
+C:\Windows\Temp>wce.exe -w > w.tmp                                              
+                                                                                
+C:\Windows\Temp>                                                                
+**************************************************
+ConsoleProcess: conhost.exe Pid: 1624
+Console: 0x1381c0 CommandHistorySize: 50
+HistoryBufferCount: 4 HistoryBufferMax: 4
+OriginalTitle: C:\Program Files\Internet Explorer\iexplore.exe
+Title: Administrator: C:\Program Files\Internet Explorer\iexplore.exe
+AttachedProcess: cmd.exe Pid: 1856 Handle: 0x64
+----
+CommandHistory: 0x1c0e80 Application: at.exe Flags: 
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x0
+----
+CommandHistory: 0x1c0cd0 Application: net1.exe Flags: 
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x0
+----
+CommandHistory: 0x1c0ba8 Application: net.exe Flags: 
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x0
+----
+CommandHistory: 0x1c0ab0 Application: cmd.exe Flags: Allocated
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x64
+----
+Screen 0x1afeb0 X:80 Y:300
+Dump:
+
+**************************************************
+ConsoleProcess: conhost.exe Pid: 676
+Console: 0x1381c0 CommandHistorySize: 50
+HistoryBufferCount: 3 HistoryBufferMax: 4
+OriginalTitle: %SystemRoot%\System32\cmd.exe
+Title: Administrator: C:\Windows\System32\cmd.exe
+AttachedProcess: cmd.exe Pid: 3064 Handle: 0x5c
+----
+CommandHistory: 0x34a338 Application: runas.exe Flags: 
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x0
+----
+CommandHistory: 0x34a130 Application: wce.exe Flags: 
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x0
+----
+CommandHistory: 0x349ff8 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 5 LastAdded: 4 LastDisplayed: 4
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x5c
+Cmd #0 at 0x33fe58: cd ..
+Cmd #1 at 0x33fe70: cd Temp
+Cmd #2 at 0x3477a8: wce.exe -w
+Cmd #3 at 0x3487b8: runas /profile /user:Administrator
+Cmd #4 at 0x34e500: runas /profile /user:Administrator cmd
+----
+Screen 0x32fe70 X:80 Y:300
+Dump:
+Microsoft Windows [Version 6.1.7600]                                            
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.                 
+                                                                                
+C:\Windows\system32>cd ..                                                       
+                                                                                
+C:\Windows>cd Temp                                                              
+                                                                                
+C:\Windows\Temp>wce.exe -w                                                      
+WCE v1.42beta (Windows Credentials Editor) - (c) 2010-2013 Amplia Security - by 
+Hernan Ochoa (hernan@ampliasecurity.com)                                        
+Use -h for help.                                                                
+                                                                                
+                                                                                
+frontdesk\ALLSAFECYBERSEC:THzV7mpz                                              
+FRONT-DESK-PC$\ALLSAFECYBERSEC:o0&77qj:^zctL2T]ljn3<niK2Kbqi`(:LeBoO7zE>'d8<>J"P
+K;\*5IS@Oxg:rC:P:z Y!%fUiIX0y_J& uNUTJ?%:Y;qJY,xq/:)%5^f&zDK.)F%H;V?.^Z         
+                                                                                
+C:\Windows\Temp>runas /profile /user:Administrator                              
+RUNAS USAGE:                                                                    
+                                                                                
+RUNAS [ [/noprofile | /profile] [/env] [/savecred | /netonly] ]                 
+        /user:<UserName> program                                                
+                                                                                
+RUNAS [ [/noprofile | /profile] [/env] [/savecred] ]                            
+        /smartcard [/user:<UserName>] program                                   
+                                                                                
+RUNAS /trustlevel:<TrustLevel> program                                          
+                                                                                
+   /noprofile        specifies that the user's profile should not be loaded.    
+                     This causes the application to load more quickly, but      
+                     can cause some applications to malfunction.                
+   /profile          specifies that the user's profile should be loaded.        
+                     This is the default.                                       
+   /env              to use current environment instead of user's.              
+   /netonly          use if the credentials specified are for remote            
+                     access only.                                               
+   /savecred         to use credentials previously saved by the user.           
+                     This option is not available on Windows 7 Home or Windows 7
+ Starter Editions                                                               
+                     and will be ignored.                                       
+   /smartcard        use if the credentials are to be supplied from a           
+                     smartcard.                                                 
+   /user             <UserName> should be in form USER@DOMAIN or DOMAIN\USER    
+   /showtrustlevels  displays the trust levels that can be used as arguments    
+                     to /trustlevel.                                            
+   /trustlevel       <Level> should be one of levels enumerated                 
+                     in /showtrustlevels.                                       
+   program         command line for EXE.  See below for examples                
+                                                                                
+Examples:                                                                       
+> runas /noprofile /user:mymachine\administrator cmd                            
+> runas /profile /env /user:mydomain\admin "mmc %windir%\system32\dsa.msc"      
+> runas /env /user:user@domain.microsoft.com "notepad \"my file.txt\""          
+                                                                                
+NOTE:  Enter user's password only when prompted.                                
+NOTE:  /profile is not compatible with /netonly.                                
+NOTE:  /savecred is not compatible with /smartcard.                             
+                                                                                
+C:\Windows\Temp>runas /profile /user:Administrator cmd                          
+Enter the password for Administrator:                                           
+Attempting to start cmd as user "FRONT-DESK-PC\Administrator" ...               
+                                                                                
+C:\Windows\Temp>                                                                
+**************************************************
+ConsoleProcess: conhost.exe Pid: 1824
+Console: 0x1381c0 CommandHistorySize: 50
+HistoryBufferCount: 2 HistoryBufferMax: 4
+OriginalTitle: cmd (running as FRONT-DESK-PC\Administrator)
+Title: Administrator: cmd (running as FRONT-DESK-PC\Administrator)
+AttachedProcess: cmd.exe Pid: 3784 Handle: 0x60
+----
+CommandHistory: 0x2d92a8 Application: wce.exe Flags: 
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x0
+----
+CommandHistory: 0x2d90d0 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 5 LastAdded: 4 LastDisplayed: 4
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x60
+Cmd #0 at 0x2cfe88: cd ..
+Cmd #1 at 0x2cfea0: cd Temp
+Cmd #2 at 0x2d6de0: dir
+Cmd #3 at 0x2d67f0: wce.exe -w 
+Cmd #4 at 0x2bbc10: wce.exe -w > w.tmp
+----
+Screen 0x2bfea0 X:80 Y:300
+Dump:
+Microsoft Windows [Version 6.1.7600]                                            
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.                 
+                                                                                
+C:\Windows\system32>cd ..                                                       
+                                                                                
+C:\Windows>cd Temp                                                              
+                                                                                
+C:\Windows\Temp>                                                                
+C:\Windows\Temp>dir                                                             
+ Volume in drive C has no label.                                                
+ Volume Serial Number is FE0F-F423                                              
+                                                                                
+ Directory of C:\Windows\Temp                                                   
+                                                                                
+10/09/2015  07:29 AM    <DIR>          .                                        
+10/09/2015  07:29 AM    <DIR>          ..                                       
+10/09/2015  01:27 AM                 0 DMIE58D.tmp                              
+10/09/2015  06:57 AM            50,176 getlsasrvaddr.exe                        
+10/09/2015  02:02 AM             7,572 MpCmdRun.log                             
+10/09/2015  12:07 AM             4,636 MpSigStub.log                            
+10/09/2015  03:37 AM    <DIR>          MPTelemetrySubmit                        
+10/09/2015  06:45 AM            36,864 nbtscan.exe                              
+10/09/2015  06:44 AM           503,800 Rar.exe                                  
+10/09/2015  01:28 AM           180,224 TS_A16D.tmp                              
+10/09/2015  01:28 AM           196,608 TS_A3BF.tmp                              
+10/09/2015  01:28 AM           376,832 TS_A42D.tmp                              
+10/09/2015  01:28 AM           114,688 TS_A528.tmp                              
+10/09/2015  01:28 AM           425,984 TS_A5C5.tmp                              
+10/09/2015  01:28 AM           131,072 TS_A807.tmp                              
+10/09/2015  01:28 AM           655,360 TS_A911.tmp                              
+10/09/2015  01:28 AM           114,688 TS_AA79.tmp                              
+10/09/2015  01:28 AM           180,224 TS_AF79.tmp                              
+10/08/2015  11:43 PM    <DIR>          vmware-SYSTEM                            
+10/09/2015  07:34 AM               333 w.tmp                                    
+10/09/2015  06:45 AM           199,168 wce.exe                                  
+              17 File(s)      3,178,229 bytes                                   
+               4 Dir(s)  22,603,194,368 bytes free                              
+                                                                                
+C:\Windows\Temp>wce.exe -w                                                      
+WCE v1.42beta (Windows Credentials Editor) - (c) 2010-2013 Amplia Security - by 
+Hernan Ochoa (hernan@ampliasecurity.com)                                        
+Use -h for help.                                                                
+                                                                                
+                                                                                
+Administrator\front-desk-PC:flagadmin@1234                                      
+frontdesk\ALLSAFECYBERSEC:THzV7mpz                                              
+FRONT-DESK-PC$\ALLSAFECYBERSEC:o0&77qj:^zctL2T]ljn3<niK2Kbqi`(:LeBoO7zE>'d8<>J"P
+K;\*5IS@Oxg:rC:P:z Y!%fUiIX0y_J& uNUTJ?%:Y;qJY,xq/:)%5^f&zDK.)F%H;V?.^Z         
+                                                                                
+C:\Windows\Temp>wce.exe -w > w.tmp                                              
+                                                                                
+C:\Windows\Temp>                                                                

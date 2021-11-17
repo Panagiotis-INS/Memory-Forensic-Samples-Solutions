@@ -1,0 +1,38 @@
+**************************************************
+CommandProcess: conhost.exe Pid: 2888
+CommandHistory: 0x2d9ff0 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 1 LastAdded: 0 LastDisplayed: 0
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x60
+Cmd #0 @ 0x2d77a0: ipconfig
+Cmd #1 @ 0x2d0031: ???
+Cmd #12 @ 0x2d0032: ???
+Cmd #17 @ 0x2d0035: ?
+Cmd #36 @ 0x2a00c4: -?-?*???*
+Cmd #37 @ 0x2d6be0: -?*???????-
+**************************************************
+CommandProcess: conhost.exe Pid: 3048
+CommandHistory: 0xe9198 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 18 LastAdded: 17 LastDisplayed: 17
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x60
+Cmd #0 @ 0xe6030: cd C:\Users
+Cmd #1 @ 0xe6ea8: dir
+Cmd #2 @ 0xee3d0: wce.exe -w > gideon/w.tmp
+Cmd #3 @ 0xe0170: who ami
+Cmd #4 @ 0xe0188: whoami
+Cmd #5 @ 0xea3c8: net use z: \\10.1.1.2\c$
+Cmd #6 @ 0xe01b8: cd z:
+Cmd #7 @ 0xe6ed8: dir
+Cmd #8 @ 0xe6070: cd gideon
+Cmd #9 @ 0xe6ef8: dir
+Cmd #10 @ 0xe6f08: z:
+Cmd #11 @ 0xe6f18: dir
+Cmd #12 @ 0xf2418: copy c:\users\gideon\rar.exe z:\crownjewels
+Cmd #13 @ 0xe0cb8: cd crownjewels
+Cmd #14 @ 0xe6f28: dir
+Cmd #15 @ 0xe6f38: rar
+Cmd #16 @ 0xf2478: rar crownjewlez.rar *.txt -hp123qwe!@#
+Cmd #17 @ 0xf24d0: rar a -hp123!@#qwe crownjewlez.rar *.txt
+Cmd #36 @ 0xb00c4: ?????
+Cmd #37 @ 0xe5d48: ????????

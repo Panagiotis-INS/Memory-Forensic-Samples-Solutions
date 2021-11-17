@@ -1,0 +1,127 @@
+************************************************************************
+System pid:      4
+************************************************************************
+smss.exe pid:    276
+Command line : \SystemRoot\System32\smss.exe
+************************************************************************
+csrss.exe pid:    368
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,12288,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+csrss.exe pid:    420
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,12288,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+wininit.exe pid:    428
+Command line : wininit.exe
+************************************************************************
+winlogon.exe pid:    476
+Command line : winlogon.exe
+************************************************************************
+services.exe pid:    524
+Command line : C:\Windows\system32\services.exe
+************************************************************************
+lsass.exe pid:    532
+Command line : C:\Windows\system32\lsass.exe
+************************************************************************
+lsm.exe pid:    540
+Command line : C:\Windows\system32\lsm.exe
+************************************************************************
+svchost.exe pid:    644
+Command line : C:\Windows\system32\svchost.exe -k DcomLaunch
+************************************************************************
+svchost.exe pid:    724
+Command line : C:\Windows\system32\svchost.exe -k RPCSS
+************************************************************************
+svchost.exe pid:    824
+Command line : C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+************************************************************************
+svchost.exe pid:    860
+Command line : C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+************************************************************************
+svchost.exe pid:    888
+Command line : C:\Windows\system32\svchost.exe -k netsvcs
+************************************************************************
+svchost.exe pid:    972
+Command line : C:\Windows\system32\svchost.exe -k LocalService
+************************************************************************
+svchost.exe pid:   1108
+Command line : C:\Windows\system32\svchost.exe -k NetworkService
+************************************************************************
+spoolsv.exe pid:   1216
+Command line : C:\Windows\System32\spoolsv.exe
+************************************************************************
+svchost.exe pid:   1244
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+************************************************************************
+vmtoolsd.exe pid:   1408
+Command line : "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe"
+************************************************************************
+msdtc.exe pid:    352
+Command line : C:\Windows\System32\msdtc.exe
+************************************************************************
+svchost.exe pid:    992
+Command line : C:\Windows\System32\svchost.exe -k secsvcs
+************************************************************************
+svchost.exe pid:   2252
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+************************************************************************
+sppsvc.exe pid:   2284
+Command line : C:\Windows\system32\sppsvc.exe
+************************************************************************
+dwm.exe pid:   3192
+Command line : "C:\Windows\system32\Dwm.exe"
+************************************************************************
+explorer.exe pid:   3624
+Command line : C:\Windows\Explorer.EXE
+************************************************************************
+taskhost.exe pid:   3652
+Command line : "taskhost.exe"
+************************************************************************
+regsvr32.exe pid:    360
+************************************************************************
+vmtoolsd.exe pid:   3892
+Command line : "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe" -n vmusr
+************************************************************************
+chrome.exe pid:   3576
+Command line : "C:\Program Files\Google\Chrome\Application\chrome.exe"
+************************************************************************
+SearchIndexer. pid:   2932
+Command line : C:\Windows\system32\SearchIndexer.exe /Embedding
+************************************************************************
+chrome.exe pid:   2432
+Command line : 
+************************************************************************
+chrome.exe pid:   3040
+Command line : 
+************************************************************************
+OUTLOOK.EXE pid:   3412
+Command line : "C:\Program Files\Microsoft Office\Office15\OUTLOOK.EXE" 
+************************************************************************
+svchost.exe pid:   2988
+Command line : C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted
+************************************************************************
+cmd.exe pid:   3488
+Command line : "C:\Windows\system32\cmd.exe" 
+************************************************************************
+conhost.exe pid:   2888
+Command line : \??\C:\Windows\system32\conhost.exe
+************************************************************************
+mmc.exe pid:   2420
+Command line : "C:\Windows\system32\mmc.exe" "C:\Windows\system32\compmgmt.msc" /s
+************************************************************************
+cmd.exe pid:    416
+Command line : "C:\Windows\system32\cmd.exe" 
+************************************************************************
+conhost.exe pid:   3048
+Command line : \??\C:\Windows\system32\conhost.exe
+************************************************************************
+csrss.exe pid:    520
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,12288,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+winlogon.exe pid:   1664
+Command line : winlogon.exe
+************************************************************************
+LogonUI.exe pid:   3212
+Command line : "LogonUI.exe" /flags:0x0
+************************************************************************
+rdpclip.exe pid:   2504
+Command line : rdpclip

@@ -1,0 +1,51 @@
+**************************************************
+CommandProcess: conhost.exe Pid: 916
+CommandHistory: 0x2f9098 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 5 LastAdded: 4 LastDisplayed: 4
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x5c
+Cmd #0 @ 0x2efe98: cd ..
+Cmd #1 @ 0x2efeb0: cd Temp
+Cmd #2 @ 0x2f58a0: dir
+Cmd #3 @ 0x2f6bb8: wce.exe -w
+Cmd #4 @ 0x2fe400: wce.exe -w > w.tmp
+Cmd #36 @ 0x2c00c4: -?0?,???,
+Cmd #37 @ 0x2f6008: 0?-???????/
+**************************************************
+CommandProcess: conhost.exe Pid: 1624
+CommandHistory: 0x1c0ab0 Application: cmd.exe Flags: Allocated
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x64
+Cmd #36 @ 0x1900c4: ?????
+Cmd #37 @ 0x1900c4: ?????
+**************************************************
+CommandProcess: conhost.exe Pid: 676
+CommandHistory: 0x349ff8 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 5 LastAdded: 4 LastDisplayed: 4
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x5c
+Cmd #0 @ 0x33fe58: cd ..
+Cmd #1 @ 0x33fe70: cd Temp
+Cmd #2 @ 0x3477a8: wce.exe -w
+Cmd #3 @ 0x3487b8: runas /profile /user:Administrator
+Cmd #4 @ 0x34e500: runas /profile /user:Administrator cmd
+Cmd #6 @ 0x340034: ??????
+Cmd #14 @ 0x330038: ?63?
+Cmd #36 @ 0x3100c4: 4?5?1???1
+Cmd #37 @ 0x346be8: 5?1??E????4
+**************************************************
+CommandProcess: conhost.exe Pid: 1824
+CommandHistory: 0x2d90d0 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 5 LastAdded: 4 LastDisplayed: 4
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x60
+Cmd #0 @ 0x2cfe88: cd ..
+Cmd #1 @ 0x2cfea0: cd Temp
+Cmd #2 @ 0x2d6de0: dir
+Cmd #3 @ 0x2d67f0: wce.exe -w 
+Cmd #4 @ 0x2bbc10: wce.exe -w > w.tmp
+Cmd #12 @ 0x2d0031: S
+Cmd #17 @ 0x2d0037: ??????
+Cmd #36 @ 0x2a00c4: -?.?*???*
+Cmd #37 @ 0x2d5c28: .?-???????-

@@ -1,0 +1,91 @@
+**************************************************
+ConsoleProcess: conhost.exe Pid: 2888
+Console: 0x4a81c0 CommandHistorySize: 50
+HistoryBufferCount: 2 HistoryBufferMax: 4
+OriginalTitle: %SystemRoot%\system32\cmd.exe
+Title: C:\Windows\system32\cmd.exe
+AttachedProcess: cmd.exe Pid: 3488 Handle: 0x60
+----
+CommandHistory: 0x2da180 Application: ipconfig.exe Flags: 
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x0
+----
+CommandHistory: 0x2d9ff0 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 1 LastAdded: 0 LastDisplayed: 0
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x60
+Cmd #0 at 0x2d77a0: ipconfig
+----
+Screen 0x2bfe68 X:80 Y:300
+Dump:
+Microsoft Windows [Version 6.1.7600]                                            
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.                 
+                                                                                
+C:\Users\gideon.ALLSAFECYBERSEC>ipconfig                                        
+                                                                                
+Windows IP Configuration                                                        
+                                                                                
+                                                                                
+Ethernet adapter Local Area Connection:                                         
+                                                                                
+   Connection-specific DNS Suffix  . :                                          
+   IPv4 Address. . . . . . . . . . . : 10.1.1.21                                
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0                            
+   Default Gateway . . . . . . . . . : 10.1.1.1                                 
+                                                                                
+Tunnel adapter isatap.{AB3D4E7F-B62F-4398-A77C-057C31081A47}:                   
+                                                                                
+   Media State . . . . . . . . . . . : Media disconnected                       
+   Connection-specific DNS Suffix  . :                                          
+                                                                                
+C:\Users\gideon.ALLSAFECYBERSEC>                                                
+**************************************************
+ConsoleProcess: conhost.exe Pid: 3048
+Console: 0x4a81c0 CommandHistorySize: 50
+HistoryBufferCount: 4 HistoryBufferMax: 4
+OriginalTitle: Command Prompt
+Title: Administrator: Command Prompt
+AttachedProcess: cmd.exe Pid: 416 Handle: 0x60
+----
+CommandHistory: 0xea408 Application: Rar.exe Flags: 
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x0
+----
+CommandHistory: 0xea5f8 Application: net.exe Flags: 
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x0
+----
+CommandHistory: 0xea500 Application: whoami.exe Flags: 
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x0
+----
+CommandHistory: 0xe9198 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 18 LastAdded: 17 LastDisplayed: 17
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x60
+Cmd #0 at 0xe6030: cd C:\Users
+Cmd #1 at 0xe6ea8: dir
+Cmd #2 at 0xee3d0: wce.exe -w > gideon/w.tmp
+Cmd #3 at 0xe0170: who ami
+Cmd #4 at 0xe0188: whoami
+Cmd #5 at 0xea3c8: net use z: \\10.1.1.2\c$
+Cmd #6 at 0xe01b8: cd z:
+Cmd #7 at 0xe6ed8: dir
+Cmd #8 at 0xe6070: cd gideon
+Cmd #9 at 0xe6ef8: dir
+Cmd #10 at 0xe6f08: z:
+Cmd #11 at 0xe6f18: dir
+Cmd #12 at 0xf2418: copy c:\users\gideon\rar.exe z:\crownjewels
+Cmd #13 at 0xe0cb8: cd crownjewels
+Cmd #14 at 0xe6f28: dir
+Cmd #15 at 0xe6f38: rar
+Cmd #16 at 0xf2478: rar crownjewlez.rar *.txt -hp123qwe!@#
+Cmd #17 at 0xf24d0: rar a -hp123!@#qwe crownjewlez.rar *.txt
+----
+Screen 0xd0038 X:80 Y:300
+Dump:
+

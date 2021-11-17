@@ -1,0 +1,128 @@
+************************************************************************
+System pid:      4
+************************************************************************
+smss.exe pid:    276
+Command line : \SystemRoot\System32\smss.exe
+************************************************************************
+csrss.exe pid:    368
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,12288,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+wininit.exe pid:    420
+Command line : wininit.exe
+************************************************************************
+csrss.exe pid:    432
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,12288,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+winlogon.exe pid:    480
+Command line : winlogon.exe
+************************************************************************
+services.exe pid:    528
+Command line : C:\Windows\system32\services.exe
+************************************************************************
+lsass.exe pid:    536
+Command line : C:\Windows\system32\lsass.exe
+************************************************************************
+lsm.exe pid:    544
+Command line : C:\Windows\system32\lsm.exe
+************************************************************************
+svchost.exe pid:    644
+Command line : C:\Windows\system32\svchost.exe -k DcomLaunch
+************************************************************************
+svchost.exe pid:    720
+Command line : C:\Windows\system32\svchost.exe -k RPCSS
+************************************************************************
+svchost.exe pid:    796
+Command line : C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+************************************************************************
+svchost.exe pid:    836
+Command line : C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+************************************************************************
+svchost.exe pid:    864
+Command line : C:\Windows\system32\svchost.exe -k netsvcs
+************************************************************************
+svchost.exe pid:   1008
+Command line : C:\Windows\system32\svchost.exe -k LocalService
+************************************************************************
+svchost.exe pid:   1124
+Command line : C:\Windows\system32\svchost.exe -k NetworkService
+************************************************************************
+spoolsv.exe pid:   1228
+Command line : C:\Windows\System32\spoolsv.exe
+************************************************************************
+svchost.exe pid:   1256
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+************************************************************************
+vmtoolsd.exe pid:   1432
+Command line : "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe"
+************************************************************************
+svchost.exe pid:   1784
+Command line : C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted
+************************************************************************
+dllhost.exe pid:   1888
+Command line : C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235}
+************************************************************************
+msdtc.exe pid:   1980
+Command line : C:\Windows\System32\msdtc.exe
+************************************************************************
+dwm.exe pid:   2088
+Command line : "C:\Windows\system32\Dwm.exe"
+************************************************************************
+explorer.exe pid:   2116
+Command line : C:\Windows\Explorer.EXE
+************************************************************************
+taskhost.exe pid:   2252
+Command line : "taskhost.exe"
+************************************************************************
+vmtoolsd.exe pid:   2388
+Command line : "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe" -n vmusr
+************************************************************************
+SearchIndexer. pid:   2544
+Command line : C:\Windows\system32\SearchIndexer.exe /Embedding
+************************************************************************
+iexplore.exe pid:   2996
+Command line : "C:\Program Files\Internet Explorer\iexplore.exe"
+************************************************************************
+OUTLOOK.EXE pid:   3196
+Command line : "C:\Program Files\Microsoft Office\Office15\OUTLOOK.EXE" 
+************************************************************************
+svchost.exe pid:   3232
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+************************************************************************
+sppsvc.exe pid:   3900
+Command line : C:\Windows\system32\sppsvc.exe
+************************************************************************
+cmd.exe pid:   2496
+Command line : "C:\Windows\System32\cmd.exe" 
+************************************************************************
+conhost.exe pid:    916
+Command line : \??\C:\Windows\system32\conhost.exe
+************************************************************************
+cmd.exe pid:   1856
+Command line : C:\Windows\system32\cmd.exe
+************************************************************************
+conhost.exe pid:   1624
+Command line : \??\C:\Windows\system32\conhost.exe
+************************************************************************
+cmd.exe pid:   3064
+Command line : "C:\Windows\System32\cmd.exe" 
+************************************************************************
+conhost.exe pid:    676
+Command line : \??\C:\Windows\system32\conhost.exe
+************************************************************************
+cmd.exe pid:   3784
+Command line : cmd
+************************************************************************
+conhost.exe pid:   1824
+Command line : \??\C:\Windows\system32\conhost.exe
+************************************************************************
+TeamViewer.exe pid:   2680
+Command line : "C:\Users\FRONTD~1\AppData\Local\Temp\TeamViewer\TeamViewer.exe" 
+************************************************************************
+tv_w32.exe pid:   4064
+Command line : "C:\Users\FRONTD~1\AppData\Local\Temp\TeamViewer\tv_w32.exe" --action hooks  --log C:\Users\frontdesk\AppData\Roaming\TeamViewer\TeamViewer10_Logfile.log  
+************************************************************************
+TeamViewer_Des pid:   1092
+Command line : "c:\users\frontd~1\appdata\local\temp\teamviewer\TeamViewer_Desktop.exe" --IPCport 6039
+************************************************************************
+mstsc.exe pid:   2844
+Command line : "C:\Windows\system32\mstsc.exe" 
