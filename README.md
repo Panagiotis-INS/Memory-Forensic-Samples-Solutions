@@ -5,7 +5,7 @@ These are some memory samples from some CTFs or simulations or IR events with so
 
 Links to various memory samples:
 
-Memlabs
+- [x] Memlabs
 
   Sample: Various
   
@@ -13,7 +13,7 @@ Memlabs
 
 ---
 
-InCTF Internationals 2019 
+- [ ] InCTF Internationals 2019 
 
   Sample: Windows 7 SP1 x64
 	
@@ -23,7 +23,7 @@ InCTF Internationals 2019
 
 ---
 
-13Cubed Memory Forensics CTF
+- [x] 13Cubed Memory Forensics CTF
 
   Sample: Windows 10 build 17134 x64
 	
@@ -83,7 +83,7 @@ PSExec.py Activity
 
 ---
   
-Otter CTF
+- [ ] Otter CTF
 
   Sample: Windows 7 SP1 x64
 	
@@ -93,7 +93,7 @@ Otter CTF
 
 ---
   
-GrrCon 2015
+- [ ] GrrCon 2015
 
   Sample: Various named: target1, target2, pos01 and ex01
 	
