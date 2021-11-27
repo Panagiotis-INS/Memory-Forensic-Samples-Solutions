@@ -1,0 +1,136 @@
+************************************************************************
+System pid:      4
+************************************************************************
+smss.exe pid:    280
+Command line : \SystemRoot\System32\smss.exe
+************************************************************************
+csrss.exe pid:    368
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,12288,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+csrss.exe pid:    424
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,12288,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+wininit.exe pid:    432
+Command line : 
+************************************************************************
+winlogon.exe pid:    480
+************************************************************************
+services.exe pid:    528
+Command line : C:\Windows\system32\services.exe
+************************************************************************
+lsass.exe pid:    536
+Command line : C:\Windows\system32\lsass.exe
+************************************************************************
+lsm.exe pid:    552
+Command line : C:\Windows\system32\lsm.exe
+************************************************************************
+svchost.exe pid:    660
+Command line : C:\Windows\system32\svchost.exe -k DcomLaunch
+************************************************************************
+svchost.exe pid:    736
+Command line : C:\Windows\system32\svchost.exe -k RPCSS
+************************************************************************
+svchost.exe pid:    824
+Command line : C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+************************************************************************
+svchost.exe pid:    860
+Command line : C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+************************************************************************
+svchost.exe pid:    900
+Command line : C:\Windows\system32\svchost.exe -k netsvcs
+************************************************************************
+svchost.exe pid:   1008
+Command line : C:\Windows\system32\svchost.exe -k LocalService
+************************************************************************
+svchost.exe pid:   1116
+Command line : C:\Windows\system32\svchost.exe -k NetworkService
+************************************************************************
+spoolsv.exe pid:   1228
+Command line : C:\Windows\System32\spoolsv.exe
+************************************************************************
+svchost.exe pid:   1268
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+************************************************************************
+vmtoolsd.exe pid:   1452
+Command line : "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe"
+************************************************************************
+svchost.exe pid:   1828
+Command line : C:\Windows\System32\svchost.exe -k secsvcs
+************************************************************************
+msdtc.exe pid:    388
+************************************************************************
+taskhost.exe pid:    596
+Command line : "taskhost.exe"
+************************************************************************
+dwm.exe pid:   2156
+Command line : 
+************************************************************************
+explorer.exe pid:   2200
+Command line : C:\Windows\Explorer.EXE
+************************************************************************
+vmtoolsd.exe pid:   2444
+Command line : "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe" -n vmusr
+************************************************************************
+jusched.exe pid:   2464
+Command line : "C:\Program Files\Common Files\Java\Java Update\jusched.exe" 
+************************************************************************
+SearchIndexer. pid:   2592
+Command line : C:\Windows\system32\SearchIndexer.exe /Embedding
+************************************************************************
+sppsvc.exe pid:   3068
+Command line : C:\Windows\system32\sppsvc.exe
+************************************************************************
+svchost.exe pid:   3544
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+************************************************************************
+javaw.exe pid:   4092
+Command line : javaw  -cp ;"C:\Program Files\unicentaopos-3.91.2\locales/";"C:\Program Files\unicentaopos-3.91.2\reports/" -Djava.library.path="C:\Program Files\unicentaopos-3.91.2\lib/Windows/i368-mingw32" -Ddirname.path="C:\Program Files\unicentaopos-3.91.2\./" -splash:unicenta_splash.png -jar unicentaopos.jar 
+************************************************************************
+chrome.exe pid:   1960
+************************************************************************
+WINWORD.EXE pid:   3740
+Command line : "C:\Program Files\Microsoft Office\Office15\WINWORD.EXE" /n "C:\Users\Administrator\Desktop\AllSafeCustomerData.txt
+************************************************************************
+csrss.exe pid:   3064
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,12288,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+winlogon.exe pid:    308
+Command line : winlogon.exe
+************************************************************************
+dwm.exe pid:   4068
+Command line : "C:\Windows\system32\Dwm.exe"
+************************************************************************
+taskhost.exe pid:   3528
+Command line : taskhost.exe USER
+************************************************************************
+explorer.exe pid:   1836
+Command line : C:\Windows\Explorer.EXE
+************************************************************************
+regsvr32.exe pid:   2928
+************************************************************************
+vmtoolsd.exe pid:   1200
+Command line : "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe" -n vmusr
+************************************************************************
+jusched.exe pid:   2832
+Command line : "C:\Program Files\Common Files\Java\Java Update\jusched.exe" 
+************************************************************************
+notepad.exe pid:   2700
+Command line : "C:\Windows\system32\NOTEPAD.EXE" C:\Users\Administrator\Desktop\AllSafeCustomerData.txt
+************************************************************************
+javaw.exe pid:   3640
+Command line : javaw  -cp ;"C:\Program Files\unicentaopos-3.91.2\locales/";"C:\Program Files\unicentaopos-3.91.2\reports/" -Djava.library.path="C:\Program Files\unicentaopos-3.91.2\lib/Windows/i368-mingw32" -Ddirname.path="C:\Program Files\unicentaopos-3.91.2\./" -splash:unicenta_splash.png -jar unicentaopos.jar 
+************************************************************************
+OUTLOOK.EXE pid:   3376
+Command line : "C:\Program Files\Microsoft Office\Office15\OUTLOOK.EXE" 
+************************************************************************
+wuauclt.exe pid:    836
+Command line : "C:\Windows\system32\wuauclt.exe"
+************************************************************************
+EXCEL.EXE pid:   2092
+Command line : "C:\Program Files\Microsoft Office\Office15\EXCEL.EXE" /dde
+************************************************************************
+iexplore.exe pid:   3208
+Command line : "C:\Program Files\Internet Explorer\iexplore.exe"
+************************************************************************
+iexplore.exe pid:   3136
+Command line : "C:\Program Files\Internet Explorer\iexplore.exe"

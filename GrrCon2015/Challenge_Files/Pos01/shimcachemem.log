@@ -1,0 +1,191 @@
+Order Last Modified         Last Update           Exec Flag  File Size  File Path
+----- --------------------- --------------------- ---------- ---------- ---------
+    1 2009-07-14 01:17:29                         True                  \??\C:\Program Files\Internet Explorer\iexplore.exe
+    2 2015-10-09 12:35:57                         True                  \??\C:\Users\pos\Downloads\allsafe_update.exe
+    3 2015-10-09 12:35:54                         True                  \??\C:\Users\pos\Downloads\allsafe_update.exe
+    4 2009-07-14 01:16:03                         False                 \??\C:\Windows\System32\networkexplorer.dll
+    5 2009-07-14 01:16:11                         False                 \??\C:\Windows\System32\ntshrui.dll
+    6 2009-07-14 01:15:07                         False                 \??\C:\Windows\System32\cscui.dll
+    7 2009-07-14 01:15:14                         False                 \??\C:\Windows\System32\EhStorShell.dll
+    8 2009-07-14 01:15:28                         False                 \??\C:\Windows\System32\ieframe.dll
+    9 2009-07-14 01:14:35                         True                  \??\C:\Windows\system32\SearchProtocolHost.exe
+   10 2015-10-09 03:30:12                         True                  \??\C:\PROGRA~1\Java\JRE18~1.0_6\bin\ssvagent.exe
+   11 2015-10-09 03:30:12                         False                 \??\C:\Program Files\Java\jre1.8.0_60\bin\jp2ssv.dll
+   12 2015-10-09 03:30:12                         False                 \??\C:\Program Files\Java\jre1.8.0_60\bin\ssv.dll
+   13 2009-07-14 01:14:21                         True                  \??\C:\Windows\System32\ie4uinit.exe
+   14 2009-07-14 01:14:35                         True                  \??\C:\Windows\system32\SearchFilterHost.exe
+   15 2015-10-08 21:21:47                         True                  \??\C:\Program Files\Google\Update\GoogleUpdate.exe
+   16 2009-07-14 01:14:42                         True                  \??\C:\Windows\system32\taskeng.exe
+   17 2009-07-14 01:14:42                         True                  \??\C:\Windows\system32\taskhost.exe
+   18 2009-07-14 01:14:24                         True                  \??\C:\Windows\System32\mobsync.exe
+   19 2009-07-14 01:14:47                         True                  \??\C:\Windows\system32\wbem\wmiprvse.exe
+   20 2012-10-02 00:30:02                         True                  \??\C:\Program Files\Common Files\Microsoft Shared\OfficeSoftwareProtectionPlatform\OSPPSVC.EXE
+   21 2009-07-14 01:14:35                         True                  \??\C:\Windows\system32\sc.exe
+   22 2012-10-01 22:58:08                         True                  \??\C:\Program Files\Microsoft Office\Office15\msoia.exe
+   23 2009-07-14 01:14:22                         True                  \??\C:\Windows\system32\LogonUI.exe
+   24 2012-10-02 00:32:48                         True                  \??\C:\Program Files\Microsoft Office\Office15\EXCEL.EXE
+   25 2009-07-14 01:14:18                         True                  \??\C:\Windows\system32\DllHost.exe
+   26 2012-10-02 00:32:30                         True                  \??\C:\Program Files\Common Files\Microsoft Shared\Office15\OLicenseHeartbeat.exe
+   27 2009-07-14 01:14:31                         True                  \??\C:\Windows\System32\rundll32.exe
+   28 2009-07-14 01:14:42                         True                  \??\C:\Windows\servicing\TrustedInstaller.exe
+   29 2009-07-14 01:14:44                         True                  \??\C:\Windows\system32\w32tm.exe
+   30 2009-07-14 01:14:41                         True                  \??\C:\Windows\System32\svchost.exe
+   31 2009-07-14 01:14:43                         True                  \??\C:\Windows\system32\vssvc.exe
+   32 2009-07-14 01:14:28                         True                  \??\C:\Windows\system32\PING.EXE
+   33 2009-06-10 21:22:50                         True                  \??\C:\Windows\Microsoft.NET\Framework\v2.0.50727\cvtres.exe
+   34 2009-06-10 21:22:49                         True                  \??\C:\Windows\Microsoft.NET\Framework\v2.0.50727\csc.exe
+   35 2009-07-14 01:14:23                         True                  \??\C:\Windows\system32\mcbuilder.exe
+   36 2009-07-14 01:14:35                         True                  \??\C:\Windows\System32\sdiagnhost.exe
+   37 2009-07-14 01:14:22                         True                  \??\C:\Windows\system32\lpremove.exe
+   38 2009-07-14 01:15:22                         False                 \??\C:\Windows\System32\gameux.dll
+   39 2009-07-14 01:14:11                         True                  \??\C:\Windows\system32\aitagent.EXE
+   40 2009-07-14 01:14:21                         True                  \??\C:\Windows\system32\ipconfig.exe
+   41 2012-07-14 15:39:38                         False                 \??\C:\Program Files\VMware\VMware Tools\resume-vm-default.bat
+   42 2009-07-14 01:14:15                         True                  \??\C:\Windows\system32\cmd.exe
+   43 2012-06-02 22:19:33                         True                  \??\C:\Windows\system32\wuauclt.exe
+   44 2009-07-14 01:26:21                         True                  \??\C:\Windows\system32\consent.exe
+   45 2009-07-14 01:14:24                         True                  \??\C:\Program Files\Windows Defender\MSASCui.exe
+   46 2009-07-14 01:16:14                         False                 \??\C:\Windows\System32\shdocvw.dll
+   47 2012-10-02 00:32:48                         True                  \??\C:\Program Files\Microsoft Office\Office15\OUTLOOK.EXE
+   48 2015-10-08 20:50:55                         False                 \??\C:\Windows\Installer\{90150000-0012-0000-0000-0000000FF1CE}\grv_icons.exe
+   49 2015-10-08 20:50:55                         False                 \??\C:\Windows\Installer\{90150000-0012-0000-0000-0000000FF1CE}\wordicon.exe
+   50 2015-10-08 20:50:55                         False                 \??\C:\Windows\Installer\{90150000-0012-0000-0000-0000000FF1CE}\pptico.exe
+   51 2015-10-08 20:50:55                         False                 \??\C:\Windows\Installer\{90150000-0012-0000-0000-0000000FF1CE}\joticon.exe
+   52 2015-10-08 20:50:55                         False                 \??\C:\Windows\Installer\{90150000-0012-0000-0000-0000000FF1CE}\pubs.exe
+   53 2015-10-08 20:50:55                         False                 \??\C:\Windows\Installer\{90150000-0012-0000-0000-0000000FF1CE}\outicon.exe
+   54 2015-10-08 20:50:55                         False                 \??\C:\Windows\Installer\{90150000-0012-0000-0000-0000000FF1CE}\xlicons.exe
+   55 2012-06-02 19:12:20                         False                 \??\C:\Windows\system32\wuapp.exe
+   56 2009-07-14 01:14:51                         False                 \??\C:\Windows\system32\xpsrchvw.exe
+   57 2009-07-14 01:14:19                         False                 \??\C:\Windows\ehome\ehshell.exe
+   58 2009-07-14 01:14:47                         False                 \??\C:\Program Files\Windows Media Player\wmplayer.exe
+   59 2009-07-14 01:14:38                         True                  \??\C:\Program Files\Windows Sidebar\sidebar.exe
+   60 2009-07-14 01:14:45                         False                 \??\C:\Windows\system32\WFS.exe
+   61 2009-07-14 01:14:15                         True                  \??\C:\Windows\System32\control.exe
+   62 2009-07-14 01:14:19                         False                 \??\C:\Program Files\DVD Maker\DVDMaker.exe
+   63 2009-07-14 01:14:45                         False                 \??\C:\Windows\system32\WindowsAnytimeUpgradeUI.exe
+   64 2009-07-14 01:14:09                         False                 \??\C:\Windows\System32\wscui.cpl
+   65 2012-10-02 00:32:48                         True                  \??\C:\PROGRA~1\MICROS~1\Office15\OUTLOOK.EXE
+   66 2012-10-02 00:31:22                         False                 \??\C:\Program Files\Common Files\microsoft shared\OFFICE15\msoshext.dll
+   67 2009-07-14 01:15:21                         False                 \??\C:\Windows\System32\fontext.dll
+   68 2015-10-08 20:50:55                         False                 \??\C:\Windows\Installer\{90150000-0012-0000-0000-0000000FF1CE}\msouc.exe
+   69 2015-10-08 20:50:55                         False                 \??\C:\Windows\Installer\{90150000-0012-0000-0000-0000000FF1CE}\misc.exe
+   70 2009-07-14 01:14:28                         False                 \??\C:\Windows\system32\odbcad32.exe
+   71 2009-07-14 01:16:02                         False                 \??\C:\Windows\System32\mydocs.dll
+   72 2009-07-14 01:16:13                         False                 \??\C:\Windows\System32\sendmail.dll
+   73 2009-07-14 01:14:51                         False                 \??\C:\Windows\System32\acppage.dll
+   74 2009-07-14 01:16:15                         False                 \??\C:\Windows\System32\syncui.dll
+   75 2009-07-14 01:16:21                         False                 \??\C:\Windows\System32\zipfldr.dll
+   76 2009-07-14 01:16:16                         False                 \??\C:\Windows\System32\twext.dll
+   77 2009-07-14 01:14:44                         True                  \??\C:\Windows\system32\wermgr.exe
+   78 2009-07-14 01:14:24                         True                  \??\c:\program files\windows defender\MpCmdRun.exe
+   79 2009-07-14 01:14:57                         False                 \??\C:\Windows\System32\audiodev.dll
+   80 2009-07-14 01:16:20                         False                 \??\C:\Windows\System32\wpdshext.dll
+   81 2009-07-14 01:14:42                         True                  \??\C:\Windows\system32\taskmgr.exe
+   82 2015-10-09 03:30:12                         True                  \??\C:\Program Files\Java\jre1.8.0_60\bin\jp2launcher.exe
+   83 2015-10-09 03:30:11                         True                  \??\C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe
+   84 2015-10-09 03:30:11                         True                  \??\C:\Program Files\Java\jre1.8.0_60\bin\javaws.exe
+   85 2015-09-16 06:24:28                         True                  \??\C:\Program Files\Common Files\Java\Java Update\jucheck.exe
+   86 2015-10-09 03:30:11                         True                  \??\C:\ProgramData\Oracle\Java\javapath\javaw.exe
+   87 2015-09-12 13:53:50                         False                 \??\C:\Program Files\unicentaopos-3.91.2\start.bat
+   88 2009-07-14 01:14:27                         True                  \??\C:\Windows\system32\NOTEPAD.EXE
+   89 2009-07-14 01:16:12                         False                 \??\C:\Windows\System32\PhotoMetadataHandler.dll
+   90 2009-07-14 01:16:17                         False                 \??\C:\Program Files\Common Files\System\wab32.dll
+   91 2012-10-02 00:30:10                         True                  \??\C:\Program Files\Microsoft Office\Office15\FIRSTRUN.EXE
+   92 2009-07-14 01:16:16                         False                 \??\C:\Windows\System32\tquery.dll
+   93 2009-07-14 01:14:43                         True                  \??\C:\Windows\system32\verclsid.exe
+   94 2009-07-14 01:15:48                         False                 \??\C:\Windows\System32\mssvp.dll
+   95 2009-07-14 01:14:23                         False                 \??\C:\Windows\system32\magnify.exe
+   96 2009-07-14 01:16:12                         False                 \??\C:\Windows\System32\prnfldr.dll
+   97 2009-07-14 01:14:27                         False                 \??\C:\Windows\system32\mstsc.exe
+   98 2009-07-14 01:14:26                         False                 \??\C:\Windows\system32\mspaint.exe
+   99 2009-07-14 01:14:39                         False                 \??\C:\Windows\system32\SnippingTool.exe
+  100 2009-07-14 01:14:41                         False                 \??\C:\Windows\system32\StikyNot.exe
+  101 2009-07-14 01:14:13                         False                 \??\C:\Windows\system32\calc.exe
+  102 2009-07-14 01:14:18                         False                 \??\C:\Windows\system32\displayswitch.exe
+  103 2015-09-24 02:34:44                         True                  \??\C:\Program Files\Google\Chrome\Application\chrome.exe
+  104 2009-07-14 01:14:20                         True                  \??\C:\Windows\Explorer.EXE
+  105 2009-07-14 01:14:23                         True                  \??\C:\Windows\System32\mctadmin.exe
+  106 2015-09-16 06:24:46                         True                  \??\C:\Program Files\Common Files\Java\Java Update\jusched.exe
+  107 2012-07-14 15:39:44                         True                  \??\C:\Program Files\VMware\VMware Tools\vmtoolsd.exe
+  108 2009-07-14 01:15:10                         False                 \??\C:\Windows\System32\DeviceCenter.dll
+  109 2015-10-08 21:22:14                         True                  \??\C:\Program Files\Google\Chrome\Application\45.0.2454.101\Installer\chrmstp.exe
+  110 2009-07-14 01:14:30                         True                  \??\C:\Windows\System32\regsvr32.exe
+  111 2009-07-14 01:14:43                         True                  \??\C:\Windows\System32\unregmp2.exe
+  112 2009-07-14 01:14:45                         True                  \??\C:\Program Files\Windows Mail\WinMail.exe
+  113 2015-10-08 21:21:47                         True                  \??\C:\Program Files\Google\Update\1.3.28.15\GoogleCrashHandler.exe
+  114 2009-07-14 01:14:19                         True                  \??\C:\Windows\system32\Dwm.exe
+  115 2009-07-14 01:14:43                         True                  \??\C:\Windows\system32\userinit.exe
+  116 2012-10-02 00:32:50                         True                  \??\C:\Program Files\Microsoft Office\Office15\WINWORD.EXE
+  117 2009-07-14 01:14:49                         True                  \??\C:\Program Files\Windows NT\Accessories\wordpad.exe
+  118 2015-09-12 13:53:50                         False                 \??\C:\Program Files\unicentaopos-3.91.2\configure.bat
+  119 2009-07-14 01:14:50                         True                  \??\C:\Windows\system32\wuauclt.exe
+  120 2012-06-02 19:19:42                         True                  \??\C:\Windows\SoftwareDistribution\SelfUpdate\Handler\WuSetupV.exe
+  121 2009-07-14 01:14:18                         True                  \??\C:\Windows\system32\DrvInst.exe
+  122 2009-07-14 01:15:41                         False                 \??\C:\Program Files\Windows Defender\MpOAV.dll
+  123 2015-10-09 03:32:26                         False                 \??\C:\Program Files\unicentaopos-3.91.2\uninstall.exe
+  124 2009-07-14 01:14:50                         False                 \??\C:\Windows\system32\wuapp.exe
+  125 2009-07-14 01:14:46                         True                  \??\C:\Windows\system32\wbem\WMIADAP.EXE
+  126 2009-07-14 01:14:29                         True                  \??\C:\Windows\system32\sppsvc.exe
+  127 2009-07-14 01:14:35                         True                  \??\C:\Windows\system32\SearchIndexer.exe
+  128 2009-07-14 01:14:25                         True                  \??\C:\Windows\System32\msdtc.exe
+  129 2009-07-14 01:14:41                         True                  \??\C:\Windows\System32\spoolsv.exe
+  130 2009-07-14 01:14:23                         True                  \??\C:\Windows\System32\lsm.exe
+  131 2009-07-14 01:14:23                         True                  \??\C:\Windows\System32\lsass.exe
+  132 2009-07-14 01:14:36                         True                  \??\C:\Windows\System32\services.exe
+  133 2015-10-09 03:30:11                         True                  \??\C:\Program Files\Java\jre1.8.0_60\bin\javacpl.exe
+  134 2015-10-09 03:30:11                         True                  \??\C:\ProgramData\Oracle\Java\javapath\java.exe
+  135 2015-10-09 03:30:11                         True                  \??\C:\Program Files\Java\jre1.8.0_60\bin\java.exe
+  136 2015-10-08 22:09:40                         True                  \??\C:\Users\Administrator\Downloads\unicentaopos-3.91.2-windows-installer.exe
+  137 2009-07-14 01:14:25                         True                  \??\C:\Windows\system32\msiexec.exe
+  138 2015-10-09 03:30:12                         True                  \??\C:\Program Files\Java\jre1.8.0_60\bin\unpack200.exe
+  139 2015-10-09 03:29:32                         True                  \??\C:\ProgramData\Oracle\Java\installcache\bspatch.exe
+  140 2015-09-16 06:13:08                         True                  \??\C:\Program Files\Java\jre1.8.0_60\installer.exe
+  141 2015-10-09 03:28:14                         True                  \??\C:\Users\Administrator\Downloads\chromeinstall-8u60.exe
+  142 2015-10-09 03:28:30                         True                  \??\C:\Users\Administrator\AppData\LocalLow\Oracle\Java\jre1.8.0_60\LZMA_EXE
+  143 2009-07-14 01:14:42                         True                  \??\C:\Windows\system32\TRACERT.EXE
+  144 2009-07-14 01:14:35                         True                  \??\C:\Windows\system32\schtasks.exe
+  145 2009-07-14 01:14:49                         True                  \??\C:\Windows\System32\wsqmcons.exe
+  146 2009-07-14 01:14:46                         True                  \??\C:\Windows\system32\winsat.exe
+  147 2009-07-14 01:14:16                         True                  \??\C:\Windows\system32\defrag.exe
+  148 2015-09-30 15:07:46                         True                  \??\C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\SwReporter\4.30.2\software_reporter_tool.exe
+  149 2015-10-08 21:21:47                         True                  \??\C:\Program Files\Google\Update\1.3.28.15\GoogleUpdateOnDemand.exe
+  150 2015-10-08 21:22:14                         True                  \??\C:\Users\ADMINI~1\AppData\Local\Temp\CR_6FA05.tmp\setup.exe
+  151 2015-09-24 21:58:00                         True                  \??\C:\Program Files\Google\Update\Install\{1A9326DC-68D5-4D53-813F-D9808DAA14A6}\45.0.2454.101_chrome_installer.exe
+  152 2015-10-08 21:21:47                         True                  \??\C:\Program Files\GUM472E.tmp\GoogleUpdate.exe
+  153 2015-10-08 21:21:46                         True                  \??\C:\Users\Administrator\AppData\Local\Apps\2.0\AZBO2TZZ.MYV\2KW5D7L1.ZHA\goog...app_86fd5b6b43e66935_0001.0003_0c5c9ef489cb88ba\GoogleUpdateSetup.exe
+  154 2015-10-08 21:21:46                         True                  \??\C:\Users\Administrator\AppData\Local\Apps\2.0\AZBO2TZZ.MYV\2KW5D7L1.ZHA\goog...app_86fd5b6b43e66935_0001.0003_0c5c9ef489cb88ba\clickonce_bootstrap.exe
+  155 2009-06-10 21:22:50                         True                  \??\C:\Windows\Microsoft.NET\Framework\v2.0.50727\dfsvc.exe
+  156 2009-06-10 21:23:09                         True                  \??\C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorsvw.exe
+  157 2009-06-10 21:14:47                         True                  \??\C:\Windows\Microsoft.NET\Framework\v3.5\addinutil.exe
+  158 2015-10-08 20:52:08                         True                  \??\C:\Windows\Installer\MSI2304.tmp
+  159 2009-06-10 21:23:12                         True                  \??\C:\Windows\Microsoft.NET\Framework\v2.0.50727\ngen.exe
+  160 2009-07-14 01:14:24                         True                  \??\C:\Windows\system32\WBEM\mofcomp.exe
+  161 2012-10-02 00:31:22                         True                  \??\C:\Program Files\Microsoft Office\Office15\msohtmed.exe
+  162 2009-07-14 01:14:44                         True                  \??\C:\Windows\system32\wevtutil.exe
+  163 2009-07-14 01:14:22                         True                  \??\C:\Windows\system32\lodctr.exe
+  164 2012-10-01 10:22:31                         True                  \??\C:\Users\ADMINI~1\AppData\Local\Temp\ose00000.exe
+  165 2012-10-01 10:22:31                         False                 \??\D:\standard.ww\ose.exe
+  166 2012-10-01 10:13:15                         False                 \??\D:\SETUP.EXE
+  167 2015-06-23 17:27:10                         True                  \??\c:\199bc665c86168943cd2\MpSigStub.exe
+  168 2015-10-06 05:32:21                         True                  \??\C:\Windows\SoftwareDistribution\Download\Install\mpas-fe.exe
+  169 2012-07-14 15:33:28                         True                  \??\C:\Program Files\Common Files\VMware\Drivers\vss\comreg.exe
+  170 2012-07-14 15:39:38                         False                 \??\C:\Program Files\VMware\VMware Tools\poweron-vm-default.bat
+  171 2009-07-14 01:14:46                         True                  \??\C:\Windows\system32\wbem\WmiApSrv.exe
+  172 2009-07-12 07:55:40                         True                  \??\c:\4457e756581416c32c267cd619\install.exe
+  173 2015-10-08 19:49:10                         True                  \??\C:\Users\ADMINI~1\AppData\Local\Temp\{835818DD-220C-4ABD-946E-0D8660B95E29}~setup\vcredist_x86.exe
+  174 2012-07-14 19:08:14                         False                 \??\D:\setup.exe
+  175 2009-07-14 01:14:30                         True                  \??\C:\Windows\system32\RAServer.exe
+  176 2009-07-14 01:16:13                         False                 \??\C:\Windows\System32\remotepg.dll
+  177 2009-07-14 01:14:42                         True                  \??\C:\Windows\system32\systempropertiesadvanced.exe
+  178 2009-07-14 01:15:19                         False                 \??\C:\Windows\System32\ExplorerFrame.dll
+  179 2009-07-14 01:14:47                         True                  \??\C:\Program Files\Windows Media Player\wmpnetwk.exe
+  180 2009-07-14 01:14:47                         True                  \??\C:\Program Files\Windows Media Player\wmpnscfg.exe
+  181 2009-07-14 01:14:28                         True                  \??\C:\Windows\System32\powercfg.exe
+  182 2009-07-14 01:16:13                         False                 \??\C:\Windows\System32\sbe.dll
+  183 2009-07-14 01:15:38                         False                 \??\C:\Windows\System32\mf.dll
+  184 2009-07-14 01:14:31                         True                  \??\C:\Windows\system32\runonce.exe
+  185 2009-07-14 01:14:35                         True                  \??\C:\Windows\System32\sdclt.exe
+  186 2009-07-14 01:14:25                         True                  \??\C:\Windows\system32\oobe\msoobe.exe
+  187 2009-07-14 01:14:28                         True                  \??\C:\Windows\system32\oobe\oobeldr.exe
+  188 2009-07-14 01:14:45                         True                  \??\C:\Windows\System32\oobe\windeploy.exe
+  189 2009-06-10 21:22:47                         True                  \??\C:\Windows\WinSxS\x86_netfx-clrgc_b03f5f7f11d50a3a_6.1.7600.16385_none_f5526262b556abc0\clrgc.exe

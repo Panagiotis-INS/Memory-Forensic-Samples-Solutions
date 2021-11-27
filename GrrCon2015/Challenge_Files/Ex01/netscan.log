@@ -1,0 +1,1058 @@
+Offset(P)          Proto    Local Address                  Foreign Address      State            Pid      Owner          Created
+0x31cb360          UDPv4    0.0.0.0:0                      *:*                                   13088    w3wp.exe       2015-10-09 06:31:17 UTC+0000
+0x31cb360          UDPv6    :::0                           *:*                                   13088    w3wp.exe       2015-10-09 06:31:17 UTC+0000
+0x4790ec0          UDPv4    0.0.0.0:0                      *:*                                   748      svchost.exe    2015-10-09 03:37:48 UTC+0000
+0x4790ec0          UDPv6    :::0                           *:*                                   748      svchost.exe    2015-10-09 03:37:48 UTC+0000
+0x4d1a670          TCPv6    ::1:61803                      ::1:64337            ESTABLISHED      -1                      
+0x602e980          TCPv6    ::1:890                        ::1:20465            ESTABLISHED      -1                      
+0x774e160          TCPv4    127.0.0.1:30047                127.0.0.1:5062       ESTABLISHED      -1                      
+0x774e7d0          TCPv6    ::1:890                        ::1:24605            ESTABLISHED      -1                      
+0x7d426b0          TCPv4    0.0.0.0:475                    0.0.0.0:0            LISTENING        7464     MSExchangeDeli 
+0x8099010          TCPv4    0.0.0.0:49938                  0.0.0.0:0            LISTENING        8376     Microsoft.Exch 
+0x8099010          TCPv6    :::49938                       :::0                 LISTENING        8376     Microsoft.Exch 
+0x7c6e010          TCPv4    10.1.1.3:49983                 10.1.1.2:3268        CLOSED           -1                      
+0x7caa010          TCPv4    10.1.1.3:50009                 10.1.1.2:3268        CLOSED           -1                      
+0x8e65d10          TCPv4    10.1.1.3:23446                 10.1.1.2:389         CLOSED           -1                      
+0xad0d1f0          TCPv4    0.0.0.0:80                     0.0.0.0:0            LISTENING        4        System         
+0xad0d1f0          TCPv6    :::80                          :::0                 LISTENING        4        System         
+0xac33260          TCPv6    ::1:49955                      ::1:3803             ESTABLISHED      -1                      
+0xaf65010          TCPv6    ::1:30016                      ::1:3847             ESTABLISHED      -1                      
+0xbbbb200          TCPv4    0.0.0.0:993                    0.0.0.0:0            LISTENING        8900     Microsoft.Exch 
+0xbbbb200          TCPv6    :::993                         :::0                 LISTENING        8900     Microsoft.Exch 
+0x117d4d40         UDPv4    127.0.0.1:16512                *:*                                   8376     Microsoft.Exch 2015-10-08 21:21:56 UTC+0000
+0x11a64790         UDPv4    0.0.0.0:0                      *:*                                   5492     w3wp.exe       2015-10-09 05:47:48 UTC+0000
+0x11b229a0         TCPv6    ::1:49972                      ::1:890              CLOSED           -1                      
+0x12560720         UDPv4    0.0.0.0:0                      *:*                                   13088    w3wp.exe       2015-10-09 05:50:35 UTC+0000
+0x12c2b910         TCPv6    ::1:444                        ::1:43860            CLOSED           -1                      
+0x13740a40         TCPv4    127.0.0.1:35722                127.0.0.1:444        CLOSED           -1                      
+0x13f1e900         TCPv6    ::1:890                        ::1:29977            ESTABLISHED      -1                      
+0x13f1ed10         TCPv6    ::1:61868                      ::1:64337            ESTABLISHED      -1                      
+0x14ad4a70         UDPv4    127.0.0.1:16512                *:*                                   9680     w3wp.exe       2015-10-09 05:48:20 UTC+0000
+0x14ba4010         UDPv4    0.0.0.0:0                      *:*                                   7536     Microsoft.Exch 2015-10-08 21:20:55 UTC+0000
+0x14ba4010         UDPv6    :::0                           *:*                                   7536     Microsoft.Exch 2015-10-08 21:20:55 UTC+0000
+0x14ba7010         UDPv4    0.0.0.0:0                      *:*                                   6208     w3wp.exe       2015-10-09 05:49:10 UTC+0000
+0x14ba7010         UDPv6    :::0                           *:*                                   6208     w3wp.exe       2015-10-09 05:49:10 UTC+0000
+0x14af6010         TCPv4    0.0.0.0:49859                  0.0.0.0:0            LISTENING        7464     MSExchangeDeli 
+0x14b55010         TCPv4    0.0.0.0:50010                  0.0.0.0:0            LISTENING        7860     MSExchangeHMHo 
+0x14b55010         TCPv6    :::50010                       :::0                 LISTENING        7860     MSExchangeHMHo 
+0x14a01d10         TCPv4    127.0.0.1:16000                127.0.0.1:49893      ESTABLISHED      -1                      
+0x14a1e3c0         TCPv6    ::1:49980                      ::1:890              CLOSED           -1                      
+0x14a26d10         TCPv4    10.1.1.3:23712                 10.1.1.2:389         CLOSED           -1                      
+0x14a77bc0         TCPv4    127.0.0.1:43724                127.0.0.1:444        CLOSED           -1                      
+0x14a7a340         TCPv4    10.1.1.3:49863                 10.1.1.2:389         CLOSED           -1                      
+0x14a8d160         TCPv6    ::1:49808                      ::1:890              ESTABLISHED      -1                      
+0x14aa0010         TCPv6    ::1:51918                      ::1:890              CLOSED           -1                      
+0x14aa1010         TCPv6    ::1:35839                      ::1:890              CLOSED           -1                      
+0x14abb010         TCPv4    10.1.1.3:50007                 10.1.1.2:389         CLOSED           -1                      
+0x14ad7d10         TCPv4    127.0.0.1:49893                127.0.0.1:16000      ESTABLISHED      -1                      
+0x14b14af0         TCPv4    10.1.1.3:61315                 10.1.1.2:389         ESTABLISHED      -1                      
+0x14b21b30         TCPv6    ::1:26534                      ::1:6001             ESTABLISHED      -1                      
+0x14b34d10         TCPv4    10.1.1.3:27301                 204.79.197.200:443   CLOSED           -1                      
+0x14b75680         TCPv6    ::1:50895                      ::1:3803             ESTABLISHED      -1                      
+0x14ba4d10         TCPv6    ::1:444                        ::1:51727            ESTABLISHED      -1                      
+0x14ba8920         TCPv6    ::1:444                        ::1:26542            ESTABLISHED      -1                      
+0x14bb32f0         TCPv6    ::1:890                        ::1:28322            ESTABLISHED      -1                      
+0x14bba010         TCPv4    10.1.1.3:61339                 10.1.1.2:389         ESTABLISHED      -1                      
+0x14be5450         TCPv6    ::1:6001                       ::1:21634            ESTABLISHED      -1                      
+0x14bea010         TCPv4    10.1.1.3:30115                 10.1.1.2:88          SYN_SENT         -1                      
+0x18b36530         UDPv4    127.0.0.1:16512                *:*                                   5896     MSExchangeSubm 2015-10-08 21:16:10 UTC+0000
+0x18b36230         TCPv6    ::1:28324                      ::1:64337            ESTABLISHED      -1                      
+0x19e028a0         TCPv6    ::1:6001                       ::1:26534            ESTABLISHED      -1                      
+0x1a08d9d0         TCPv4    127.0.0.1:444                  127.0.0.1:43724      CLOSED           -1                      
+0x1a44dd10         TCPv6    ::1:6001                       ::1:29946            ESTABLISHED      -1                      
+0x1a71a1b0         TCPv6    ::1:890                        ::1:29427            ESTABLISHED      -1                      
+0x1b597cd0         UDPv4    0.0.0.0:0                      *:*                                   6208     w3wp.exe       2015-10-09 05:49:10 UTC+0000
+0x1b597cd0         UDPv6    :::0                           *:*                                   6208     w3wp.exe       2015-10-09 05:49:10 UTC+0000
+0x1af492f0         TCPv6    ::1:30045                      ::1:444              ESTABLISHED      -1                      
+0x1b23db30         TCPv4    10.1.1.3:44065                 10.1.1.2:389         ESTABLISHED      -1                      
+0x1b324d10         TCPv6    ::1:6001                       ::1:29986            ESTABLISHED      -1                      
+0x1c12ded0         TCPv4    0.0.0.0:49923                  0.0.0.0:0            LISTENING        8160     Microsoft.Exch 
+0x1c108d10         TCPv6    ::1:52067                      ::1:890              CLOSED           -1                      
+0x1c80bec0         UDPv4    0.0.0.0:0                      *:*                                   13964    MSExchangeHMWo 2015-10-08 21:29:23 UTC+0000
+0x1c27c490         TCPv6    ::1:890                        ::1:30065            ESTABLISHED      -1                      
+0x1c71d9f0         TCPv6    ::1:51922                      ::1:890              CLOSED           -1                      
+0x1c793d10         TCPv6    ::1:3863                       ::1:49451            ESTABLISHED      -1                      
+0x1ca66b20         TCPv6    ::1:890                        ::1:29685            ESTABLISHED      -1                      
+0x1d9edd10         TCPv4    10.1.1.3:54057                 10.1.1.2:445         CLOSED           -1                      
+0x1e301010         TCPv6    ::1:52030                      ::1:890              CLOSED           -1                      
+0x1f09eb90         UDPv4    0.0.0.0:0                      *:*                                   7536     Microsoft.Exch 2015-10-08 21:20:55 UTC+0000
+0x1fced7f0         UDPv4    127.0.0.1:16512                *:*                                   9044     Microsoft.Exch 2015-10-08 21:22:16 UTC+0000
+0x1fd0d010         UDPv4    0.0.0.0:0                      *:*                                   13088    w3wp.exe       2015-10-09 05:50:35 UTC+0000
+0x1fd44010         UDPv4    0.0.0.0:0                      *:*                                   12992    w3wp.exe       2015-10-09 05:49:12 UTC+0000
+0x1fd59410         UDPv4    127.0.0.1:16512                *:*                                   6944     UMWorkerProces 2015-10-08 21:21:07 UTC+0000
+0x1fd66380         UDPv4    0.0.0.0:0                      *:*                                   5492     w3wp.exe       2015-10-09 05:48:50 UTC+0000
+0x1fd751a0         UDPv4    0.0.0.0:0                      *:*                                   4024     w3wp.exe       2015-10-09 05:50:28 UTC+0000
+0x1fd996b0         UDPv4    0.0.0.0:0                      *:*                                   7588     Microsoft.Exch 2015-10-08 21:20:45 UTC+0000
+0x1fdaeec0         UDPv4    0.0.0.0:0                      *:*                                   12992    w3wp.exe       2015-10-09 05:49:12 UTC+0000
+0x1fc40ed0         TCPv4    0.0.0.0:995                    0.0.0.0:0            LISTENING        5872     Microsoft.Exch 
+0x1fc40ed0         TCPv6    :::995                         :::0                 LISTENING        5872     Microsoft.Exch 
+0x1fc63520         TCPv4    0.0.0.0:49627                  0.0.0.0:0            LISTENING        6304     MSExchangeThro 
+0x1fc74010         TCPv4    0.0.0.0:49938                  0.0.0.0:0            LISTENING        8376     Microsoft.Exch 
+0x1fcec480         TCPv4    0.0.0.0:808                    0.0.0.0:0            LISTENING        1168     SMSvcHost.exe  
+0x1fcec480         TCPv6    :::808                         :::0                 LISTENING        1168     SMSvcHost.exe  
+0x1fd12c50         TCPv4    0.0.0.0:49643                  0.0.0.0:0            LISTENING        6672     Microsoft.Exch 
+0x1fd12c50         TCPv6    :::49643                       :::0                 LISTENING        6672     Microsoft.Exch 
+0x1fd69710         TCPv4    0.0.0.0:3803                   0.0.0.0:0            LISTENING        3784     noderunner.exe 
+0x1fd69710         TCPv6    :::3803                        :::0                 LISTENING        3784     noderunner.exe 
+0x1fd791c0         TCPv4    0.0.0.0:2525                   0.0.0.0:0            LISTENING        2332     EdgeTransport. 
+0x1fd791c0         TCPv6    :::2525                        :::0                 LISTENING        2332     EdgeTransport. 
+0x1fd84310         TCPv4    0.0.0.0:3803                   0.0.0.0:0            LISTENING        3784     noderunner.exe 
+0x1fd89450         TCPv4    0.0.0.0:49891                  0.0.0.0:0            LISTENING        6944     UMWorkerProces 
+0x1fd89450         TCPv6    :::49891                       :::0                 LISTENING        6944     UMWorkerProces 
+0x1fd9a010         TCPv4    0.0.0.0:49615                  0.0.0.0:0            LISTENING        5564     Microsoft.Exch 
+0x1fdab200         TCPv4    0.0.0.0:49610                  0.0.0.0:0            LISTENING        5612     MSExchangeMail 
+0x1fdab200         TCPv6    :::49610                       :::0                 LISTENING        5612     MSExchangeMail 
+0x1fdcd010         TCPv4    10.1.1.3:25                    0.0.0.0:0            LISTENING        6712     MSExchangeFron 
+0x1f9f36f0         TCPv4    10.1.1.3:36141                 10.1.1.2:389         ESTABLISHED      -1                      
+0x1fc14d10         TCPv6    ::1:64337                      ::1:61741            ESTABLISHED      -1                      
+0x1fc28d10         TCPv6    ::1:6001                       ::1:29860            CLOSED           -1                      
+0x1fc4cbf0         TCPv6    ::1:444                        ::1:22351            ESTABLISHED      -1                      
+0x1fc56990         TCPv4    10.1.1.3:55187                 10.1.1.2:389         ESTABLISHED      -1                      
+0x1fc5b010         TCPv6    ::1:7684                       ::1:64337            CLOSED           -1                      
+0x1fc78010         TCPv6    ::1:29971                      ::1:444              ESTABLISHED      -1                      
+0x1fc89170         TCPv4    127.0.0.1:5062                 127.0.0.1:35446      CLOSED           -1                      
+0x1fc8cd10         TCPv6    ::1:29946                      ::1:6001             ESTABLISHED      -1                      
+0x1fcdf150         TCPv6    ::1:26542                      ::1:444              ESTABLISHED      -1                      
+0x1fcf4010         TCPv6    ::1:61250                      ::1:890              CLOSED           -1                      
+0x1fcf7210         TCPv4    10.1.1.3:36239                 10.1.1.2:389         ESTABLISHED      -1                      
+0x1fcff150         TCPv6    ::1:890                        ::1:49808            ESTABLISHED      -1                      
+0x1fd08170         TCPv6    ::1:29933                      ::1:6001             ESTABLISHED      -1                      
+0x1fd0e160         TCPv6    ::1:890                        ::1:50161            CLOSED           -1                      
+0x1fd0e460         TCPv4    127.0.0.1:35370                127.0.0.1:50601      CLOSED           -1                      
+0x1fd2d010         TCPv6    ::1:3801                       ::1:49419            ESTABLISHED      -1                      
+0x1fd67360         TCPv4    10.1.1.3:80                    10.1.1.10:64532      ESTABLISHED      -1                      
+0x1fd7e9a0         TCPv6    ::1:6001                       ::1:26535            ESTABLISHED      -1                      
+0x1fd83010         TCPv6    ::1:444                        ::1:29857            CLOSED           -1                      
+0x1fd9c8b0         TCPv6    ::1:49623                      ::1:890              CLOSED           -1                      
+0x1fdb1510         TCPv6    ::1:890                        ::1:55183            ESTABLISHED      -1                      
+0x1fdc49d0         TCPv4    10.1.1.3:45062                 10.1.1.2:389         ESTABLISHED      -1                      
+0x1fdc7a40         TCPv4    10.1.1.3:30106                 10.1.1.2:389         ESTABLISHED      -1                      
+0x1fdd4430         TCPv6    ::1:43079                      ::1:443              CLOSED           -1                      
+0x1fdee160         TCPv4    10.1.1.3:26545                 10.1.1.2:3268        CLOSED           -1                      
+0x1fdfed10         TCPv4    10.1.1.3:36212                 10.1.1.2:389         ESTABLISHED      -1                      
+0x22c28010         UDPv4    127.0.0.1:16512                *:*                                   10656    w3wp.exe       2015-10-09 05:47:17 UTC+0000
+0x22ce8c10         UDPv4    0.0.0.0:0                      *:*                                   2332     EdgeTransport. 2015-10-09 02:52:05 UTC+0000
+0x22d5d010         UDPv4    0.0.0.0:0                      *:*                                   2332     EdgeTransport. 2015-10-09 02:52:06 UTC+0000
+0x22d6d690         UDPv4    127.0.0.1:16512                *:*                                   4716     Microsoft.Exch 2015-10-08 21:05:34 UTC+0000
+0x22c5fed0         TCPv4    0.0.0.0:35964                  0.0.0.0:0            LISTENING        4024     w3wp.exe       
+0x22c898f0         TCPv4    0.0.0.0:49651                  0.0.0.0:0            LISTENING        6952     Microsoft.Exch 
+0x22c898f0         TCPv6    :::49651                       :::0                 LISTENING        6952     Microsoft.Exch 
+0x22c8e450         TCPv4    0.0.0.0:64337                  0.0.0.0:0            LISTENING        15224    msexchangerepl 
+0x22c8e450         TCPv6    :::64337                       :::0                 LISTENING        15224    msexchangerepl 
+0x22cbfa30         TCPv4    0.0.0.0:3801                   0.0.0.0:0            LISTENING        984      hostcontroller 
+0x22cbfa30         TCPv6    :::3801                        :::0                 LISTENING        984      hostcontroller 
+0x22cd3560         TCPv4    0.0.0.0:49610                  0.0.0.0:0            LISTENING        5612     MSExchangeMail 
+0x22cda6a0         TCPv4    0.0.0.0:6001                   0.0.0.0:0            LISTENING        10184    Microsoft.Exch 
+0x22cf9910         TCPv4    0.0.0.0:49684                  0.0.0.0:0            LISTENING        2220     noderunner.exe 
+0x22cf9910         TCPv6    :::49684                       :::0                 LISTENING        2220     noderunner.exe 
+0x22de6c40         TCPv4    0.0.0.0:3800                   0.0.0.0:0            LISTENING        4        System         
+0x22de6c40         TCPv6    :::3800                        :::0                 LISTENING        4        System         
+0x22c16570         TCPv6    ::1:890                        ::1:49912            ESTABLISHED      -1                      
+0x22c17010         TCPv4    10.1.1.3:63445                 10.1.1.3:444         CLOSED           -1                      
+0x22c24d10         TCPv6    ::1:6001                       ::1:22355            ESTABLISHED      -1                      
+0x22c3f270         TCPv4    127.0.0.1:9443                 127.0.0.1:444        ESTABLISHED      -1                      
+0x22c43260         TCPv4    10.1.1.3:29945                 10.1.1.3:444         ESTABLISHED      -1                      
+0x22c54010         TCPv6    ::1:29986                      ::1:6001             ESTABLISHED      -1                      
+0x22c5dd10         TCPv4    10.1.1.3:443                   10.1.1.3:23808       ESTABLISHED      -1                      
+0x22c72d10         TCPv6    ::1:64337                      ::1:61674            ESTABLISHED      -1                      
+0x22c85150         TCPv6    ::1:890                        ::1:30068            ESTABLISHED      -1                      
+0x22cc5d10         TCPv6    ::1:21633                      ::1:444              ESTABLISHED      -1                      
+0x22d14010         TCPv6    ::1:890                        ::1:36275            ESTABLISHED      -1                      
+0x22d4d010         TCPv6    ::1:33397                      ::1:80               CLOSED           -1                      
+0x22d4d3a0         TCPv6    ::1:444                        ::1:35373            CLOSED           -1                      
+0x22d8b890         TCPv6    ::1:3803                       ::1:20491            ESTABLISHED      -1                      
+0x22dab010         TCPv4    10.1.1.3:61319                 10.1.1.2:389         ESTABLISHED      -1                      
+0x2439c010         TCPv4    10.1.1.3:29773                 10.1.1.2:389         ESTABLISHED      -1                      
+0x243ecd10         TCPv6    ::1:43175                      ::1:6001             CLOSED           -1                      
+0x2441e090         TCPv6    ::1:51919                      ::1:890              CLOSED           -1                      
+0x245d83e0         TCPv4    10.1.1.3:49973                 10.1.1.2:389         CLOSED           -1                      
+0x260494f0         UDPv4    0.0.0.0:0                      *:*                                   9876     w3wp.exe       2015-10-09 05:48:04 UTC+0000
+0x26b2eed0         TCPv4    0.0.0.0:49987                  0.0.0.0:0            LISTENING        9124     Microsoft.Exch 
+0x26b2eed0         TCPv6    :::49987                       :::0                 LISTENING        9124     Microsoft.Exch 
+0x270f1b50         UDPv4    0.0.0.0:0                      *:*                                   4024     w3wp.exe       2015-10-09 05:50:28 UTC+0000
+0x27417290         TCPv6    ::1:61805                      ::1:64337            ESTABLISHED      -1                      
+0x27a26ce0         TCPv4    0.0.0.0:49812                  0.0.0.0:0            LISTENING        7536     Microsoft.Exch 
+0x27a26ce0         TCPv6    :::49812                       :::0                 LISTENING        7536     Microsoft.Exch 
+0x28d06a30         TCPv6    ::1:29969                      ::1:444              ESTABLISHED      -1                      
+0x29054b40         TCPv6    ::1:890                        ::1:30043            ESTABLISHED      -1                      
+0x29a2e910         UDPv4    0.0.0.0:0                      *:*                                   13088    w3wp.exe       2015-10-09 05:50:35 UTC+0000
+0x29a2e910         UDPv6    :::0                           *:*                                   13088    w3wp.exe       2015-10-09 05:50:35 UTC+0000
+0x29bafec0         UDPv4    0.0.0.0:0                      *:*                                   800      svchost.exe    2015-10-08 21:15:10 UTC+0000
+0x29bafec0         UDPv6    :::0                           *:*                                   800      svchost.exe    2015-10-08 21:15:10 UTC+0000
+0x2e137230         TCPv4    0.0.0.0:9710                   0.0.0.0:0            LISTENING        7536     Microsoft.Exch 
+0x2e137230         TCPv6    :::9710                        :::0                 LISTENING        7536     Microsoft.Exch 
+0x2f3f7010         TCPv4    127.0.0.1:61404                127.0.0.1:444        ESTABLISHED      -1                      
+0x2f971d70         UDPv4    127.0.0.1:16512                *:*                                   14564    w3wp.exe       2015-10-09 05:48:02 UTC+0000
+0x2f98c5a0         TCPv4    0.0.0.0:5062                   0.0.0.0:0            LISTENING        7716     umservice.exe  
+0x2f86c850         TCPv4    10.1.1.3:61306                 10.1.1.2:389         ESTABLISHED      -1                      
+0x2fba3d10         TCPv6    ::1:80                         ::1:44751            CLOSED           -1                      
+0x2fc2a280         TCPv4    10.1.1.3:61323                 10.1.1.2:389         ESTABLISHED      -1                      
+0x2fd7e010         TCPv4    10.1.1.3:28323                 10.1.1.2:3268        ESTABLISHED      -1                      
+0x2fe88d10         TCPv6    ::1:61674                      ::1:64337            ESTABLISHED      -1                      
+0x303743c0         UDPv4    0.0.0.0:0                      *:*                                   13088    w3wp.exe       2015-10-09 06:31:17 UTC+0000
+0x303743c0         UDPv6    :::0                           *:*                                   13088    w3wp.exe       2015-10-09 06:31:17 UTC+0000
+0x30606010         UDPv4    0.0.0.0:0                      *:*                                   5492     w3wp.exe       2015-10-09 05:55:20 UTC+0000
+0x30647ec0         UDPv4    0.0.0.0:0                      *:*                                   2332     EdgeTransport. 2015-10-09 02:52:06 UTC+0000
+0x30647ec0         UDPv6    :::0                           *:*                                   2332     EdgeTransport. 2015-10-09 02:52:06 UTC+0000
+0x3068d970         UDPv4    127.0.0.1:16512                *:*                                   5680     MSExchangeMail 2015-10-08 21:21:22 UTC+0000
+0x30691200         UDPv4    0.0.0.0:0                      *:*                                   13716    w3wp.exe       2015-10-09 05:50:12 UTC+0000
+0x3073ed70         UDPv4    0.0.0.0:0                      *:*                                   13716    w3wp.exe       2015-10-09 05:48:28 UTC+0000
+0x3073eec0         UDPv4    0.0.0.0:0                      *:*                                   13716    w3wp.exe       2015-10-09 05:48:28 UTC+0000
+0x3073eec0         UDPv6    :::0                           *:*                                   13716    w3wp.exe       2015-10-09 05:48:28 UTC+0000
+0x307f0010         UDPv4    127.0.0.1:16512                *:*                                   13716    w3wp.exe       2015-10-09 05:47:23 UTC+0000
+0x306a4960         TCPv4    0.0.0.0:587                    0.0.0.0:0            LISTENING        6712     MSExchangeFron 
+0x307fe900         TCPv4    0.0.0.0:50123                  0.0.0.0:0            LISTENING        9532     w3wp.exe       
+0x30624010         TCPv6    ::1:30090                      ::1:6001             ESTABLISHED      -1                      
+0x30649630         TCPv6    ::1:3803                       ::1:50895            ESTABLISHED      -1                      
+0x3064b010         TCPv6    ::1:24605                      ::1:890              ESTABLISHED      -1                      
+0x30695010         TCPv4    10.1.1.3:36247                 10.1.1.2:3268        CLOSED           -1                      
+0x306caba0         TCPv4    10.1.1.3:26524                 10.1.1.2:3268        CLOSED           -1                      
+0x306dd010         TCPv6    ::1:890                        ::1:36375            ESTABLISHED      -1                      
+0x3070d9c0         TCPv6    ::1:49605                      ::1:890              CLOSED           -1                      
+0x30748d10         TCPv6    ::1:42415                      ::1:890              CLOSED           -1                      
+0x30799d10         TCPv6    ::1:61809                      ::1:64337            ESTABLISHED      -1                      
+0x307de9b0         TCPv4    10.1.1.3:30113                 10.1.1.2:88          SYN_SENT         -1                      
+0x307eb310         TCPv6    ::1:890                        ::1:30033            ESTABLISHED      -1                      
+0x307f6ba0         TCPv4    10.1.1.3:61420                 10.1.1.2:389         ESTABLISHED      -1                      
+0x38352ec0         UDPv4    0.0.0.0:0                      *:*                                   7716     umservice.exe  2015-10-08 21:21:05 UTC+0000
+0x38352ec0         UDPv6    :::0                           *:*                                   7716     umservice.exe  2015-10-08 21:21:05 UTC+0000
+0x3869dec0         UDPv4    0.0.0.0:0                      *:*                                   13964    MSExchangeHMWo 2015-10-08 21:29:23 UTC+0000
+0x3869dec0         UDPv6    :::0                           *:*                                   13964    MSExchangeHMWo 2015-10-08 21:29:23 UTC+0000
+0x38827b10         UDPv4    0.0.0.0:0                      *:*                                   11632    w3wp.exe       2015-10-09 05:49:09 UTC+0000
+0x38a5f230         TCPv4    0.0.0.0:49853                  0.0.0.0:0            LISTENING        5192     MSExchangeTran 
+0x38a5f230         TCPv6    :::49853                       :::0                 LISTENING        5192     MSExchangeTran 
+0x3924c400         TCPv4    0.0.0.0:465                    0.0.0.0:0            LISTENING        2332     EdgeTransport. 
+0x3924c400         TCPv6    :::465                         :::0                 LISTENING        2332     EdgeTransport. 
+0x3932a010         TCPv4    0.0.0.0:49917                  0.0.0.0:0            LISTENING        5680     MSExchangeMail 
+0x38e80d10         TCPv6    ::1:42301                      ::1:890              CLOSED           -1                      
+0x38ff4740         TCPv6    ::1:61261                      ::1:890              CLOSED           -1                      
+0x392252a0         TCPv4    10.1.1.3:61388                 10.1.1.2:3268        ESTABLISHED      -1                      
+0x39289010         TCPv4    10.1.1.3:45785                 10.1.1.2:389         ESTABLISHED      -1                      
+0x392e7010         TCPv6    ::1:80                         ::1:29926            ESTABLISHED      -1                      
+0x39304410         TCPv6    ::1:6001                       ::1:21637            ESTABLISHED      -1                      
+0x393673c0         TCPv6    ::1:3803                       ::1:20492            ESTABLISHED      -1                      
+0x3939c230         TCPv4    10.1.1.3:49865                 10.1.1.2:389         CLOSED           -1                      
+0x393aa8f0         TCPv4    10.1.1.3:30071                 10.1.1.2:445         ESTABLISHED      -1                      
+0x393e3d10         TCPv4    10.1.1.3:36130                 10.1.1.2:3268        CLOSED           -1                      
+0x3e0c6010         UDPv4    127.0.0.1:16512                *:*                                   9876     w3wp.exe       2015-10-09 05:47:33 UTC+0000
+0x3e133ca0         UDPv4    127.0.0.1:16512                *:*                                   5192     MSExchangeTran 2015-10-08 21:21:01 UTC+0000
+0x3e082b90         TCPv4    0.0.0.0:3847                   0.0.0.0:0            LISTENING        2400     noderunner.exe 
+0x3e01fd10         TCPv6    ::1:29999                      ::1:890              ESTABLISHED      -1                      
+0x3e037d10         TCPv4    10.1.1.3:50174                 10.1.1.2:3268        CLOSED           -1                      
+0x3e042010         TCPv6    ::1:444                        ::1:61358            CLOSED           -1                      
+0x3e044960         TCPv6    ::1:444                        ::1:29982            ESTABLISHED      -1                      
+0x3e047710         TCPv6    ::1:890                        ::1:36052            ESTABLISHED      -1                      
+0x3e06ed10         TCPv6    ::1:22354                      ::1:6001             ESTABLISHED      -1                      
+0x3e06fc00         TCPv4    10.1.1.3:36078                 10.1.1.2:389         CLOSED           -1                      
+0x3e076d10         TCPv6    ::1:20493                      ::1:3828             ESTABLISHED      -1                      
+0x3e0aca90         TCPv6    ::1:890                        ::1:49543            CLOSED           -1                      
+0x3e0eb5c0         TCPv4    10.1.1.3:30072                 10.1.1.2:445         ESTABLISHED      -1                      
+0x3e106010         TCPv4    10.1.1.3:61409                 10.1.1.2:389         CLOSED           -1                      
+0x3e136010         TCPv4    10.1.1.3:444                   10.1.1.3:51983       CLOSED           -1                      
+0x3e1dad10         TCPv4    10.1.1.3:80                    10.1.1.10:64530      ESTABLISHED      -1                      
+0x3e1ec460         TCPv6    ::1:29987                      ::1:6001             ESTABLISHED      -1                      
+0x4570c5f0         TCPv6    ::1:444                        ::1:45946            CLOSED           -1                      
+0x45af6d10         TCPv4    10.1.1.3:30073                 10.1.1.2:445         ESTABLISHED      -1                      
+0x4624e230         UDPv4    0.0.0.0:0                      *:*                                   9372     w3wp.exe       2015-10-08 21:23:27 UTC+0000
+0x46371010         TCPv4    0.0.0.0:2525                   0.0.0.0:0            LISTENING        2332     EdgeTransport. 
+0x4624b010         TCPv6    ::1:26567                      ::1:890              CLOSED           -1                      
+0x46262d10         TCPv6    ::1:890                        ::1:30054            ESTABLISHED      -1                      
+0x46268010         TCPv6    ::1:444                        ::1:29944            ESTABLISHED      -1                      
+0x46287d10         TCPv6    ::1:64337                      ::1:28324            ESTABLISHED      -1                      
+0x4628e010         TCPv4    10.1.1.3:61330                 10.1.1.2:389         ESTABLISHED      -1                      
+0x462b4d10         TCPv6    ::1:444                        ::1:30045            ESTABLISHED      -1                      
+0x462b6010         TCPv4    10.1.1.3:23355                 10.1.1.2:445         CLOSED           -1                      
+0x4630b630         TCPv6    ::1:35487                      ::1:444              CLOSED           -1                      
+0x4b429ec0         UDPv4    127.0.0.1:16512                *:*                                   4200     ForefrontActiv 2015-10-08 21:05:44 UTC+0000
+0x4b4402a0         UDPv4    0.0.0.0:0                      *:*                                   11632    w3wp.exe       2015-10-09 05:49:10 UTC+0000
+0x4b4402a0         UDPv6    :::0                           *:*                                   11632    w3wp.exe       2015-10-09 05:49:10 UTC+0000
+0x4b546380         UDPv4    0.0.0.0:0                      *:*                                   13964    MSExchangeHMWo 2015-10-08 21:29:36 UTC+0000
+0x4b4fc2b0         TCPv4    0.0.0.0:143                    0.0.0.0:0            LISTENING        8900     Microsoft.Exch 
+0x4b5dc670         TCPv4    0.0.0.0:3875                   0.0.0.0:0            LISTENING        3904     noderunner.exe 
+0x4b5dc670         TCPv6    :::3875                        :::0                 LISTENING        3904     noderunner.exe 
+0x4b425010         TCPv4    10.1.1.3:49981                 10.1.1.2:389         CLOSED           -1                      
+0x4b451010         TCPv6    ::1:22404                      ::1:444              CLOSED           -1                      
+0x4b4efd10         TCPv4    10.1.1.3:36228                 10.1.1.2:389         ESTABLISHED      -1                      
+0x4b527010         TCPv4    10.1.1.3:30102                 10.1.1.2:389         ESTABLISHED      -1                      
+0x4b5cb010         TCPv6    ::1:29670                      ::1:890              CLOSED           -1                      
+0x4b5d0010         TCPv4    10.1.1.3:61389                 10.1.1.2:3268        ESTABLISHED      -1                      
+0x5029d010         UDPv4    0.0.0.0:0                      *:*                                   748      svchost.exe    2015-10-09 03:37:48 UTC+0000
+0x502a0010         UDPv4    0.0.0.0:0                      *:*                                   6944     UMWorkerProces 2015-10-08 21:21:11 UTC+0000
+0x502a0010         UDPv6    :::0                           *:*                                   6944     UMWorkerProces 2015-10-08 21:21:11 UTC+0000
+0x503bbad0         UDPv4    0.0.0.0:0                      *:*                                   872      svchost.exe    
+0x503bbad0         UDPv6    :::0                           *:*                                   872      svchost.exe    
+0x503be6b0         UDPv4    0.0.0.0:0                      *:*                                   13964    MSExchangeHMWo 2015-10-08 21:29:36 UTC+0000
+0x503be6b0         UDPv6    :::0                           *:*                                   13964    MSExchangeHMWo 2015-10-08 21:29:36 UTC+0000
+0x503cbec0         UDPv4    0.0.0.0:0                      *:*                                   13964    MSExchangeHMWo 2015-10-08 21:29:36 UTC+0000
+0x503f9010         UDPv4    0.0.0.0:0                      *:*                                   5492     w3wp.exe       2015-10-09 05:48:50 UTC+0000
+0x503e3720         TCPv4    0.0.0.0:443                    0.0.0.0:0            LISTENING        4        System         
+0x503e3720         TCPv6    :::443                         :::0                 LISTENING        4        System         
+0x5028a210         TCPv4    10.1.1.3:28332                 10.1.1.2:389         CLOSED           -1                      
+0x50295010         TCPv6    ::1:444                        ::1:10411            ESTABLISHED      -1                      
+0x502a5d10         TCPv4    10.1.1.3:36223                 10.1.1.2:389         ESTABLISHED      -1                      
+0x502ad2d0         TCPv4    10.1.1.3:40352                 10.1.1.2:135         ESTABLISHED      -1                      
+0x503111c0         TCPv4    10.1.1.3:49948                 10.1.1.2:389         CLOSED           -1                      
+0x5038f010         TCPv6    ::1:890                        ::1:29751            ESTABLISHED      -1                      
+0x57c056d0         UDPv4    0.0.0.0:0                      *:*                                   13716    w3wp.exe       2015-10-09 05:48:28 UTC+0000
+0x57cc7ec0         UDPv4    0.0.0.0:0                      *:*                                   13716    w3wp.exe       2015-10-09 05:49:44 UTC+0000
+0x57cc7ec0         UDPv6    :::0                           *:*                                   13716    w3wp.exe       2015-10-09 05:49:44 UTC+0000
+0x57cf1ec0         UDPv4    0.0.0.0:0                      *:*                                   5492     w3wp.exe       2015-10-09 05:48:50 UTC+0000
+0x57cf1ec0         UDPv6    :::0                           *:*                                   5492     w3wp.exe       2015-10-09 05:48:50 UTC+0000
+0x57c116b0         TCPv4    0.0.0.0:3847                   0.0.0.0:0            LISTENING        2400     noderunner.exe 
+0x57c116b0         TCPv6    :::3847                        :::0                 LISTENING        2400     noderunner.exe 
+0x57c8d0f0         TCPv4    0.0.0.0:20472                  0.0.0.0:0            LISTENING        2332     EdgeTransport. 
+0x57cd4210         TCPv4    0.0.0.0:5985                   0.0.0.0:0            LISTENING        4        System         
+0x57cd4210         TCPv6    :::5985                        :::0                 LISTENING        4        System         
+0x57d1d950         TCPv4    0.0.0.0:5065                   0.0.0.0:0            LISTENING        6944     UMWorkerProces 
+0x57d1d950         TCPv6    :::5065                        :::0                 LISTENING        6944     UMWorkerProces 
+0x57d9abe0         TCPv4    0.0.0.0:61665                  0.0.0.0:0            LISTENING        15224    msexchangerepl 
+0x57d9abe0         TCPv6    :::61665                       :::0                 LISTENING        15224    msexchangerepl 
+0x57c30bc0         TCPv4    10.1.1.3:443                   10.1.1.21:60699      ESTABLISHED      -1                      
+0x57ca6980         TCPv4    10.1.1.3:61402                 10.1.1.2:389         ESTABLISHED      -1                      
+0x57ce3010         TCPv6    ::1:36270                      ::1:444              CLOSED           -1                      
+0x57ce4d10         TCPv6    ::1:890                        ::1:47497            CLOSED           -1                      
+0x57cf3010         TCPv6    ::1:29932                      ::1:6001             ESTABLISHED      -1                      
+0x57cfed10         TCPv4    10.1.1.3:443                   180.76.254.120:49403 CLOSE_WAIT       -1                      
+0x57da0630         TCPv4    10.1.1.3:36071                 10.1.1.2:389         ESTABLISHED      -1                      
+0x57de1010         TCPv4    10.1.1.3:33746                 10.1.1.2:389         CLOSED           -1                      
+0x57de6c80         TCPv6    ::1:36073                      ::1:890              ESTABLISHED      -1                      
+0x57dfb010         TCPv6    ::1:3803                       ::1:49665            ESTABLISHED      -1                      
+0x5ea478b0         UDPv4    0.0.0.0:0                      *:*                                   5492     w3wp.exe       2015-10-09 05:48:50 UTC+0000
+0x5ea478b0         UDPv6    :::0                           *:*                                   5492     w3wp.exe       2015-10-09 05:48:50 UTC+0000
+0x5ea45c40         TCPv4    0.0.0.0:3801                   0.0.0.0:0            LISTENING        984      hostcontroller 
+0x5ea61580         TCPv4    0.0.0.0:49517                  0.0.0.0:0            LISTENING        -1                      
+0x5ea61580         TCPv6    :::49517                       :::0                 LISTENING        -1                      
+0x5ea83230         TCPv4    0.0.0.0:993                    0.0.0.0:0            LISTENING        8900     Microsoft.Exch 
+0x5ea111a0         TCPv4    10.1.1.3:30114                 10.1.1.2:88          SYN_SENT         -1                      
+0x5ea84c80         TCPv6    ::1:444                        ::1:29922            ESTABLISHED      -1                      
+0x5eaa1d10         TCPv6    ::1:55185                      ::1:890              CLOSED           -1                      
+0x5ead2d10         TCPv4    10.1.1.3:36155                 10.1.1.2:389         ESTABLISHED      -1                      
+0x5eae0010         TCPv4    10.1.1.3:35845                 10.1.1.2:389         CLOSED           -1                      
+0x5eae6010         TCPv6    ::1:29928                      ::1:80               ESTABLISHED      -1                      
+0x5eae9010         TCPv6    ::1:51724                      ::1:890              CLOSED           -1                      
+0x5eb11900         TCPv4    10.1.1.3:444                   10.1.1.3:29945       ESTABLISHED      -1                      
+0x5eb367b0         TCPv4    10.1.1.3:36204                 10.1.1.2:389         ESTABLISHED      -1                      
+0x5eb3ab40         TCPv6    ::1:3847                       ::1:30016            ESTABLISHED      -1                      
+0x5eb47010         TCPv4    127.0.0.1:444                  127.0.0.1:61404      ESTABLISHED      -1                      
+0x5eb4a010         TCPv6    ::1:6001                       ::1:61401            CLOSED           -1                      
+0x5eb5c5b0         TCPv4    10.1.1.3:61308                 10.1.1.2:389         ESTABLISHED      -1                      
+0x5eb99480         TCPv6    ::1:80                         ::1:29941            ESTABLISHED      -1                      
+0x5eb9ea70         TCPv4    10.1.1.3:444                   10.1.1.3:26540       ESTABLISHED      -1                      
+0x5ebb1c50         TCPv6    ::1:444                        ::1:30097            ESTABLISHED      -1                      
+0x5ebff310         TCPv6    ::1:36196                      ::1:890              ESTABLISHED      -1                      
+0x64810ec0         UDPv4    0.0.0.0:0                      *:*                                   13964    MSExchangeHMWo 2015-10-08 21:29:23 UTC+0000
+0x6484a810         UDPv4    0.0.0.0:0                      *:*                                   9876     w3wp.exe       2015-10-09 05:48:04 UTC+0000
+0x64898ec0         UDPv4    0.0.0.0:0                      *:*                                   13716    w3wp.exe       2015-10-09 05:48:28 UTC+0000
+0x64898ec0         UDPv6    :::0                           *:*                                   13716    w3wp.exe       2015-10-09 05:48:28 UTC+0000
+0x6489c3f0         UDPv4    0.0.0.0:0                      *:*                                   7716     umservice.exe  2015-10-08 21:21:05 UTC+0000
+0x64812b20         TCPv6    ::1:20492                      ::1:3803             ESTABLISHED      -1                      
+0x6481d010         TCPv6    ::1:444                        ::1:29852            CLOSED           -1                      
+0x6482a460         TCPv4    10.1.1.3:444                   10.1.1.3:62539       CLOSED           -1                      
+0x64862d10         TCPv6    ::1:64337                      ::1:61789            ESTABLISHED      -1                      
+0x6488b3d0         TCPv6    ::1:890                        ::1:49611            ESTABLISHED      -1                      
+0x648a5010         TCPv6    ::1:26543                      ::1:6001             ESTABLISHED      -1                      
+0x648e5d10         TCPv6    ::1:6001                       ::1:29987            ESTABLISHED      -1                      
+0x648f0150         TCPv6    ::1:49924                      ::1:3803             ESTABLISHED      -1                      
+0x64908010         TCPv6    ::1:444                        ::1:29969            ESTABLISHED      -1                      
+0x64949860         TCPv6    ::1:29751                      ::1:890              ESTABLISHED      -1                      
+0x64978ba0         TCPv4    10.1.1.3:61331                 10.1.1.2:389         ESTABLISHED      -1                      
+0x649a8b10         TCPv6    ::1:51732                      ::1:443              ESTABLISHED      -1                      
+0x649fbd10         TCPv6    ::1:443                        ::1:30095            CLOSED           -1                      
+0x6cadc010         TCPv4    0.0.0.0:49954                  0.0.0.0:0            LISTENING        3960     Microsoft.Exch 
+0x6cadc010         TCPv6    :::49954                       :::0                 LISTENING        3960     Microsoft.Exch 
+0x6cb365e0         TCPv4    0.0.0.0:110                    0.0.0.0:0            LISTENING        5872     Microsoft.Exch 
+0x6cb365e0         TCPv6    :::110                         :::0                 LISTENING        5872     Microsoft.Exch 
+0x6cb8bb90         TCPv4    127.0.0.1:16000                0.0.0.0:0            LISTENING        6944     UMWorkerProces 
+0x6cbe8800         TCPv4    0.0.0.0:3863                   0.0.0.0:0            LISTENING        3904     noderunner.exe 
+0x6ca892f0         TCPv6    ::1:35966                      ::1:64337            CLOSED           -1                      
+0x6ca8c010         TCPv6    ::1:30088                      ::1:444              ESTABLISHED      -1                      
+0x6cacbae0         TCPv6    ::1:890                        ::1:61556            CLOSED           -1                      
+0x6cb067b0         TCPv6    ::1:30089                      ::1:6001             ESTABLISHED      -1                      
+0x6cb0fbc0         TCPv4    10.1.1.3:61415                 10.1.1.2:3268        ESTABLISHED      -1                      
+0x6cb86010         TCPv4    10.1.1.3:45619                 10.1.1.2:389         ESTABLISHED      -1                      
+0x6cbff010         TCPv4    10.1.1.3:61437                 10.1.1.2:3268        ESTABLISHED      -1                      
+0x7b4d7010         TCPv6    ::1:64337                      ::1:61803            ESTABLISHED      -1                      
+0x7b938010         TCPv6    ::1:21634                      ::1:6001             ESTABLISHED      -1                      
+0x7de1cdb0         UDPv4    0.0.0.0:0                      *:*                                   800      svchost.exe    2015-10-08 21:15:10 UTC+0000
+0x7de30dc0         UDPv4    0.0.0.0:0                      *:*                                   13716    w3wp.exe       2015-10-09 05:50:12 UTC+0000
+0x7de30dc0         UDPv6    :::0                           *:*                                   13716    w3wp.exe       2015-10-09 05:50:12 UTC+0000
+0x7de831d0         UDPv4    0.0.0.0:0                      *:*                                   5700     w3wp.exe       2015-10-09 05:50:32 UTC+0000
+0x7dedcca0         UDPv4    127.0.0.1:16512                *:*                                   6076     mmc.exe        2015-10-09 03:56:17 UTC+0000
+0x7df63a50         UDPv4    0.0.0.0:0                      *:*                                   4024     w3wp.exe       2015-10-09 05:50:28 UTC+0000
+0x7df63a50         UDPv6    :::0                           *:*                                   4024     w3wp.exe       2015-10-09 05:50:28 UTC+0000
+0x7dfc1700         UDPv4    127.0.0.1:16512                *:*                                   15224    msexchangerepl 2015-10-09 08:35:24 UTC+0000
+0x7de613c0         TCPv4    0.0.0.0:49643                  0.0.0.0:0            LISTENING        6672     Microsoft.Exch 
+0x7dedd630         TCPv4    0.0.0.0:3863                   0.0.0.0:0            LISTENING        3904     noderunner.exe 
+0x7dedd630         TCPv6    :::3863                        :::0                 LISTENING        3904     noderunner.exe 
+0x7df5a170         TCPv4    0.0.0.0:110                    0.0.0.0:0            LISTENING        5872     Microsoft.Exch 
+0x7df8f840         TCPv4    127.0.0.1:20488                0.0.0.0:0            LISTENING        2332     EdgeTransport. 
+0x7dfc1850         TCPv4    0.0.0.0:49853                  0.0.0.0:0            LISTENING        5192     MSExchangeTran 
+0x7dfce380         TCPv4    0.0.0.0:717                    0.0.0.0:0            LISTENING        6712     MSExchangeFron 
+0x7de06830         TCPv6    ::1:22355                      ::1:6001             ESTABLISHED      -1                      
+0x7de23730         TCPv6    ::1:49939                      ::1:890              CLOSED           -1                      
+0x7de24d10         TCPv4    127.0.0.1:61419                127.0.0.1:444        CLOSED           -1                      
+0x7de28570         TCPv6    ::1:49956                      ::1:3828             ESTABLISHED      -1                      
+0x7de42ba0         TCPv6    ::1:61248                      ::1:890              ESTABLISHED      -1                      
+0x7de5c700         TCPv6    ::1:890                        ::1:36047            ESTABLISHED      -1                      
+0x7de8c840         TCPv4    10.1.1.3:45684                 10.1.1.2:389         ESTABLISHED      -1                      
+0x7dea5010         TCPv4    10.1.1.3:49943                 10.1.1.2:389         CLOSED           -1                      
+0x7df008a0         TCPv6    ::1:30097                      ::1:444              ESTABLISHED      -1                      
+0x7df304c0         TCPv4    10.1.1.3:51903                 10.1.1.2:389         ESTABLISHED      -1                      
+0x7df43480         TCPv6    ::1:26532                      ::1:444              ESTABLISHED      -1                      
+0x7df49750         TCPv4    10.1.1.3:61335                 10.1.1.2:389         ESTABLISHED      -1                      
+0x7df917a0         TCPv6    ::1:890                        ::1:36806            ESTABLISHED      -1                      
+0x7df993f0         TCPv4    127.0.0.1:35369                127.0.0.1:443        CLOSED           -1                      
+0x7df9e010         TCPv6    ::1:20456                      ::1:890              CLOSED           -1                      
+0x7dfa3870         TCPv6    ::1:49616                      ::1:890              ESTABLISHED      -1                      
+0x7dfa8d10         TCPv6    ::1:30033                      ::1:890              ESTABLISHED      -1                      
+0x7dfbcc00         TCPv4    10.1.1.3:61307                 10.1.1.2:389         ESTABLISHED      -1                      
+0x7dfd48c0         TCPv4    10.1.1.3:49932                 10.1.1.2:389         CLOSED           -1                      
+0x7dfe5010         TCPv6    ::1:61395                      ::1:135              ESTABLISHED      -1                      
+0x7dff5010         TCPv6    ::1:64337                      ::1:61871            ESTABLISHED      -1                      
+0x7fdaaac0         TCPv4    10.1.1.3:61328                 10.1.1.2:389         ESTABLISHED      -1                      
+0x809a8380         TCPv4    0.0.0.0:49954                  0.0.0.0:0            LISTENING        3960     Microsoft.Exch 
+0x803bc6d0         TCPv6    ::1:49667                      ::1:890              CLOSED           -1                      
+0x8060f640         TCPv4    10.1.1.3:50514                 10.1.1.2:389         CLOSED           -1                      
+0x81e6f010         TCPv4    10.1.1.3:61314                 10.1.1.2:389         ESTABLISHED      -1                      
+0x82fe02d0         TCPv6    ::1:29984                      ::1:890              ESTABLISHED      -1                      
+0x83093010         TCPv6    ::1:29944                      ::1:444              ESTABLISHED      -1                      
+0x870c8010         TCPv4    0.0.0.0:9933                   0.0.0.0:0            LISTENING        8292     Microsoft.Exch 
+0x870c8010         TCPv6    :::9933                        :::0                 LISTENING        8292     Microsoft.Exch 
+0x89c3a200         UDPv4    127.0.0.1:16512                *:*                                   5872     Microsoft.Exch 2015-10-08 21:21:49 UTC+0000
+0x899bbd10         TCPv4    10.1.1.3:45760                 10.1.1.2:389         ESTABLISHED      -1                      
+0x89a52980         TCPv6    ::1:49919                      ::1:890              ESTABLISHED      -1                      
+0x8a2476e0         TCPv4    0.0.0.0:808                    0.0.0.0:0            LISTENING        1168     SMSvcHost.exe  
+0x8a332d10         TCPv6    ::1:21636                      ::1:444              ESTABLISHED      -1                      
+0x8a400830         TCPv6    ::1:890                        ::1:49645            ESTABLISHED      -1                      
+0x8a4fe010         TCPv6    ::1:30112                      ::1:444              ESTABLISHED      -1                      
+0x8c44e010         UDPv4    0.0.0.0:0                      *:*                                   748      svchost.exe    2015-10-09 03:37:48 UTC+0000
+0x8c49aca0         UDPv4    0.0.0.0:0                      *:*                                   748      svchost.exe    2015-10-09 03:37:48 UTC+0000
+0x8d3153c0         TCPv4    10.1.1.3:30070                 10.1.1.2:445         ESTABLISHED      -1                      
+0x8dade170         TCPv4    10.1.1.3:49967                 10.1.1.2:3268        CLOSED           -1                      
+0x9e85c370         UDPv4    127.0.0.1:16512                *:*                                   5700     w3wp.exe       2015-10-09 05:47:20 UTC+0000
+0xa071c010         TCPv6    ::1:49628                      ::1:890              CLOSED           -1                      
+0xa13edb40         TCPv6    ::1:23392                      ::1:890              CLOSED           -1                      
+0xa45cbbc0         TCPv6    ::1:6001                       ::1:22354            ESTABLISHED      -1                      
+0xa5b7d6b0         UDPv4    0.0.0.0:0                      *:*                                   6944     UMWorkerProces 2015-10-08 21:21:11 UTC+0000
+0xa5b7d6b0         UDPv6    :::0                           *:*                                   6944     UMWorkerProces 2015-10-08 21:21:11 UTC+0000
+0xa5c02ec0         UDPv4    127.0.0.1:16512                *:*                                   5492     w3wp.exe       2015-10-09 05:47:39 UTC+0000
+0xa5c25010         UDPv4    0.0.0.0:0                      *:*                                   7536     Microsoft.Exch 2015-10-08 21:20:55 UTC+0000
+0xa5c73d50         UDPv4    127.0.0.1:16512                *:*                                   10184    Microsoft.Exch 2015-10-09 05:44:40 UTC+0000
+0xa5dc4560         UDPv4    127.0.0.1:16512                *:*                                   13588    MSExchangeTran 2015-10-09 02:51:59 UTC+0000
+0xa5c91a50         TCPv4    0.0.0.0:3828                   0.0.0.0:0            LISTENING        2220     noderunner.exe 
+0xa5c91a50         TCPv6    :::3828                        :::0                 LISTENING        2220     noderunner.exe 
+0xa5c96a50         TCPv4    0.0.0.0:9955                   0.0.0.0:0            LISTENING        9044     Microsoft.Exch 
+0xa5cfc900         TCPv4    0.0.0.0:3843                   0.0.0.0:0            LISTENING        2400     noderunner.exe 
+0xa5c34810         TCPv6    ::1:49445                      ::1:3801             ESTABLISHED      -1                      
+0xa5c91190         TCPv6    ::1:3801                       ::1:49438            ESTABLISHED      -1                      
+0xa5cc77f0         TCPv6    ::1:36133                      ::1:64337            CLOSED           -1                      
+0xa5cd2010         TCPv6    ::1:61659                      ::1:890              ESTABLISHED      -1                      
+0xa5d04b00         TCPv4    10.1.1.3:36158                 10.1.1.2:3268        CLOSED           -1                      
+0xa5d25a50         TCPv6    ::1:3801                       ::1:49448            ESTABLISHED      -1                      
+0xa5d81010         TCPv6    ::1:49657                      ::1:64337            CLOSED           -1                      
+0xa5daa190         TCPv6    ::1:20490                      ::1:3803             ESTABLISHED      -1                      
+0xa5ded190         TCPv4    127.0.0.1:49444                127.0.0.1:3843       ESTABLISHED      -1                      
+0xa5df2d10         TCPv4    10.1.1.3:61337                 10.1.1.2:389         ESTABLISHED      -1                      
+0xa65f0d10         TCPv6    ::1:49638                      ::1:890              CLOSED           -1                      
+0xa66f0a20         TCPv4    10.1.1.3:444                   10.1.1.3:30048       ESTABLISHED      -1                      
+0xa7e3ed10         TCPv4    10.1.1.3:30062                 10.1.1.2:389         ESTABLISHED      -1                      
+0xa86c7390         TCPv6    ::1:10411                      ::1:444              ESTABLISHED      -1                      
+0xa8740a10         TCPv6    ::1:49635                      ::1:890              ESTABLISHED      -1                      
+0xa88ce010         TCPv6    ::1:61870                      ::1:64337            ESTABLISHED      -1                      
+0xa891cd10         TCPv6    ::1:30043                      ::1:890              ESTABLISHED      -1                      
+0xa935fd10         TCPv6    ::1:444                        ::1:30087            ESTABLISHED      -1                      
+0xa956e170         TCPv6    ::1:444                        ::1:36100            ESTABLISHED      -1                      
+0xad790330         UDPv4    0.0.0.0:0                      *:*                                   5492     w3wp.exe       2015-10-09 05:48:55 UTC+0000
+0xad51a760         TCPv6    ::1:29783                      ::1:3847             ESTABLISHED      -1                      
+0xad5ddd10         TCPv4    10.1.1.3:36237                 10.1.1.2:3268        CLOSED           -1                      
+0xb0f663f0         TCPv6    ::1:61501                      ::1:444              CLOSED           -1                      
+0xb238a240         TCPv4    10.1.1.3:61264                 10.1.1.3:444         CLOSED           -1                      
+0xb238a8f0         TCPv4    10.1.1.3:61633                 10.1.1.2:445         CLOSED           -1                      
+0xb6195250         TCPv4    0.0.0.0:49859                  0.0.0.0:0            LISTENING        7464     MSExchangeDeli 
+0xb6195250         TCPv6    :::49859                       :::0                 LISTENING        7464     MSExchangeDeli 
+0xb6fcc010         UDPv4    0.0.0.0:0                      *:*                                   13716    w3wp.exe       2015-10-09 05:49:44 UTC+0000
+0xb6f5bed0         TCPv4    0.0.0.0:5065                   0.0.0.0:0            LISTENING        6944     UMWorkerProces 
+0xb70c6d10         TCPv6    ::1:61276                      ::1:890              ESTABLISHED      -1                      
+0xb79ff650         TCPv6    ::1:64337                      ::1:29637            ESTABLISHED      -1                      
+0xb7fb1820         TCPv4    10.1.1.3:28343                 10.1.1.2:445         CLOSED           -1                      
+0xb81e2af0         TCPv4    127.0.0.1:444                  127.0.0.1:9443       ESTABLISHED      -1                      
+0xb921e920         TCPv4    0.0.0.0:5060                   0.0.0.0:0            LISTENING        7588     Microsoft.Exch 
+0xb921e920         TCPv6    :::5060                        :::0                 LISTENING        7588     Microsoft.Exch 
+0xb9cebb40         TCPv4    10.1.1.3:44337                 10.1.1.2:389         ESTABLISHED      -1                      
+0xbc5126b0         TCPv4    0.0.0.0:81                     0.0.0.0:0            LISTENING        4        System         
+0xbc5126b0         TCPv6    :::81                          :::0                 LISTENING        4        System         
+0xbd5ca930         UDPv4    0.0.0.0:0                      *:*                                   3052     svchost.exe    2015-10-08 20:56:17 UTC+0000
+0xbd5ca930         UDPv6    :::0                           *:*                                   3052     svchost.exe    2015-10-08 20:56:17 UTC+0000
+0xbd5cd710         UDPv4    0.0.0.0:0                      *:*                                   3052     svchost.exe    2015-10-08 20:56:17 UTC+0000
+0xbd4a7010         TCPv6    ::1:444                        ::1:29985            ESTABLISHED      -1                      
+0xbd6e2a10         TCPv4    10.1.1.3:61336                 10.1.1.2:389         ESTABLISHED      -1                      
+0xbeec6380         UDPv4    0.0.0.0:0                      *:*                                   13088    w3wp.exe       2015-10-09 05:50:35 UTC+0000
+0xbeec6380         UDPv6    :::0                           *:*                                   13088    w3wp.exe       2015-10-09 05:50:35 UTC+0000
+0xbefb2b30         UDPv4    0.0.0.0:0                      *:*                                   7536     Microsoft.Exch 2015-10-08 21:20:55 UTC+0000
+0xbefb2b30         UDPv6    :::0                           *:*                                   7536     Microsoft.Exch 2015-10-08 21:20:55 UTC+0000
+0xbef058e0         TCPv4    0.0.0.0:3843                   0.0.0.0:0            LISTENING        2400     noderunner.exe 
+0xbef058e0         TCPv6    :::3843                        :::0                 LISTENING        2400     noderunner.exe 
+0xbf657b30         TCPv4    10.1.1.3:80                    10.1.1.21:60693      ESTABLISHED      -1                      
+0xbfcef010         TCPv6    ::1:444                        ::1:30108            CLOSED           -1                      
+0x10007d010        TCPv6    ::1:135                        ::1:61395            ESTABLISHED      -1                      
+0x100091010        TCPv4    10.1.1.3:49950                 10.1.1.2:3268        CLOSED           -1                      
+0x1001f1190        TCPv4    127.0.0.1:25901                127.0.0.1:443        CLOSED           -1                      
+0x10135b8e0        TCPv4    10.1.1.3:49926                 10.1.1.2:389         CLOSED           -1                      
+0x106a0fc80        UDPv4    0.0.0.0:0                      *:*                                   11632    w3wp.exe       2015-10-09 05:49:10 UTC+0000
+0x106baf750        UDPv4    0.0.0.0:0                      *:*                                   508      lsass.exe      2015-10-08 20:32:28 UTC+0000
+0x106baf750        UDPv6    :::0                           *:*                                   508      lsass.exe      2015-10-08 20:32:28 UTC+0000
+0x106b10540        TCPv4    0.0.0.0:49917                  0.0.0.0:0            LISTENING        5680     MSExchangeMail 
+0x106b10540        TCPv6    :::49917                       :::0                 LISTENING        5680     MSExchangeMail 
+0x106b63710        TCPv4    0.0.0.0:37215                  0.0.0.0:0            LISTENING        13716    w3wp.exe       
+0x106b63710        TCPv6    :::37215                       :::0                 LISTENING        13716    w3wp.exe       
+0x106bba010        TCPv4    0.0.0.0:49152                  0.0.0.0:0            LISTENING        416      wininit.exe    
+0x106bba010        TCPv6    :::49152                       :::0                 LISTENING        416      wininit.exe    
+0x106bbaa00        TCPv4    0.0.0.0:49152                  0.0.0.0:0            LISTENING        416      wininit.exe    
+0x106bbd2d0        TCPv4    0.0.0.0:135                    0.0.0.0:0            LISTENING        620      svchost.exe    
+0x106bbd2d0        TCPv6    :::135                         :::0                 LISTENING        620      svchost.exe    
+0x106bbf230        TCPv4    0.0.0.0:135                    0.0.0.0:0            LISTENING        620      svchost.exe    
+0x106bc2e50        TCPv4    0.0.0.0:49971                  0.0.0.0:0            LISTENING        8536     Microsoft.Exch 
+0x106bc2e50        TCPv6    :::49971                       :::0                 LISTENING        8536     Microsoft.Exch 
+0x106a02230        TCPv6    ::1:29705                      ::1:890              ESTABLISHED      -1                      
+0x106a0ed10        TCPv4    10.1.1.3:47539                 10.1.1.2:445         CLOSED           -1                      
+0x106a1d3b0        TCPv4    10.1.1.3:35869                 10.1.1.2:3268        CLOSED           -1                      
+0x106a492b0        TCPv4    10.1.1.3:61423                 10.1.1.2:3268        ESTABLISHED      -1                      
+0x106a4cd10        TCPv4    10.1.1.3:61407                 10.1.1.2:3268        ESTABLISHED      -1                      
+0x106a4e3e0        TCPv4    127.0.0.1:30076                127.0.0.1:444        ESTABLISHED      -1                      
+0x106a58360        TCPv6    ::1:30095                      ::1:443              CLOSED           -1                      
+0x106a5b270        TCPv6    ::1:51727                      ::1:444              ESTABLISHED      -1                      
+0x106a5d200        TCPv4    127.0.0.1:444                  127.0.0.1:61607      CLOSED           -1                      
+0x106a64790        TCPv4    10.1.1.3:49639                 10.1.1.2:389         CLOSED           -1                      
+0x106a67450        TCPv6    ::1:444                        ::1:42583            CLOSED           -1                      
+0x106a8f010        TCPv4    10.1.1.3:61338                 10.1.1.2:389         ESTABLISHED      -1                      
+0x106abe9f0        TCPv4    10.1.1.3:44004                 10.1.1.2:389         ESTABLISHED      -1                      
+0x106b559d0        TCPv6    ::1:890                        ::1:30101            ESTABLISHED      -1                      
+0x106b9b010        TCPv4    10.1.1.3:61329                 10.1.1.2:389         ESTABLISHED      -1                      
+0x106ba1900        TCPv6    ::1:52052                      ::1:890              CLOSED           -1                      
+0x10819aad0        TCPv4    0.0.0.0:49153                  0.0.0.0:0            LISTENING        720      svchost.exe    
+0x10819f6c0        TCPv4    0.0.0.0:49153                  0.0.0.0:0            LISTENING        720      svchost.exe    
+0x10819f6c0        TCPv6    :::49153                       :::0                 LISTENING        720      svchost.exe    
+0x1081ed6c0        TCPv6    ::1:890                        ::1:29867            CLOSED           -1                      
+0x10a593c70        UDPv4    0.0.0.0:0                      *:*                                   872      svchost.exe    2015-10-08 21:15:10 UTC+0000
+0x10a593c70        UDPv6    :::0                           *:*                                   872      svchost.exe    2015-10-08 21:15:10 UTC+0000
+0x10a90ea90        TCPv4    0.0.0.0:49154                  0.0.0.0:0            LISTENING        748      svchost.exe    
+0x10a90ea90        TCPv6    :::49154                       :::0                 LISTENING        748      svchost.exe    
+0x10af77b20        TCPv4    0.0.0.0:49154                  0.0.0.0:0            LISTENING        748      svchost.exe    
+0x10b1781a0        TCPv4    10.1.1.3:139                   0.0.0.0:0            LISTENING        4        System         
+0x10c21fc80        UDPv4    0.0.0.0:0                      *:*                                   13716    w3wp.exe       2015-10-09 05:49:49 UTC+0000
+0x10c234340        UDPv4    127.0.0.1:16512                *:*                                   9452     Microsoft.Exch 2015-10-08 21:23:57 UTC+0000
+0x10c669840        UDPv4    127.0.0.1:16512                *:*                                   872      svchost.exe    2015-10-08 20:32:28 UTC+0000
+0x10c73cec0        UDPv4    127.0.0.1:16512                *:*                                   508      lsass.exe      2015-10-08 20:32:28 UTC+0000
+0x10c791a10        UDPv4    0.0.0.0:0                      *:*                                   508      lsass.exe      2015-10-08 20:32:28 UTC+0000
+0x10c791a10        UDPv6    :::0                           *:*                                   508      lsass.exe      2015-10-08 20:32:28 UTC+0000
+0x10c2e4010        TCPv4    0.0.0.0:49155                  0.0.0.0:0            LISTENING        508      lsass.exe      
+0x10c2e4010        TCPv6    :::49155                       :::0                 LISTENING        508      lsass.exe      
+0x10c2e4e50        TCPv4    0.0.0.0:49155                  0.0.0.0:0            LISTENING        508      lsass.exe      
+0x10c0e85b0        TCPv6    ::1:890                        ::1:35843            ESTABLISHED      -1                      
+0x10c9538c0        UDPv4    0.0.0.0:0                      *:*                                   508      lsass.exe      2015-10-08 20:32:28 UTC+0000
+0x10ccdfed0        TCPv4    0.0.0.0:49161                  0.0.0.0:0            LISTENING        884      spoolsv.exe    
+0x10cd66d80        TCPv4    0.0.0.0:49161                  0.0.0.0:0            LISTENING        884      spoolsv.exe    
+0x10cd66d80        TCPv6    :::49161                       :::0                 LISTENING        884      spoolsv.exe    
+0x10ed6f270        UDPv4    0.0.0.0:0                      *:*                                   13716    w3wp.exe       2015-10-09 05:50:12 UTC+0000
+0x11159cec0        UDPv4    127.0.0.1:16512                *:*                                   748      svchost.exe    2015-10-08 20:32:32 UTC+0000
+0x110f7ca70        TCPv4    0.0.0.0:2103                   0.0.0.0:0            LISTENING        1108     mqsvc.exe      
+0x110f7ca70        TCPv6    :::2103                        :::0                 LISTENING        1108     mqsvc.exe      
+0x110f7ced0        TCPv4    0.0.0.0:2103                   0.0.0.0:0            LISTENING        1108     mqsvc.exe      
+0x111266010        TCPv4    0.0.0.0:1801                   0.0.0.0:0            LISTENING        1108     mqsvc.exe      
+0x111373260        TCPv4    0.0.0.0:2105                   0.0.0.0:0            LISTENING        1108     mqsvc.exe      
+0x111373540        TCPv4    0.0.0.0:2107                   0.0.0.0:0            LISTENING        1108     mqsvc.exe      
+0x111373540        TCPv6    :::2107                        :::0                 LISTENING        1108     mqsvc.exe      
+0x111373890        TCPv4    0.0.0.0:2107                   0.0.0.0:0            LISTENING        1108     mqsvc.exe      
+0x111455ed0        TCPv4    0.0.0.0:49175                  0.0.0.0:0            LISTENING        1108     mqsvc.exe      
+0x111458d20        TCPv4    0.0.0.0:49175                  0.0.0.0:0            LISTENING        1108     mqsvc.exe      
+0x111458d20        TCPv6    :::49175                       :::0                 LISTENING        1108     mqsvc.exe      
+0x111458ed0        TCPv4    0.0.0.0:1801                   0.0.0.0:0            LISTENING        1108     mqsvc.exe      
+0x111458ed0        TCPv6    :::1801                        :::0                 LISTENING        1108     mqsvc.exe      
+0x11147ec30        TCPv4    0.0.0.0:2105                   0.0.0.0:0            LISTENING        1108     mqsvc.exe      
+0x11147ec30        TCPv6    :::2105                        :::0                 LISTENING        1108     mqsvc.exe      
+0x11176f7d0        TCPv6    ::1:28322                      ::1:890              ESTABLISHED      -1                      
+0x112070700        TCPv4    0.0.0.0:49187                  0.0.0.0:0            LISTENING        508      lsass.exe      
+0x112070700        TCPv6    :::49187                       :::0                 LISTENING        508      lsass.exe      
+0x111808010        TCPv4    10.1.1.3:22353                 10.1.1.3:444         ESTABLISHED      -1                      
+0x111b7c500        TCPv6    ::1:61869                      ::1:64337            ESTABLISHED      -1                      
+0x1123d0a60        UDPv4    127.0.0.1:16512                *:*                                   6208     w3wp.exe       2015-10-09 05:47:33 UTC+0000
+0x112adfc20        UDPv4    0.0.0.0:0                      *:*                                   13716    w3wp.exe       2015-10-09 05:49:45 UTC+0000
+0x112adfc20        UDPv6    :::0                           *:*                                   13716    w3wp.exe       2015-10-09 05:49:45 UTC+0000
+0x112819c10        TCPv4    0.0.0.0:47001                  0.0.0.0:0            LISTENING        4        System         
+0x112819c10        TCPv6    :::47001                       :::0                 LISTENING        4        System         
+0x11293a240        TCPv4    0.0.0.0:890                    0.0.0.0:0            LISTENING        4716     Microsoft.Exch 
+0x112b71010        TCPv6    ::1:3803                       ::1:49924            ESTABLISHED      -1                      
+0x113199ce0        TCPv4    0.0.0.0:49615                  0.0.0.0:0            LISTENING        5564     Microsoft.Exch 
+0x113199ce0        TCPv6    :::49615                       :::0                 LISTENING        5564     Microsoft.Exch 
+0x113324010        TCPv6    ::1:30101                      ::1:890              ESTABLISHED      -1                      
+0x113814610        TCPv4    0.0.0.0:49187                  0.0.0.0:0            LISTENING        508      lsass.exe      
+0x1142a0c90        UDPv4    0.0.0.0:0                      *:*                                   13716    w3wp.exe       2015-10-09 05:48:05 UTC+0000
+0x1142ca8f0        UDPv4    0.0.0.0:0                      *:*                                   13964    MSExchangeHMWo 2015-10-08 21:29:36 UTC+0000
+0x1142ca8f0        UDPv6    :::0                           *:*                                   13964    MSExchangeHMWo 2015-10-08 21:29:36 UTC+0000
+0x114302ad0        UDPv4    0.0.0.0:0                      *:*                                   800      svchost.exe    2015-10-08 20:32:39 UTC+0000
+0x114302ad0        UDPv6    :::0                           *:*                                   800      svchost.exe    2015-10-08 20:32:39 UTC+0000
+0x114303190        UDPv4    0.0.0.0:0                      *:*                                   800      svchost.exe    2015-10-08 20:32:39 UTC+0000
+0x114398b80        UDPv4    127.0.0.1:16512                *:*                                   2332     EdgeTransport. 2015-10-09 02:52:02 UTC+0000
+0x1143ea780        UDPv4    127.0.0.1:16512                *:*                                   8292     Microsoft.Exch 2015-10-08 21:22:28 UTC+0000
+0x1143f1880        UDPv4    127.0.0.1:16512                *:*                                   8900     Microsoft.Exch 2015-10-08 21:22:02 UTC+0000
+0x114238ed0        TCPv4    0.0.0.0:445                    0.0.0.0:0            LISTENING        4        System         
+0x114238ed0        TCPv6    :::445                         :::0                 LISTENING        4        System         
+0x11425ac90        TCPv4    0.0.0.0:3823                   0.0.0.0:0            LISTENING        2220     noderunner.exe 
+0x1142e1930        TCPv4    0.0.0.0:49188                  0.0.0.0:0            LISTENING        500      services.exe   
+0x1142ec1f0        TCPv4    0.0.0.0:8172                   0.0.0.0:0            LISTENING        4        System         
+0x1142ec1f0        TCPv6    :::8172                        :::0                 LISTENING        4        System         
+0x1142f28f0        TCPv4    0.0.0.0:24559                  0.0.0.0:0            LISTENING        3052     svchost.exe    
+0x1142f28f0        TCPv6    :::24559                       :::0                 LISTENING        3052     svchost.exe    
+0x1142f2ed0        TCPv4    0.0.0.0:49627                  0.0.0.0:0            LISTENING        6304     MSExchangeThro 
+0x1142f2ed0        TCPv6    :::49627                       :::0                 LISTENING        6304     MSExchangeThro 
+0x1142f3570        TCPv4    0.0.0.0:49684                  0.0.0.0:0            LISTENING        2220     noderunner.exe 
+0x1142f3da0        TCPv4    0.0.0.0:465                    0.0.0.0:0            LISTENING        2332     EdgeTransport. 
+0x1142f9a30        TCPv4    0.0.0.0:49188                  0.0.0.0:0            LISTENING        500      services.exe   
+0x1142f9a30        TCPv6    :::49188                       :::0                 LISTENING        500      services.exe   
+0x11433f810        TCPv4    0.0.0.0:24559                  0.0.0.0:0            LISTENING        3052     svchost.exe    
+0x1142205b0        TCPv4    10.1.1.3:14324                 10.1.1.2:135         CLOSED           -1                      
+0x114243a40        TCPv6    ::1:24602                      ::1:890              CLOSED           -1                      
+0x114246160        TCPv6    ::1:444                        ::1:51737            CLOSED           -1                      
+0x114261010        TCPv6    ::1:64337                      ::1:61870            ESTABLISHED      -1                      
+0x114267210        TCPv4    10.1.1.3:443                   180.76.254.120:49398 CLOSE_WAIT       -1                      
+0x1142ad2a0        TCPv6    ::1:30104                      ::1:890              ESTABLISHED      -1                      
+0x1142d7d10        TCPv4    10.1.1.3:61334                 10.1.1.2:389         ESTABLISHED      -1                      
+0x114335d10        TCPv6    ::1:49426                      ::1:3801             CLOSED           -1                      
+0x114337010        TCPv6    ::1:29998                      ::1:6001             ESTABLISHED      -1                      
+0x114337d10        TCPv6    ::1:3801                       ::1:49431            ESTABLISHED      -1                      
+0x11433dba0        TCPv4    10.1.1.3:36103                 10.1.1.2:389         ESTABLISHED      -1                      
+0x114399010        TCPv6    ::1:890                        ::1:61248            ESTABLISHED      -1                      
+0x1143c3920        TCPv6    ::1:64337                      ::1:61868            ESTABLISHED      -1                      
+0x1143c3d10        TCPv6    ::1:29786                      ::1:808              CLOSED           -1                      
+0x1143cb290        TCPv6    ::1:61741                      ::1:64337            ESTABLISHED      -1                      
+0x1143d2010        TCPv6    ::1:890                        ::1:29705            ESTABLISHED      -1                      
+0x1143dc180        TCPv6    ::1:35973                      ::1:890              CLOSED           -1                      
+0x1143e7a30        TCPv6    ::1:49855                      ::1:890              ESTABLISHED      -1                      
+0x1143ec860        TCPv6    ::1:52021                      ::1:890              CLOSED           -1                      
+0x1143f29c0        TCPv6    ::1:3823                       ::1:49442            ESTABLISHED      -1                      
+0x1143f7d10        TCPv6    ::1:52015                      ::1:890              CLOSED           -1                      
+0x114727d10        TCPv6    ::1:890                        ::1:29999            ESTABLISHED      -1                      
+0x114915760        TCPv4    10.1.1.3:20457                 10.1.1.2:389         CLOSED           -1                      
+0x11544e770        TCPv6    ::1:890                        ::1:36196            ESTABLISHED      -1                      
+0x116a92d10        TCPv6    ::1:29427                      ::1:890              ESTABLISHED      -1                      
+0x116c95760        TCPv4    10.1.1.3:49490                 10.1.1.2:389         CLOSED           -1                      
+0x117e927b0        TCPv6    ::1:26535                      ::1:6001             ESTABLISHED      -1                      
+0x1181c29a0        TCPv6    ::1:30093                      ::1:444              ESTABLISHED      -1                      
+0x1185492f0        TCPv6    ::1:29750                      ::1:890              ESTABLISHED      -1                      
+0x119c11250        UDPv4    0.0.0.0:0                      *:*                                   5700     w3wp.exe       2015-10-09 05:50:32 UTC+0000
+0x119c11250        UDPv6    :::0                           *:*                                   5700     w3wp.exe       2015-10-09 05:50:32 UTC+0000
+0x119ce27c0        UDPv4    127.0.0.1:16512                *:*                                   2944     explorer.exe   2015-10-08 20:33:12 UTC+0000
+0x119ce8ca0        UDPv4    127.0.0.1:16512                *:*                                   12992    w3wp.exe       2015-10-09 05:47:24 UTC+0000
+0x119c147b0        TCPv6    ::1:36047                      ::1:890              ESTABLISHED      -1                      
+0x119c22d10        TCPv6    ::1:29947                      ::1:6001             ESTABLISHED      -1                      
+0x119c39d10        TCPv6    ::1:29997                      ::1:6001             ESTABLISHED      -1                      
+0x119c409a0        TCPv4    10.1.1.3:61410                 10.1.1.2:3268        ESTABLISHED      -1                      
+0x119c8b010        TCPv4    10.1.1.3:49928                 10.1.1.2:389         CLOSED           -1                      
+0x119c8e5a0        TCPv4    10.1.1.3:30103                 10.1.1.2:389         ESTABLISHED      -1                      
+0x119d6dab0        TCPv6    ::1:29860                      ::1:6001             CLOSED           -1                      
+0x119da79a0        TCPv4    10.1.1.3:61321                 10.1.1.2:389         ESTABLISHED      -1                      
+0x119dd4010        TCPv6    ::1:3828                       ::1:20493            ESTABLISHED      -1                      
+0x119dd6010        TCPv6    ::1:3803                       ::1:51594            ESTABLISHED      -1                      
+0x119dd8d10        TCPv4    10.1.1.3:28460                 10.1.1.2:3268        ESTABLISHED      -1                      
+0x119de46c0        TCPv6    ::1:49862                      ::1:890              ESTABLISHED      -1                      
+0x119dfe4c0        TCPv6    ::1:29994                      ::1:444              ESTABLISHED      -1                      
+0x11b68d190        TCPv6    ::1:444                        ::1:61268            ESTABLISHED      -1                      
+0x11bce5750        TCPv6    ::1:55183                      ::1:890              ESTABLISHED      -1                      
+0x11c39c0f0        TCPv4    0.0.0.0:53644                  0.0.0.0:0            LISTENING        13964    MSExchangeHMWo 
+0x11c39c0f0        TCPv6    :::53644                       :::0                 LISTENING        13964    MSExchangeHMWo 
+0x11dbc4460        TCPv4    10.1.1.3:61230                 10.1.1.2:389         ESTABLISHED      -1                      
+0x11dd51d10        TCPv6    ::1:36048                      ::1:890              CLOSED           -1                      
+0x11ee3eae0        TCPv6    ::1:444                        ::1:29853            CLOSED           -1                      
+0x1209cd9f0        TCPv6    ::1:36134                      ::1:64337            CLOSED           -1                      
+0x121a79500        TCPv6    ::1:61867                      ::1:64337            ESTABLISHED      -1                      
+0x12535d010        TCPv6    ::1:49611                      ::1:890              ESTABLISHED      -1                      
+0x125541190        TCPv6    ::1:6001                       ::1:26541            ESTABLISHED      -1                      
+0x127aad570        TCPv4    0.0.0.0:61665                  0.0.0.0:0            LISTENING        15224    msexchangerepl 
+0x128650010        TCPv4    10.1.1.3:61552                 10.1.1.2:389         ESTABLISHED      -1                      
+0x129948d10        TCPv6    ::1:3803                       ::1:20490            ESTABLISHED      -1                      
+0x1299afa10        TCPv6    ::1:35843                      ::1:890              ESTABLISHED      -1                      
+0x1299afd10        TCPv4    10.1.1.3:61320                 10.1.1.2:389         ESTABLISHED      -1                      
+0x12afe1010        UDPv4    0.0.0.0:0                      *:*                                   748      svchost.exe    2015-10-09 03:37:48 UTC+0000
+0x12afe1010        UDPv6    :::0                           *:*                                   748      svchost.exe    2015-10-09 03:37:48 UTC+0000
+0x12afea2d0        TCPv6    ::1:29845                      ::1:890              CLOSED           -1                      
+0x12c022010        UDPv4    0.0.0.0:0                      *:*                                   6712     MSExchangeFron 2015-10-08 21:20:59 UTC+0000
+0x12be19bc0        TCPv4    10.1.1.3:29930                 10.1.1.3:444         ESTABLISHED      -1                      
+0x12d4479c0        TCPv4    10.1.1.3:49468                 10.1.1.2:3268        CLOSED           -1                      
+0x12e3a2c90        UDPv4    0.0.0.0:0                      *:*                                   13716    w3wp.exe       2015-10-09 05:50:12 UTC+0000
+0x12e3a2c90        UDPv6    :::0                           *:*                                   13716    w3wp.exe       2015-10-09 05:50:12 UTC+0000
+0x12dfbbd10        TCPv6    ::1:64337                      ::1:61867            ESTABLISHED      -1                      
+0x12e4e4010        TCPv6    ::1:49442                      ::1:3823             ESTABLISHED      -1                      
+0x12f17cac0        TCPv4    0.0.0.0:49838                  0.0.0.0:0            LISTENING        6712     MSExchangeFron 
+0x12f17cac0        TCPv6    :::49838                       :::0                 LISTENING        6712     MSExchangeFron 
+0x1301afd10        TCPv6    ::1:444                        ::1:51372            CLOSED           -1                      
+0x131b23b90        TCPv4    0.0.0.0:475                    0.0.0.0:0            LISTENING        7464     MSExchangeDeli 
+0x131b23b90        TCPv6    :::475                         :::0                 LISTENING        7464     MSExchangeDeli 
+0x132c7aa60        UDPv4    0.0.0.0:0                      *:*                                   13964    MSExchangeHMWo 2015-10-08 21:29:23 UTC+0000
+0x132c7aa60        UDPv6    :::0                           *:*                                   13964    MSExchangeHMWo 2015-10-08 21:29:23 UTC+0000
+0x1341e6320        TCPv4    0.0.0.0:3828                   0.0.0.0:0            LISTENING        2220     noderunner.exe 
+0x1341eddf0        TCPv4    0.0.0.0:6001                   0.0.0.0:0            LISTENING        10184    Microsoft.Exch 
+0x1341eddf0        TCPv6    :::6001                        :::0                 LISTENING        10184    Microsoft.Exch 
+0x1341f47d0        TCPv4    0.0.0.0:49621                  0.0.0.0:0            LISTENING        5896     MSExchangeSubm 
+0x1341c22a0        TCPv6    ::1:19318                      ::1:444              CLOSED           -1                      
+0x1341cdc80        TCPv6    ::1:26988                      ::1:890              CLOSED           -1                      
+0x135e25520        UDPv4    0.0.0.0:0                      *:*                                   5492     w3wp.exe       2015-10-09 05:47:48 UTC+0000
+0x135ea4b50        UDPv4    127.0.0.1:16512                *:*                                   13088    w3wp.exe       2015-10-09 05:47:19 UTC+0000
+0x135f3f670        UDPv4    127.0.0.1:16512                *:*                                   9124     Microsoft.Exch 2015-10-08 21:22:37 UTC+0000
+0x135fcd450        UDPv4    0.0.0.0:0                      *:*                                   12992    w3wp.exe       2015-10-09 05:49:12 UTC+0000
+0x135fcd450        UDPv6    :::0                           *:*                                   12992    w3wp.exe       2015-10-09 05:49:12 UTC+0000
+0x135fd0850        UDPv4    10.1.1.3:40992                 *:*                                   4        System         2015-10-08 21:15:10 UTC+0000
+0x135fdc920        UDPv4    10.1.1.3:40992                 *:*                                   4        System         2015-10-08 21:15:10 UTC+0000
+0x136008ec0        UDPv4    0.0.0.0:0                      *:*                                   5700     w3wp.exe       2015-10-09 05:50:32 UTC+0000
+0x136078a50        UDPv4    127.0.0.1:16512                *:*                                   13964    MSExchangeHMWo 2015-10-08 21:29:08 UTC+0000
+0x1360d0db0        UDPv4    0.0.0.0:0                      *:*                                   4024     w3wp.exe       2015-10-09 05:50:28 UTC+0000
+0x1360d0db0        UDPv6    :::0                           *:*                                   4024     w3wp.exe       2015-10-09 05:50:28 UTC+0000
+0x1361c6e40        UDPv4    0.0.0.0:0                      *:*                                   5492     w3wp.exe       2015-10-09 05:48:55 UTC+0000
+0x135e82010        TCPv4    0.0.0.0:593                    0.0.0.0:0            LISTENING        620      svchost.exe    
+0x135e82010        TCPv6    :::593                         :::0                 LISTENING        620      svchost.exe    
+0x135fc62d0        TCPv4    0.0.0.0:890                    0.0.0.0:0            LISTENING        4716     Microsoft.Exch 
+0x135fc62d0        TCPv6    :::890                         :::0                 LISTENING        4716     Microsoft.Exch 
+0x1360d2230        TCPv4    0.0.0.0:5062                   0.0.0.0:0            LISTENING        7716     umservice.exe  
+0x1360d2230        TCPv6    :::5062                        :::0                 LISTENING        7716     umservice.exe  
+0x13612e010        TCPv4    0.0.0.0:64337                  0.0.0.0:0            LISTENING        15224    msexchangerepl 
+0x1361fd640        TCPv4    0.0.0.0:587                    0.0.0.0:0            LISTENING        6712     MSExchangeFron 
+0x1361fd640        TCPv6    :::587                         :::0                 LISTENING        6712     MSExchangeFron 
+0x135e09410        TCPv4    10.1.1.3:8092                  10.1.1.2:389         CLOSED           -1                      
+0x135e44680        TCPv6    ::1:444                        ::1:30088            ESTABLISHED      -1                      
+0x135e6cd10        TCPv6    ::1:443                        ::1:51935            CLOSED           -1                      
+0x135e8e160        TCPv6    ::1:20465                      ::1:890              ESTABLISHED      -1                      
+0x135eb4300        TCPv4    10.1.1.3:45613                 10.1.1.2:389         ESTABLISHED      -1                      
+0x135ed0010        TCPv6    ::1:24607                      ::1:890              CLOSED           -1                      
+0x135eee010        TCPv6    ::1:52066                      ::1:890              CLOSED           -1                      
+0x135f05680        TCPv4    10.1.1.3:61309                 10.1.1.2:389         ESTABLISHED      -1                      
+0x135f181e0        TCPv6    ::1:36052                      ::1:890              ESTABLISHED      -1                      
+0x135f29160        TCPv6    ::1:444                        ::1:29971            ESTABLISHED      -1                      
+0x135f2cd10        TCPv6    ::1:890                        ::1:61276            ESTABLISHED      -1                      
+0x135f36b90        TCPv6    ::1:51728                      ::1:890              CLOSED           -1                      
+0x135f47230        TCPv6    ::1:36806                      ::1:890              ESTABLISHED      -1                      
+0x135f7ad10        TCPv6    ::1:29922                      ::1:444              ESTABLISHED      -1                      
+0x135f88d10        TCPv6    ::1:3801                       ::1:49445            ESTABLISHED      -1                      
+0x135f978d0        TCPv6    ::1:890                        ::1:36073            ESTABLISHED      -1                      
+0x135fa8d10        TCPv6    ::1:890                        ::1:35628            ESTABLISHED      -1                      
+0x135febd10        TCPv6    ::1:29709                      ::1:890              ESTABLISHED      -1                      
+0x135ff89d0        TCPv4    10.1.1.3:61644                 10.1.1.2:3268        CLOSED           -1                      
+0x136013010        TCPv6    ::1:64337                      ::1:61869            ESTABLISHED      -1                      
+0x136032670        TCPv6    ::1:51936                      ::1:444              CLOSED           -1                      
+0x136033470        TCPv4    10.1.1.3:61641                 10.1.1.2:3268        ESTABLISHED      -1                      
+0x13604f9b0        TCPv4    10.1.1.3:30105                 10.1.1.2:389         ESTABLISHED      -1                      
+0x13605abc0        TCPv4    10.1.1.3:30107                 10.1.1.2:389         ESTABLISHED      -1                      
+0x13606bd10        TCPv6    ::1:29859                      ::1:6001             CLOSED           -1                      
+0x136073680        TCPv6    ::1:6001                       ::1:61399            CLOSED           -1                      
+0x1360835f0        TCPv6    ::1:30099                      ::1:6001             ESTABLISHED      -1                      
+0x1360879e0        TCPv4    10.1.1.3:80                    10.1.1.20:49207      ESTABLISHED      -1                      
+0x13609b010        TCPv6    ::1:49925                      ::1:890              CLOSED           -1                      
+0x1360a1ad0        TCPv4    10.1.1.3:61403                 10.1.1.2:3268        ESTABLISHED      -1                      
+0x1360ae230        TCPv6    ::1:49641                      ::1:3803             ESTABLISHED      -1                      
+0x1360b39a0        TCPv6    ::1:6001                       ::1:29855            CLOSED           -1                      
+0x1360d6010        TCPv6    ::1:29887                      ::1:890              CLOSED           -1                      
+0x1360df350        TCPv6    ::1:64337                      ::1:61838            ESTABLISHED      -1                      
+0x1360ef8f0        TCPv4    10.1.1.3:80                    10.1.1.10:64531      ESTABLISHED      -1                      
+0x1360fb4a0        TCPv4    10.1.1.3:49892                 10.1.1.2:3268        CLOSED           -1                      
+0x13610c640        TCPv6    ::1:29926                      ::1:80               ESTABLISHED      -1                      
+0x13610c9a0        TCPv4    10.1.1.3:80                    10.1.1.21:60692      ESTABLISHED      -1                      
+0x1361167b0        TCPv4    10.1.1.3:26540                 10.1.1.3:444         ESTABLISHED      -1                      
+0x136120890        TCPv4    10.1.1.3:61417                 10.1.1.2:3268        ESTABLISHED      -1                      
+0x136127670        TCPv6    ::1:444                        ::1:51936            CLOSED           -1                      
+0x13615b160        TCPv6    ::1:35870                      ::1:64337            CLOSED           -1                      
+0x136187b40        TCPv4    10.1.1.3:30117                 10.1.1.2:389         SYN_SENT         -1                      
+0x1361bd350        TCPv6    ::1:890                        ::1:61659            ESTABLISHED      -1                      
+0x1361c27b0        TCPv4    10.1.1.3:61411                 10.1.1.2:389         ESTABLISHED      -1                      
+0x1361c4010        TCPv6    ::1:36275                      ::1:890              ESTABLISHED      -1                      
+0x1361c5b20        TCPv6    ::1:30087                      ::1:444              ESTABLISHED      -1                      
+0x1361c7240        TCPv6    ::1:49964                      ::1:890              CLOSED           -1                      
+0x1361ce7c0        TCPv6    ::1:29991                      ::1:444              ESTABLISHED      -1                      
+0x1361d3d10        TCPv6    ::1:29931                      ::1:444              ESTABLISHED      -1                      
+0x1361dec30        TCPv6    ::1:22351                      ::1:444              ESTABLISHED      -1                      
+0x1361ee010        TCPv4    10.1.1.3:61317                 10.1.1.2:389         ESTABLISHED      -1                      
+0x1361f9010        TCPv6    ::1:6001                       ::1:30090            ESTABLISHED      -1                      
+0x13c45d9b0        TCPv6    ::1:444                        ::1:30112            ESTABLISHED      -1                      
+0x13df4e0f0        TCPv6    ::1:35628                      ::1:890              ESTABLISHED      -1                      
+0x13e2118a0        TCPv6    ::1:49431                      ::1:3801             ESTABLISHED      -1                      
+0x140666420        UDPv4    0.0.0.0:0                      *:*                                   2332     EdgeTransport. 2015-10-09 02:52:05 UTC+0000
+0x140666420        UDPv6    :::0                           *:*                                   2332     EdgeTransport. 2015-10-09 02:52:05 UTC+0000
+0x143dbac20        UDPv4    0.0.0.0:0                      *:*                                   6208     w3wp.exe       2015-10-09 05:49:10 UTC+0000
+0x143cbc510        TCPv6    ::1:3803                       ::1:49641            ESTABLISHED      -1                      
+0x1454174d0        UDPv4    0.0.0.0:0                      *:*                                   5492     w3wp.exe       2015-10-09 06:48:23 UTC+0000
+0x1453698e0        TCPv6    ::1:29685                      ::1:890              ESTABLISHED      -1                      
+0x145477a30        TCPv6    ::1:61255                      ::1:890              CLOSED           -1                      
+0x145482840        TCPv6    ::1:28421                      ::1:444              CLOSED           -1                      
+0x14561e880        UDPv4    0.0.0.0:0                      *:*                                   5492     w3wp.exe       2015-10-09 05:55:20 UTC+0000
+0x14586f420        UDPv4    0.0.0.0:0                      *:*                                   13716    w3wp.exe       2015-10-09 05:49:45 UTC+0000
+0x14590eca0        UDPv4    127.0.0.1:16512                *:*                                   7860     MSExchangeHMHo 2015-10-08 21:22:43 UTC+0000
+0x14583d010        TCPv4    0.0.0.0:3823                   0.0.0.0:0            LISTENING        2220     noderunner.exe 
+0x14583d010        TCPv6    :::3823                        :::0                 LISTENING        2220     noderunner.exe 
+0x14591d4a0        TCPv4    0.0.0.0:593                    0.0.0.0:0            LISTENING        620      svchost.exe    
+0x14591eca0        TCPv4    0.0.0.0:35964                  0.0.0.0:0            LISTENING        4024     w3wp.exe       
+0x14591eca0        TCPv6    :::35964                       :::0                 LISTENING        4024     w3wp.exe       
+0x1456ad730        TCPv4    10.1.1.3:49614                 10.1.1.2:3268        CLOSED           -1                      
+0x14581aa50        TCPv4    10.1.1.3:49644                 10.1.1.2:3268        CLOSED           -1                      
+0x14582ea70        TCPv4    127.0.0.1:45307                127.0.0.1:5062       CLOSED           -1                      
+0x145832840        TCPv4    10.1.1.3:49626                 10.1.1.2:3268        CLOSED           -1                      
+0x145868010        TCPv6    ::1:49931                      ::1:890              CLOSED           -1                      
+0x145884bb0        TCPv6    ::1:29977                      ::1:890              ESTABLISHED      -1                      
+0x1458a4660        TCPv4    10.1.1.3:49625                 10.1.1.2:389         CLOSED           -1                      
+0x1458b2d10        TCPv6    ::1:444                        ::1:30093            ESTABLISHED      -1                      
+0x1458c7190        TCPv6    ::1:50551                      ::1:890              CLOSED           -1                      
+0x1458ffa50        TCPv6    ::1:444                        ::1:61855            ESTABLISHED      -1                      
+0x14590f960        TCPv6    ::1:29785                      ::1:808              CLOSED           -1                      
+0x145920410        TCPv6    ::1:80                         ::1:29928            ESTABLISHED      -1                      
+0x145929270        TCPv4    10.1.1.3:61386                 10.1.1.2:3268        ESTABLISHED      -1                      
+0x145932010        TCPv6    ::1:890                        ::1:49616            ESTABLISHED      -1                      
+0x145952260        TCPv4    10.1.1.3:44066                 10.1.1.2:389         ESTABLISHED      -1                      
+0x14596ed10        TCPv6    ::1:6001                       ::1:30099            ESTABLISHED      -1                      
+0x1459843a0        TCPv6    ::1:51124                      ::1:64337            CLOSED           -1                      
+0x1459a0610        TCPv4    10.1.1.3:444                   10.1.1.3:26533       ESTABLISHED      -1                      
+0x1459ada10        TCPv6    ::1:29941                      ::1:80               ESTABLISHED      -1                      
+0x1459bdd10        TCPv6    ::1:29707                      ::1:890              CLOSED           -1                      
+0x1459e8bc0        TCPv4    127.0.0.1:5062                 127.0.0.1:30047      ESTABLISHED      -1                      
+0x1459fa010        TCPv4    127.0.0.1:5060                 127.0.0.1:30040      ESTABLISHED      -1                      
+0x1473ac230        TCPv4    0.0.0.0:49971                  0.0.0.0:0            LISTENING        8536     Microsoft.Exch 
+0x148a27700        UDPv4    0.0.0.0:0                      *:*                                   5492     w3wp.exe       2015-10-09 06:48:23 UTC+0000
+0x148a1db90        TCPv4    0.0.0.0:49621                  0.0.0.0:0            LISTENING        5896     MSExchangeSubm 
+0x148a1db90        TCPv6    :::49621                       :::0                 LISTENING        5896     MSExchangeSubm 
+0x14f0a9370        TCPv6    ::1:43215                      ::1:6001             CLOSED           -1                      
+0x151eab770        TCPv6    ::1:49665                      ::1:3803             ESTABLISHED      -1                      
+0x151eb6010        TCPv6    ::1:50002                      ::1:890              CLOSED           -1                      
+0x152261ba0        TCPv6    ::1:49947                      ::1:890              CLOSED           -1                      
+0x152d41b90        UDPv4    127.0.0.1:16512                *:*                                   3960     Microsoft.Exch 2015-10-08 21:22:11 UTC+0000
+0x152c29010        TCPv4    0.0.0.0:444                    0.0.0.0:0            LISTENING        4        System         
+0x152c29010        TCPv6    :::444                         :::0                 LISTENING        4        System         
+0x152bd29b0        TCPv6    ::1:444                        ::1:54916            CLOSED           -1                      
+0x152d36860        TCPv4    10.1.1.3:61316                 10.1.1.2:389         ESTABLISHED      -1                      
+0x152dea820        TCPv6    ::1:444                        ::1:21636            ESTABLISHED      -1                      
+0x152df93e0        TCPv4    10.1.1.3:80                    10.1.1.10:64533      ESTABLISHED      -1                      
+0x153611010        UDPv4    127.0.0.1:16512                *:*                                   5612     MSExchangeMail 2015-10-08 21:16:07 UTC+0000
+0x154e0cba0        TCPv6    ::1:35945                      ::1:890              CLOSED           -1                      
+0x15654ab90        TCPv6    ::1:50601                      :::0                 LISTENING        13964    MSExchangeHMWo 
+0x1564aa010        TCPv4    10.1.1.3:49940                 10.1.1.2:389         CLOSED           -1                      
+0x15660d770        TCPv4    10.1.1.3:49823                 10.1.1.2:389         CLOSED           -1                      
+0x1570990f0        TCPv4    10.1.1.3:61284                 10.1.1.2:389         ESTABLISHED      -1                      
+0x15709e010        TCPv6    ::1:3847                       ::1:29783            ESTABLISHED      -1                      
+0x15a0dea60        TCPv6    ::1:49642                      ::1:3803             ESTABLISHED      -1                      
+0x15b0cbd10        TCPv4    10.1.1.3:45833                 10.1.1.2:389         ESTABLISHED      -1                      
+0x15c7a5bc0        TCPv6    ::1:36136                      ::1:890              CLOSED           -1                      
+0x15e35e7d0        TCPv6    ::1:50032                      ::1:64337            CLOSED           -1                      
+0x15e3ec010        TCPv4    10.1.1.3:20022                 10.1.1.2:389         ESTABLISHED      -1                      
+0x161307ec0        UDPv4    127.0.0.1:16512                *:*                                   7588     Microsoft.Exch 2015-10-08 21:20:42 UTC+0000
+0x16310e6c0        TCPv6    ::1:49448                      ::1:3801             ESTABLISHED      -1                      
+0x167452ca0        UDPv4    127.0.0.1:16512                *:*                                   6672     Microsoft.Exch 2015-10-08 21:16:15 UTC+0000
+0x1674339c0        TCPv6    ::1:3803                       ::1:49642            ESTABLISHED      -1                      
+0x16aac3ec0        UDPv4    127.0.0.1:16512                *:*                                   5564     Microsoft.Exch 2015-10-08 21:16:09 UTC+0000
+0x16b5142f0        UDPv4    127.0.0.1:16512                *:*                                   6596     MSExchangeDagM 2015-10-08 21:16:14 UTC+0000
+0x16b4d3010        TCPv4    10.1.1.3:35840                 10.1.1.2:389         CLOSED           -1                      
+0x16b525d10        TCPv6    ::1:80                         ::1:29942            ESTABLISHED      -1                      
+0x16bfd8300        UDPv4    0.0.0.0:0                      *:*                                   5896     MSExchangeSubm 2015-10-08 21:16:11 UTC+0000
+0x16bfd8300        UDPv6    :::0                           *:*                                   5896     MSExchangeSubm 2015-10-08 21:16:11 UTC+0000
+0x16cfe5b50        UDPv4    127.0.0.1:16512                *:*                                   6952     Microsoft.Exch 2015-10-08 21:16:19 UTC+0000
+0x16ce05b90        TCPv4    0.0.0.0:5060                   0.0.0.0:0            LISTENING        7588     Microsoft.Exch 
+0x16d1c53f0        TCPv4    0.0.0.0:53644                  0.0.0.0:0            LISTENING        13964    MSExchangeHMWo 
+0x16f07fb90        UDPv4    127.0.0.1:16512                *:*                                   6304     MSExchangeThro 2015-10-08 21:16:11 UTC+0000
+0x16f07c930        TCPv6    ::1:49957                      ::1:890              CLOSED           -1                      
+0x171642930        TCPv6    ::1:49649                      ::1:3801             CLOSED           -1                      
+0x1739c1460        UDPv4    0.0.0.0:0                      *:*                                   5896     MSExchangeSubm 2015-10-08 21:16:11 UTC+0000
+0x17644f6b0        UDPv4    0.0.0.0:0                      *:*                                   13716    w3wp.exe       2015-10-09 05:48:05 UTC+0000
+0x1790b6ec0        UDPv4    127.0.0.1:16512                *:*                                   7536     Microsoft.Exch 2015-10-08 21:20:36 UTC+0000
+0x17906b2a0        TCPv4    10.1.1.3:36016                 10.1.1.2:389         ESTABLISHED      -1                      
+0x179330d10        TCPv4    10.1.1.3:30050                 10.1.1.2:389         ESTABLISHED      -1                      
+0x17ac05d10        TCPv4    10.1.1.3:36061                 10.1.1.2:389         CLOSED           -1                      
+0x17e343d10        TCPv6    ::1:61871                      ::1:64337            ESTABLISHED      -1                      
+0x1804bc2a0        TCPv6    ::1:61789                      ::1:64337            ESTABLISHED      -1                      
+0x1807f6b40        TCPv4    10.1.1.3:23393                 10.1.1.2:389         CLOSED           -1                      
+0x18318aec0        UDPv4    0.0.0.0:0                      *:*                                   6712     MSExchangeFron 2015-10-08 21:20:59 UTC+0000
+0x18318aec0        UDPv6    :::0                           *:*                                   6712     MSExchangeFron 2015-10-08 21:20:59 UTC+0000
+0x183199d10        TCPv6    ::1:36017                      ::1:444              CLOSED           -1                      
+0x1831c1d10        TCPv6    ::1:46931                      ::1:444              CLOSED           -1                      
+0x183a5cd10        TCPv6    ::1:9710                       ::1:30064            ESTABLISHED      -1                      
+0x1843b3830        TCPv6    ::1:890                        ::1:29750            ESTABLISHED      -1                      
+0x1843dc840        TCPv4    10.1.1.3:35963                 10.1.1.2:3268        CLOSED           -1                      
+0x184f6d260        TCPv6    ::1:6001                       ::1:29932            ESTABLISHED      -1                      
+0x1857ceb20        UDPv4    0.0.0.0:0                      *:*                                   13716    w3wp.exe       2015-10-09 05:49:49 UTC+0000
+0x186d78010        TCPv4    10.1.1.3:35948                 10.1.1.2:389         CLOSED           -1                      
+0x18bf02800        TCPv4    0.0.0.0:717                    0.0.0.0:0            LISTENING        6712     MSExchangeFron 
+0x18bf02800        TCPv6    :::717                         :::0                 LISTENING        6712     MSExchangeFron 
+0x18d0736d0        TCPv6    ::1:29671                      ::1:890              CLOSED           -1                      
+0x18db45d10        TCPv6    ::1:29756                      ::1:890              ESTABLISHED      -1                      
+0x18f23a9c0        TCPv4    10.1.1.3:61311                 10.1.1.2:389         ESTABLISHED      -1                      
+0x1908ccec0        UDPv4    0.0.0.0:0                      *:*                                   5492     w3wp.exe       2015-10-09 06:48:23 UTC+0000
+0x1908ccec0        UDPv6    :::0                           *:*                                   5492     w3wp.exe       2015-10-09 06:48:23 UTC+0000
+0x192fbdd40        TCPv4    0.0.0.0:20472                  0.0.0.0:0            LISTENING        2332     EdgeTransport. 
+0x192fbdd40        TCPv6    :::20472                       :::0                 LISTENING        2332     EdgeTransport. 
+0x1933e79d0        TCPv6    ::1:890                        ::1:29984            ESTABLISHED      -1                      
+0x196668b40        TCPv6    ::1:51594                      ::1:3803             ESTABLISHED      -1                      
+0x1966ea280        TCPv4    10.1.1.3:23332                 10.1.1.2:389         CLOSED           -1                      
+0x19704f010        TCPv6    ::1:52027                      ::1:890              CLOSED           -1                      
+0x197361d10        TCPv6    ::1:6001                       ::1:29933            ESTABLISHED      -1                      
+0x198e8bd10        TCPv6    ::1:29942                      ::1:80               ESTABLISHED      -1                      
+0x19974c1d0        TCPv6    ::1:6001                       ::1:45944            CLOSED           -1                      
+0x1997a9540        TCPv4    10.1.1.3:61318                 10.1.1.2:389         ESTABLISHED      -1                      
+0x199d97ba0        TCPv4    0.0.0.0:9710                   0.0.0.0:0            LISTENING        6944     UMWorkerProces 
+0x199d97ba0        TCPv6    :::9710                        :::0                 LISTENING        6944     UMWorkerProces 
+0x199ceaaf0        TCPv4    10.1.1.3:30041                 10.1.1.2:3268        ESTABLISHED      -1                      
+0x199df5550        TCPv4    10.1.1.3:61310                 10.1.1.2:389         ESTABLISHED      -1                      
+0x19a468d10        TCPv6    ::1:64337                      ::1:61805            ESTABLISHED      -1                      
+0x19c90e290        TCPv4    10.1.1.3:45663                 10.1.1.2:389         ESTABLISHED      -1                      
+0x19f440670        UDPv4    0.0.0.0:0                      *:*                                   7588     Microsoft.Exch 2015-10-08 21:20:45 UTC+0000
+0x19f440670        UDPv6    :::0                           *:*                                   7588     Microsoft.Exch 2015-10-08 21:20:45 UTC+0000
+0x19eec06b0        TCPv6    ::1:6001                       ::1:29998            ESTABLISHED      -1                      
+0x19f206d10        TCPv4    10.1.1.3:40353                 10.1.1.2:49158       ESTABLISHED      -1                      
+0x19f6fb010        TCPv6    ::1:444                        ::1:29931            ESTABLISHED      -1                      
+0x19f93f560        TCPv4    10.1.1.3:36246                 10.1.1.2:389         CLOSED           -1                      
+0x19fada3e0        TCPv6    ::1:29708                      ::1:890              CLOSED           -1                      
+0x1a0c2a010        TCPv6    ::1:29858                      ::1:444              CLOSED           -1                      
+0x1a0c2c570        TCPv4    10.1.1.3:52057                 10.1.1.2:389         CLOSED           -1                      
+0x1a59362b0        UDPv4    127.0.0.1:16512                *:*                                   2220     noderunner.exe 2015-10-08 21:16:47 UTC+0000
+0x1a5558360        TCPv6    ::1:21637                      ::1:6001             ESTABLISHED      -1                      
+0x1a6a7f010        UDPv4    0.0.0.0:0                      *:*                                   12232    w3wp.exe       2015-10-08 21:25:45 UTC+0000
+0x1a6a7f010        UDPv6    :::0                           *:*                                   12232    w3wp.exe       2015-10-08 21:25:45 UTC+0000
+0x1a6a7fd10        TCPv4    10.1.1.3:61325                 10.1.1.2:389         ESTABLISHED      -1                      
+0x1a8079ba0        TCPv4    0.0.0.0:50010                  0.0.0.0:0            LISTENING        7860     MSExchangeHMHo 
+0x1a8ffd230        UDPv4    127.0.0.1:16512                *:*                                   7464     MSExchangeDeli 2015-10-08 21:21:02 UTC+0000
+0x1a8f3e560        TCPv4    10.1.1.3:61313                 10.1.1.2:389         ESTABLISHED      -1                      
+0x1a8f49d10        TCPv4    10.1.1.3:36074                 10.1.1.2:389         ESTABLISHED      -1                      
+0x1a9847650        TCPv6    ::1:890                        ::1:49855            ESTABLISHED      -1                      
+0x1abd2a760        TCPv6    ::1:49912                      ::1:890              ESTABLISHED      -1                      
+0x1ade3b010        TCPv6    ::1:49419                      ::1:3801             ESTABLISHED      -1                      
+0x1ae9ca9c0        TCPv6    ::1:6001                       ::1:30089            ESTABLISHED      -1                      
+0x1ae9e26e0        TCPv6    ::1:29857                      ::1:444              CLOSED           -1                      
+0x1af946ca0        UDPv4    127.0.0.1:16512                *:*                                   6712     MSExchangeFron 2015-10-08 21:20:57 UTC+0000
+0x1b149fb30        TCPv6    ::1:30068                      ::1:890              ESTABLISHED      -1                      
+0x1b2ae2c90        UDPv4    127.0.0.1:16512                *:*                                   8160     Microsoft.Exch 2015-10-08 21:21:27 UTC+0000
+0x1b2e272f0        TCPv6    ::1:29637                      ::1:64337            ESTABLISHED      -1                      
+0x1b5286d10        TCPv6    ::1:444                        ::1:29991            ESTABLISHED      -1                      
+0x1b5d7e9e0        TCPv4    10.1.1.3:49736                 10.1.1.2:389         CLOSED           -1                      
+0x1b839e010        TCPv4    10.1.1.3:49965                 10.1.1.2:389         CLOSED           -1                      
+0x1ba218be0        TCPv4    0.0.0.0:49812                  0.0.0.0:0            LISTENING        7536     Microsoft.Exch 
+0x1bb19cec0        UDPv4    127.0.0.1:16512                *:*                                   11632    w3wp.exe       2015-10-09 05:47:28 UTC+0000
+0x1bb09e780        TCPv6    ::1:6001                       ::1:30100            ESTABLISHED      -1                      
+0x1bc144d10        TCPv4    10.1.1.3:61661                 10.1.1.2:389         ESTABLISHED      -1                      
+0x1bc48dd10        TCPv6    ::1:36375                      ::1:890              ESTABLISHED      -1                      
+0x1bdb8d010        TCPv6    ::1:28321                      ::1:64337            ESTABLISHED      -1                      
+0x1cef4e6e0        TCPv4    127.0.0.1:3843                 127.0.0.1:49444      ESTABLISHED      -1                      
+0x1cf2ee010        TCPv6    ::1:61239                      ::1:890              CLOSED           -1                      
+0x1cf44d010        TCPv4    10.1.1.3:444                   10.1.1.3:29930       ESTABLISHED      -1                      
+0x1d2059ec0        UDPv4    0.0.0.0:0                      *:*                                   6944     UMWorkerProces 2015-10-08 21:21:11 UTC+0000
+0x1d2caf010        UDPv4    127.0.0.1:16512                *:*                                   7716     umservice.exe  2015-10-08 21:21:04 UTC+0000
+0x1d7149010        TCPv4    0.0.0.0:49891                  0.0.0.0:0            LISTENING        6944     UMWorkerProces 
+0x1dae59010        TCPv6    ::1:29985                      ::1:444              ESTABLISHED      -1                      
+0x1db931d10        TCPv6    ::1:64337                      ::1:61809            ESTABLISHED      -1                      
+0x1db980d10        TCPv6    ::1:443                        ::1:51732            ESTABLISHED      -1                      
+0x1df60dc40        TCPv6    ::1:30054                      ::1:890              ESTABLISHED      -1                      
+0x1df6146d0        TCPv4    10.1.1.3:36109                 10.1.1.2:3268        CLOSED           -1                      
+0x1df717980        TCPv4    10.1.1.3:444                   10.1.1.3:22353       ESTABLISHED      -1                      
+0x1e16ff010        TCPv6    ::1:890                        ::1:29756            ESTABLISHED      -1                      
+0x1e336e9e0        UDPv4    0.0.0.0:0                      *:*                                   6944     UMWorkerProces 2015-10-08 21:21:11 UTC+0000
+0x1e335f420        TCPv4    0.0.0.0:9955                   0.0.0.0:0            LISTENING        9044     Microsoft.Exch 
+0x1e335f420        TCPv6    :::9955                        :::0                 LISTENING        9044     Microsoft.Exch 
+0x1e2f20d10        TCPv6    ::1:890                        ::1:30104            ESTABLISHED      -1                      
+0x1e33d5500        TCPv6    ::1:29982                      ::1:444              ESTABLISHED      -1                      
+0x1e3980ed0        TCPv4    0.0.0.0:49987                  0.0.0.0:0            LISTENING        9124     Microsoft.Exch 
+0x1e39aec70        TCPv4    0.0.0.0:9933                   0.0.0.0:0            LISTENING        8292     Microsoft.Exch 
+0x1e394c010        TCPv4    10.1.1.3:49934                 10.1.1.2:3268        CLOSED           -1                      
+0x1e4ece470        UDPv4    0.0.0.0:0                      *:*                                   872      svchost.exe    2015-10-08 21:15:10 UTC+0000
+0x1e80eac80        TCPv6    ::1:30064                      ::1:9710             ESTABLISHED      -1                      
+0x1ec71c650        TCPv4    0.0.0.0:995                    0.0.0.0:0            LISTENING        5872     Microsoft.Exch 
+0x1ed73d010        TCPv6    ::1:23445                      ::1:890              CLOSED           -1                      
+0x1ed73ed10        TCPv6    ::1:36100                      ::1:444              ESTABLISHED      -1                      
+0x1ed7efb00        TCPv6    ::1:61838                      ::1:64337            ESTABLISHED      -1                      
+0x1efef2580        UDPv4    0.0.0.0:0                      *:*                                   13088    w3wp.exe       2015-10-09 06:31:17 UTC+0000
+0x1efa30010        TCPv6    ::1:6001                       ::1:29947            ESTABLISHED      -1                      
+0x1efef2d10        TCPv4    10.1.1.3:27300                 204.79.197.200:443   CLOSED           -1                      
+0x1f04b3d10        TCPv6    ::1:24606                      ::1:890              CLOSED           -1                      
+0x1f06fa3b0        TCPv6    ::1:890                        ::1:29709            ESTABLISHED      -1                      
+0x1f0b45010        UDPv4    0.0.0.0:0                      *:*                                   748      svchost.exe    2015-10-09 03:37:48 UTC+0000
+0x1f0b45010        UDPv6    :::0                           *:*                                   748      svchost.exe    2015-10-09 03:37:48 UTC+0000
+0x1f0b32a90        TCPv4    0.0.0.0:143                    0.0.0.0:0            LISTENING        8900     Microsoft.Exch 
+0x1f0b32a90        TCPv6    :::143                         :::0                 LISTENING        8900     Microsoft.Exch 
+0x1f0b1cb00        TCPv6    ::1:3828                       ::1:49956            ESTABLISHED      -1                      
+0x1f0b2e010        TCPv6    ::1:61268                      ::1:444              ESTABLISHED      -1                      
+0x1f1c8d310        TCPv4    10.1.1.3:61406                 10.1.1.2:3268        ESTABLISHED      -1                      
+0x1f27b6d10        TCPv6    ::1:29755                      ::1:890              CLOSED           -1                      
+0x1f3ed2010        TCPv6    ::1:24604                      ::1:890              CLOSED           -1                      
+0x1f459e010        TCPv4    10.1.1.3:80                    10.1.1.20:49208      ESTABLISHED      -1                      
+0x1f77a9980        TCPv6    ::1:49451                      ::1:3863             ESTABLISHED      -1                      
+0x1f9c4dec0        UDPv4    0.0.0.0:0                      *:*                                   6208     w3wp.exe       2015-10-09 05:49:10 UTC+0000
+0x1f9d64570        UDPv4    0.0.0.0:0                      *:*                                   5492     w3wp.exe       2015-10-09 06:48:23 UTC+0000
+0x1f9d64570        UDPv6    :::0                           *:*                                   5492     w3wp.exe       2015-10-09 06:48:23 UTC+0000
+0x1f9d6aa00        UDPv4    0.0.0.0:0                      *:*                                   11632    w3wp.exe       2015-10-09 05:49:09 UTC+0000
+0x1f9d6aa00        UDPv6    :::0                           *:*                                   11632    w3wp.exe       2015-10-09 05:49:09 UTC+0000
+0x1f9db3010        UDPv4    0.0.0.0:0                      *:*                                   12992    w3wp.exe       2015-10-09 05:49:12 UTC+0000
+0x1f9db3010        UDPv6    :::0                           *:*                                   12992    w3wp.exe       2015-10-09 05:49:12 UTC+0000
+0x1f9c4db90        TCPv4    0.0.0.0:49838                  0.0.0.0:0            LISTENING        6712     MSExchangeFron 
+0x1f9c00d10        TCPv6    ::1:30116                      ::1:890              ESTABLISHED      -1                      
+0x1f9c03010        TCPv6    ::1:444                        ::1:45440            CLOSED           -1                      
+0x1f9c1e010        TCPv4    127.0.0.1:444                  127.0.0.1:30076      ESTABLISHED      -1                      
+0x1f9c27d10        TCPv6    ::1:61282                      ::1:890              CLOSED           -1                      
+0x1f9c2e980        TCPv4    10.1.1.3:61340                 10.1.1.2:3268        ESTABLISHED      -1                      
+0x1f9c5a5f0        TCPv4    10.1.1.3:26533                 10.1.1.3:444         ESTABLISHED      -1                      
+0x1f9c74d10        TCPv6    ::1:8093                       ::1:64337            CLOSED           -1                      
+0x1f9c923c0        TCPv4    10.1.1.3:35977                 10.1.1.2:389         CLOSED           -1                      
+0x1f9ca1830        TCPv6    ::1:49438                      ::1:3801             ESTABLISHED      -1                      
+0x1f9cf39f0        TCPv4    10.1.1.3:23172                 10.1.1.2:389         CLOSED           -1                      
+0x1f9d15af0        TCPv4    10.1.1.3:61324                 10.1.1.2:389         ESTABLISHED      -1                      
+0x1f9d2f190        TCPv4    10.1.1.3:61664                 10.1.1.2:3268        CLOSED           -1                      
+0x1f9d92300        TCPv6    ::1:26541                      ::1:6001             ESTABLISHED      -1                      
+0x1f9dad9a0        TCPv6    ::1:61855                      ::1:444              ESTABLISHED      -1                      
+0x1f9db4800        TCPv4    10.1.1.3:30048                 10.1.1.3:444         ESTABLISHED      -1                      
+0x1f9dc6d10        TCPv6    ::1:49645                      ::1:890              ESTABLISHED      -1                      
+0x1f9dedb40        TCPv4    10.1.1.3:44230                 10.1.1.2:389         ESTABLISHED      -1                      
+0x1f9df21e0        TCPv4    127.0.0.1:30040                127.0.0.1:5060       ESTABLISHED      -1                      
+0x1fe716010        TCPv6    ::1:444                        ::1:26532            ESTABLISHED      -1                      
+0x2054f9b20        TCPv6    ::1:30065                      ::1:890              ESTABLISHED      -1                      
+0x20b78dec0        UDPv4    0.0.0.0:0                      *:*                                   5700     w3wp.exe       2015-10-09 05:50:32 UTC+0000
+0x20b78dec0        UDPv6    :::0                           *:*                                   5700     w3wp.exe       2015-10-09 05:50:32 UTC+0000
+0x20d87a1b0        TCPv6    ::1:890                        ::1:49862            ESTABLISHED      -1                      
+0x20f49d2b0        TCPv4    10.1.1.3:36018                 10.1.1.3:444         CLOSED           -1                      
+0x210fad560        UDPv4    0.0.0.0:0                      *:*                                   872      svchost.exe    2015-10-08 21:19:13 UTC+0000
+0x210fad560        UDPv6    :::0                           *:*                                   872      svchost.exe    2015-10-08 21:19:13 UTC+0000
+0x2137ab010        TCPv6    ::1:3803                       ::1:49955            ESTABLISHED      -1                      
+0x2137d6190        TCPv6    ::1:36077                      ::1:890              CLOSED           -1                      
+0x213c8ed10        TCPv6    ::1:29784                      ::1:890              CLOSED           -1                      
+0x2149e9010        TCPv4    0.0.0.0:9710                   0.0.0.0:0            LISTENING        7536     Microsoft.Exch 
+0x214a78290        TCPv6    ::1:444                        ::1:21633            ESTABLISHED      -1                      
+0x2161cc830        TCPv4    10.1.1.3:49520                 10.1.1.2:389         CLOSED           -1                      
+0x2161d78f0        TCPv6    ::1:49513                      ::1:890              CLOSED           -1                      
+0x2176cad10        TCPv4    10.1.1.3:443                   180.76.254.120:49394 CLOSE_WAIT       -1                      
+0x218954250        UDPv4    127.0.0.1:16512                *:*                                   7680     InetMgr.exe    2015-10-09 05:56:37 UTC+0000
+0x21bd8d010        TCPv6    ::1:444                        ::1:29994            ESTABLISHED      -1                      
+0x21f85cd60        UDPv4    0.0.0.0:0                      *:*                                   13964    MSExchangeHMWo 2015-10-09 12:51:31 UTC+0000
+0x21f85cd60        UDPv6    :::0                           *:*                                   13964    MSExchangeHMWo 2015-10-09 12:51:31 UTC+0000
+0x220f68010        TCPv6    ::1:890                        ::1:49635            ESTABLISHED      -1                      
+0x2215fbd10        TCPv4    10.1.1.3:61326                 10.1.1.2:3268        ESTABLISHED      -1                      
+0x2226c62d0        UDPv4    0.0.0.0:0                      *:*                                   13088    w3wp.exe       2015-10-09 06:31:17 UTC+0000
+0x224371520        TCPv4    10.1.1.3:61387                 10.1.1.2:389         ESTABLISHED      -1                      
+0x22b431ce0        TCPv4    0.0.0.0:37215                  0.0.0.0:0            LISTENING        13716    w3wp.exe       
+0x22d006670        TCPv6    ::1:20491                      ::1:3803             ESTABLISHED      -1                      
+0x22d55dd60        UDPv4    127.0.0.1:16512                *:*                                   8536     Microsoft.Exch 2015-10-08 21:22:22 UTC+0000
+0x22d463010        TCPv6    ::1:24601                      ::1:890              CLOSED           -1                      
+0x22d51fd10        TCPv6    ::1:6001                       ::1:29997            ESTABLISHED      -1                      
+0x22d558380        TCPv4    10.1.1.3:45832                 10.1.1.2:3268        ESTABLISHED      -1                      
+0x22d65eaf0        TCPv6    ::1:890                        ::1:49919            ESTABLISHED      -1                      
+0x22f186ce0        TCPv4    0.0.0.0:49651                  0.0.0.0:0            LISTENING        6952     Microsoft.Exch 
+0x230bbd2e0        TCPv4    0.0.0.0:49923                  0.0.0.0:0            LISTENING        8160     Microsoft.Exch 
+0x230bbd2e0        TCPv6    :::49923                       :::0                 LISTENING        8160     Microsoft.Exch 
+0x230abf010        TCPv6    ::1:29867                      ::1:890              CLOSED           -1                      
+0x231cba720        TCPv6    ::1:444                        ::1:43588            CLOSED           -1                      
+0x231ed5010        TCPv6    ::1:890                        ::1:30116            ESTABLISHED      -1                      
+0x2341f7600        TCPv4    0.0.0.0:64327                  0.0.0.0:0            LISTENING        15224    msexchangerepl 
+0x2341f7600        TCPv6    :::64327                       :::0                 LISTENING        15224    msexchangerepl 
+0x233def1d0        TCPv4    10.1.1.3:36742                 10.1.1.2:3268        CLOSED           -1                      
+0x23621b6e0        UDPv4    127.0.0.1:16512                *:*                                   4024     w3wp.exe       2015-10-09 05:47:20 UTC+0000
+0x236237250        TCPv4    10.1.1.3:49960                 10.1.1.2:389         CLOSED           -1                      
+0x23626ad10        TCPv4    10.1.1.3:51904                 10.1.1.2:389         ESTABLISHED      -1                      
+0x23626c730        TCPv6    ::1:11058                      ::1:890              CLOSED           -1                      
+0x2362c19f0        TCPv6    ::1:64337                      ::1:28321            ESTABLISHED      -1                      
+0x2362cd160        TCPv4    10.1.1.3:23808                 10.1.1.3:443         ESTABLISHED      -1                      
+0x236a0a230        TCPv4    10.1.1.3:49958                 10.1.1.2:389         CLOSED           -1                      
+0x2377589a0        TCPv4    10.1.1.3:61262                 10.1.1.2:389         CLOSED           -1                      
+0x239b1ed30        UDPv4    0.0.0.0:0                      *:*                                   13964    MSExchangeHMWo 2015-10-09 12:52:32 UTC+0000
+0x239b1ed30        UDPv6    :::0                           *:*                                   13964    MSExchangeHMWo 2015-10-09 12:52:32 UTC+0000
+0x239b483b0        UDPv4    0.0.0.0:0                      *:*                                   508      lsass.exe      2015-10-08 20:32:28 UTC+0000
+0x239a484f0        TCPv4    10.1.1.3:50023                 10.1.1.2:389         CLOSED           -1                      
+0x239b2ea50        TCPv6    ::1:61279                      ::1:890              CLOSED           -1                      
+0x239b3d770        TCPv4    10.1.1.3:49976                 10.1.1.2:389         CLOSED           -1                      
+0x239bdfbd0        TCPv6    ::1:30100                      ::1:6001             ESTABLISHED      -1                      
+0x239be4b40        TCPv6    ::1:6001                       ::1:26543            ESTABLISHED      -1                      

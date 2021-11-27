@@ -1,0 +1,14 @@
+          Suggested Profile(s) : Win7SP1x86_23418, Win7SP0x86, Win7SP1x86_24000, Win7SP1x86
+                     AS Layer1 : IA32PagedMemoryPae (Kernel AS)
+                     AS Layer2 : VMWareAddressSpace (Unnamed AS)
+                     AS Layer3 : FileAddressSpace (/home/neuro/challenges/Memory-Forensic-Samples-Solutions/GrrCon2015/Challenge_Files/Pos01/POS-01-c4e8f786.vmss)
+                      PAE type : PAE
+                           DTB : 0x185000L
+                          KDBG : 0x82763be8L
+          Number of Processors : 2
+     Image Type (Service Pack) : 0
+                KPCR for CPU 0 : 0x82764c00L
+                KPCR for CPU 1 : 0x807c5000L
+             KUSER_SHARED_DATA : 0xffdf0000L
+           Image date and time : 2015-10-09 12:52:56 UTC+0000
+     Image local date and time : 2015-10-09 08:52:56 -0400

@@ -261,30 +261,157 @@ cat file.None.0x84135948.dat
 
 ![](./Images/flag21_1.png)
 
-- Flag 22 :
+- Flag 22 :<code>54.84.237.92</code>
 
 ![](./Images/image58.png)
 
-- Flag 23 :
+```bash
+volatility -f POS-01-c4e8f786.vmss imageinfo |tee imageinfo.log
+volatility -f POS-01-c4e8f786.vmss --profile=Win7SP1x86_23418 netscan |tee netscan.log
+volatility -f POS-01-c4e8f786.vmss --profile=Win7SP1x86_23418 pstree |tee pstree.log
+volatility -f POS-01-c4e8f786.vmss --profile=Win7SP1x86_23418 pslist |tee pslist.log
+volatility -f POS-01-c4e8f786.vmss --profile=Win7SP1x86_23418 psxview |tee psxview.log
+volatility -f POS-01-c4e8f786.vmss --profile=Win7SP1x86_23418 cmdline |tee cmdline.log
+volatility -f POS-01-c4e8f786.vmss --profile=Win7SP1x86_23418 cmdscan | tee cmdscan.log
+volatility -f POS-01-c4e8f786.vmss --profile=Win7SP1x86_23418 consoles |tee consoles.log
+volatility -f POS-01-c4e8f786.vmss --profile=Win7SP1x86_23418 sockets |tee sockets.log
+volatility -f POS-01-c4e8f786.vmss --profile=Win7SP1x86_23418 notepad |tee notepad.log
+mkdir dump
+volatility -f POS-01-c4e8f786.vmss --profile=Win7SP1x86_23418 memdump -p 2700 -D dump/ #Dump notepad's memory
+volatility -f POS-01-c4e8f786.vmss --profile=Win7SP1x86_23418 filescan |tee filescan.log
+volatility -f POS-01-c4e8f786.vmss --profile=Win7SP1x86_23418 malfind |tee malfind.log
+```
+
+As always Windows 7 for life
+
+<b>NOTE: </b><code>Win7SP1x86_23418</code>
+
+If we look at <code>pstree</code> we will see that explorer spawns a lot of child processes, that's sus
+
+![](./Images/sus.jpeg)
+
+```bash
+cat netscan.log |grep "explore"
+```
+
+- Flag 23 :<code>Dexter</code>
 
 ![](./Images/image59.png)
 
-- Flag 24 :
+```bash
+cat pstree |grep "explorer" #get pid
+volatility -f POS-01-c4e8f786.vmss --profile=Win7SP1x86_23418 procdump -p 3208 -D dump
+volatility -f POS-01-c4e8f786.vmss --profile=Win7SP1x86_23418 procdump -p 1836 -D dump
+volatility --plugins=/opt/volatility/volatility/plugins/ -f POS-01-c4e8f786.vmss --profile=Win7SP1x86_23418 shimcachemem |tee shimcachemem.log
+```
+
+After about an hour of trial and error I started the true file eumeration and searched via the abduction method:
+
+```bash
+cat filescan.log |grep "exe$" |grep -v "Windows" |grep -v "explore" |grep -v "Program Files"
+```
+
+And found that the <code>kdcpr.exe</code> was actually not a legit application:
+
+![](./Images/flag23_1.png)
+
+```bash
+volatility -f POS-01-c4e8f786.vmss --profile=Win7SP1x86_23418 dumpfiles -Q 0x000000003e786960 -D dump
+```
+
+I used <code>VirusTotal</code> to find the malware's common name and got the flag:
+
+```
+https://www.virustotal.com/gui/file/074adbc4e4778ba575e6781323e60bd51dca545222aefe3acebde6e53b6c39a3/detection
+```
+
+- Flag 24 :<code>allsafe_protector.exe</code>
 
 ![](./Images/image61.png)
 
-- Flag 25 :
+```bash
+strings file.None.0x85a37988.dat |grep -i "all" |head -1
+```
+
+- Flag 25 :<code>allsafe_update.exe</code>
 
 ![](./Images/image63.png)
 
-- Flag 26 :
+```bash
+volatility -f POS-01-c4e8f786.vmss --profile=Win7SP1x86_23418 dumpfiles -Q 0x000000003e5f7e10 -D dump
+```
+
+- Flag 26 :<code>error1.aspx</code>
 
 ![](./Images/image65.png)
 
-- Flag 27 :
+
+```bash
+volatility -f Ex01-bb228ae5.vmss imageinfo |tee imageinfo.log
+volatility -f Ex01-bb228ae5.vmss --profile=Win2012x64  filescan |tee filescan.log
+volatility -f Ex01-bb228ae5.vmss --profile=Win2012x64 pstree |tee pstree.log
+volatility -f Ex01-bb228ae5.vmss --profile=Win2012x64 cmdline |tee cmdline.log
+volatility -f Ex01-bb228ae5.vmss --profile=Win2012x64 cmdscan |tee cmdscan.log
+volatility -f Ex01-bb228ae5.vmss --profile=Win2012x64 netscan |tee netscan.log
+volatility -f Ex01-bb228ae5.vmss --profile=Win2012x64 consoles |tee consoles.log
+volatility -f Ex01-bb228ae5.vmss --profile=Win2012x64 psscan |tee psscan.log
+mkdir dump
+volatility -f Ex01-bb228ae5.vmss --profile=Win2012x64 memdump -p 5492 -D dump/
+volatility -f Ex01-bb228ae5.vmss --profile=Win2012x64 mftparser |tee mftparser.log
+volatility -f Ex01-bb228ae5.vmss --profile=Win2012x64 malfind |tee malfind.log
+cat netscan.log |grep -v "127.0.0.1" |grep -v "::" |grep -v "0.0.0.0"
+cat netscan.log |grep "180.76.254.120"
+cat pstree.log |grep "w3wp"
+strings Ex01-bb228ae5.vmss |grep "180.76.254.120"
+foremost Ex01-bb228ae5.vmss
+cat mftparser.log |grep "error1.aspx"
+cat mftparser.log|grep -B 20 "error1.aspx"
+strings Ex01-bb228ae5.vmss |grep "error1.aspx"
+strings Ex01-bb228ae5.vmss |grep -A 20 "error1.aspx"
+```
+
+<b>NOTE:</b> <code>Win2012x64</code>
+
+From the <code>netscan</code> plugin and a smart grep we get an external IPv4: <code>180.76.254.120</code>
+
+From strings we find a file named <code>error1.aspx</code> which is really weird but I really wanted to see more about it so I used <code>foremost</code> 
+
+Found nothing special with foremost but using the mftparser log I found that the location of the file was really peculiar and I was sure that this was the malicious file.
+
+From the last strings command we find that the <code>error1.aspx</code> file got a lot of POST requests with parameters such as powershell, so we may have a RCE case here.
+
+![](./Images/thats_rce.png)
+
+And I was correct from the previous screenshot we are sure that this file gave RCE
+
+- Flag 27 :<code>chinachopper</code>
 
 ![](./Images/image70.png)
 
-- Flag 28 :
+```bash
+strings Ex01-bb228ae5.vmss|grep "POST"|grep -A 30 "/owa/auth/error1.aspx" 
+strings Ex01-bb228ae5.vmss |grep "fs0ciety"
+```
+
+We MUST find the file and read the content
+
+After about an hour of search I noded to the correct way which was the theme of the Challenge so the community told me to just grep for Mr Robot things
+
+After a lot of decoding and the research on the original malware(from the official chinese website) I found this article:
+
+```
+https://www.mandiant.com/resources/breaking-down-the-china-chopper-web-shell-part-ii
+```
+
+- Flag 28 :<code> eNpzLypyzs/zyS9LLfYtCspPyi9xzEtxKzZIzkwtqVRUVAQAybULlw==</code>
 
 ![](./Images/image72.png)
+
+```bash
+cat mftparser.log |grep "txt\|key\|k3y"
+cat mftparser.log |grep "th3k3y.txt"
+```
+
+An article mentioned that the <code>chinachopper</code> malware always leaves a key behind as a text file so I searched properly
+
+I managed to carve out the ey file and got the flag

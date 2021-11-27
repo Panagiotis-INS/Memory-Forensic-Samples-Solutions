@@ -1,0 +1,53 @@
+Offset(P)  Name                    PID pslist psscan thrdproc pspcid csrss session deskthrd ExitTime
+---------- -------------------- ------ ------ ------ -------- ------ ----- ------- -------- --------
+0x3e17cb80 taskhost.exe           3528 True   False  True     True   True  True    True     
+0x3fd4dd40 svchost.exe            3544 True   False  True     True   True  True    True     
+0x3e229588 dwm.exe                2156 True   False  True     True   True  True    True     
+0x3ec49308 svchost.exe            1116 True   False  True     True   True  True    False    
+0x3f51d920 jusched.exe            2464 True   False  True     True   True  True    True     
+0x3e181690 msdtc.exe               388 True   False  True     True   True  True    True     
+0x3ffce458 wininit.exe             432 True   False  True     True   True  True    True     
+0x3f44c610 vmtoolsd.exe           1200 True   False  True     True   True  True    True     
+0x3fc75030 EXCEL.EXE              2092 True   False  True     True   True  True    True     
+0x3f447d40 jusched.exe            2832 True   False  True     True   True  True    True     
+0x3e7f86d0 iexplore.exe           3136 True   False  True     True   True  True    True     
+0x3e2fcb20 services.exe            528 True   False  True     True   True  True    False    
+0x3e0ea730 sppsvc.exe             3068 True   False  True     True   True  True    True     
+0x3fca3030 wuauclt.exe             836 True   False  True     True   True  True    True     
+0x3e0f1608 explorer.exe           2200 True   False  True     True   True  True    True     
+0x3e60a030 spoolsv.exe            1228 True   False  True     True   True  True    True     
+0x3e0786a8 svchost.exe             660 True   False  True     True   True  True    False    
+0x3e316030 lsass.exe               536 True   False  True     True   True  True    False    
+0x3e221608 svchost.exe            1268 True   False  True     True   True  True    True     
+0x3f51d030 vmtoolsd.exe           2444 True   False  True     True   True  True    True     
+0x3e091030 svchost.exe             736 True   False  True     True   True  True    False    
+0x3e0b4330 svchost.exe             860 True   False  True     True   True  True    False    
+0x3976ed40 SearchIndexer.         2592 True   False  True     True   True  True    False    
+0x3e28f420 vmtoolsd.exe           1452 True   False  True     True   True  True    False    
+0x3eff5c10 winlogon.exe            308 True   False  True     True   True  True    True     
+0x3fd02030 dwm.exe                4068 True   False  True     True   True  True    True     
+0x3fcb2b50 explorer.exe           1836 True   False  True     True   True  True    True     
+0x3f0e0738 javaw.exe              3640 True   False  True     True   True  True    True     
+0x3ec98630 javaw.exe              4092 True   False  True     True   True  True    True     
+0x3e0321d8 svchost.exe             900 True   False  True     True   True  True    True     
+0x3e13c4e0 taskhost.exe            596 True   False  True     True   True  True    True     
+0x3e3cfd10 WINWORD.EXE            3740 True   False  True     True   True  True    True     
+0x3fd31958 OUTLOOK.EXE            3376 True   False  True     True   True  True    True     
+0x3e105258 svchost.exe            1008 True   False  True     True   True  True    True     
+0x3f109668 notepad.exe            2700 True   False  True     True   True  True    True     
+0x3e2d6d40 winlogon.exe            480 True   False  True     True   True  True    True     
+0x3e0ba560 svchost.exe             824 True   False  True     True   True  True    True     
+0x3fd524d8 iexplore.exe           3208 True   False  True     True   True  True    True     
+0x3e326108 lsm.exe                 552 True   False  True     True   True  True    False    
+0x3e0afb30 svchost.exe            1828 True   False  True     True   True  True    False    
+0x03fb8bb0 System                    4 True   False  True     True   False False   False    
+0x3ffcc708 csrss.exe               424 True   False  True     True   False True    True     
+0x3ecfc020 smss.exe                280 True   False  True     True   False False   False    
+0x3e629030 csrss.exe               368 True   False  True     True   False True    True     
+0x3f5114c0 csrss.exe              3064 True   False  True     True   False True    True     
+0x40003368 regsvr32.exe           2928 True   False  False    True   False True    False    2015-10-09 05:25:19 UTC+0000
+0x3e3a9030 chrome.exe             1960 True   False  False    True   False True    False    2015-10-09 05:17:01 UTC+0000
+0x3e0d8030                          1 False  False  True     False  False False   False    
+0x3ed577c0                           1 False  False  True     False  False False   False    
+0x3e9c6d40 csrss.exe               308 False  False  True     False  False False   False    
+0x3e330d40 n                       110 False  False  True     False  False False   False    
