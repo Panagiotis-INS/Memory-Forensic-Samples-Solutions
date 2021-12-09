@@ -93,7 +93,7 @@ PSExec.py Activity
 
 ---
   
-- [ ] GrrCon 2015
+- [x] GrrCon 2015
 
   Sample: Various named: target1, target2, pos01 and ex01
 	
